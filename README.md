@@ -23,5 +23,5 @@
 <p align="center">
   <img 
        alt="Sadykhzadeh's Top Langs" 
-       src="https://github-readme-stats.vercel.app/api/top-langs/?username=Sadykhzadeh&show_icons=true&title_color=628FDB&text_color=37B6A7&icon_color=BE91F2&bg_color=0D1117&hide_border=true" />
+       src="https://github-readme-stats.vercel.app/api/top-langs/?username=Sadykhzadeh&show_icons=true&title_color=628FDB&text_color=37B6A7&icon_color=BE91F2&bg_color=0D1117&hide_border=true&layout=compact&langs_count=10" />
 </p>
