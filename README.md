@@ -15,11 +15,11 @@
     </a>
 </p>
 
-<p align="center">
+<span align="center">
   <img
        alt="Sadykhzadeh's github stats"
        src="https://github-readme-stats.vercel.app/api?username=Sadykhzadeh&show_icons=true&title_color=ffffffb3&text_color=fafbfc&icon_color=ffffffb3&bg_color=24292e&hide_border=true" />
   <img 
        alt="Sadykhzadeh's Top Langs" 
        src="https://github-readme-stats.vercel.app/api/top-langs/?username=Sadykhzadeh&title_color=ffffffb3&text_color=fafbfc&icon_color=ffffffb3&bg_color=24292e&hide_border=true&layout=compact&langs_count=10" />
-</p>
+</span>
