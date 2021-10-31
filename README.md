@@ -32,7 +32,7 @@
        alt="Sadykhzadeh's github stats"
        src="https://github-readme-stats.vercel.app/api?username=Sadykhzadeh&show_icons=true&title_color=c9d1d9&text_color=c9d1d9&icon_color=ffffffb3&bg_color=0d1117&hide_border=true" />
   <img 
-       width="425"
+       width="400"
        alt="Sadykhzadeh's Top Langs" 
        src="https://github-readme-stats.vercel.app/api/top-langs/?username=Sadykhzadeh&title_color=c9d1d9&text_color=c9d1d9&icon_color=ffffffb3&bg_color=0d1117&hide_border=true&layout=compact&langs_count=10" />
   </a>
