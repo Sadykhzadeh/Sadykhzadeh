@@ -8,19 +8,19 @@
   <h2>🔥 Most popular repos (last time update: 05.29.2021)</h2>
   <a href="https://github.com/Sadykhzadeh/unsolved-cf-problems" target="_blank">
     <img
-       width="420"
+       width="400"
        alt="Unsolved CodeForces Problems"
        src="https://github-readme-stats.vercel.app/api/pin/?username=sadykhzadeh&repo=unsolved-cf-problems&title_color=c9d1d9&text_color=c9d1d9&icon_color=ffffffb3&bg_color=0d1117&hide_border=true&show_owner=true" />
   </a>
   <a href="https://github.com/Sadykhzadeh/learn-to-google" target="_blank">
     <img
-       width="420"
+       width="400"
        alt="Learn To Google"
        src="https://github-readme-stats.vercel.app/api/pin/?username=sadykhzadeh&repo=learn-to-google&title_color=c9d1d9&text_color=c9d1d9&icon_color=ffffffb3&bg_color=0d1117&hide_border=true&show_owner=true" />
   </a>
   <a href="https://github.com/Sadykhzadeh/randcatbot-py" target="_blank">
     <img
-       width="420"
+       width="400"
        alt="@randcatbot"
        title="[deprecated]"
        src="https://github-readme-stats.vercel.app/api/pin/?username=sadykhzadeh&repo=randcatbot-py&title_color=c9d1d9&text_color=c9d1d9&icon_color=ffffffb3&bg_color=0d1117&hide_border=true&show_owner=true" />
@@ -28,7 +28,7 @@
   <h2>:octocat: GitHub Statistics</h2>
   <a href="https://github.com/Sadykhzadeh/" target="_blank">
   <img
-       width="420"
+       width="400"
        alt="Sadykhzadeh's github stats"
        src="https://github-readme-stats.vercel.app/api?username=Sadykhzadeh&show_icons=true&title_color=c9d1d9&text_color=c9d1d9&icon_color=ffffffb3&bg_color=0d1117&hide_border=true" />
   <img 
