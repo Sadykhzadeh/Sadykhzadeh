@@ -2,7 +2,8 @@ name: Update Telegram Info News
 
 on:
   schedule: [{cron: "0 0-23/6 * * *"}]
-  push: branches: [ master ]
+  push: 
+    branches: "master"
 
 jobs:
   build:
