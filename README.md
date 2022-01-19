@@ -14,13 +14,6 @@
 <h2>📊 This week I spent my time using:</h2>
 
 <!--START_SECTION:waka-->
-```text
-TypeScript   6 hrs 11 mins   ██████████████████▓░░░░░░   75.30 % 
-Markdown     1 hr 7 mins     ███▒░░░░░░░░░░░░░░░░░░░░░   13.66 % 
-JSON         20 mins         █░░░░░░░░░░░░░░░░░░░░░░░░   04.08 % 
-HTML         13 mins         ▓░░░░░░░░░░░░░░░░░░░░░░░░   02.70 % 
-Bash         11 mins         ▓░░░░░░░░░░░░░░░░░░░░░░░░   02.42 % 
-```
 <!--END_SECTION:waka-->
 
 <br>
@@ -32,14 +25,14 @@ Bash         11 mins         ▓░░░░░░░░░░░░░░░░
 			<th>🇷🇺 На русском (<a href="https://t.me/tginfo">@tginfo</a>)</th>
 		</tr>
 		<caption>🚩 <a href="https://t.me/tginfo">@tginfo</a> in your language: <a href="https://t.me/tginfoworld"><b>@tginfoworld</b></a><caption/>
-  <tr><td><a href="https://t.me/tginfoen/1344">Telegram for Android got an 8.4.4 version update</a></td>
-    <td><a href="https://t.me/tginfo/3217">Telegram для Android получил обновление до версии 8.4.4</a></td></tr><tr><td><a href="https://t.me/tginfoen/1343">Welt: German authorities want to strengthen control over Telegram</a></td>
-    <td><a href="https://t.me/tginfo/3216">Welt: власти Германии намерены усилить контроль за работой Telegram</a></td></tr><tr><td><a href="https://t.me/tginfoen/1342">Telegram for iOS got an 8.4.1 version update</a></td>
-    <td><a href="https://t.me/tginfo/3215">Telegram для iOS получил обновление до версии 8.4.1</a></td></tr>
+  <tr><td><a href="https://t.me/tginfoen/1345">Telegram Desktop has been updated to version 3.4.8</a></td>
+    <td><a href="https://t.me/tginfo/3219">Telegram Desktop обновился до стабильной версии 3.4.8</a></td></tr><tr><td><a href="https://t.me/tginfoen/1344">Telegram for Android got an 8.4.4 version update</a></td>
+    <td><a href="https://t.me/tginfo/3218">Мнение редакции о возможной блокировке мессенджера в Германии</a></td></tr><tr><td><a href="https://t.me/tginfoen/1343">Welt: German authorities want to strengthen control over Telegram</a></td>
+    <td><a href="https://t.me/tginfo/3217">Telegram для Android получил обновление до версии 8.4.4</a></td></tr>
 </table>
 We are also available on <a href="https://github.com/tginfo"><b>🐙 GitHub</b></a>!
 </div>
 
 <br>
 <hr>
-<h4 align="center">This README file is generated <b>every 6 hours</b>!</br>Last refresh: <b>2022-01-19 19:18:28 (UTC time)</b></h4>
+<h4 align="center">This README file is generated <b>every 6 hours</b>!</br>Last refresh: <b>2022-01-19 20:12:46 (UTC time)</b></h4>
