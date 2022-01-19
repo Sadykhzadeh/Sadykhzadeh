@@ -1,7 +1,7 @@
-name: Update Telegram Info News
+name: Update WakaTime & Telegram Info News
 
 on:
-  schedule: [{cron: "0 0-23/6 * * *"}]
+  schedule: [{cron: "0 8/12 * * *"}]
   push: 
     branches: "master"
 
@@ -24,3 +24,7 @@ jobs:
         uses: mikeal/publish-to-github-action@master
         env:
          GITHUB_TOKEN: ${{ secrets.SECRET }}
+      - name: Update WakaTime stats
+        uses: athul/waka-readme@master
+        with:
+          WAKATIME_API_KEY: ${{ secrets.WAKA }}

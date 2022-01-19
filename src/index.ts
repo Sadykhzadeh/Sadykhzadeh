@@ -1,4 +1,5 @@
 import fs from "fs";
+import { nowUTC } from './nowUTC.js';
 import { getContent } from './tginfo.js';
 
 (async () =>{
@@ -13,7 +14,9 @@ import { getContent } from './tginfo.js';
 
   fs.readFile("./assets/template.md", 'utf8', (err, data) => {
     if (err) return console.log(err);
-    const result = data.replace("<$tginfo$>", htmlContent);
+    const result = data
+      .replace("<$tginfo$>", htmlContent)
+      .replace("<$time$>", `${nowUTC()}`);
     fs.writeFile("README.md", result, 'utf8', (err) => {
       if (err) return console.log(err);
     });
