@@ -1,0 +1,1 @@
+export const nowUTC = () => `${new Date().toISOString().replace("T", " ").split(".")[0]} (UTC time)`
