@@ -8,18 +8,8 @@ import { getContent } from './tginfo.js';
   let htmlContent: string = "";
   for(let q = 0; q < content.length; q++)
     htmlContent += 
-    `<tr>
-      <td>
-        <a href="${contentEn[q][1]}">
-          ${contentEn[q][0]}
-        </a>
-      </td>
-      <td>
-        <a href="${content[q][1]}">
-          ${content[q][0]}
-        </a>
-      </td>
-    </tr>`
+      `<tr><td><a href="${contentEn[q][1]}">${contentEn[q][0]}</a></td>
+    <td><a href="${content[q][1]}">${content[q][0]}</a></td></tr>`
 
   fs.readFile("./assets/template.md", 'utf8', (err, data) => {
     if (err) return console.log(err);
@@ -28,4 +18,6 @@ import { getContent } from './tginfo.js';
       if (err) return console.log(err);
     });
   });
+
+  console.log("Done!");
 })()
