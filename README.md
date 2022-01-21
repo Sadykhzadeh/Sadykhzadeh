@@ -14,13 +14,6 @@
 <h2>📊 This week I spent my time using:</h2>
 
 <!--START_SECTION:waka-->
-```text
-TypeScript   6 hrs           █████████████████▒░░░░░░░   68.77 % 
-Markdown     2 hrs 4 mins    ██████░░░░░░░░░░░░░░░░░░░   23.79 % 
-YAML         19 mins         █░░░░░░░░░░░░░░░░░░░░░░░░   03.67 % 
-Bash         8 mins          ▒░░░░░░░░░░░░░░░░░░░░░░░░   01.56 % 
-JSON         5 mins          ▒░░░░░░░░░░░░░░░░░░░░░░░░   01.02 % 
-```
 <!--END_SECTION:waka-->
 
 <br>
@@ -32,14 +25,14 @@ JSON         5 mins          ▒░░░░░░░░░░░░░░░░
 			<th>🇷🇺 На русском (<a href="https://t.me/tginfo">@tginfo</a>)</th>
 		</tr>
 		<caption>🚩 <a href="https://t.me/tginfo">@tginfo</a> in your language: <a href="https://t.me/tginfoworld"><b>@tginfoworld</b></a><caption/>
-  <tr><td><a href="https://t.me/tginfoen/1346">Brazil is considering a ban on Telegram</a></td>
+  <tr><td><a href="https://t.me/tginfoen/1347">Telegram may integrate The Open Network Services</a></td>
+    <td><a href="https://t.me/tginfo/3221">Telegram может интегрировать сервисы The Open Network</a></td></tr><tr><td><a href="https://t.me/tginfoen/1346">Brazil is considering a ban on Telegram</a></td>
     <td><a href="https://t.me/tginfo/3220">В Бразилии рассматривают возможность запрета Telegram</a></td></tr><tr><td><a href="https://t.me/tginfoen/1345">Telegram Desktop has been updated to version 3.4.8</a></td>
-    <td><a href="https://t.me/tginfo/3219">Telegram Desktop обновился до стабильной версии 3.4.8</a></td></tr><tr><td><a href="https://t.me/tginfoen/1344">Telegram for Android got an 8.4.4 version update</a></td>
-    <td><a href="https://t.me/tginfo/3218">Мнение редакции о возможной блокировке мессенджера в Германии</a></td></tr>
+    <td><a href="https://t.me/tginfo/3219">Telegram Desktop обновился до стабильной версии 3.4.8</a></td></tr>
 </table>
 We are also available on <a href="https://github.com/tginfo"><b>🐙 GitHub</b></a>!
 </div>
 
 <br>
 <hr>
-<h4 align="center">This README file is generated <b>every 6 hours</b>!</br>Last refresh: <b>2022-01-21 08:14:47 (UTC time)</b></h4>
+<h4 align="center">This README file is generated <b>every 6 hours</b>!</br>Last refresh: <b>2022-01-21 20:12:27 (UTC time)</b></h4>
