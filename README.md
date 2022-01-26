@@ -14,12 +14,6 @@
 <h2>📊 This week I spent my time using:</h2>
 
 <!--START_SECTION:waka-->
-```text
-TypeScript   2 hrs 35 mins   ████████████████░░░░░░░░░   63.57 % 
-Markdown     1 hr 6 mins     ██████▓░░░░░░░░░░░░░░░░░░   27.16 % 
-YAML         17 mins         █▓░░░░░░░░░░░░░░░░░░░░░░░   06.99 % 
-JSON         4 mins          ▒░░░░░░░░░░░░░░░░░░░░░░░░   01.78 % 
-```
 <!--END_SECTION:waka-->
 
 <br>
@@ -31,14 +25,14 @@ JSON         4 mins          ▒░░░░░░░░░░░░░░░░
 			<th>🇷🇺 На русском (<a href="https://t.me/tginfo">@tginfo</a>)</th>
 		</tr>
 		<caption>🚩 <a href="https://t.me/tginfo">@tginfo</a> in your language: <a href="https://t.me/tginfoworld"><b>@tginfoworld</b></a><caption/>
-  <tr><td><a href="https://t.me/tginfoen/1347">Telegram may integrate The Open Network Services</a></td>
+  <tr><td><a href="https://t.me/tginfoen/1348">Germany has set up a group to investigate crimes using Telegram</a></td>
+    <td><a href="https://t.me/tginfo/3223">В ФРГ создали группу по расследованию преступлений с использованием Telegram</a></td></tr><tr><td><a href="https://t.me/tginfoen/1347">Telegram may integrate The Open Network Services</a></td>
     <td><a href="https://t.me/tginfo/3222">Запустилась новая биржа рекламы в Telegram</a></td></tr><tr><td><a href="https://t.me/tginfoen/1346">Brazil is considering a ban on Telegram</a></td>
-    <td><a href="https://t.me/tginfo/3221">Telegram может интегрировать сервисы The Open Network</a></td></tr><tr><td><a href="https://t.me/tginfoen/1345">Telegram Desktop has been updated to version 3.4.8</a></td>
-    <td><a href="https://t.me/tginfo/3220">В Бразилии рассматривают возможность запрета Telegram</a></td></tr>
+    <td><a href="https://t.me/tginfo/3221">Telegram может интегрировать сервисы The Open Network</a></td></tr>
 </table>
 We are also available on <a href="https://github.com/tginfo"><b>🐙 GitHub</b></a>!
 </div>
 
 <br>
 <hr>
-<h4 align="center">This README file is generated <b>every 6 hours</b>!</br>Last refresh: <b>2022-01-26 08:14:09 (UTC time)</b></h4>
+<h4 align="center">This README file is generated <b>every 6 hours</b>!</br>Last refresh: <b>2022-01-26 20:12:39 (UTC time)</b></h4>
