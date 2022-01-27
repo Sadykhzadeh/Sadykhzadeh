@@ -14,9 +14,6 @@
 <h2>📊 This week I spent my time using:</h2>
 
 <!--START_SECTION:waka-->
-```text
-No Activity tracked this Week
-```
 <!--END_SECTION:waka-->
 
 <br>
@@ -28,14 +25,14 @@ No Activity tracked this Week
 			<th>🇷🇺 На русском (<a href="https://t.me/tginfo">@tginfo</a>)</th>
 		</tr>
 		<caption>🚩 <a href="https://t.me/tginfo">@tginfo</a> in your language: <a href="https://t.me/tginfoworld"><b>@tginfoworld</b></a><caption/>
-  <tr><td><a href="https://t.me/tginfoen/1348">Germany has set up a group to investigate crimes using Telegram</a></td>
+  <tr><td><a href="https://t.me/tginfoen/1349">The German Interior Minister commented on the situation with Telegram</a></td>
+    <td><a href="https://t.me/tginfo/3224">Глава МВД Германии прокомментировала ситуацию с Telegram</a></td></tr><tr><td><a href="https://t.me/tginfoen/1348">Germany has set up a group to investigate crimes using Telegram</a></td>
     <td><a href="https://t.me/tginfo/3223">В ФРГ создали группу по расследованию преступлений с использованием Telegram</a></td></tr><tr><td><a href="https://t.me/tginfoen/1347">Telegram may integrate The Open Network Services</a></td>
-    <td><a href="https://t.me/tginfo/3222">Запустилась новая биржа рекламы в Telegram</a></td></tr><tr><td><a href="https://t.me/tginfoen/1346">Brazil is considering a ban on Telegram</a></td>
-    <td><a href="https://t.me/tginfo/3221">Telegram может интегрировать сервисы The Open Network</a></td></tr>
+    <td><a href="https://t.me/tginfo/3222">Запустилась новая биржа рекламы в Telegram</a></td></tr>
 </table>
 We are also available on <a href="https://github.com/tginfo"><b>🐙 GitHub</b></a>!
 </div>
 
 <br>
 <hr>
-<h4 align="center">This README file is generated <b>every 6 hours</b>!</br>Last refresh: <b>2022-01-27 08:15:17 (UTC time)</b></h4>
+<h4 align="center">This README file is generated <b>every 6 hours</b>!</br>Last refresh: <b>2022-01-27 20:12:22 (UTC time)</b></h4>
