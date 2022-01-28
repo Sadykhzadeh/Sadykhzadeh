@@ -14,13 +14,6 @@
 <h2>📊 This week I spent my time using:</h2>
 
 <!--START_SECTION:waka-->
-```text
-HTML         5 hrs 43 mins   █████████▒░░░░░░░░░░░░░░░   36.68 % 
-JavaScript   4 hrs 25 mins   ███████░░░░░░░░░░░░░░░░░░   28.33 % 
-CSS          4 hrs 14 mins   ██████▓░░░░░░░░░░░░░░░░░░   27.13 % 
-TypeScript   1 hr 9 mins     ██░░░░░░░░░░░░░░░░░░░░░░░   07.41 % 
-JSON         3 mins          ░░░░░░░░░░░░░░░░░░░░░░░░░   00.35 % 
-```
 <!--END_SECTION:waka-->
 
 <br>
@@ -32,14 +25,14 @@ JSON         3 mins          ░░░░░░░░░░░░░░░░░
 			<th>🇷🇺 На русском (<a href="https://t.me/tginfo">@tginfo</a>)</th>
 		</tr>
 		<caption>🚩 <a href="https://t.me/tginfo">@tginfo</a> in your language: <a href="https://t.me/tginfoworld"><b>@tginfoworld</b></a><caption/>
-  <tr><td><a href="https://t.me/tginfoen/1349">The German Interior Minister commented on the situation with Telegram</a></td>
+  <tr><td><a href="https://t.me/tginfoen/1350">Telegram is working on video stickers</a></td>
+    <td><a href="https://t.me/tginfo/3225">Telegram готовит видеостикеры</a></td></tr><tr><td><a href="https://t.me/tginfoen/1349">The German Interior Minister commented on the situation with Telegram</a></td>
     <td><a href="https://t.me/tginfo/3224">Глава МВД Германии прокомментировала ситуацию с Telegram</a></td></tr><tr><td><a href="https://t.me/tginfoen/1348">Germany has set up a group to investigate crimes using Telegram</a></td>
-    <td><a href="https://t.me/tginfo/3223">В ФРГ создали группу по расследованию преступлений с использованием Telegram</a></td></tr><tr><td><a href="https://t.me/tginfoen/1347">Telegram may integrate The Open Network Services</a></td>
-    <td><a href="https://t.me/tginfo/3222">Запустилась новая биржа рекламы в Telegram</a></td></tr>
+    <td><a href="https://t.me/tginfo/3223">В ФРГ создали группу по расследованию преступлений с использованием Telegram</a></td></tr>
 </table>
 We are also available on <a href="https://github.com/tginfo"><b>🐙 GitHub</b></a>!
 </div>
 
 <br>
 <hr>
-<h4 align="center">This README file is generated <b>every 6 hours</b>!</br>Last refresh: <b>2022-01-28 08:14:40 (UTC time)</b></h4>
+<h4 align="center">This README file is generated <b>every 6 hours</b>!</br>Last refresh: <b>2022-01-28 20:12:44 (UTC time)</b></h4>
