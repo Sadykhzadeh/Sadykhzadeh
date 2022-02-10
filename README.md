@@ -14,13 +14,6 @@
 <h2>📊 This week I spent my time using:</h2>
 
 <!--START_SECTION:waka-->
-```text
-TypeScript   2 hrs 51 mins   █████████░░░░░░░░░░░░░░░░   35.89 % 
-Python       1 hr 41 mins    █████▒░░░░░░░░░░░░░░░░░░░   21.29 % 
-C++          1 hr            ███▒░░░░░░░░░░░░░░░░░░░░░   12.72 % 
-CSS          44 mins         ██▒░░░░░░░░░░░░░░░░░░░░░░   09.40 % 
-HTML         42 mins         ██▒░░░░░░░░░░░░░░░░░░░░░░   08.89 % 
-```
 <!--END_SECTION:waka-->
 
 <br>
@@ -33,13 +26,13 @@ HTML         42 mins         ██▒░░░░░░░░░░░░░░
 		</tr>
 		<caption>🚩 <a href="https://t.me/tginfo">@tginfo</a> in your language: <a href="https://t.me/tginfoworld"><b>@tginfoworld</b></a><caption/>
   <tr><td><a href="https://t.me/tginfoen/1352">Video Stickers, Better Reactions and More</a></td>
-    <td><a href="https://t.me/tginfo/3231">Глава МВД Германии Фезер заявила о первом конструктивном разговоре с руководством Telegram</a></td></tr><tr><td><a href="https://t.me/tginfoen/1351">Two investigations against Telegram launched in Germany</a></td>
-    <td><a href="https://t.me/tginfo/3230">Павел Дуров обвинил WhatsApp в отсутствии должной безопасности</a></td></tr><tr><td><a href="https://t.me/tginfoen/1350">Telegram is working on video stickers</a></td>
-    <td><a href="https://t.me/tginfo/3229">Оглашены результаты второго этапа конкурса дизайнеров для Unigram </a></td></tr>
+    <td><a href="https://t.me/tginfo/3232">Приставы намерены взыскать с Telegram 9 млн рублей новых штрафов</a></td></tr><tr><td><a href="https://t.me/tginfoen/1351">Two investigations against Telegram launched in Germany</a></td>
+    <td><a href="https://t.me/tginfo/3231">Глава МВД Германии Фезер заявила о первом конструктивном разговоре с руководством Telegram</a></td></tr><tr><td><a href="https://t.me/tginfoen/1350">Telegram is working on video stickers</a></td>
+    <td><a href="https://t.me/tginfo/3230">Павел Дуров обвинил WhatsApp в отсутствии должной безопасности</a></td></tr>
 </table>
 We are also available on <a href="https://github.com/tginfo"><b>🐙 GitHub</b></a>!
 </div>
 
 <br>
 <hr>
-<h4 align="center">This README file is generated <b>every 6 hours</b>!</br>Last refresh: <b>2022-02-10 08:14:42 (UTC time)</b></h4>
+<h4 align="center">This README file is generated <b>every 6 hours</b>!</br>Last refresh: <b>2022-02-10 20:12:19 (UTC time)</b></h4>
