@@ -14,13 +14,6 @@
 <h2>📊 This week I spent my time using:</h2>
 
 <!--START_SECTION:waka-->
-```text
-C#           3 hrs 48 mins   █████████▒░░░░░░░░░░░░░░░   36.74 % 
-Python       2 hrs 12 mins   █████▒░░░░░░░░░░░░░░░░░░░   21.24 % 
-JSON         1 hr 48 mins    ████▒░░░░░░░░░░░░░░░░░░░░   17.46 % 
-TypeScript   49 mins         ██░░░░░░░░░░░░░░░░░░░░░░░   07.99 % 
-JavaScript   47 mins         ██░░░░░░░░░░░░░░░░░░░░░░░   07.60 % 
-```
 <!--END_SECTION:waka-->
 
 <br>
@@ -32,14 +25,14 @@ JavaScript   47 mins         ██░░░░░░░░░░░░░░░
 			<th>🇷🇺 На русском (<a href="https://t.me/tginfo">@tginfo</a>)</th>
 		</tr>
 		<caption>🚩 <a href="https://t.me/tginfo">@tginfo</a> in your language: <a href="https://t.me/tginfoworld"><b>@tginfoworld</b></a><caption/>
-  <tr><td><a href="https://t.me/tginfoen/1356">RTMP Live Broadcasts in Telegram</a></td>
+  <tr><td><a href="https://t.me/tginfoen/1357">Telegram may be removed from app stores in Brazil</a></td>
+    <td><a href="https://t.me/tginfo/3237">Telegram могут удалить из магазинов приложений в Бразилии</a></td></tr><tr><td><a href="https://t.me/tginfoen/1356">RTMP Live Broadcasts in Telegram</a></td>
     <td><a href="https://t.me/tginfo/3236">RTMP-трансляции в Telegram</a></td></tr><tr><td><a href="https://t.me/tginfoen/1355">Electoral court President Barroso threatens to suspend Telegram</a></td>
-    <td><a href="https://t.me/tginfo/3235">Председатель избирательного суда Бразилии угрожает блокировкой Telegram</a></td></tr><tr><td><a href="https://t.me/tginfoen/1354">Wired has released a huge text about Telegram</a></td>
-    <td><a href="https://t.me/tginfo/3234">‌Wired выпустил огромный текст о Telegram</a></td></tr>
+    <td><a href="https://t.me/tginfo/3235">Председатель избирательного суда Бразилии угрожает блокировкой Telegram</a></td></tr>
 </table>
 We are also available on <a href="https://github.com/tginfo"><b>🐙 GitHub</b></a>!
 </div>
 
 <br>
 <hr>
-<h4 align="center">This README file is generated <b>every 6 hours</b>!</br>Last refresh: <b>2022-02-23 20:13:27 (UTC time)</b></h4>
+<h4 align="center">This README file is generated <b>every 6 hours</b>!</br>Last refresh: <b>2022-02-24 08:15:15 (UTC time)</b></h4>
