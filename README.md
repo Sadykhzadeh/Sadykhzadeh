@@ -14,16 +14,6 @@
 <h2>📊 This week I spent my time using:</h2>
 
 <!--START_SECTION:waka-->
-
-```text
-Python           3 hrs 47 mins   █████████████████▒░░░░░░░   69.53 %
-JavaScript       42 mins         ███▒░░░░░░░░░░░░░░░░░░░░░   13.03 %
-C++              36 mins         ██▓░░░░░░░░░░░░░░░░░░░░░░   11.23 %
-C#               18 mins         █▒░░░░░░░░░░░░░░░░░░░░░░░   05.79 %
-Text             0 secs          ░░░░░░░░░░░░░░░░░░░░░░░░░   00.22 %
-JSON             0 secs          ░░░░░░░░░░░░░░░░░░░░░░░░░   00.11 %
-```
-
 <!--END_SECTION:waka-->
 
 <br>
@@ -36,13 +26,13 @@ JSON             0 secs          ░░░░░░░░░░░░░░░�
 		</tr>
 		<caption>🚩 <a href="https://t.me/tginfo">@tginfo</a> in your language: <a href="https://t.me/tginfoworld"><b>@tginfoworld</b></a><caption/>
   <tr><td><a href="https://t.me/tginfoen/1357">Telegram may be removed from app stores in Brazil</a></td>
-    <td><a href="https://t.me/tginfo/3243">Telegram не будет блокировать Telegram-каналы</a></td></tr><tr><td><a href="https://t.me/tginfoen/1356">RTMP Live Broadcasts in Telegram</a></td>
-    <td><a href="https://t.me/tginfo/3242">Павел Дуров допустил возможную блокировку Telegram-каналов</a></td></tr><tr><td><a href="https://t.me/tginfoen/1355">Electoral court President Barroso threatens to suspend Telegram</a></td>
-    <td><a href="https://t.me/tginfo/3241">Сегодня наблюдались сбои в Twitter, Facebook и Instagram</a></td></tr>
+    <td><a href="https://t.me/tginfo/3244">Telegram против войны</a></td></tr><tr><td><a href="https://t.me/tginfoen/1356">RTMP Live Broadcasts in Telegram</a></td>
+    <td><a href="https://t.me/tginfo/3243">Telegram не будет блокировать Telegram-каналы</a></td></tr><tr><td><a href="https://t.me/tginfoen/1355">Electoral court President Barroso threatens to suspend Telegram</a></td>
+    <td><a href="https://t.me/tginfo/3242">Павел Дуров допустил возможную блокировку Telegram-каналов</a></td></tr>
 </table>
 We are also available on <a href="https://github.com/tginfo"><b>🐙 GitHub</b></a>!
 </div>
 
 <br>
 <hr>
-<h4 align="center">This README file is generated <b>every 6 hours</b>!</br>Last refresh: <b>2022-03-02 08:16:34 (UTC time)</b></h4>
+<h4 align="center">This README file is generated <b>every 6 hours</b>!</br>Last refresh: <b>2022-03-02 20:13:02 (UTC time)</b></h4>
