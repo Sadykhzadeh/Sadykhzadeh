@@ -14,16 +14,6 @@
 <h2>📊 This week I spent my time using:</h2>
 
 <!--START_SECTION:waka-->
-
-```text
-Python           4 hrs 54 mins   █████████████████░░░░░░░░   67.70 %
-JavaScript       1 hr 19 mins    ████▓░░░░░░░░░░░░░░░░░░░░   18.25 %
-C++              36 mins         ██░░░░░░░░░░░░░░░░░░░░░░░   08.42 %
-C#               18 mins         █░░░░░░░░░░░░░░░░░░░░░░░░   04.34 %
-Markdown         3 mins          ▒░░░░░░░░░░░░░░░░░░░░░░░░   00.74 %
-JSON             1 min           ░░░░░░░░░░░░░░░░░░░░░░░░░   00.27 %
-```
-
 <!--END_SECTION:waka-->
 
 <br>
@@ -36,13 +26,13 @@ JSON             1 min           ░░░░░░░░░░░░░░░�
 		</tr>
 		<caption>🚩 <a href="https://t.me/tginfo">@tginfo</a> in your language: <a href="https://t.me/tginfoworld"><b>@tginfoworld</b></a><caption/>
   <tr><td><a href="https://t.me/tginfoen/1357">Telegram may be removed from app stores in Brazil</a></td>
-    <td><a href="https://t.me/tginfo/3245">Роскомнадзор требует от Telegram удалить ботов с данными о пленных и погибших российских солдатах</a></td></tr><tr><td><a href="https://t.me/tginfoen/1356">RTMP Live Broadcasts in Telegram</a></td>
-    <td><a href="https://t.me/tginfo/3244">Telegram против войны</a></td></tr><tr><td><a href="https://t.me/tginfoen/1355">Electoral court President Barroso threatens to suspend Telegram</a></td>
-    <td><a href="https://t.me/tginfo/3243">Telegram не будет блокировать Telegram-каналы</a></td></tr>
+    <td><a href="https://t.me/tginfo/3246">App Store и Google Play заблокированы</a></td></tr><tr><td><a href="https://t.me/tginfoen/1356">RTMP Live Broadcasts in Telegram</a></td>
+    <td><a href="https://t.me/tginfo/3245">Роскомнадзор требует от Telegram удалить ботов с данными о пленных и погибших российских солдатах</a></td></tr><tr><td><a href="https://t.me/tginfoen/1355">Electoral court President Barroso threatens to suspend Telegram</a></td>
+    <td><a href="https://t.me/tginfo/3244">Telegram против войны</a></td></tr>
 </table>
 We are also available on <a href="https://github.com/tginfo"><b>🐙 GitHub</b></a>!
 </div>
 
 <br>
 <hr>
-<h4 align="center">This README file is generated <b>every 6 hours</b>!</br>Last refresh: <b>2022-03-03 20:14:07 (UTC time)</b></h4>
+<h4 align="center">This README file is generated <b>every 6 hours</b>!</br>Last refresh: <b>2022-03-04 08:15:59 (UTC time)</b></h4>
