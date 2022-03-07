@@ -14,16 +14,6 @@
 <h2>📊 This week I spent my time using:</h2>
 
 <!--START_SECTION:waka-->
-
-```text
-Python           4 hrs 57 mins   ████████████████░░░░░░░░░   63.99 %
-JavaScript       1 hr 19 mins    ████▒░░░░░░░░░░░░░░░░░░░░   17.13 %
-C#               39 mins         ██░░░░░░░░░░░░░░░░░░░░░░░   08.42 %
-C++              36 mins         ██░░░░░░░░░░░░░░░░░░░░░░░   07.88 %
-HTML             3 mins          ▒░░░░░░░░░░░░░░░░░░░░░░░░   00.75 %
-Markdown         3 mins          ▒░░░░░░░░░░░░░░░░░░░░░░░░   00.69 %
-```
-
 <!--END_SECTION:waka-->
 
 <br>
@@ -36,13 +26,13 @@ Markdown         3 mins          ▒░░░░░░░░░░░░░░�
 		</tr>
 		<caption>🚩 <a href="https://t.me/tginfo">@tginfo</a> in your language: <a href="https://t.me/tginfoworld"><b>@tginfoworld</b></a><caption/>
   <tr><td><a href="https://t.me/tginfoen/1358">Telegram announces new competition for developers to create face conversion module for video</a></td>
-    <td><a href="https://t.me/tginfo/3254">Разработчик сообщает, что Crosser Bot был взломан. В связи с этим, бот временно отключён.</a></td></tr><tr><td><a href="https://t.me/tginfoen/1357">Telegram may be removed from app stores in Brazil</a></td>
-    <td><a href="https://t.me/tginfo/3253">Массовые публикации от имени каналов </a></td></tr><tr><td><a href="https://t.me/tginfoen/1356">RTMP Live Broadcasts in Telegram</a></td>
-    <td><a href="https://t.me/tginfo/3251">Стремительный рост новостных каналов в Telegram</a></td></tr>
+    <td><a href="https://t.me/tginfo/3255">Павел Дуров заверил, что Telegram безопасен для украинцев и рассказал о своем отношении к конфликту</a></td></tr><tr><td><a href="https://t.me/tginfoen/1357">Telegram may be removed from app stores in Brazil</a></td>
+    <td><a href="https://t.me/tginfo/3254">Разработчик сообщает, что Crosser Bot был взломан. В связи с этим, бот временно отключён.</a></td></tr><tr><td><a href="https://t.me/tginfoen/1356">RTMP Live Broadcasts in Telegram</a></td>
+    <td><a href="https://t.me/tginfo/3253">Массовые публикации от имени каналов </a></td></tr>
 </table>
 We are also available on <a href="https://github.com/tginfo"><b>🐙 GitHub</b></a>!
 </div>
 
 <br>
 <hr>
-<h4 align="center">This README file is generated <b>every 6 hours</b>!</br>Last refresh: <b>2022-03-07 08:17:02 (UTC time)</b></h4>
+<h4 align="center">This README file is generated <b>every 6 hours</b>!</br>Last refresh: <b>2022-03-07 20:14:22 (UTC time)</b></h4>
