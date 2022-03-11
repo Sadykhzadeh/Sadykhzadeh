@@ -14,16 +14,6 @@
 <h2>📊 This week I spent my time using:</h2>
 
 <!--START_SECTION:waka-->
-
-```text
-Python           2 hrs 29 mins   █████████▓░░░░░░░░░░░░░░░   38.75 %
-TypeScript       1 hr 40 mins    ██████▓░░░░░░░░░░░░░░░░░░   26.19 %
-C#               1 hr 1 min      ████░░░░░░░░░░░░░░░░░░░░░   16.04 %
-JavaScript       29 mins         ██░░░░░░░░░░░░░░░░░░░░░░░   07.59 %
-JSON             22 mins         █▒░░░░░░░░░░░░░░░░░░░░░░░   05.72 %
-Bash             5 mins          ▒░░░░░░░░░░░░░░░░░░░░░░░░   01.39 %
-```
-
 <!--END_SECTION:waka-->
 
 <br>
@@ -35,14 +25,14 @@ Bash             5 mins          ▒░░░░░░░░░░░░░░�
 			<th>🇷🇺 На русском (<a href="https://t.me/tginfo">@tginfo</a>)</th>
 		</tr>
 		<caption>🚩 <a href="https://t.me/tginfo">@tginfo</a> in your language: <a href="https://t.me/tginfoworld"><b>@tginfoworld</b></a><caption/>
-  <tr><td><a href="https://t.me/tginfoen/1360">Sponsored Messages in Group Chats</a></td>
-    <td><a href="https://t.me/tginfo/3256">Реклама в групповых чатах</a></td></tr><tr><td><a href="https://t.me/tginfoen/1359">Pavel Durov ensured Telegram is safe for Ukrainians and made a statement about his position on the conflict.</a></td>
-    <td><a href="https://t.me/tginfo/3255">Павел Дуров заверил, что Telegram безопасен для украинцев и рассказал о своем отношении к конфликту</a></td></tr><tr><td><a href="https://t.me/tginfoen/1358">Telegram announces new competition for developers to create face conversion module for video</a></td>
-    <td><a href="https://t.me/tginfo/3254">Разработчик сообщает, что Crosser Bot был взломан. В связи с этим, бот временно отключён.</a></td></tr>
+  <tr><td><a href="https://t.me/tginfoen/1361">Download⁠ Manager, Live Streaming With Other Apps, New Attachment Menu</a></td>
+    <td><a href="https://t.me/tginfo/3258">Роскомнадзор заблокирует Instagram в России 14 марта</a></td></tr><tr><td><a href="https://t.me/tginfoen/1360">Sponsored Messages in Group Chats</a></td>
+    <td><a href="https://t.me/tginfo/3257">Менеджер ⁠загрузок, прямые трансляции через сторонние приложения, новое меню вложений</a></td></tr><tr><td><a href="https://t.me/tginfoen/1359">Pavel Durov ensured Telegram is safe for Ukrainians and made a statement about his position on the conflict.</a></td>
+    <td><a href="https://t.me/tginfo/3256">Реклама в групповых чатах</a></td></tr>
 </table>
 We are also available on <a href="https://github.com/tginfo"><b>🐙 GitHub</b></a>!
 </div>
 
 <br>
 <hr>
-<h4 align="center">This README file is generated <b>every 6 hours</b>!</br>Last refresh: <b>2022-03-11 08:16:25 (UTC time)</b></h4>
+<h4 align="center">This README file is generated <b>every 6 hours</b>!</br>Last refresh: <b>2022-03-11 20:14:23 (UTC time)</b></h4>
