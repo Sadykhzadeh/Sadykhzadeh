@@ -14,16 +14,6 @@
 <h2>📊 This week I spent my time using:</h2>
 
 <!--START_SECTION:waka-->
-
-```text
-TypeScript       3 hrs 57 mins   ███████████▓░░░░░░░░░░░░░   46.17 %
-JavaScript       2 hrs 19 mins   ██████▓░░░░░░░░░░░░░░░░░░   27.08 %
-Python           44 mins         ██░░░░░░░░░░░░░░░░░░░░░░░   08.61 %
-C#               37 mins         █▓░░░░░░░░░░░░░░░░░░░░░░░   07.31 %
-JSON             29 mins         █▒░░░░░░░░░░░░░░░░░░░░░░░   05.65 %
-Markdown         7 mins          ▒░░░░░░░░░░░░░░░░░░░░░░░░   01.47 %
-```
-
 <!--END_SECTION:waka-->
 
 <br>
@@ -35,14 +25,14 @@ Markdown         7 mins          ▒░░░░░░░░░░░░░░�
 			<th>🇷🇺 На русском (<a href="https://t.me/tginfo">@tginfo</a>)</th>
 		</tr>
 		<caption>🚩 <a href="https://t.me/tginfo">@tginfo</a> in your language: <a href="https://t.me/tginfoworld"><b>@tginfoworld</b></a><caption/>
-  <tr><td><a href="https://t.me/tginfoen/1361">Download⁠ Manager, Live Streaming With Other Apps, New Attachment Menu</a></td>
-    <td><a href="https://t.me/tginfo/3260">‍Правительство РФ всё чаще прибегает к цензуре Интернета</a></td></tr><tr><td><a href="https://t.me/tginfoen/1360">Sponsored Messages in Group Chats</a></td>
-    <td><a href="https://t.me/tginfo/3259">Массовый наплыв пользователей в Telegram в связи с блокировкой Instagram в России</a></td></tr><tr><td><a href="https://t.me/tginfoen/1359">Pavel Durov ensured Telegram is safe for Ukrainians and made a statement about his position on the conflict.</a></td>
-    <td><a href="https://t.me/tginfo/3258">Роскомнадзор заблокирует Instagram в России 14 марта</a></td></tr>
+  <tr><td><a href="https://t.me/tginfoen/1362">Tightened privacy for People Nearby</a></td>
+    <td><a href="https://t.me/tginfo/3262">Англоязычный сегмент Telegram по своим размерам сравним с русскоязычным</a></td></tr><tr><td><a href="https://t.me/tginfoen/1361">Download⁠ Manager, Live Streaming With Other Apps, New Attachment Menu</a></td>
+    <td><a href="https://t.me/tginfo/3261">Усиление конфиденциальности функции «Люди рядом»</a></td></tr><tr><td><a href="https://t.me/tginfoen/1360">Sponsored Messages in Group Chats</a></td>
+    <td><a href="https://t.me/tginfo/3260">‍Правительство РФ всё чаще прибегает к цензуре Интернета</a></td></tr>
 </table>
 We are also available on <a href="https://github.com/tginfo"><b>🐙 GitHub</b></a>!
 </div>
 
 <br>
 <hr>
-<h4 align="center">This README file is generated <b>every 6 hours</b>!</br>Last refresh: <b>2022-03-14 08:16:37 (UTC time)</b></h4>
+<h4 align="center">This README file is generated <b>every 6 hours</b>!</br>Last refresh: <b>2022-03-14 20:14:57 (UTC time)</b></h4>
