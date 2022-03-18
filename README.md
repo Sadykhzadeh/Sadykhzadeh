@@ -14,16 +14,6 @@
 <h2>📊 This week I spent my time using:</h2>
 
 <!--START_SECTION:waka-->
-
-```text
-TypeScript       2 hrs 20 mins   █████████▒░░░░░░░░░░░░░░░   37.85 %
-JavaScript       1 hr 50 mins    ███████▒░░░░░░░░░░░░░░░░░   29.68 %
-Python           1 hr 25 mins    █████▓░░░░░░░░░░░░░░░░░░░   22.89 %
-C++              14 mins         █░░░░░░░░░░░░░░░░░░░░░░░░   03.93 %
-JSON             6 mins          ▒░░░░░░░░░░░░░░░░░░░░░░░░   01.87 %
-Other            4 mins          ▒░░░░░░░░░░░░░░░░░░░░░░░░   01.32 %
-```
-
 <!--END_SECTION:waka-->
 
 <br>
@@ -35,14 +25,14 @@ Other            4 mins          ▒░░░░░░░░░░░░░░�
 			<th>🇷🇺 На русском (<a href="https://t.me/tginfo">@tginfo</a>)</th>
 		</tr>
 		<caption>🚩 <a href="https://t.me/tginfo">@tginfo</a> in your language: <a href="https://t.me/tginfoworld"><b>@tginfoworld</b></a><caption/>
-  <tr><td><a href="https://t.me/tginfoen/1365">The results of the real-time face correction module contest have been announced</a></td>
+  <tr><td><a href="https://t.me/tginfoen/1366">Blocking Telegram in Brazil</a></td>
+    <td><a href="https://t.me/tginfo/3267">Блокировка Telegram в Бразилии</a></td></tr><tr><td><a href="https://t.me/tginfoen/1365">The results of the real-time face correction module contest have been announced</a></td>
     <td><a href="https://t.me/tginfo/3266">Оглашены результаты конкурса на создание модуля для преобразования лиц на видео</a></td></tr><tr><td><a href="https://t.me/tginfoen/1364">Telegram Desktop has been updated to version 3.6.1</a></td>
-    <td><a href="https://t.me/tginfo/3265">Новинки от Fleep: бот гарант и биржа проектов</a></td></tr><tr><td><a href="https://t.me/tginfoen/1363">Pavel Durov suggests that Elon Musk sign up for Telegram</a></td>
-    <td><a href="https://t.me/tginfo/3264">Telegram Desktop обновился до стабильной версии 3.6.1</a></td></tr>
+    <td><a href="https://t.me/tginfo/3265">Новинки от Fleep: бот гарант и биржа проектов</a></td></tr>
 </table>
 We are also available on <a href="https://github.com/tginfo"><b>🐙 GitHub</b></a>!
 </div>
 
 <br>
 <hr>
-<h4 align="center">This README file is generated <b>every 6 hours</b>!</br>Last refresh: <b>2022-03-18 08:16:10 (UTC time)</b></h4>
+<h4 align="center">This README file is generated <b>every 6 hours</b>!</br>Last refresh: <b>2022-03-18 20:14:11 (UTC time)</b></h4>
