@@ -14,16 +14,6 @@
 <h2>📊 This week I spent my time using:</h2>
 
 <!--START_SECTION:waka-->
-
-```text
-Python           4 hrs 25 mins   ████████████████▒░░░░░░░░   65.28 %
-TypeScript       1 hr 16 mins    ████▓░░░░░░░░░░░░░░░░░░░░   18.81 %
-JSON             24 mins         █▒░░░░░░░░░░░░░░░░░░░░░░░   05.96 %
-JavaScript       21 mins         █▒░░░░░░░░░░░░░░░░░░░░░░░   05.17 %
-C++              14 mins         █░░░░░░░░░░░░░░░░░░░░░░░░   03.59 %
-Text             3 mins          ▒░░░░░░░░░░░░░░░░░░░░░░░░   00.82 %
-```
-
 <!--END_SECTION:waka-->
 
 <br>
@@ -36,13 +26,13 @@ Text             3 mins          ▒░░░░░░░░░░░░░░�
 		</tr>
 		<caption>🚩 <a href="https://t.me/tginfo">@tginfo</a> in your language: <a href="https://t.me/tginfoworld"><b>@tginfoworld</b></a><caption/>
   <tr><td><a href="https://t.me/tginfoen/1367">Pavel Durov apologized to the Supreme Court of Brazil and asked to postpone the blocking of the messenger</a></td>
-    <td><a href="https://t.me/tginfo/3268">Павел Дуров принес извинения Верховному суду Бразилии и попросил отсрочить блокировку мессенджера</a></td></tr><tr><td><a href="https://t.me/tginfoen/1366">Blocking Telegram in Brazil</a></td>
-    <td><a href="https://t.me/tginfo/3267">Блокировка Telegram в Бразилии</a></td></tr><tr><td><a href="https://t.me/tginfoen/1365">The results of the real-time face correction module contest have been announced</a></td>
-    <td><a href="https://t.me/tginfo/3266">Оглашены результаты конкурса на создание модуля для преобразования лиц на видео</a></td></tr>
+    <td><a href="https://t.me/tginfo/3269">Как изменилась аудитория соцсетей в России после блокировок</a></td></tr><tr><td><a href="https://t.me/tginfoen/1366">Blocking Telegram in Brazil</a></td>
+    <td><a href="https://t.me/tginfo/3268">Павел Дуров принес извинения Верховному суду Бразилии и попросил отсрочить блокировку мессенджера</a></td></tr><tr><td><a href="https://t.me/tginfoen/1365">The results of the real-time face correction module contest have been announced</a></td>
+    <td><a href="https://t.me/tginfo/3267">Блокировка Telegram в Бразилии</a></td></tr>
 </table>
 We are also available on <a href="https://github.com/tginfo"><b>🐙 GitHub</b></a>!
 </div>
 
 <br>
 <hr>
-<h4 align="center">This README file is generated <b>every 6 hours</b>!</br>Last refresh: <b>2022-03-20 08:15:25 (UTC time)</b></h4>
+<h4 align="center">This README file is generated <b>every 6 hours</b>!</br>Last refresh: <b>2022-03-20 20:13:25 (UTC time)</b></h4>
