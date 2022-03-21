@@ -14,16 +14,6 @@
 <h2>📊 This week I spent my time using:</h2>
 
 <!--START_SECTION:waka-->
-
-```text
-Python           4 hrs 25 mins   ████████████████░░░░░░░░░   63.69 %
-TypeScript       1 hr 48 mins    ██████▓░░░░░░░░░░░░░░░░░░   26.09 %
-JSON             21 mins         █▒░░░░░░░░░░░░░░░░░░░░░░░   05.28 %
-C++              14 mins         █░░░░░░░░░░░░░░░░░░░░░░░░   03.50 %
-Text             3 mins          ▒░░░░░░░░░░░░░░░░░░░░░░░░   00.80 %
-JavaScript       1 min           ░░░░░░░░░░░░░░░░░░░░░░░░░   00.26 %
-```
-
 <!--END_SECTION:waka-->
 
 <br>
@@ -36,13 +26,13 @@ JavaScript       1 min           ░░░░░░░░░░░░░░░�
 		</tr>
 		<caption>🚩 <a href="https://t.me/tginfo">@tginfo</a> in your language: <a href="https://t.me/tginfoworld"><b>@tginfoworld</b></a><caption/>
   <tr><td><a href="https://t.me/tginfoen/1368">Brazil has withdrawn the decision to block Telegram</a></td>
-    <td><a href="https://t.me/tginfo/3271">Telegram обошел WhatsApp по объему трафика в России</a></td></tr><tr><td><a href="https://t.me/tginfoen/1367">Pavel Durov apologized to the Supreme Court of Brazil and asked to postpone the blocking of the messenger</a></td>
-    <td><a href="https://t.me/tginfo/3270">Бразилия отозвала решение о блокировке Telegram</a></td></tr><tr><td><a href="https://t.me/tginfoen/1366">Blocking Telegram in Brazil</a></td>
-    <td><a href="https://t.me/tginfo/3269">Как изменилась аудитория соцсетей в России после блокировок</a></td></tr>
+    <td><a href="https://t.me/tginfo/3272">Telegram Info VPN </a></td></tr><tr><td><a href="https://t.me/tginfoen/1367">Pavel Durov apologized to the Supreme Court of Brazil and asked to postpone the blocking of the messenger</a></td>
+    <td><a href="https://t.me/tginfo/3271">Telegram обошел WhatsApp по объему трафика в России</a></td></tr><tr><td><a href="https://t.me/tginfoen/1366">Blocking Telegram in Brazil</a></td>
+    <td><a href="https://t.me/tginfo/3270">Бразилия отозвала решение о блокировке Telegram</a></td></tr>
 </table>
 We are also available on <a href="https://github.com/tginfo"><b>🐙 GitHub</b></a>!
 </div>
 
 <br>
 <hr>
-<h4 align="center">This README file is generated <b>every 6 hours</b>!</br>Last refresh: <b>2022-03-21 08:18:23 (UTC time)</b></h4>
+<h4 align="center">This README file is generated <b>every 6 hours</b>!</br>Last refresh: <b>2022-03-21 20:14:49 (UTC time)</b></h4>
