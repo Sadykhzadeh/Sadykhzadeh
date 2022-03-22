@@ -14,16 +14,6 @@
 <h2>📊 This week I spent my time using:</h2>
 
 <!--START_SECTION:waka-->
-
-```text
-Python           4 hrs 25 mins   ████████████████░░░░░░░░░   64.33 %
-TypeScript       1 hr 44 mins    ██████▒░░░░░░░░░░░░░░░░░░   25.34 %
-JSON             22 mins         █▒░░░░░░░░░░░░░░░░░░░░░░░   05.34 %
-C++              14 mins         █░░░░░░░░░░░░░░░░░░░░░░░░   03.54 %
-Text             3 mins          ▒░░░░░░░░░░░░░░░░░░░░░░░░   00.81 %
-JavaScript       1 min           ░░░░░░░░░░░░░░░░░░░░░░░░░   00.26 %
-```
-
 <!--END_SECTION:waka-->
 
 <br>
@@ -35,14 +25,14 @@ JavaScript       1 min           ░░░░░░░░░░░░░░░�
 			<th>🇷🇺 На русском (<a href="https://t.me/tginfo">@tginfo</a>)</th>
 		</tr>
 		<caption>🚩 <a href="https://t.me/tginfo">@tginfo</a> in your language: <a href="https://t.me/tginfoworld"><b>@tginfoworld</b></a><caption/>
-  <tr><td><a href="https://t.me/tginfoen/1368">Brazil has withdrawn the decision to block Telegram</a></td>
+  <tr><td><a href="https://t.me/tginfoen/1369">Lifting the lockdown in Brazil: everything you need to know</a></td>
+    <td><a href="https://t.me/tginfo/3273">Отмена блокировки в Бразилии: всё, что нужно знать</a></td></tr><tr><td><a href="https://t.me/tginfoen/1368">Brazil has withdrawn the decision to block Telegram</a></td>
     <td><a href="https://t.me/tginfo/3272">Telegram Info VPN </a></td></tr><tr><td><a href="https://t.me/tginfoen/1367">Pavel Durov apologized to the Supreme Court of Brazil and asked to postpone the blocking of the messenger</a></td>
-    <td><a href="https://t.me/tginfo/3271">Telegram обошел WhatsApp по объему трафика в России</a></td></tr><tr><td><a href="https://t.me/tginfoen/1366">Blocking Telegram in Brazil</a></td>
-    <td><a href="https://t.me/tginfo/3270">Бразилия отозвала решение о блокировке Telegram</a></td></tr>
+    <td><a href="https://t.me/tginfo/3271">Telegram обошел WhatsApp по объему трафика в России</a></td></tr>
 </table>
 We are also available on <a href="https://github.com/tginfo"><b>🐙 GitHub</b></a>!
 </div>
 
 <br>
 <hr>
-<h4 align="center">This README file is generated <b>every 6 hours</b>!</br>Last refresh: <b>2022-03-22 08:16:38 (UTC time)</b></h4>
+<h4 align="center">This README file is generated <b>every 6 hours</b>!</br>Last refresh: <b>2022-03-22 20:14:00 (UTC time)</b></h4>
