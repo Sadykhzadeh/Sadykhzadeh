@@ -14,16 +14,6 @@
 <h2>📊 This week I spent my time using:</h2>
 
 <!--START_SECTION:waka-->
-
-```text
-Python       4 hrs 1 min     █████████████▒░░░░░░░░░░░   53.60 %
-TypeScript   2 hrs 38 mins   ████████▓░░░░░░░░░░░░░░░░   35.13 %
-JavaScript   27 mins         █▓░░░░░░░░░░░░░░░░░░░░░░░   06.08 %
-CSS          15 mins         █░░░░░░░░░░░░░░░░░░░░░░░░   03.45 %
-JSON         6 mins          ▒░░░░░░░░░░░░░░░░░░░░░░░░   01.34 %
-Text         0 secs          ░░░░░░░░░░░░░░░░░░░░░░░░░   00.22 %
-```
-
 <!--END_SECTION:waka-->
 
 <br>
@@ -35,14 +25,14 @@ Text         0 secs          ░░░░░░░░░░░░░░░░░
 			<th>🇷🇺 На русском (<a href="https://t.me/tginfo">@tginfo</a>)</th>
 		</tr>
 		<caption>🚩 <a href="https://t.me/tginfo">@tginfo</a> in your language: <a href="https://t.me/tginfoworld"><b>@tginfoworld</b></a><caption/>
-  <tr><td><a href="https://t.me/tginfoen/1374">UPD: libtgvoip call issues was server-side and now fixed.</a></td>
+  <tr><td><a href="https://t.me/tginfoen/1375">Telegram becomes part of Brazil's "Fake News Program"</a></td>
+    <td><a href="https://t.me/tginfo/3281">Telegram стал частью бразильской «Программы борьбы с фейковыми новостями»</a></td></tr><tr><td><a href="https://t.me/tginfoen/1374">UPD: libtgvoip call issues was server-side and now fixed.</a></td>
     <td><a href="https://t.me/tginfo/3280">UPD: Проблема звонков на libtgvoip была серверной, и на данный момент устранена.</a></td></tr><tr><td><a href="https://t.me/tginfoen/1373">Telegram killed libtgvoip and calling backward compatibility</a></td>
-    <td><a href="https://t.me/tginfo/3279">Telegram убил libtgvoip и обратную совместимость звонков</a></td></tr><tr><td><a href="https://t.me/tginfoen/1372">German authorities notified Telegram of cases launched against the company</a></td>
-    <td><a href="https://t.me/tginfo/3278">Илон Маск может прийти в Telegram</a></td></tr>
+    <td><a href="https://t.me/tginfo/3279">Telegram убил libtgvoip и обратную совместимость звонков</a></td></tr>
 </table>
 We are also available on <a href="https://github.com/tginfo"><b>🐙 GitHub</b></a>!
 </div>
 
 <br>
 <hr>
-<h4 align="center">This README file is generated <b>every 6 hours</b>!</br>Last refresh: <b>2022-03-26 08:15:50 (UTC time)</b></h4>
+<h4 align="center">This README file is generated <b>every 6 hours</b>!</br>Last refresh: <b>2022-03-26 20:14:18 (UTC time)</b></h4>
