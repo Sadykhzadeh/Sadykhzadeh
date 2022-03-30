@@ -14,16 +14,6 @@
 <h2>📊 This week I spent my time using:</h2>
 
 <!--START_SECTION:waka-->
-
-```text
-TypeScript       15 hrs 3 mins   ██████████████████████░░░   88.42 %
-JavaScript       35 mins         █░░░░░░░░░░░░░░░░░░░░░░░░   03.45 %
-Python           23 mins         ▓░░░░░░░░░░░░░░░░░░░░░░░░   02.26 %
-C++              22 mins         ▓░░░░░░░░░░░░░░░░░░░░░░░░   02.18 %
-CSS              20 mins         ▒░░░░░░░░░░░░░░░░░░░░░░░░   01.99 %
-JSON             15 mins         ▒░░░░░░░░░░░░░░░░░░░░░░░░   01.56 %
-```
-
 <!--END_SECTION:waka-->
 
 <br>
@@ -35,14 +25,14 @@ JSON             15 mins         ▒░░░░░░░░░░░░░░�
 			<th>🇷🇺 На русском (<a href="https://t.me/tginfo">@tginfo</a>)</th>
 		</tr>
 		<caption>🚩 <a href="https://t.me/tginfo">@tginfo</a> in your language: <a href="https://t.me/tginfoworld"><b>@tginfoworld</b></a><caption/>
-  <tr><td><a href="https://t.me/tginfoen/1376">Web bots in Telegram</a></td>
+  <tr><td><a href="https://t.me/tginfoen/1377">Sneak Peek at Telegram Web Bots</a></td>
+    <td><a href="https://t.me/tginfo/3285">Первая информация и интерфейс веб-ботов в Telegram</a></td></tr><tr><td><a href="https://t.me/tginfoen/1376">Web bots in Telegram</a></td>
     <td><a href="https://t.me/tginfo/3284">Новый протокол Telegram Info VPN и оплата криптовалютой</a></td></tr><tr><td><a href="https://t.me/tginfoen/1375">Telegram becomes part of Brazil's "Fake News Program"</a></td>
-    <td><a href="https://t.me/tginfo/3283">Веб-боты в Telegram</a></td></tr><tr><td><a href="https://t.me/tginfoen/1374">UPD: libtgvoip call issues was server-side and now fixed.</a></td>
-    <td><a href="https://t.me/tginfo/3282">Рост контента в соцсетях в марте 2022 года</a></td></tr>
+    <td><a href="https://t.me/tginfo/3283">Веб-боты в Telegram</a></td></tr>
 </table>
 We are also available on <a href="https://github.com/tginfo"><b>🐙 GitHub</b></a>!
 </div>
 
 <br>
 <hr>
-<h4 align="center">This README file is generated <b>every 6 hours</b>!</br>Last refresh: <b>2022-03-30 08:17:43 (UTC time)</b></h4>
+<h4 align="center">This README file is generated <b>every 6 hours</b>!</br>Last refresh: <b>2022-03-30 20:14:29 (UTC time)</b></h4>
