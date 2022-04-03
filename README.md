@@ -14,16 +14,6 @@
 <h2>📊 This week I spent my time using:</h2>
 
 <!--START_SECTION:waka-->
-
-```text
-TypeScript       16 hrs 56 mins  █████████████████████▓░░░   86.79 %
-Python           1 hr 24 mins    █▓░░░░░░░░░░░░░░░░░░░░░░░   07.23 %
-JSON             24 mins         ▓░░░░░░░░░░░░░░░░░░░░░░░░   02.07 %
-C++              23 mins         ▒░░░░░░░░░░░░░░░░░░░░░░░░   01.97 %
-Markdown         12 mins         ▒░░░░░░░░░░░░░░░░░░░░░░░░   01.07 %
-JavaScript       4 mins          ░░░░░░░░░░░░░░░░░░░░░░░░░   00.41 %
-```
-
 <!--END_SECTION:waka-->
 
 <br>
@@ -35,14 +25,14 @@ JavaScript       4 mins          ░░░░░░░░░░░░░░░�
 			<th>🇷🇺 На русском (<a href="https://t.me/tginfo">@tginfo</a>)</th>
 		</tr>
 		<caption>🚩 <a href="https://t.me/tginfo">@tginfo</a> in your language: <a href="https://t.me/tginfoworld"><b>@tginfoworld</b></a><caption/>
-  <tr><td><a href="https://t.me/tginfoen/1377">Sneak Peek at Telegram Web Bots</a></td>
+  <tr><td><a href="https://t.me/tginfoen/1378">Save replies for forwarded messages</a></td>
+    <td><a href="https://t.me/tginfo/3287">Сохранение ответов у пересланных сообщений</a></td></tr><tr><td><a href="https://t.me/tginfoen/1377">Sneak Peek at Telegram Web Bots</a></td>
     <td><a href="https://t.me/tginfo/3285">Первая информация и интерфейс веб-ботов в Telegram</a></td></tr><tr><td><a href="https://t.me/tginfoen/1376">Web bots in Telegram</a></td>
-    <td><a href="https://t.me/tginfo/3284">Новый протокол Telegram Info VPN и оплата криптовалютой</a></td></tr><tr><td><a href="https://t.me/tginfoen/1375">Telegram becomes part of Brazil's "Fake News Program"</a></td>
-    <td><a href="https://t.me/tginfo/3283">Веб-боты в Telegram</a></td></tr>
+    <td><a href="https://t.me/tginfo/3284">Новый протокол Telegram Info VPN и оплата криптовалютой</a></td></tr>
 </table>
 We are also available on <a href="https://github.com/tginfo"><b>🐙 GitHub</b></a>!
 </div>
 
 <br>
 <hr>
-<h4 align="center">This README file is generated <b>every 6 hours</b>!</br>Last refresh: <b>2022-04-03 08:15:56 (UTC time)</b></h4>
+<h4 align="center">This README file is generated <b>every 6 hours</b>!</br>Last refresh: <b>2022-04-03 20:14:49 (UTC time)</b></h4>
