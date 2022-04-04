@@ -14,16 +14,6 @@
 <h2>📊 This week I spent my time using:</h2>
 
 <!--START_SECTION:waka-->
-
-```text
-TypeScript   9 hrs 13 mins   ████████████████████░░░░░   79.69 %
-Python       1 hr 24 mins    ███░░░░░░░░░░░░░░░░░░░░░░   12.19 %
-C++          23 mins         ▓░░░░░░░░░░░░░░░░░░░░░░░░   03.32 %
-JSON         14 mins         ▓░░░░░░░░░░░░░░░░░░░░░░░░   02.12 %
-Markdown     12 mins         ▒░░░░░░░░░░░░░░░░░░░░░░░░   01.75 %
-Docker       1 min           ░░░░░░░░░░░░░░░░░░░░░░░░░   00.26 %
-```
-
 <!--END_SECTION:waka-->
 
 <br>
@@ -35,14 +25,14 @@ Docker       1 min           ░░░░░░░░░░░░░░░░░
 			<th>🇷🇺 На русском (<a href="https://t.me/tginfo">@tginfo</a>)</th>
 		</tr>
 		<caption>🚩 <a href="https://t.me/tginfo">@tginfo</a> in your language: <a href="https://t.me/tginfoworld"><b>@tginfoworld</b></a><caption/>
-  <tr><td><a href="https://t.me/tginfoen/1378">Save replies for forwarded messages</a></td>
+  <tr><td><a href="https://t.me/tginfoen/1379">‍Explaining the Web bots</a></td>
+    <td><a href="https://t.me/tginfo/3288">‍Объясняем суть Web-ботов</a></td></tr><tr><td><a href="https://t.me/tginfoen/1378">Save replies for forwarded messages</a></td>
     <td><a href="https://t.me/tginfo/3287">Сохранение ответов у пересланных сообщений</a></td></tr><tr><td><a href="https://t.me/tginfoen/1377">Sneak Peek at Telegram Web Bots</a></td>
-    <td><a href="https://t.me/tginfo/3285">Первая информация и интерфейс веб-ботов в Telegram</a></td></tr><tr><td><a href="https://t.me/tginfoen/1376">Web bots in Telegram</a></td>
-    <td><a href="https://t.me/tginfo/3284">Новый протокол Telegram Info VPN и оплата криптовалютой</a></td></tr>
+    <td><a href="https://t.me/tginfo/3285">Первая информация и интерфейс веб-ботов в Telegram</a></td></tr>
 </table>
 We are also available on <a href="https://github.com/tginfo"><b>🐙 GitHub</b></a>!
 </div>
 
 <br>
 <hr>
-<h4 align="center">This README file is generated <b>every 6 hours</b>!</br>Last refresh: <b>2022-04-03 20:14:49 (UTC time)</b></h4>
+<h4 align="center">This README file is generated <b>every 6 hours</b>!</br>Last refresh: <b>2022-04-04 08:17:16 (UTC time)</b></h4>
