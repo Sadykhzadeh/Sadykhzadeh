@@ -14,16 +14,6 @@
 <h2>📊 This week I spent my time using:</h2>
 
 <!--START_SECTION:waka-->
-
-```text
-TypeScript   10 hrs 12 mins  ████████████████▒░░░░░░░░   65.06 %
-Python       2 hrs 5 mins    ███▒░░░░░░░░░░░░░░░░░░░░░   13.30 %
-C++          57 mins         █▓░░░░░░░░░░░░░░░░░░░░░░░   06.10 %
-JavaScript   43 mins         █░░░░░░░░░░░░░░░░░░░░░░░░   04.60 %
-JSON         42 mins         █░░░░░░░░░░░░░░░░░░░░░░░░   04.52 %
-C#           11 mins         ▒░░░░░░░░░░░░░░░░░░░░░░░░   01.18 %
-```
-
 <!--END_SECTION:waka-->
 
 <br>
@@ -36,7 +26,7 @@ C#           11 mins         ▒░░░░░░░░░░░░░░░░
 		</tr>
 		<caption>🚩 <a href="https://t.me/tginfo">@tginfo</a> in your language: <a href="https://t.me/tginfoworld"><b>@tginfoworld</b></a><caption/>
   <tr><td><a href="https://t.me/tginfoen/1381">Telegram grows in China despite lockdown</a></td>
-    <td><a href="https://t.me/tginfo/3292">Telegram растет в Китае несмотря на блокировку</a></td></tr><tr><td><a href="https://t.me/tginfoen/1380">An example of a Web bot for food delivery</a></td>
+    <td><a href="https://t.me/tginfo/3292">Telegram растет в Китае, несмотря на блокировку</a></td></tr><tr><td><a href="https://t.me/tginfoen/1380">An example of a Web bot for food delivery</a></td>
     <td><a href="https://t.me/tginfo/3291">Telegram, «ВКонтакте» и YouTube стали наиболее популярными социальными сетями у россиян</a></td></tr><tr><td><a href="https://t.me/tginfoen/1379">‍Explaining the Web bots</a></td>
     <td><a href="https://t.me/tginfo/3290">Пример Web-бота для доставки еды</a></td></tr>
 </table>
@@ -45,4 +35,4 @@ We are also available on <a href="https://github.com/tginfo"><b>🐙 GitHub</b><
 
 <br>
 <hr>
-<h4 align="center">This README file is generated <b>every 6 hours</b>!</br>Last refresh: <b>2022-04-12 08:17:40 (UTC time)</b></h4>
+<h4 align="center">This README file is generated <b>every 6 hours</b>!</br>Last refresh: <b>2022-04-12 20:14:55 (UTC time)</b></h4>
