@@ -14,16 +14,6 @@
 <h2>📊 This week I spent my time using:</h2>
 
 <!--START_SECTION:waka-->
-
-```text
-TypeScript       10 hrs 22 mins  █████████████▓░░░░░░░░░░░   55.07 %
-CSHTML           1 hr 55 mins    ██▓░░░░░░░░░░░░░░░░░░░░░░   10.20 %
-Python           1 hr 53 mins    ██▓░░░░░░░░░░░░░░░░░░░░░░   10.03 %
-C++              1 hr 39 mins    ██▒░░░░░░░░░░░░░░░░░░░░░░   08.82 %
-JavaScript       1 hr 37 mins    ██░░░░░░░░░░░░░░░░░░░░░░░   08.62 %
-HTML             31 mins         ▓░░░░░░░░░░░░░░░░░░░░░░░░   02.82 %
-```
-
 <!--END_SECTION:waka-->
 
 <br>
@@ -36,13 +26,13 @@ HTML             31 mins         ▓░░░░░░░░░░░░░░�
 		</tr>
 		<caption>🚩 <a href="https://t.me/tginfo">@tginfo</a> in your language: <a href="https://t.me/tginfoworld"><b>@tginfoworld</b></a><caption/>
   <tr><td><a href="https://t.me/tginfoen/1383">Most ideas for Web bots won't come true in the near future</a></td>
-    <td><a href="https://t.me/tginfo/3301">Большинству идей для Web-ботов в ближайшее время не сбыться</a></td></tr><tr><td><a href="https://t.me/tginfoen/1382">Notification Sounds, Bot Revolution and More</a></td>
-    <td><a href="https://t.me/tginfo/3300">Новое меню автоудаления в профиле чата</a></td></tr><tr><td><a href="https://t.me/tginfoen/1381">Telegram grows in China despite lockdown</a></td>
-    <td><a href="https://t.me/tginfo/3299">Выключение уведомлений на любой срок</a></td></tr>
+    <td><a href="https://t.me/tginfo/3303">Перевод постов в украинских каналах по умолчанию</a></td></tr><tr><td><a href="https://t.me/tginfoen/1382">Notification Sounds, Bot Revolution and More</a></td>
+    <td><a href="https://t.me/tginfo/3302">Telegram и WhatsApp — самые популярные мессенджеры среди россиян</a></td></tr><tr><td><a href="https://t.me/tginfoen/1381">Telegram grows in China despite lockdown</a></td>
+    <td><a href="https://t.me/tginfo/3301">Большинству идей для Web-ботов в ближайшее время не сбыться</a></td></tr>
 </table>
 We are also available on <a href="https://github.com/tginfo"><b>🐙 GitHub</b></a>!
 </div>
 
 <br>
 <hr>
-<h4 align="center">This README file is generated <b>every 6 hours</b>!</br>Last refresh: <b>2022-04-18 08:18:43 (UTC time)</b></h4>
+<h4 align="center">This README file is generated <b>every 6 hours</b>!</br>Last refresh: <b>2022-04-18 20:15:18 (UTC time)</b></h4>
