@@ -14,16 +14,6 @@
 <h2>📊 This week I spent my time using:</h2>
 
 <!--START_SECTION:waka-->
-
-```text
-TypeScript       7 hrs 56 mins   ███████████░░░░░░░░░░░░░░   44.47 %
-Python           2 hrs 57 mins   ████░░░░░░░░░░░░░░░░░░░░░   16.53 %
-CSHTML           2 hrs 37 mins   ███▓░░░░░░░░░░░░░░░░░░░░░   14.73 %
-C++              2 hrs 2 mins    ███░░░░░░░░░░░░░░░░░░░░░░   11.40 %
-JavaScript       1 hr 7 mins     █▓░░░░░░░░░░░░░░░░░░░░░░░   06.29 %
-HTML             40 mins         █░░░░░░░░░░░░░░░░░░░░░░░░   03.79 %
-```
-
 <!--END_SECTION:waka-->
 
 <br>
@@ -35,14 +25,14 @@ HTML             40 mins         █░░░░░░░░░░░░░░�
 			<th>🇷🇺 На русском (<a href="https://t.me/tginfo">@tginfo</a>)</th>
 		</tr>
 		<caption>🚩 <a href="https://t.me/tginfo">@tginfo</a> in your language: <a href="https://t.me/tginfoworld"><b>@tginfoworld</b></a><caption/>
-  <tr><td><a href="https://t.me/tginfoen/1383">Most ideas for Web bots won't come true in the near future</a></td>
+  <tr><td><a href="https://t.me/tginfoen/1384">Telegram Desktop has been updated to version 3.7.1</a></td>
+    <td><a href="https://t.me/tginfo/3304">Telegram Desktop обновился до версии 3.7.1</a></td></tr><tr><td><a href="https://t.me/tginfoen/1383">Most ideas for Web bots won't come true in the near future</a></td>
     <td><a href="https://t.me/tginfo/3303">Перевод постов в украинских каналах по умолчанию</a></td></tr><tr><td><a href="https://t.me/tginfoen/1382">Notification Sounds, Bot Revolution and More</a></td>
-    <td><a href="https://t.me/tginfo/3302">Telegram и WhatsApp — самые популярные мессенджеры среди россиян</a></td></tr><tr><td><a href="https://t.me/tginfoen/1381">Telegram grows in China despite lockdown</a></td>
-    <td><a href="https://t.me/tginfo/3301">Большинству идей для Web-ботов в ближайшее время не сбыться</a></td></tr>
+    <td><a href="https://t.me/tginfo/3302">Telegram и WhatsApp — самые популярные мессенджеры среди россиян</a></td></tr>
 </table>
 We are also available on <a href="https://github.com/tginfo"><b>🐙 GitHub</b></a>!
 </div>
 
 <br>
 <hr>
-<h4 align="center">This README file is generated <b>every 6 hours</b>!</br>Last refresh: <b>2022-04-20 08:20:25 (UTC time)</b></h4>
+<h4 align="center">This README file is generated <b>every 6 hours</b>!</br>Last refresh: <b>2022-04-20 20:16:30 (UTC time)</b></h4>
