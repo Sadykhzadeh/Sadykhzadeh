@@ -14,16 +14,6 @@
 <h2>📊 This week I spent my time using:</h2>
 
 <!--START_SECTION:waka-->
-
-```text
-TypeScript   4 hrs 43 mins   ███████▓░░░░░░░░░░░░░░░░░   31.23 %
-Python       2 hrs 44 mins   ████▓░░░░░░░░░░░░░░░░░░░░   18.07 %
-JavaScript   2 hrs 18 mins   ███▓░░░░░░░░░░░░░░░░░░░░░   15.21 %
-CSHTML       1 hr 32 mins    ██▓░░░░░░░░░░░░░░░░░░░░░░   10.16 %
-C++          1 hr 18 mins    ██░░░░░░░░░░░░░░░░░░░░░░░   08.66 %
-Java         44 mins         █▒░░░░░░░░░░░░░░░░░░░░░░░   04.93 %
-```
-
 <!--END_SECTION:waka-->
 
 <br>
@@ -35,14 +25,14 @@ Java         44 mins         █▒░░░░░░░░░░░░░░░
 			<th>🇷🇺 На русском (<a href="https://t.me/tginfo">@tginfo</a>)</th>
 		</tr>
 		<caption>🚩 <a href="https://t.me/tginfo">@tginfo</a> in your language: <a href="https://t.me/tginfoworld"><b>@tginfoworld</b></a><caption/>
-  <tr><td><a href="https://t.me/tginfoen/1385">Telegram for Android got a 8.7.1 version update</a></td>
+  <tr><td><a href="https://t.me/tginfoen/1386">Telegram Premium Account</a></td>
+    <td><a href="https://t.me/tginfo/3306">Премиум-аккаунт в Telegram</a></td></tr><tr><td><a href="https://t.me/tginfoen/1385">Telegram for Android got a 8.7.1 version update</a></td>
     <td><a href="https://t.me/tginfo/3305">Telegram для Android получил обновление до версии 8.7.1</a></td></tr><tr><td><a href="https://t.me/tginfoen/1384">Telegram Desktop has been updated to version 3.7.1</a></td>
-    <td><a href="https://t.me/tginfo/3304">Telegram Desktop обновился до версии 3.7.1</a></td></tr><tr><td><a href="https://t.me/tginfoen/1383">Most ideas for Web bots won't come true in the near future</a></td>
-    <td><a href="https://t.me/tginfo/3303">Перевод постов в украинских каналах по умолчанию</a></td></tr>
+    <td><a href="https://t.me/tginfo/3304">Telegram Desktop обновился до версии 3.7.1</a></td></tr>
 </table>
 We are also available on <a href="https://github.com/tginfo"><b>🐙 GitHub</b></a>!
 </div>
 
 <br>
 <hr>
-<h4 align="center">This README file is generated <b>every 6 hours</b>!</br>Last refresh: <b>2022-04-24 08:17:12 (UTC time)</b></h4>
+<h4 align="center">This README file is generated <b>every 6 hours</b>!</br>Last refresh: <b>2022-04-24 20:15:25 (UTC time)</b></h4>
