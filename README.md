@@ -14,16 +14,6 @@
 <h2>📊 This week I spent my time using:</h2>
 
 <!--START_SECTION:waka-->
-
-```text
-TypeScript   10 hrs 50 mins  ██████████████░░░░░░░░░░░   55.66 %
-Python       2 hrs 44 mins   ███▓░░░░░░░░░░░░░░░░░░░░░   14.05 %
-JavaScript   1 hr 51 mins    ██▒░░░░░░░░░░░░░░░░░░░░░░   09.54 %
-C++          1 hr 18 mins    █▓░░░░░░░░░░░░░░░░░░░░░░░   06.73 %
-Java         44 mins         █░░░░░░░░░░░░░░░░░░░░░░░░   03.83 %
-CSHTML       42 mins         █░░░░░░░░░░░░░░░░░░░░░░░░   03.63 %
-```
-
 <!--END_SECTION:waka-->
 
 <br>
@@ -35,14 +25,14 @@ CSHTML       42 mins         █░░░░░░░░░░░░░░░░
 			<th>🇷🇺 На русском (<a href="https://t.me/tginfo">@tginfo</a>)</th>
 		</tr>
 		<caption>🚩 <a href="https://t.me/tginfo">@tginfo</a> in your language: <a href="https://t.me/tginfoworld"><b>@tginfoworld</b></a><caption/>
-  <tr><td><a href="https://t.me/tginfoen/1386">Telegram Premium Account</a></td>
+  <tr><td><a href="https://t.me/tginfoen/1387">Telegram news feed </a></td>
+    <td><a href="https://t.me/tginfo/3307">Лента постов в Telegram </a></td></tr><tr><td><a href="https://t.me/tginfoen/1386">Telegram Premium Account</a></td>
     <td><a href="https://t.me/tginfo/3306">Премиум-аккаунт в Telegram</a></td></tr><tr><td><a href="https://t.me/tginfoen/1385">Telegram for Android got a 8.7.1 version update</a></td>
-    <td><a href="https://t.me/tginfo/3305">Telegram для Android получил обновление до версии 8.7.1</a></td></tr><tr><td><a href="https://t.me/tginfoen/1384">Telegram Desktop has been updated to version 3.7.1</a></td>
-    <td><a href="https://t.me/tginfo/3304">Telegram Desktop обновился до версии 3.7.1</a></td></tr>
+    <td><a href="https://t.me/tginfo/3305">Telegram для Android получил обновление до версии 8.7.1</a></td></tr>
 </table>
 We are also available on <a href="https://github.com/tginfo"><b>🐙 GitHub</b></a>!
 </div>
 
 <br>
 <hr>
-<h4 align="center">This README file is generated <b>every 6 hours</b>!</br>Last refresh: <b>2022-04-25 08:18:59 (UTC time)</b></h4>
+<h4 align="center">This README file is generated <b>every 6 hours</b>!</br>Last refresh: <b>2022-04-25 20:15:11 (UTC time)</b></h4>
