@@ -14,16 +14,6 @@
 <h2>📊 This week I spent my time using:</h2>
 
 <!--START_SECTION:waka-->
-
-```text
-TypeScript       13 hrs 56 mins  ██████████████████▓░░░░░░   74.86 %
-Python           1 hr 58 mins    ██▓░░░░░░░░░░░░░░░░░░░░░░   10.60 %
-JavaScript       1 hr 30 mins    ██░░░░░░░░░░░░░░░░░░░░░░░   08.07 %
-C#               30 mins         ▓░░░░░░░░░░░░░░░░░░░░░░░░   02.70 %
-JSON             19 mins         ▒░░░░░░░░░░░░░░░░░░░░░░░░   01.73 %
-Git Config       8 mins          ▒░░░░░░░░░░░░░░░░░░░░░░░░   00.79 %
-```
-
 <!--END_SECTION:waka-->
 
 <br>
@@ -36,13 +26,13 @@ Git Config       8 mins          ▒░░░░░░░░░░░░░░�
 		</tr>
 		<caption>🚩 <a href="https://t.me/tginfo">@tginfo</a> in your language: <a href="https://t.me/tginfoworld"><b>@tginfoworld</b></a><caption/>
   <tr><td><a href="https://t.me/tginfoen/1389">Telegram in the top five most downloaded applications in the world</a></td>
-    <td><a href="https://t.me/tginfo/3310">Telegram в пятерке самых загружаемых приложений в мире</a></td></tr><tr><td><a href="https://t.me/tginfoen/1388">Integration of the TON wallet into the Telegram client</a></td>
-    <td><a href="https://t.me/tginfo/3309">3а что готовы платить пользователи Telegram</a></td></tr><tr><td><a href="https://t.me/tginfoen/1387">Telegram news feed </a></td>
-    <td><a href="https://t.me/tginfo/3308">Интеграция кошелька TON в клиент Telegram </a></td></tr>
+    <td><a href="https://t.me/tginfo/3311">Глобальное обновление TGStat</a></td></tr><tr><td><a href="https://t.me/tginfoen/1388">Integration of the TON wallet into the Telegram client</a></td>
+    <td><a href="https://t.me/tginfo/3310">Telegram в пятерке самых загружаемых приложений в мире</a></td></tr><tr><td><a href="https://t.me/tginfoen/1387">Telegram news feed </a></td>
+    <td><a href="https://t.me/tginfo/3309">3а что готовы платить пользователи Telegram</a></td></tr>
 </table>
 We are also available on <a href="https://github.com/tginfo"><b>🐙 GitHub</b></a>!
 </div>
 
 <br>
 <hr>
-<h4 align="center">This README file is generated <b>every 6 hours</b>!</br>Last refresh: <b>2022-04-28 08:18:18 (UTC time)</b></h4>
+<h4 align="center">This README file is generated <b>every 6 hours</b>!</br>Last refresh: <b>2022-04-28 20:15:17 (UTC time)</b></h4>
