@@ -14,16 +14,6 @@
 <h2>📊 This week I spent my time using:</h2>
 
 <!--START_SECTION:waka-->
-
-```text
-TypeScript       3 hrs 36 mins   █████████████▓░░░░░░░░░░░   54.31 %
-Python           1 hr 23 mins    █████▒░░░░░░░░░░░░░░░░░░░   21.00 %
-C#               36 mins         ██▒░░░░░░░░░░░░░░░░░░░░░░   09.03 %
-JSON             20 mins         █▒░░░░░░░░░░░░░░░░░░░░░░░   05.12 %
-CSS              19 mins         █▒░░░░░░░░░░░░░░░░░░░░░░░   04.81 %
-Markdown         12 mins         ▓░░░░░░░░░░░░░░░░░░░░░░░░   03.15 %
-```
-
 <!--END_SECTION:waka-->
 
 <br>
@@ -35,14 +25,14 @@ Markdown         12 mins         ▓░░░░░░░░░░░░░░�
 			<th>🇷🇺 На русском (<a href="https://t.me/tginfo">@tginfo</a>)</th>
 		</tr>
 		<caption>🚩 <a href="https://t.me/tginfo">@tginfo</a> in your language: <a href="https://t.me/tginfoworld"><b>@tginfoworld</b></a><caption/>
-  <tr><td><a href="https://t.me/tginfoen/1390">First features of Telegram Premium</a></td>
+  <tr><td><a href="https://t.me/tginfoen/1391">Increased character limit for multimedia files description</a></td>
+    <td><a href="https://t.me/tginfo/3314">Увеличение лимита символов в описании к медиафайлам</a></td></tr><tr><td><a href="https://t.me/tginfoen/1390">First features of Telegram Premium</a></td>
     <td><a href="https://t.me/tginfo/3312">Первые фичи Telegram Premium</a></td></tr><tr><td><a href="https://t.me/tginfoen/1389">Telegram in the top five most downloaded applications in the world</a></td>
-    <td><a href="https://t.me/tginfo/3311">Глобальное обновление TGStat</a></td></tr><tr><td><a href="https://t.me/tginfoen/1388">Integration of the TON wallet into the Telegram client</a></td>
-    <td><a href="https://t.me/tginfo/3310">Telegram в пятерке самых загружаемых приложений в мире</a></td></tr>
+    <td><a href="https://t.me/tginfo/3311">Глобальное обновление TGStat</a></td></tr>
 </table>
 We are also available on <a href="https://github.com/tginfo"><b>🐙 GitHub</b></a>!
 </div>
 
 <br>
 <hr>
-<h4 align="center">This README file is generated <b>every 6 hours</b>!</br>Last refresh: <b>2022-05-06 20:15:43 (UTC time)</b></h4>
+<h4 align="center">This README file is generated <b>every 6 hours</b>!</br>Last refresh: <b>2022-05-07 08:17:57 (UTC time)</b></h4>
