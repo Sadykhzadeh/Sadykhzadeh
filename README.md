@@ -14,15 +14,6 @@
 <h2>📊 This week I spent my time using:</h2>
 
 <!--START_SECTION:waka-->
-
-```text
-TypeScript       4 hrs 57 mins   ██████████████▒░░░░░░░░░░   57.79 %
-C#               1 hr 41 mins    █████░░░░░░░░░░░░░░░░░░░░   19.80 %
-Python           1 hr 1 min      ███░░░░░░░░░░░░░░░░░░░░░░   11.91 %
-JSON             28 mins         █▒░░░░░░░░░░░░░░░░░░░░░░░   05.52 %
-Other            15 mins         ▓░░░░░░░░░░░░░░░░░░░░░░░░   02.95 %
-```
-
 <!--END_SECTION:waka-->
 
 <br>
@@ -34,14 +25,14 @@ Other            15 mins         ▓░░░░░░░░░░░░░░�
 			<th>🇷🇺 На русском (<a href="https://t.me/tginfo">@tginfo</a>)</th>
 		</tr>
 		<caption>🚩 <a href="https://t.me/tginfo">@tginfo</a> in your language: <a href="https://t.me/tginfoworld"><b>@tginfoworld</b></a><caption/>
-  <tr><td><a href="https://t.me/tginfoen/1395">Telegram Discreetly Changes Terms of Use in Brazil</a></td>
+  <tr><td><a href="https://t.me/tginfoen/1396">Hong Kong is considering blocking Telegram</a></td>
+    <td><a href="https://t.me/tginfo/3319">Гонконг рассматривает возможность блокировки Telegram</a></td></tr><tr><td><a href="https://t.me/tginfoen/1395">Telegram Discreetly Changes Terms of Use in Brazil</a></td>
     <td><a href="https://t.me/tginfo/3318">Telegram изменил ToS для пользователей из Бразилии</a></td></tr><tr><td><a href="https://t.me/tginfoen/1394">New Features of Web-Bots</a></td>
-    <td><a href="https://t.me/tginfo/3317">Новые возможности Web-ботов</a></td></tr><tr><td><a href="https://t.me/tginfoen/1393">Telegram added new payment providers for Payments 2.0</a></td>
-    <td><a href="https://t.me/tginfo/3316">Telegram добавил новые платёжные провайдеры для Payments 2.0</a></td></tr>
+    <td><a href="https://t.me/tginfo/3317">Новые возможности Web-ботов</a></td></tr>
 </table>
 We are also available on <a href="https://github.com/tginfo"><b>🐙 GitHub</b></a>!
 </div>
 
 <br>
 <hr>
-<h4 align="center">This README file is generated <b>every 6 hours</b>!</br>Last refresh: <b>2022-05-17 08:19:31 (UTC time)</b></h4>
+<h4 align="center">This README file is generated <b>every 6 hours</b>!</br>Last refresh: <b>2022-05-17 20:15:35 (UTC time)</b></h4>
