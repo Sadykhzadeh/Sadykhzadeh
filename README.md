@@ -14,13 +14,6 @@
 <h2>📊 This week I spent my time using:</h2>
 
 <!--START_SECTION:waka-->
-
-```text
-Python       1 hr 39 mins    ████████████░░░░░░░░░░░░░   47.61 %
-TypeScript   1 hr 4 mins     ███████▓░░░░░░░░░░░░░░░░░   30.99 %
-Other        14 mins         █▓░░░░░░░░░░░░░░░░░░░░░░░   06.86 %
-```
-
 <!--END_SECTION:waka-->
 
 <br>
@@ -33,13 +26,13 @@ Other        14 mins         █▓░░░░░░░░░░░░░░░
 		</tr>
 		<caption>🚩 <a href="https://t.me/tginfo">@tginfo</a> in your language: <a href="https://t.me/tginfoworld"><b>@tginfoworld</b></a><caption/>
   <tr><td><a href="https://t.me/tginfoen/1397">Telegram Info Universal</a></td>
-    <td><a href="https://t.me/tginfo/3320">Telegram Info Universal</a></td></tr><tr><td><a href="https://t.me/tginfoen/1396">Hong Kong is considering blocking Telegram</a></td>
-    <td><a href="https://t.me/tginfo/3319">Гонконг рассматривает возможность блокировки Telegram</a></td></tr><tr><td><a href="https://t.me/tginfoen/1395">Telegram Discreetly Changes Terms of Use in Brazil</a></td>
-    <td><a href="https://t.me/tginfo/3318">Telegram изменил ToS для пользователей из Бразилии</a></td></tr>
+    <td><a href="https://t.me/tginfo/3321">На волне блокировок популярных интернет-площадок пользователи начали осваивать Telegram</a></td></tr><tr><td><a href="https://t.me/tginfoen/1396">Hong Kong is considering blocking Telegram</a></td>
+    <td><a href="https://t.me/tginfo/3320">Telegram Info Universal</a></td></tr><tr><td><a href="https://t.me/tginfoen/1395">Telegram Discreetly Changes Terms of Use in Brazil</a></td>
+    <td><a href="https://t.me/tginfo/3319">Гонконг рассматривает возможность блокировки Telegram</a></td></tr>
 </table>
 We are also available on <a href="https://github.com/tginfo"><b>🐙 GitHub</b></a>!
 </div>
 
 <br>
 <hr>
-<h4 align="center">This README file is generated <b>every 6 hours</b>!</br>Last refresh: <b>2022-05-21 08:17:48 (UTC time)</b></h4>
+<h4 align="center">This README file is generated <b>every 6 hours</b>!</br>Last refresh: <b>2022-05-21 20:15:24 (UTC time)</b></h4>
