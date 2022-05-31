@@ -14,16 +14,6 @@
 <h2>📊 This week I spent my time using:</h2>
 
 <!--START_SECTION:waka-->
-
-```text
-TypeScript       2 hrs 27 mins   ███████████████████▓░░░░░   79.01 %
-Markdown         13 mins         █▓░░░░░░░░░░░░░░░░░░░░░░░   07.06 %
-CSS              11 mins         █▓░░░░░░░░░░░░░░░░░░░░░░░   06.11 %
-Rust             6 mins          ▓░░░░░░░░░░░░░░░░░░░░░░░░   03.29 %
-JavaScript       3 mins          ▓░░░░░░░░░░░░░░░░░░░░░░░░   02.04 %
-GitIgnore file   1 min           ▒░░░░░░░░░░░░░░░░░░░░░░░░   00.86 %
-```
-
 <!--END_SECTION:waka-->
 
 <br>
@@ -35,14 +25,14 @@ GitIgnore file   1 min           ▒░░░░░░░░░░░░░░�
 			<th>🇷🇺 На русском (<a href="https://t.me/tginfo">@tginfo</a>)</th>
 		</tr>
 		<caption>🚩 <a href="https://t.me/tginfo">@tginfo</a> in your language: <a href="https://t.me/tginfoworld"><b>@tginfoworld</b></a><caption/>
-  <tr><td><a href="https://t.me/tginfoen/1400">Telegram Design System in Figma</a></td>
+  <tr><td><a href="https://t.me/tginfoen/1401">Premium Reactions List</a></td>
+    <td><a href="https://t.me/tginfo/3326">Список Премиум-реакций</a></td></tr><tr><td><a href="https://t.me/tginfoen/1400">Telegram Design System in Figma</a></td>
     <td><a href="https://t.me/tginfo/3325">Дизайн-система Telegram в Figma</a></td></tr><tr><td><a href="https://t.me/tginfoen/1399">Telegram added new payment providers for Payments 2.0</a></td>
-    <td><a href="https://t.me/tginfo/3324">Telegram добавил новые платёжные провайдеры для Payments 2.0</a></td></tr><tr><td><a href="https://t.me/tginfoen/1398">Telegram changed description of «Free» meaning</a></td>
-    <td><a href="https://t.me/tginfo/3323">Telegram изменил в описании понятие Free</a></td></tr>
+    <td><a href="https://t.me/tginfo/3324">Telegram добавил новые платёжные провайдеры для Payments 2.0</a></td></tr>
 </table>
 We are also available on <a href="https://github.com/tginfo"><b>🐙 GitHub</b></a>!
 </div>
 
 <br>
 <hr>
-<h4 align="center">This README file is generated <b>every 6 hours</b>!</br>Last refresh: <b>2022-05-31 08:21:43 (UTC time)</b></h4>
+<h4 align="center">This README file is generated <b>every 6 hours</b>!</br>Last refresh: <b>2022-05-31 20:17:28 (UTC time)</b></h4>
