@@ -14,16 +14,6 @@
 <h2>📊 This week I spent my time using:</h2>
 
 <!--START_SECTION:waka-->
-
-```text
-TypeScript       2 hrs 12 mins   ███████████████████░░░░░░   76.46 %
-JSON             23 mins         ███▒░░░░░░░░░░░░░░░░░░░░░   13.68 %
-C++              12 mins         ██░░░░░░░░░░░░░░░░░░░░░░░   07.47 %
-Docker           1 min           ▒░░░░░░░░░░░░░░░░░░░░░░░░   01.10 %
-YAML             0 secs          ░░░░░░░░░░░░░░░░░░░░░░░░░   00.53 %
-JavaScript       0 secs          ░░░░░░░░░░░░░░░░░░░░░░░░░   00.51 %
-```
-
 <!--END_SECTION:waka-->
 
 <br>
@@ -35,14 +25,14 @@ JavaScript       0 secs          ░░░░░░░░░░░░░░░�
 			<th>🇷🇺 На русском (<a href="https://t.me/tginfo">@tginfo</a>)</th>
 		</tr>
 		<caption>🚩 <a href="https://t.me/tginfo">@tginfo</a> in your language: <a href="https://t.me/tginfoworld"><b>@tginfoworld</b></a><caption/>
-  <tr><td><a href="https://t.me/tginfoen/1401">Premium Reactions List</a></td>
+  <tr><td><a href="https://t.me/tginfoen/1402">Der Spiegel reported that Telegram had handed over the data of several users to the German police.</a></td>
+    <td><a href="https://t.me/tginfo/3327">Газета Der Spiegel рассказала, что Telegram передал данные нескольких пользователей полиции Германии</a></td></tr><tr><td><a href="https://t.me/tginfoen/1401">Premium Reactions List</a></td>
     <td><a href="https://t.me/tginfo/3326">Список Премиум-реакций</a></td></tr><tr><td><a href="https://t.me/tginfoen/1400">Telegram Design System in Figma</a></td>
-    <td><a href="https://t.me/tginfo/3325">Дизайн-система Telegram в Figma</a></td></tr><tr><td><a href="https://t.me/tginfoen/1399">Telegram added new payment providers for Payments 2.0</a></td>
-    <td><a href="https://t.me/tginfo/3324">Telegram добавил новые платёжные провайдеры для Payments 2.0</a></td></tr>
+    <td><a href="https://t.me/tginfo/3325">Дизайн-система Telegram в Figma</a></td></tr>
 </table>
 We are also available on <a href="https://github.com/tginfo"><b>🐙 GitHub</b></a>!
 </div>
 
 <br>
 <hr>
-<h4 align="center">This README file is generated <b>every 6 hours</b>!</br>Last refresh: <b>2022-06-04 08:16:07 (UTC time)</b></h4>
+<h4 align="center">This README file is generated <b>every 6 hours</b>!</br>Last refresh: <b>2022-06-04 20:13:43 (UTC time)</b></h4>
