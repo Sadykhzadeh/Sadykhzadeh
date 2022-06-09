@@ -14,16 +14,6 @@
 <h2>📊 This week I spent my time using:</h2>
 
 <!--START_SECTION:waka-->
-
-```text
-TypeScript       1 hr 5 mins     █████████████░░░░░░░░░░░░   51.75 %
-Rust             34 mins         ██████▓░░░░░░░░░░░░░░░░░░   27.30 %
-C++              9 mins          ██░░░░░░░░░░░░░░░░░░░░░░░   07.68 %
-JSON             6 mins          █▒░░░░░░░░░░░░░░░░░░░░░░░   04.94 %
-Markdown         4 mins          █░░░░░░░░░░░░░░░░░░░░░░░░   03.80 %
-Docker           1 min           ▒░░░░░░░░░░░░░░░░░░░░░░░░   01.51 %
-```
-
 <!--END_SECTION:waka-->
 
 <br>
@@ -36,13 +26,13 @@ Docker           1 min           ▒░░░░░░░░░░░░░░�
 		</tr>
 		<caption>🚩 <a href="https://t.me/tginfo">@tginfo</a> in your language: <a href="https://t.me/tginfoworld"><b>@tginfoworld</b></a><caption/>
   <tr><td><a href="https://t.me/tginfoen/1404">Telegram Premium is already in Beta version for Android</a></td>
-    <td><a href="https://t.me/tginfo/3329">Telegram Premium уже в Beta-версии для Android</a></td></tr><tr><td><a href="https://t.me/tginfoen/1403">Telegram Premium: all the details of a paid subscription</a></td>
-    <td><a href="https://t.me/tginfo/3328">Telegram Premium: все подробности подписки</a></td></tr><tr><td><a href="https://t.me/tginfoen/1402">Der Spiegel reported that Telegram had handed over the data of several users to the German police.</a></td>
-    <td><a href="https://t.me/tginfo/3327">Газета Der Spiegel рассказала, что Telegram передал данные нескольких пользователей полиции Германии</a></td></tr>
+    <td><a href="https://t.me/tginfo/3330">Блокировка VPN-сервисов в России и новые возможности Telegram Info VPN </a></td></tr><tr><td><a href="https://t.me/tginfoen/1403">Telegram Premium: all the details of a paid subscription</a></td>
+    <td><a href="https://t.me/tginfo/3329">Telegram Premium уже в Beta-версии для Android</a></td></tr><tr><td><a href="https://t.me/tginfoen/1402">Der Spiegel reported that Telegram had handed over the data of several users to the German police.</a></td>
+    <td><a href="https://t.me/tginfo/3328">Telegram Premium: все подробности подписки</a></td></tr>
 </table>
 We are also available on <a href="https://github.com/tginfo"><b>🐙 GitHub</b></a>!
 </div>
 
 <br>
 <hr>
-<h4 align="center">This README file is generated <b>every 6 hours</b>!</br>Last refresh: <b>2022-06-09 08:20:02 (UTC time)</b></h4>
+<h4 align="center">This README file is generated <b>every 6 hours</b>!</br>Last refresh: <b>2022-06-09 20:15:13 (UTC time)</b></h4>
