@@ -14,16 +14,6 @@
 <h2>📊 This week I spent my time using:</h2>
 
 <!--START_SECTION:waka-->
-
-```text
-TypeScript       57 mins         █████████████▓░░░░░░░░░░░   54.93 %
-Rust             34 mins         ████████▒░░░░░░░░░░░░░░░░   32.86 %
-JSON             5 mins          █▒░░░░░░░░░░░░░░░░░░░░░░░   05.13 %
-Markdown         4 mins          █░░░░░░░░░░░░░░░░░░░░░░░░   04.58 %
-yarn.lock        1 min           ▒░░░░░░░░░░░░░░░░░░░░░░░░   01.28 %
-SourceMap        0 secs          ░░░░░░░░░░░░░░░░░░░░░░░░░   00.47 %
-```
-
 <!--END_SECTION:waka-->
 
 <br>
@@ -35,14 +25,14 @@ SourceMap        0 secs          ░░░░░░░░░░░░░░░�
 			<th>🇷🇺 На русском (<a href="https://t.me/tginfo">@tginfo</a>)</th>
 		</tr>
 		<caption>🚩 <a href="https://t.me/tginfo">@tginfo</a> in your language: <a href="https://t.me/tginfoworld"><b>@tginfoworld</b></a><caption/>
-  <tr><td><a href="https://t.me/tginfoen/1404">Telegram Premium is already in Beta version for Android</a></td>
+  <tr><td><a href="https://t.me/tginfoen/1406">Durov officially announced Telegram Premium</a></td>
+    <td><a href="https://t.me/tginfo/3331">Дуров официально анонсировал Telegram Premium</a></td></tr><tr><td><a href="https://t.me/tginfoen/1404">Telegram Premium is already in Beta version for Android</a></td>
     <td><a href="https://t.me/tginfo/3330">Блокировка VPN-сервисов в России и новые возможности Telegram Info VPN </a></td></tr><tr><td><a href="https://t.me/tginfoen/1403">Telegram Premium: all the details of a paid subscription</a></td>
-    <td><a href="https://t.me/tginfo/3329">Telegram Premium уже в Beta-версии для Android</a></td></tr><tr><td><a href="https://t.me/tginfoen/1402">Der Spiegel reported that Telegram had handed over the data of several users to the German police.</a></td>
-    <td><a href="https://t.me/tginfo/3328">Telegram Premium: все подробности подписки</a></td></tr>
+    <td><a href="https://t.me/tginfo/3329">Telegram Premium уже в Beta-версии для Android</a></td></tr>
 </table>
 We are also available on <a href="https://github.com/tginfo"><b>🐙 GitHub</b></a>!
 </div>
 
 <br>
 <hr>
-<h4 align="center">This README file is generated <b>every 6 hours</b>!</br>Last refresh: <b>2022-06-10 08:17:21 (UTC time)</b></h4>
+<h4 align="center">This README file is generated <b>every 6 hours</b>!</br>Last refresh: <b>2022-06-10 20:14:17 (UTC time)</b></h4>
