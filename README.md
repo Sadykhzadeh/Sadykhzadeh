@@ -14,16 +14,6 @@
 <h2>📊 This week I spent my time using:</h2>
 
 <!--START_SECTION:waka-->
-
-```text
-TypeScript   2 hrs 7 mins    █████████████████▒░░░░░░░   69.02 %
-Rust         33 mins         ████▓░░░░░░░░░░░░░░░░░░░░   18.08 %
-JSON         14 mins         ██░░░░░░░░░░░░░░░░░░░░░░░   07.63 %
-INI          3 mins          ▒░░░░░░░░░░░░░░░░░░░░░░░░   01.85 %
-Bash         2 mins          ▒░░░░░░░░░░░░░░░░░░░░░░░░   01.52 %
-HTML         2 mins          ▒░░░░░░░░░░░░░░░░░░░░░░░░   01.32 %
-```
-
 <!--END_SECTION:waka-->
 
 <br>
@@ -35,14 +25,14 @@ HTML         2 mins          ▒░░░░░░░░░░░░░░░░
 			<th>🇷🇺 На русском (<a href="https://t.me/tginfo">@tginfo</a>)</th>
 		</tr>
 		<caption>🚩 <a href="https://t.me/tginfo">@tginfo</a> in your language: <a href="https://t.me/tginfoworld"><b>@tginfoworld</b></a><caption/>
-  <tr><td><a href="https://t.me/tginfoen/1406">Durov officially announced Telegram Premium</a></td>
-    <td><a href="https://t.me/tginfo/3331">Дуров официально анонсировал Telegram Premium</a></td></tr><tr><td><a href="https://t.me/tginfoen/1404">Telegram Premium is already in Beta version for Android</a></td>
-    <td><a href="https://t.me/tginfo/3330">Блокировка VPN-сервисов в России и новые возможности Telegram Info VPN </a></td></tr><tr><td><a href="https://t.me/tginfoen/1403">Telegram Premium: all the details of a paid subscription</a></td>
-    <td><a href="https://t.me/tginfo/3329">Telegram Premium уже в Beta-версии для Android</a></td></tr>
+  <tr><td><a href="https://t.me/tginfoen/1408">Telegram Premium price</a></td>
+    <td><a href="https://t.me/tginfo/3333">Стоимость Telegram Premium в России</a></td></tr><tr><td><a href="https://t.me/tginfoen/1407">Pavel Durov accused Apple for its restrictions on web applications</a></td>
+    <td><a href="https://t.me/tginfo/3332">Павел Дуров обвинил Apple в ограничениях для веб-приложений</a></td></tr><tr><td><a href="https://t.me/tginfoen/1406">Durov officially announced Telegram Premium</a></td>
+    <td><a href="https://t.me/tginfo/3331">Дуров официально анонсировал Telegram Premium</a></td></tr>
 </table>
 We are also available on <a href="https://github.com/tginfo"><b>🐙 GitHub</b></a>!
 </div>
 
 <br>
 <hr>
-<h4 align="center">This README file is generated <b>every 6 hours</b>!</br>Last refresh: <b>2022-06-13 08:17:37 (UTC time)</b></h4>
+<h4 align="center">This README file is generated <b>every 6 hours</b>!</br>Last refresh: <b>2022-06-13 20:15:06 (UTC time)</b></h4>
