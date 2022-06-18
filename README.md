@@ -14,16 +14,6 @@
 <h2>📊 This week I spent my time using:</h2>
 
 <!--START_SECTION:waka-->
-
-```text
-TypeScript   4 hrs 50 mins   ██████████████████████▓░░   90.44 %
-Bash         13 mins         █░░░░░░░░░░░░░░░░░░░░░░░░   04.09 %
-JSON         9 mins          ▓░░░░░░░░░░░░░░░░░░░░░░░░   02.94 %
-INI          3 mins          ▒░░░░░░░░░░░░░░░░░░░░░░░░   01.06 %
-HTML         2 mins          ▒░░░░░░░░░░░░░░░░░░░░░░░░   00.76 %
-Other        1 min           ░░░░░░░░░░░░░░░░░░░░░░░░░   00.58 %
-```
-
 <!--END_SECTION:waka-->
 
 <br>
@@ -35,14 +25,14 @@ Other        1 min           ░░░░░░░░░░░░░░░░░
 			<th>🇷🇺 На русском (<a href="https://t.me/tginfo">@tginfo</a>)</th>
 		</tr>
 		<caption>🚩 <a href="https://t.me/tginfo">@tginfo</a> in your language: <a href="https://t.me/tginfoworld"><b>@tginfoworld</b></a><caption/>
-  <tr><td><a href="https://t.me/tginfoen/1421">🏆 Telegram X Android Competition: Round 1 </a></td>
-    <td><a href="https://t.me/tginfo/3347">Telegram объявил новый конкурс для Android-разработчиков</a></td></tr><tr><td><a href="https://t.me/tginfoen/1420">Telegram Premium might be not available in some regions</a></td>
-    <td><a href="https://t.me/tginfo/3346">Telegram Premium может быть доступен не во всех регионах</a></td></tr><tr><td><a href="https://t.me/tginfoen/1419">Telegram Premium will be more expensive in App Store</a></td>
-    <td><a href="https://t.me/tginfo/3345">Telegram Premium в App Store будет дороже</a></td></tr>
+  <tr><td><a href="https://t.me/tginfoen/1423">Telegram X is now open source</a></td>
+    <td><a href="https://t.me/tginfo/3349">Telegram X открыл исходный код</a></td></tr><tr><td><a href="https://t.me/tginfoen/1422">Telegram X Android updated to stable version 0.24.9</a></td>
+    <td><a href="https://t.me/tginfo/3348">Telegram X обновился до версии 0.24.9</a></td></tr><tr><td><a href="https://t.me/tginfoen/1421">🏆 Telegram X Android Competition: Round 1 </a></td>
+    <td><a href="https://t.me/tginfo/3347">Telegram объявил новый конкурс для Android-разработчиков</a></td></tr>
 </table>
 We are also available on <a href="https://github.com/tginfo"><b>🐙 GitHub</b></a>!
 </div>
 
 <br>
 <hr>
-<h4 align="center">This README file is generated <b>every 6 hours</b>!</br>Last refresh: <b>2022-06-17 20:13:46 (UTC time)</b></h4>
+<h4 align="center">This README file is generated <b>every 6 hours</b>!</br>Last refresh: <b>2022-06-18 08:16:55 (UTC time)</b></h4>
