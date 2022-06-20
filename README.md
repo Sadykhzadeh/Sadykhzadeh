@@ -14,13 +14,6 @@
 <h2>📊 This week I spent my time using:</h2>
 
 <!--START_SECTION:waka-->
-
-```text
-TypeScript   2 hrs 51 mins   ███████████████████████▒░   93.49 %
-Bash         10 mins         █▒░░░░░░░░░░░░░░░░░░░░░░░   05.64 %
-Other        1 min           ▒░░░░░░░░░░░░░░░░░░░░░░░░   00.87 %
-```
-
 <!--END_SECTION:waka-->
 
 <br>
@@ -32,14 +25,14 @@ Other        1 min           ▒░░░░░░░░░░░░░░░░
 			<th>🇷🇺 На русском (<a href="https://t.me/tginfo">@tginfo</a>)</th>
 		</tr>
 		<caption>🚩 <a href="https://t.me/tginfo">@tginfo</a> in your language: <a href="https://t.me/tginfoworld"><b>@tginfoworld</b></a><caption/>
-  <tr><td><a href="https://t.me/tginfoen/1426">700 Million Users and Telegram Premium</a></td>
-    <td><a href="https://t.me/tginfo/3352">700 миллионов пользователей и Telegram Premium</a></td></tr><tr><td><a href="https://t.me/tginfoen/1425">Photos in bot descriptions</a></td>
-    <td><a href="https://t.me/tginfo/3351">Картинка в описании ботов в Telegram </a></td></tr><tr><td><a href="https://t.me/tginfoen/1424">Telegram bot for buying a Premium subscription</a></td>
-    <td><a href="https://t.me/tginfo/3350">Telegram-бот для покупки подписки Premium</a></td></tr>
+  <tr><td><a href="https://t.me/tginfoen/1430">Telegram Premium: additional account slots aren't so simple</a></td>
+    <td><a href="https://t.me/tginfo/3356">Telegram Premium: нюансы подключения аккаунтов</a></td></tr><tr><td><a href="https://t.me/tginfoen/1429">The update was released to Play Store, but without Premium yet</a></td>
+    <td><a href="https://t.me/tginfo/3355">Медиа в описании ботов для всех разработчиков</a></td></tr><tr><td><a href="https://t.me/tginfoen/1428">Add media to bot descriptions</a></td>
+    <td><a href="https://t.me/tginfo/3354">Обновление для Android вышло в Google Play, но пока без Premium</a></td></tr>
 </table>
 We are also available on <a href="https://github.com/tginfo"><b>🐙 GitHub</b></a>!
 </div>
 
 <br>
 <hr>
-<h4 align="center">This README file is generated <b>every 6 hours</b>!</br>Last refresh: <b>2022-06-20 08:24:44 (UTC time)</b></h4>
+<h4 align="center">This README file is generated <b>every 6 hours</b>!</br>Last refresh: <b>2022-06-20 20:16:29 (UTC time)</b></h4>
