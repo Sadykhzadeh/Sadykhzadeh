@@ -14,14 +14,6 @@
 <h2>📊 This week I spent my time using:</h2>
 
 <!--START_SECTION:waka-->
-
-```text
-TypeScript   47 mins         ███████████████████████░░   91.46 %
-Bash         4 mins          ██░░░░░░░░░░░░░░░░░░░░░░░   08.46 %
-Git Config   0 secs          ░░░░░░░░░░░░░░░░░░░░░░░░░   00.08 %
-Rust         0 secs          ░░░░░░░░░░░░░░░░░░░░░░░░░   00.00 %
-```
-
 <!--END_SECTION:waka-->
 
 <br>
@@ -33,14 +25,14 @@ Rust         0 secs          ░░░░░░░░░░░░░░░░░
 			<th>🇷🇺 На русском (<a href="https://t.me/tginfo">@tginfo</a>)</th>
 		</tr>
 		<caption>🚩 <a href="https://t.me/tginfo">@tginfo</a> in your language: <a href="https://t.me/tginfoworld"><b>@tginfoworld</b></a><caption/>
-  <tr><td><a href="https://t.me/tginfoen/1431">The Android app update was released to the website</a></td>
-    <td><a href="https://t.me/tginfo/3357">Обновление для Android вышло на сайте</a></td></tr><tr><td><a href="https://t.me/tginfoen/1430">Telegram Premium: additional account slots aren't so simple</a></td>
-    <td><a href="https://t.me/tginfo/3356">Telegram Premium: нюансы подключения аккаунтов</a></td></tr><tr><td><a href="https://t.me/tginfoen/1429">The update was released to Play Store, but without Premium yet</a></td>
-    <td><a href="https://t.me/tginfo/3355">Медиа в описании ботов для всех разработчиков</a></td></tr>
+  <tr><td><a href="https://t.me/tginfoen/1436">3% of Telegram users with Premium subscription will cover the server costs</a></td>
+    <td><a href="https://t.me/tginfo/3362">3% Premium-подписок хватит для покрытия расходов Telegram</a></td></tr><tr><td><a href="https://t.me/tginfoen/1435">How to suspend Telegram Premium?</a></td>
+    <td><a href="https://t.me/tginfo/3361">Как отключить Telegram Premium?</a></td></tr><tr><td><a href="https://t.me/tginfoen/1434">Bot API was updated to version 6.1</a></td>
+    <td><a href="https://t.me/tginfo/3360">Bot API был обновлён до версии 6.1</a></td></tr>
 </table>
 We are also available on <a href="https://github.com/tginfo"><b>🐙 GitHub</b></a>!
 </div>
 
 <br>
 <hr>
-<h4 align="center">This README file is generated <b>every 6 hours</b>!</br>Last refresh: <b>2022-06-21 08:17:51 (UTC time)</b></h4>
+<h4 align="center">This README file is generated <b>every 6 hours</b>!</br>Last refresh: <b>2022-06-21 20:17:10 (UTC time)</b></h4>
