@@ -14,12 +14,6 @@
 <h2>📊 This week I spent my time using:</h2>
 
 <!--START_SECTION:waka-->
-
-```text
-Rust         0 secs          ███████████████████▒░░░░░   77.20 %
-Other        0 secs          ███▓░░░░░░░░░░░░░░░░░░░░░   14.73 %
-```
-
 <!--END_SECTION:waka-->
 
 <br>
@@ -33,7 +27,7 @@ Other        0 secs          ███▓░░░░░░░░░░░░░
 		<caption>🚩 <a href="https://t.me/tginfo">@tginfo</a> in your language: <a href="https://t.me/tginfoworld"><b>@tginfoworld</b></a><caption/>
   <tr><td><a href="https://t.me/tginfoen/1436">3% of Telegram users with Premium subscription will cover the server costs</a></td>
     <td><a href="https://t.me/tginfo/3362">3% Premium-подписок хватит для покрытия расходов Telegram</a></td></tr><tr><td><a href="https://t.me/tginfoen/1435">How to suspend Telegram Premium?</a></td>
-    <td><a href="https://t.me/tginfo/3361">Как отключить Telegram Premium?</a></td></tr><tr><td><a href="https://t.me/tginfoen/1434">Bot API was updated to version 6.1</a></td>
+    <td><a href="https://t.me/tginfo/3361">Как отключить автопродление Telegram Premium?</a></td></tr><tr><td><a href="https://t.me/tginfoen/1434">Bot API was updated to version 6.1</a></td>
     <td><a href="https://t.me/tginfo/3360">Bot API был обновлён до версии 6.1</a></td></tr>
 </table>
 We are also available on <a href="https://github.com/tginfo"><b>🐙 GitHub</b></a>!
@@ -41,4 +35,4 @@ We are also available on <a href="https://github.com/tginfo"><b>🐙 GitHub</b><
 
 <br>
 <hr>
-<h4 align="center">This README file is generated <b>every 6 hours</b>!</br>Last refresh: <b>2022-06-21 20:17:10 (UTC time)</b></h4>
+<h4 align="center">This README file is generated <b>every 6 hours</b>!</br>Last refresh: <b>2022-06-22 08:21:07 (UTC time)</b></h4>
