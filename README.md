@@ -14,12 +14,6 @@
 <h2>📊 This week I spent my time using:</h2>
 
 <!--START_SECTION:waka-->
-
-```text
-Rust         0 secs          ███████████████████▒░░░░░   77.20 %
-Other        0 secs          ███▓░░░░░░░░░░░░░░░░░░░░░   14.73 %
-```
-
 <!--END_SECTION:waka-->
 
 <br>
@@ -41,4 +35,4 @@ We are also available on <a href="https://github.com/tginfo"><b>🐙 GitHub</b><
 
 <br>
 <hr>
-<h4 align="center">This README file is generated <b>every 6 hours</b>!</br>Last refresh: <b>2022-06-22 20:14:38 (UTC time)</b></h4>
+<h4 align="center">This README file is generated <b>every 6 hours</b>!</br>Last refresh: <b>2022-06-23 08:20:21 (UTC time)</b></h4>
