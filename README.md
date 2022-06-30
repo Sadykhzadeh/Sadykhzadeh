@@ -14,16 +14,6 @@
 <h2>📊 This week I spent my time using:</h2>
 
 <!--START_SECTION:waka-->
-
-```text
-Rust         1 hr            ███████████████▒░░░░░░░░░   60.82 %
-TypeScript   34 mins         ████████▓░░░░░░░░░░░░░░░░   34.75 %
-TOML         2 mins          ▓░░░░░░░░░░░░░░░░░░░░░░░░   02.45 %
-JSON         1 min           ▒░░░░░░░░░░░░░░░░░░░░░░░░   01.90 %
-JavaScript   0 secs          ░░░░░░░░░░░░░░░░░░░░░░░░░   00.08 %
-Other        0 secs          ░░░░░░░░░░░░░░░░░░░░░░░░░   00.00 %
-```
-
 <!--END_SECTION:waka-->
 
 <br>
@@ -36,13 +26,13 @@ Other        0 secs          ░░░░░░░░░░░░░░░░░
 		</tr>
 		<caption>🚩 <a href="https://t.me/tginfo">@tginfo</a> in your language: <a href="https://t.me/tginfoworld"><b>@tginfoworld</b></a><caption/>
   <tr><td><a href="https://t.me/tginfoen/1439">Spendings of Telegram in 2022</a></td>
-    <td><a href="https://t.me/tginfo/3366">Сколько тратит Telegram в 2022 году</a></td></tr><tr><td><a href="https://t.me/tginfoen/1438">Telegram Desktop has been updated to version 4.0.1 and then to 4.0.2</a></td>
-    <td><a href="https://t.me/tginfo/3365">Telegram Desktop обновился до версии 4.0.1, а затем до 4.0.2</a></td></tr><tr><td><a href="https://t.me/tginfoen/1437">The speech to text feature is safe</a></td>
-    <td><a href="https://t.me/tginfo/3364">Расшифровка голосовых сообщений — это безопасно</a></td></tr>
+    <td><a href="https://t.me/tginfo/3367">⁠⁠PaidSub — сервис для платной подписки на каналы</a></td></tr><tr><td><a href="https://t.me/tginfoen/1438">Telegram Desktop has been updated to version 4.0.1 and then to 4.0.2</a></td>
+    <td><a href="https://t.me/tginfo/3366">Сколько тратит Telegram в 2022 году</a></td></tr><tr><td><a href="https://t.me/tginfoen/1437">The speech to text feature is safe</a></td>
+    <td><a href="https://t.me/tginfo/3365">Telegram Desktop обновился до версии 4.0.1, а затем до 4.0.2</a></td></tr>
 </table>
 We are also available on <a href="https://github.com/tginfo"><b>🐙 GitHub</b></a>!
 </div>
 
 <br>
 <hr>
-<h4 align="center">This README file is generated <b>every 6 hours</b>!</br>Last refresh: <b>2022-06-30 08:19:09 (UTC time)</b></h4>
+<h4 align="center">This README file is generated <b>every 6 hours</b>!</br>Last refresh: <b>2022-06-30 20:15:17 (UTC time)</b></h4>
