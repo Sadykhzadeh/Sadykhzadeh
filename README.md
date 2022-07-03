@@ -14,14 +14,6 @@
 <h2>📊 This week I spent my time using:</h2>
 
 <!--START_SECTION:waka-->
-
-```text
-Rust         4 hrs 24 mins   ███████████████████████▓░   95.02 %
-TypeScript   11 mins         █░░░░░░░░░░░░░░░░░░░░░░░░   04.07 %
-TOML         2 mins          ▒░░░░░░░░░░░░░░░░░░░░░░░░   00.91 %
-Other        0 secs          ░░░░░░░░░░░░░░░░░░░░░░░░░   00.00 %
-```
-
 <!--END_SECTION:waka-->
 
 <br>
@@ -34,13 +26,13 @@ Other        0 secs          ░░░░░░░░░░░░░░░░░
 		</tr>
 		<caption>🚩 <a href="https://t.me/tginfo">@tginfo</a> in your language: <a href="https://t.me/tginfoworld"><b>@tginfoworld</b></a><caption/>
   <tr><td><a href="https://t.me/tginfoen/1441">Profile picture builder on Telegram for macOS</a></td>
-    <td><a href="https://t.me/tginfo/3369">Редактор аватаров в Telegram для macOS</a></td></tr><tr><td><a href="https://t.me/tginfoen/1440">Telegram might have medical ads in future</a></td>
-    <td><a href="https://t.me/tginfo/3368">В Telegram может появиться медицинская реклама</a></td></tr><tr><td><a href="https://t.me/tginfoen/1439">Spendings of Telegram in 2022</a></td>
-    <td><a href="https://t.me/tginfo/3367">⁠⁠PaidSub — сервис для платной подписки на каналы</a></td></tr>
+    <td><a href="https://t.me/tginfo/3370">Бот для отслеживания запросов властей к Telegram</a></td></tr><tr><td><a href="https://t.me/tginfoen/1440">Telegram might have medical ads in future</a></td>
+    <td><a href="https://t.me/tginfo/3369">Редактор аватаров в Telegram для macOS</a></td></tr><tr><td><a href="https://t.me/tginfoen/1439">Spendings of Telegram in 2022</a></td>
+    <td><a href="https://t.me/tginfo/3368">В Telegram может появиться медицинская реклама</a></td></tr>
 </table>
 We are also available on <a href="https://github.com/tginfo"><b>🐙 GitHub</b></a>!
 </div>
 
 <br>
 <hr>
-<h4 align="center">This README file is generated <b>every 6 hours</b>!</br>Last refresh: <b>2022-07-02 20:14:31 (UTC time)</b></h4>
+<h4 align="center">This README file is generated <b>every 6 hours</b>!</br>Last refresh: <b>2022-07-03 08:16:04 (UTC time)</b></h4>
