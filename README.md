@@ -14,15 +14,6 @@
 <h2>📊 This week I spent my time using:</h2>
 
 <!--START_SECTION:waka-->
-
-```text
-Rust         3 hrs 23 mins   ████████████████████████░   96.58 %
-JSON         3 mins          ▒░░░░░░░░░░░░░░░░░░░░░░░░   01.51 %
-JavaScript   1 min           ▒░░░░░░░░░░░░░░░░░░░░░░░░   00.84 %
-Docker       1 min           ▒░░░░░░░░░░░░░░░░░░░░░░░░   00.75 %
-Other        0 secs          ░░░░░░░░░░░░░░░░░░░░░░░░░   00.21 %
-```
-
 <!--END_SECTION:waka-->
 
 <br>
@@ -34,14 +25,14 @@ Other        0 secs          ░░░░░░░░░░░░░░░░░
 			<th>🇷🇺 На русском (<a href="https://t.me/tginfo">@tginfo</a>)</th>
 		</tr>
 		<caption>🚩 <a href="https://t.me/tginfo">@tginfo</a> in your language: <a href="https://t.me/tginfoworld"><b>@tginfoworld</b></a><caption/>
-  <tr><td><a href="https://t.me/tginfoen/1443">Submissions for the Android development contest were published</a></td>
-    <td><a href="https://t.me/tginfo/3371">Появились работы участников конкурса для Android-разработчиков</a></td></tr><tr><td><a href="https://t.me/tginfoen/1442">Official bot for tracking government requests</a></td>
-    <td><a href="https://t.me/tginfo/3370">Бот для отслеживания запросов властей к Telegram</a></td></tr><tr><td><a href="https://t.me/tginfoen/1441">Profile picture builder on Telegram for macOS</a></td>
-    <td><a href="https://t.me/tginfo/3369">Редактор аватаров в Telegram для macOS</a></td></tr>
+  <tr><td><a href="https://t.me/tginfoen/1444">Journalists traced Telegram's payment partners</a></td>
+    <td><a href="https://t.me/tginfo/3373">Результаты второго раунда конкурса GIF-анимаций</a></td></tr><tr><td><a href="https://t.me/tginfoen/1443">Submissions for the Android development contest were published</a></td>
+    <td><a href="https://t.me/tginfo/3372">«Медиазона» выяснила, кем являются партнёры Telegram по приёму оплаты</a></td></tr><tr><td><a href="https://t.me/tginfoen/1442">Official bot for tracking government requests</a></td>
+    <td><a href="https://t.me/tginfo/3371">Появились работы участников конкурса для Android-разработчиков</a></td></tr>
 </table>
 We are also available on <a href="https://github.com/tginfo"><b>🐙 GitHub</b></a>!
 </div>
 
 <br>
 <hr>
-<h4 align="center">This README file is generated <b>every 6 hours</b>!</br>Last refresh: <b>2022-07-07 08:18:39 (UTC time)</b></h4>
+<h4 align="center">This README file is generated <b>every 6 hours</b>!</br>Last refresh: <b>2022-07-07 20:15:27 (UTC time)</b></h4>
