@@ -14,16 +14,6 @@
 <h2>📊 This week I spent my time using:</h2>
 
 <!--START_SECTION:waka-->
-
-```text
-Java             21 mins         ██████████████████░░░░░░░   71.82 %
-JSON             3 mins          ██▓░░░░░░░░░░░░░░░░░░░░░░   10.82 %
-JavaScript       1 min           █▓░░░░░░░░░░░░░░░░░░░░░░░   06.03 %
-Docker           1 min           █▒░░░░░░░░░░░░░░░░░░░░░░░   05.40 %
-TypeScript       0 secs          ▓░░░░░░░░░░░░░░░░░░░░░░░░   02.46 %
-Other            0 secs          ▒░░░░░░░░░░░░░░░░░░░░░░░░   01.49 %
-```
-
 <!--END_SECTION:waka-->
 
 <br>
@@ -36,7 +26,7 @@ Other            0 secs          ▒░░░░░░░░░░░░░░�
 		</tr>
 		<caption>🚩 <a href="https://t.me/tginfo">@tginfo</a> in your language: <a href="https://t.me/tginfoworld"><b>@tginfoworld</b></a><caption/>
   <tr><td><a href="https://t.me/tginfoen/1447">Delete account immediately right from the app</a></td>
-    <td><a href="https://t.me/tginfo/3375">Немедленное удаление аккаунта</a></td></tr><tr><td><a href="https://t.me/tginfoen/1446">Telegram WebZ was updated to version 1.49.0</a></td>
+    <td><a href="https://t.me/tginfo/3375">Удаление аккаунта внутри приложения</a></td></tr><tr><td><a href="https://t.me/tginfoen/1446">Telegram WebZ was updated to version 1.49.0</a></td>
     <td><a href="https://t.me/tginfo/3374">Telegram WebZ обновился до версии 1.49.0</a></td></tr><tr><td><a href="https://t.me/tginfoen/1445">Results of the second round of the GIF contest were published</a></td>
     <td><a href="https://t.me/tginfo/3373">Результаты второго раунда конкурса GIF-анимаций</a></td></tr>
 </table>
@@ -45,4 +35,4 @@ We are also available on <a href="https://github.com/tginfo"><b>🐙 GitHub</b><
 
 <br>
 <hr>
-<h4 align="center">This README file is generated <b>every 6 hours</b>!</br>Last refresh: <b>2022-07-10 20:14:08 (UTC time)</b></h4>
+<h4 align="center">This README file is generated <b>every 6 hours</b>!</br>Last refresh: <b>2022-07-11 08:28:22 (UTC time)</b></h4>
