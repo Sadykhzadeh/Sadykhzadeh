@@ -14,16 +14,6 @@
 <h2>📊 This week I spent my time using:</h2>
 
 <!--START_SECTION:waka-->
-
-```text
-Kotlin           41 mins         ████████████████████▓░░░░   82.67 %
-Markdown         3 mins          █▓░░░░░░░░░░░░░░░░░░░░░░░   06.40 %
-JavaScript       3 mins          █▓░░░░░░░░░░░░░░░░░░░░░░░   06.22 %
-JSON             1 min           ▓░░░░░░░░░░░░░░░░░░░░░░░░   02.55 %
-GitIgnore file   0 secs          ▒░░░░░░░░░░░░░░░░░░░░░░░░   01.00 %
-Shell Script     0 secs          ░░░░░░░░░░░░░░░░░░░░░░░░░   00.40 %
-```
-
 <!--END_SECTION:waka-->
 
 <br>
@@ -35,9 +25,9 @@ Shell Script     0 secs          ░░░░░░░░░░░░░░░�
 			<th>🇷🇺 На русском (<a href="https://t.me/tginfo">@tginfo</a>)</th>
 		</tr>
 		<caption>🚩 <a href="https://t.me/tginfo">@tginfo</a> in your language: <a href="https://t.me/tginfoworld"><b>@tginfoworld</b></a><caption/>
-  <tr><td><a href="https://t.me/tginfoen/1457">Animated Emoji Sets</a></td>
-    <td><a href="https://t.me/tginfo/3387">Вопросы и ответы об автопродлении подписки</a></td></tr><tr><td><a href="https://t.me/tginfoen/1456">Automatic charges for Telegram Premium subscription</a></td>
-    <td><a href="https://t.me/tginfo/3386">Анимированные наборы эмодзи</a></td></tr><tr><td><a href="https://t.me/tginfoen/1455">Ads with animated emoji</a></td>
+  <tr><td><a href="https://t.me/tginfoen/1459">5000 subscribers of Telegram Info English and search for volunteers</a></td>
+    <td><a href="https://t.me/tginfo/3387">Вопросы и ответы об автопродлении подписки</a></td></tr><tr><td><a href="https://t.me/tginfoen/1458">Animated Emoji Sets</a></td>
+    <td><a href="https://t.me/tginfo/3386">Анимированные наборы эмодзи</a></td></tr><tr><td><a href="https://t.me/tginfoen/1457">Automatic charges for Telegram Premium subscription</a></td>
     <td><a href="https://t.me/tginfo/3385">Реклама с анимированными эмодзи</a></td></tr>
 </table>
 We are also available on <a href="https://github.com/tginfo"><b>🐙 GitHub</b></a>!
@@ -45,4 +35,4 @@ We are also available on <a href="https://github.com/tginfo"><b>🐙 GitHub</b><
 
 <br>
 <hr>
-<h4 align="center">This README file is generated <b>every 6 hours</b>!</br>Last refresh: <b>2022-07-21 08:18:42 (UTC time)</b></h4>
+<h4 align="center">This README file is generated <b>every 6 hours</b>!</br>Last refresh: <b>2022-07-21 20:16:39 (UTC time)</b></h4>
