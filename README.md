@@ -14,16 +14,6 @@
 <h2>📊 This week I spent my time using:</h2>
 
 <!--START_SECTION:waka-->
-
-```text
-JavaScript   2 hrs 12 mins   █████████████▒░░░░░░░░░░░   53.61 %
-TypeScript   55 mins         █████▓░░░░░░░░░░░░░░░░░░░   22.33 %
-JSON         22 mins         ██▒░░░░░░░░░░░░░░░░░░░░░░   09.02 %
-Markdown     18 mins         ██░░░░░░░░░░░░░░░░░░░░░░░   07.44 %
-Git Config   6 mins          ▓░░░░░░░░░░░░░░░░░░░░░░░░   02.82 %
-Other        5 mins          ▓░░░░░░░░░░░░░░░░░░░░░░░░   02.21 %
-```
-
 <!--END_SECTION:waka-->
 
 <br>
@@ -35,9 +25,9 @@ Other        5 mins          ▓░░░░░░░░░░░░░░░░
 			<th>🇷🇺 На русском (<a href="https://t.me/tginfo">@tginfo</a>)</th>
 		</tr>
 		<caption>🚩 <a href="https://t.me/tginfo">@tginfo</a> in your language: <a href="https://t.me/tginfoworld"><b>@tginfoworld</b></a><caption/>
-  <tr><td><a href="https://t.me/tginfoen/1459">5000 subscribers of Telegram Info English and search for volunteers</a></td>
-    <td><a href="https://t.me/tginfo/3387">Вопросы и ответы об автопродлении подписки</a></td></tr><tr><td><a href="https://t.me/tginfoen/1458">Animated Emoji Sets</a></td>
-    <td><a href="https://t.me/tginfo/3386">Анимированные наборы эмодзи</a></td></tr><tr><td><a href="https://t.me/tginfoen/1457">Automatic charges for Telegram Premium subscription</a></td>
+  <tr><td><a href="https://t.me/tginfoen/1460">Now we know our readers better:</a></td>
+    <td><a href="https://t.me/tginfo/3387">Вопросы и ответы об автопродлении подписки</a></td></tr><tr><td><a href="https://t.me/tginfoen/1459">5000 subscribers of Telegram Info English and search for volunteers</a></td>
+    <td><a href="https://t.me/tginfo/3386">Анимированные наборы эмодзи</a></td></tr><tr><td><a href="https://t.me/tginfoen/1458">Animated Emoji Sets</a></td>
     <td><a href="https://t.me/tginfo/3385">Реклама с анимированными эмодзи</a></td></tr>
 </table>
 We are also available on <a href="https://github.com/tginfo"><b>🐙 GitHub</b></a>!
@@ -45,4 +35,4 @@ We are also available on <a href="https://github.com/tginfo"><b>🐙 GitHub</b><
 
 <br>
 <hr>
-<h4 align="center">This README file is generated <b>every 6 hours</b>!</br>Last refresh: <b>2022-07-28 08:20:41 (UTC time)</b></h4>
+<h4 align="center">This README file is generated <b>every 6 hours</b>!</br>Last refresh: <b>2022-07-28 20:15:37 (UTC time)</b></h4>
