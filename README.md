@@ -14,16 +14,6 @@
 <h2>📊 This week I spent my time using:</h2>
 
 <!--START_SECTION:waka-->
-
-```text
-JavaScript   6 hrs 29 mins   ████████████████████▒░░░░   81.08 %
-Text         38 mins         ██░░░░░░░░░░░░░░░░░░░░░░░   08.02 %
-JSON         18 mins         █░░░░░░░░░░░░░░░░░░░░░░░░   03.82 %
-Git Config   13 mins         ▓░░░░░░░░░░░░░░░░░░░░░░░░   02.84 %
-CSS          7 mins          ▒░░░░░░░░░░░░░░░░░░░░░░░░   01.52 %
-Markdown     6 mins          ▒░░░░░░░░░░░░░░░░░░░░░░░░   01.45 %
-```
-
 <!--END_SECTION:waka-->
 
 <br>
@@ -35,14 +25,14 @@ Markdown     6 mins          ▒░░░░░░░░░░░░░░░░
 			<th>🇷🇺 На русском (<a href="https://t.me/tginfo">@tginfo</a>)</th>
 		</tr>
 		<caption>🚩 <a href="https://t.me/tginfo">@tginfo</a> in your language: <a href="https://t.me/tginfoworld"><b>@tginfoworld</b></a><caption/>
-  <tr><td><a href="https://t.me/tginfoen/1460">Now we know our readers better:</a></td>
-    <td><a href="https://t.me/tginfo/3387">Вопросы и ответы об автопродлении подписки</a></td></tr><tr><td><a href="https://t.me/tginfoen/1459">5000 subscribers of Telegram Info English and search for volunteers</a></td>
-    <td><a href="https://t.me/tginfo/3386">Анимированные наборы эмодзи</a></td></tr><tr><td><a href="https://t.me/tginfoen/1458">Animated Emoji Sets</a></td>
-    <td><a href="https://t.me/tginfo/3385">Реклама с анимированными эмодзи</a></td></tr>
+  <tr><td><a href="https://t.me/tginfoen/1461">Alternative payment methods</a></td>
+    <td><a href="https://t.me/tginfo/3389">Telegram грозит до 4 млн рублей штрафа</a></td></tr><tr><td><a href="https://t.me/tginfoen/1460">Now we know our readers better:</a></td>
+    <td><a href="https://t.me/tginfo/3388">Альтернативные способы оплаты</a></td></tr><tr><td><a href="https://t.me/tginfoen/1459">5000 subscribers of Telegram Info English and search for volunteers</a></td>
+    <td><a href="https://t.me/tginfo/3387">Вопросы и ответы об автопродлении подписки</a></td></tr>
 </table>
 We are also available on <a href="https://github.com/tginfo"><b>🐙 GitHub</b></a>!
 </div>
 
 <br>
 <hr>
-<h4 align="center">This README file is generated <b>every 6 hours</b>!</br>Last refresh: <b>2022-08-02 08:18:20 (UTC time)</b></h4>
+<h4 align="center">This README file is generated <b>every 6 hours</b>!</br>Last refresh: <b>2022-08-02 20:16:36 (UTC time)</b></h4>
