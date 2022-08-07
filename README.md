@@ -14,16 +14,6 @@
 <h2>📊 This week I spent my time using:</h2>
 
 <!--START_SECTION:waka-->
-
-```text
-JavaScript   6 hrs 58 mins   █████████████████▓░░░░░░░   70.98 %
-Text         1 hr 17 mins    ███▒░░░░░░░░░░░░░░░░░░░░░   13.09 %
-JSON         34 mins         █▒░░░░░░░░░░░░░░░░░░░░░░░   05.93 %
-CSS          23 mins         █░░░░░░░░░░░░░░░░░░░░░░░░   04.03 %
-Git Config   13 mins         ▓░░░░░░░░░░░░░░░░░░░░░░░░   02.28 %
-Markdown     9 mins          ▒░░░░░░░░░░░░░░░░░░░░░░░░   01.69 %
-```
-
 <!--END_SECTION:waka-->
 
 <br>
@@ -35,14 +25,14 @@ Markdown     9 mins          ▒░░░░░░░░░░░░░░░░
 			<th>🇷🇺 На русском (<a href="https://t.me/tginfo">@tginfo</a>)</th>
 		</tr>
 		<caption>🚩 <a href="https://t.me/tginfo">@tginfo</a> in your language: <a href="https://t.me/tginfoworld"><b>@tginfoworld</b></a><caption/>
-  <tr><td><a href="https://t.me/tginfoen/1461">Alternative payment methods</a></td>
+  <tr><td><a href="https://t.me/tginfoen/1462">Telegram WebZ updated to version 1.50.0</a></td>
+    <td><a href="https://t.me/tginfo/3390">Telegram WebZ обновился до версии 1.50.0</a></td></tr><tr><td><a href="https://t.me/tginfoen/1461">Alternative payment methods</a></td>
     <td><a href="https://t.me/tginfo/3389">Telegram грозит до 4 млн рублей штрафа</a></td></tr><tr><td><a href="https://t.me/tginfoen/1460">Now we know our readers better:</a></td>
-    <td><a href="https://t.me/tginfo/3388">Альтернативные способы оплаты</a></td></tr><tr><td><a href="https://t.me/tginfoen/1459">5000 subscribers of Telegram Info English and search for volunteers</a></td>
-    <td><a href="https://t.me/tginfo/3387">Вопросы и ответы об автопродлении подписки</a></td></tr>
+    <td><a href="https://t.me/tginfo/3388">Альтернативные способы оплаты</a></td></tr>
 </table>
 We are also available on <a href="https://github.com/tginfo"><b>🐙 GitHub</b></a>!
 </div>
 
 <br>
 <hr>
-<h4 align="center">This README file is generated <b>every 6 hours</b>!</br>Last refresh: <b>2022-08-07 08:16:48 (UTC time)</b></h4>
+<h4 align="center">This README file is generated <b>every 6 hours</b>!</br>Last refresh: <b>2022-08-07 20:15:14 (UTC time)</b></h4>
