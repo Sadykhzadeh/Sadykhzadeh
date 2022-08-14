@@ -26,13 +26,13 @@
 		</tr>
 		<caption>🚩 <a href="https://t.me/tginfo">@tginfo</a> in your language: <a href="https://t.me/tginfoworld"><b>@tginfoworld</b></a><caption/>
   <tr><td><a href="https://t.me/tginfoen/1464">Apple demanded Telemoji to be removed</a></td>
-    <td><a href="https://t.me/tginfo/3399">Apple потребовала убрать Telemoji</a></td></tr><tr><td><a href="https://t.me/tginfoen/1463">Telegram Emoji Platform, Custom Animated Emoji Packs, Gifting Telegram Premium, and More</a></td>
-    <td><a href="https://t.me/tginfo/3398">Блокировка голосовых сообщений (только для Premium)</a></td></tr><tr><td><a href="https://t.me/tginfoen/1462">Telegram WebZ updated to version 1.50.0</a></td>
-    <td><a href="https://t.me/tginfo/3397">Возможность подарить Telegram Premium</a></td></tr>
+    <td><a href="https://t.me/tginfo/3400">FAQ для Premium-подписки от Telegram</a></td></tr><tr><td><a href="https://t.me/tginfoen/1463">Telegram Emoji Platform, Custom Animated Emoji Packs, Gifting Telegram Premium, and More</a></td>
+    <td><a href="https://t.me/tginfo/3399">Apple потребовала убрать Telemoji</a></td></tr><tr><td><a href="https://t.me/tginfoen/1462">Telegram WebZ updated to version 1.50.0</a></td>
+    <td><a href="https://t.me/tginfo/3398">Блокировка голосовых сообщений (только для Premium)</a></td></tr>
 </table>
 We are also available on <a href="https://github.com/tginfo"><b>🐙 GitHub</b></a>!
 </div>
 
 <br>
 <hr>
-<h4 align="center">This README file is generated <b>every 6 hours</b>!</br>Last refresh: <b>2022-08-13 20:14:54 (UTC time)</b></h4>
+<h4 align="center">This README file is generated <b>every 6 hours</b>!</br>Last refresh: <b>2022-08-14 08:16:46 (UTC time)</b></h4>
