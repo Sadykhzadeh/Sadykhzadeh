@@ -14,16 +14,6 @@
 <h2>📊 This week I spent my time using:</h2>
 
 <!--START_SECTION:waka-->
-
-```text
-TypeScript       1 hr 35 mins    ██████████▒░░░░░░░░░░░░░░   41.65 %
-JavaScript       1 hr 14 mins    ████████░░░░░░░░░░░░░░░░░   32.24 %
-JSON             28 mins         ███░░░░░░░░░░░░░░░░░░░░░░   12.38 %
-GitIgnore file   12 mins         █▒░░░░░░░░░░░░░░░░░░░░░░░   05.42 %
-YAML             10 mins         █░░░░░░░░░░░░░░░░░░░░░░░░   04.38 %
-Markdown         3 mins          ▒░░░░░░░░░░░░░░░░░░░░░░░░   01.58 %
-```
-
 <!--END_SECTION:waka-->
 
 <br>
@@ -35,14 +25,14 @@ Markdown         3 mins          ▒░░░░░░░░░░░░░░�
 			<th>🇷🇺 На русском (<a href="https://t.me/tginfo">@tginfo</a>)</th>
 		</tr>
 		<caption>🚩 <a href="https://t.me/tginfo">@tginfo</a> in your language: <a href="https://t.me/tginfoworld"><b>@tginfoworld</b></a><caption/>
-  <tr><td><a href="https://t.me/tginfoen/1466">🎉 Telegram becomes 9 years old!</a></td>
-    <td><a href="https://t.me/tginfo/3401">🎉 Telegram исполняется 9 лет!</a></td></tr><tr><td><a href="https://t.me/tginfoen/1465">Telegram Premium FAQ</a></td>
-    <td><a href="https://t.me/tginfo/3400">FAQ для Premium-подписки от Telegram</a></td></tr><tr><td><a href="https://t.me/tginfoen/1464">Apple demanded Telemoji to be removed</a></td>
-    <td><a href="https://t.me/tginfo/3399">Apple потребовала убрать Telemoji</a></td></tr>
+  <tr><td><a href="https://t.me/tginfoen/1467">Telegram Desktop has been updated to version 4.1.1</a></td>
+    <td><a href="https://t.me/tginfo/3404">Telegram оштрафовали на 7 млн рублей за отказ удалить инструкции по проведению диверсий</a></td></tr><tr><td><a href="https://t.me/tginfoen/1466">🎉 Telegram becomes 9 years old!</a></td>
+    <td><a href="https://t.me/tginfo/3403">Telegram грозит 4 млн рублей штрафа</a></td></tr><tr><td><a href="https://t.me/tginfoen/1465">Telegram Premium FAQ</a></td>
+    <td><a href="https://t.me/tginfo/3402">Telegram Desktop обновился до версии 4.1.1</a></td></tr>
 </table>
 We are also available on <a href="https://github.com/tginfo"><b>🐙 GitHub</b></a>!
 </div>
 
 <br>
 <hr>
-<h4 align="center">This README file is generated <b>every 6 hours</b>!</br>Last refresh: <b>2022-08-16 08:15:10 (UTC time)</b></h4>
+<h4 align="center">This README file is generated <b>every 6 hours</b>!</br>Last refresh: <b>2022-08-16 20:16:03 (UTC time)</b></h4>
