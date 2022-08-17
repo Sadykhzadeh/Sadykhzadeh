@@ -14,16 +14,6 @@
 <h2>📊 This week I spent my time using:</h2>
 
 <!--START_SECTION:waka-->
-
-```text
-TypeScript       1 hr 35 mins    ███████████░░░░░░░░░░░░░░   44.17 %
-JavaScript       1 hr 21 mins    █████████▒░░░░░░░░░░░░░░░   37.45 %
-JSON             23 mins         ██▓░░░░░░░░░░░░░░░░░░░░░░   10.87 %
-YAML             10 mins         █░░░░░░░░░░░░░░░░░░░░░░░░   04.66 %
-GitIgnore file   4 mins          ▓░░░░░░░░░░░░░░░░░░░░░░░░   02.09 %
-CSS              0 secs          ░░░░░░░░░░░░░░░░░░░░░░░░░   00.44 %
-```
-
 <!--END_SECTION:waka-->
 
 <br>
@@ -36,13 +26,13 @@ CSS              0 secs          ░░░░░░░░░░░░░░░�
 		</tr>
 		<caption>🚩 <a href="https://t.me/tginfo">@tginfo</a> in your language: <a href="https://t.me/tginfoworld"><b>@tginfoworld</b></a><caption/>
   <tr><td><a href="https://t.me/tginfoen/1467">Telegram Desktop has been updated to version 4.1.1</a></td>
-    <td><a href="https://t.me/tginfo/3404">Telegram оштрафовали на 7 млн рублей за отказ удалить инструкции по проведению диверсий</a></td></tr><tr><td><a href="https://t.me/tginfoen/1466">🎉 Telegram becomes 9 years old!</a></td>
-    <td><a href="https://t.me/tginfo/3403">Telegram грозит 4 млн рублей штрафа</a></td></tr><tr><td><a href="https://t.me/tginfoen/1465">Telegram Premium FAQ</a></td>
-    <td><a href="https://t.me/tginfo/3402">Telegram Desktop обновился до версии 4.1.1</a></td></tr>
+    <td><a href="https://t.me/tginfo/3405">Поддержка сервисов Huawei в Telegram</a></td></tr><tr><td><a href="https://t.me/tginfoen/1466">🎉 Telegram becomes 9 years old!</a></td>
+    <td><a href="https://t.me/tginfo/3404">Telegram оштрафовали на 7 млн рублей за отказ удалить инструкции по проведению диверсий</a></td></tr><tr><td><a href="https://t.me/tginfoen/1465">Telegram Premium FAQ</a></td>
+    <td><a href="https://t.me/tginfo/3403">Telegram грозит 4 млн рублей штрафа</a></td></tr>
 </table>
 We are also available on <a href="https://github.com/tginfo"><b>🐙 GitHub</b></a>!
 </div>
 
 <br>
 <hr>
-<h4 align="center">This README file is generated <b>every 6 hours</b>!</br>Last refresh: <b>2022-08-17 08:18:50 (UTC time)</b></h4>
+<h4 align="center">This README file is generated <b>every 6 hours</b>!</br>Last refresh: <b>2022-08-17 20:15:30 (UTC time)</b></h4>
