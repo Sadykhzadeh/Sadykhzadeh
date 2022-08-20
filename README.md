@@ -14,16 +14,6 @@
 <h2>📊 This week I spent my time using:</h2>
 
 <!--START_SECTION:waka-->
-
-```text
-TypeScript       3 hrs 57 mins   ██████████████▓░░░░░░░░░░   58.58 %
-JavaScript       2 hrs 2 mins    ███████▓░░░░░░░░░░░░░░░░░   30.21 %
-JSON             35 mins         ██▒░░░░░░░░░░░░░░░░░░░░░░   08.78 %
-YAML             5 mins          ▒░░░░░░░░░░░░░░░░░░░░░░░░   01.24 %
-GitIgnore file   2 mins          ░░░░░░░░░░░░░░░░░░░░░░░░░   00.60 %
-HTML             0 secs          ░░░░░░░░░░░░░░░░░░░░░░░░░   00.16 %
-```
-
 <!--END_SECTION:waka-->
 
 <br>
@@ -36,13 +26,13 @@ HTML             0 secs          ░░░░░░░░░░░░░░░�
 		</tr>
 		<caption>🚩 <a href="https://t.me/tginfo">@tginfo</a> in your language: <a href="https://t.me/tginfoworld"><b>@tginfoworld</b></a><caption/>
   <tr><td><a href="https://t.me/tginfoen/1471">Telegram revokes inactive names</a></td>
-    <td><a href="https://t.me/tginfo/3408">Роскомнадзор принял меры в отношении Telegram</a></td></tr><tr><td><a href="https://t.me/tginfoen/1469">Scams on the Telegram Ad Platform</a></td>
-    <td><a href="https://t.me/tginfo/3407">Telegram отзывает неактивные юзернеймы</a></td></tr><tr><td><a href="https://t.me/tginfoen/1468">Huawei Services Support</a></td>
-    <td><a href="https://t.me/tginfo/3406">Скам-каналы на рекламной платформе Telegram</a></td></tr>
+    <td><a href="https://t.me/tginfo/3409">App Store продвигает Premium-подписку </a></td></tr><tr><td><a href="https://t.me/tginfoen/1469">Scams on the Telegram Ad Platform</a></td>
+    <td><a href="https://t.me/tginfo/3408">Роскомнадзор принял меры в отношении Telegram</a></td></tr><tr><td><a href="https://t.me/tginfoen/1468">Huawei Services Support</a></td>
+    <td><a href="https://t.me/tginfo/3407">Telegram отзывает неактивные юзернеймы</a></td></tr>
 </table>
 We are also available on <a href="https://github.com/tginfo"><b>🐙 GitHub</b></a>!
 </div>
 
 <br>
 <hr>
-<h4 align="center">This README file is generated <b>every 6 hours</b>!</br>Last refresh: <b>2022-08-20 08:18:36 (UTC time)</b></h4>
+<h4 align="center">This README file is generated <b>every 6 hours</b>!</br>Last refresh: <b>2022-08-20 20:15:08 (UTC time)</b></h4>
