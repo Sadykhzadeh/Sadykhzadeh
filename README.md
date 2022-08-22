@@ -14,16 +14,6 @@
 <h2>📊 This week I spent my time using:</h2>
 
 <!--START_SECTION:waka-->
-
-```text
-JavaScript       4 hrs 34 mins   ███████████▒░░░░░░░░░░░░░   45.51 %
-TypeScript       4 hrs 12 mins   ██████████▒░░░░░░░░░░░░░░   41.78 %
-JSON             44 mins         █▓░░░░░░░░░░░░░░░░░░░░░░░   07.32 %
-Bash             10 mins         ▒░░░░░░░░░░░░░░░░░░░░░░░░   01.69 %
-Docker           9 mins          ▒░░░░░░░░░░░░░░░░░░░░░░░░   01.65 %
-Markdown         4 mins          ▒░░░░░░░░░░░░░░░░░░░░░░░░   00.76 %
-```
-
 <!--END_SECTION:waka-->
 
 <br>
@@ -35,14 +25,14 @@ Markdown         4 mins          ▒░░░░░░░░░░░░░░�
 			<th>🇷🇺 На русском (<a href="https://t.me/tginfo">@tginfo</a>)</th>
 		</tr>
 		<caption>🚩 <a href="https://t.me/tginfo">@tginfo</a> in your language: <a href="https://t.me/tginfoworld"><b>@tginfoworld</b></a><caption/>
-  <tr><td><a href="https://t.me/tginfoen/1471">Telegram revokes inactive names</a></td>
-    <td><a href="https://t.me/tginfo/3409">App Store продвигает Premium-подписку </a></td></tr><tr><td><a href="https://t.me/tginfoen/1469">Scams on the Telegram Ad Platform</a></td>
-    <td><a href="https://t.me/tginfo/3408">Роскомнадзор принял меры в отношении Telegram</a></td></tr><tr><td><a href="https://t.me/tginfoen/1468">Huawei Services Support</a></td>
-    <td><a href="https://t.me/tginfo/3407">Telegram отзывает неактивные юзернеймы</a></td></tr>
+  <tr><td><a href="https://t.me/tginfoen/1473">Pavel Durov intends to deeply integrate the TON cryptocurrency into Telegram</a></td>
+    <td><a href="https://t.me/tginfo/3411">Павел Дуров намерен глубоко интегрировать криптовалюту TON в Telegram</a></td></tr><tr><td><a href="https://t.me/tginfoen/1472">You can no longer gift cheap Telegram Premium subscriptions to users from other countries </a></td>
+    <td><a href="https://t.me/tginfo/3410">Подарить дешёвую подписку Telegram Premium в другие страны больше не получится </a></td></tr><tr><td><a href="https://t.me/tginfoen/1471">Telegram revokes inactive names</a></td>
+    <td><a href="https://t.me/tginfo/3409">App Store продвигает Premium-подписку </a></td></tr>
 </table>
 We are also available on <a href="https://github.com/tginfo"><b>🐙 GitHub</b></a>!
 </div>
 
 <br>
 <hr>
-<h4 align="center">This README file is generated <b>every 6 hours</b>!</br>Last refresh: <b>2022-08-22 08:18:59 (UTC time)</b></h4>
+<h4 align="center">This README file is generated <b>every 6 hours</b>!</br>Last refresh: <b>2022-08-22 20:15:07 (UTC time)</b></h4>
