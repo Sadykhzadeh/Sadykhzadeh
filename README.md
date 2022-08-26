@@ -14,16 +14,6 @@
 <h2>📊 This week I spent my time using:</h2>
 
 <!--START_SECTION:waka-->
-
-```text
-JavaScript       4 hrs 53 mins   █████████████░░░░░░░░░░░░   51.51 %
-TypeScript       2 hrs 54 mins   ███████▓░░░░░░░░░░░░░░░░░   30.57 %
-JSON             34 mins         █▓░░░░░░░░░░░░░░░░░░░░░░░   06.08 %
-YAML             32 mins         █▒░░░░░░░░░░░░░░░░░░░░░░░   05.63 %
-Markdown         10 mins         ▒░░░░░░░░░░░░░░░░░░░░░░░░   01.80 %
-Bash             10 mins         ▒░░░░░░░░░░░░░░░░░░░░░░░░   01.79 %
-```
-
 <!--END_SECTION:waka-->
 
 <br>
@@ -36,13 +26,13 @@ Bash             10 mins         ▒░░░░░░░░░░░░░░�
 		</tr>
 		<caption>🚩 <a href="https://t.me/tginfo">@tginfo</a> in your language: <a href="https://t.me/tginfoworld"><b>@tginfoworld</b></a><caption/>
   <tr><td><a href="https://t.me/tginfoen/1473">Pavel Durov intends to deeply integrate the TON cryptocurrency into Telegram</a></td>
-    <td><a href="https://t.me/tginfo/3411">Павел Дуров намерен глубоко интегрировать криптовалюту TON в Telegram</a></td></tr><tr><td><a href="https://t.me/tginfoen/1472">You can no longer gift cheap Telegram Premium subscriptions to users from other countries </a></td>
-    <td><a href="https://t.me/tginfo/3410">Подарить дешёвую подписку Telegram Premium в другие страны больше не получится </a></td></tr><tr><td><a href="https://t.me/tginfoen/1471">Telegram revokes inactive names</a></td>
-    <td><a href="https://t.me/tginfo/3409">App Store продвигает Premium-подписку </a></td></tr>
+    <td><a href="https://t.me/tginfo/3412">Путеводитель по продвижению канала в Telegram</a></td></tr><tr><td><a href="https://t.me/tginfoen/1472">You can no longer gift cheap Telegram Premium subscriptions to users from other countries </a></td>
+    <td><a href="https://t.me/tginfo/3411">Павел Дуров намерен глубоко интегрировать криптовалюту TON в Telegram</a></td></tr><tr><td><a href="https://t.me/tginfoen/1471">Telegram revokes inactive names</a></td>
+    <td><a href="https://t.me/tginfo/3410">Подарить дешёвую подписку Telegram Premium в другие страны больше не получится </a></td></tr>
 </table>
 We are also available on <a href="https://github.com/tginfo"><b>🐙 GitHub</b></a>!
 </div>
 
 <br>
 <hr>
-<h4 align="center">This README file is generated <b>every 6 hours</b>!</br>Last refresh: <b>2022-08-26 08:19:35 (UTC time)</b></h4>
+<h4 align="center">This README file is generated <b>every 6 hours</b>!</br>Last refresh: <b>2022-08-26 20:16:04 (UTC time)</b></h4>
