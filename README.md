@@ -14,16 +14,6 @@
 <h2>📊 This week I spent my time using:</h2>
 
 <!--START_SECTION:waka-->
-
-```text
-TypeScript       6 hrs 26 mins   ██████████████████▒░░░░░░   72.82 %
-JavaScript       1 hr 25 mins    ████░░░░░░░░░░░░░░░░░░░░░   16.05 %
-JSON             25 mins         █▒░░░░░░░░░░░░░░░░░░░░░░░   04.87 %
-Markdown         17 mins         █░░░░░░░░░░░░░░░░░░░░░░░░   03.37 %
-Bash             6 mins          ▒░░░░░░░░░░░░░░░░░░░░░░░░   01.21 %
-GitIgnore file   3 mins          ▒░░░░░░░░░░░░░░░░░░░░░░░░   00.69 %
-```
-
 <!--END_SECTION:waka-->
 
 <br>
@@ -35,14 +25,14 @@ GitIgnore file   3 mins          ▒░░░░░░░░░░░░░░�
 			<th>🇷🇺 На русском (<a href="https://t.me/tginfo">@tginfo</a>)</th>
 		</tr>
 		<caption>🚩 <a href="https://t.me/tginfo">@tginfo</a> in your language: <a href="https://t.me/tginfoworld"><b>@tginfoworld</b></a><caption/>
-  <tr><td><a href="https://t.me/tginfoen/1479">Telegram WebZ updated to version 1.51</a></td>
+  <tr><td><a href="https://t.me/tginfoen/1480">What to expect from the upcoming version of Telegram for Android</a></td>
+    <td><a href="https://t.me/tginfo/3419">Чего ждать от грядущего обновления Telegram для Android </a></td></tr><tr><td><a href="https://t.me/tginfoen/1479">Telegram WebZ updated to version 1.51</a></td>
     <td><a href="https://t.me/tginfo/3418">Telegram WebZ обновился до версии 1.51</a></td></tr><tr><td><a href="https://t.me/tginfoen/1478">Telegram user data disclosure policy in Germany</a></td>
-    <td><a href="https://t.me/tginfo/3417">Передача данных пользователей Telegram в Германии</a></td></tr><tr><td><a href="https://t.me/tginfoen/1477">Local Transcription on iOS</a></td>
-    <td><a href="https://t.me/tginfo/3416">Локальное распознавание речи на iOS</a></td></tr>
+    <td><a href="https://t.me/tginfo/3417">Передача данных пользователей Telegram в Германии</a></td></tr>
 </table>
 We are also available on <a href="https://github.com/tginfo"><b>🐙 GitHub</b></a>!
 </div>
 
 <br>
 <hr>
-<h4 align="center">This README file is generated <b>every 6 hours</b>!</br>Last refresh: <b>2022-09-02 08:18:35 (UTC time)</b></h4>
+<h4 align="center">This README file is generated <b>every 6 hours</b>!</br>Last refresh: <b>2022-09-02 20:15:54 (UTC time)</b></h4>
