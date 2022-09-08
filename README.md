@@ -14,16 +14,6 @@
 <h2>📊 This week I spent my time using:</h2>
 
 <!--START_SECTION:waka-->
-
-```text
-TypeScript   2 hrs 10 mins   ███████████████▒░░░░░░░░░   61.28 %
-JavaScript   52 mins         ██████░░░░░░░░░░░░░░░░░░░   24.61 %
-JSON         14 mins         █▓░░░░░░░░░░░░░░░░░░░░░░░   06.62 %
-Markdown     6 mins          ▓░░░░░░░░░░░░░░░░░░░░░░░░   03.25 %
-Bash         3 mins          ▒░░░░░░░░░░░░░░░░░░░░░░░░   01.70 %
-YAML         2 mins          ▒░░░░░░░░░░░░░░░░░░░░░░░░   01.22 %
-```
-
 <!--END_SECTION:waka-->
 
 <br>
@@ -36,13 +26,13 @@ YAML         2 mins          ▒░░░░░░░░░░░░░░░░
 		</tr>
 		<caption>🚩 <a href="https://t.me/tginfo">@tginfo</a> in your language: <a href="https://t.me/tginfoworld"><b>@tginfoworld</b></a><caption/>
   <tr><td><a href="https://t.me/tginfoen/1480">What to expect from the upcoming version of Telegram for Android</a></td>
-    <td><a href="https://t.me/tginfo/3421">Новый способ авторизации в Telegram. Уточнения</a></td></tr><tr><td><a href="https://t.me/tginfoen/1479">Telegram WebZ updated to version 1.51</a></td>
-    <td><a href="https://t.me/tginfo/3420">Авторизация через Apple ID или Google </a></td></tr><tr><td><a href="https://t.me/tginfoen/1478">Telegram user data disclosure policy in Germany</a></td>
-    <td><a href="https://t.me/tginfo/3419">Чего ждать от грядущего обновления Telegram для Android </a></td></tr>
+    <td><a href="https://t.me/tginfo/3422">Продвигаться в Telegram теперь можно по постоплате</a></td></tr><tr><td><a href="https://t.me/tginfoen/1479">Telegram WebZ updated to version 1.51</a></td>
+    <td><a href="https://t.me/tginfo/3421">Новый способ авторизации в Telegram. Уточнения</a></td></tr><tr><td><a href="https://t.me/tginfoen/1478">Telegram user data disclosure policy in Germany</a></td>
+    <td><a href="https://t.me/tginfo/3420">Авторизация через Apple ID или Google </a></td></tr>
 </table>
 We are also available on <a href="https://github.com/tginfo"><b>🐙 GitHub</b></a>!
 </div>
 
 <br>
 <hr>
-<h4 align="center">This README file is generated <b>every 6 hours</b>!</br>Last refresh: <b>2022-09-08 08:19:10 (UTC time)</b></h4>
+<h4 align="center">This README file is generated <b>every 6 hours</b>!</br>Last refresh: <b>2022-09-08 20:17:55 (UTC time)</b></h4>
