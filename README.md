@@ -14,12 +14,6 @@
 <h2>📊 This week I spent my time using:</h2>
 
 <!--START_SECTION:waka-->
-
-```text
-TypeScript   4 hrs 1 min     ██████████████████████▒░░   89.80 %
-Other        14 mins         █▒░░░░░░░░░░░░░░░░░░░░░░░   05.22 %
-```
-
 <!--END_SECTION:waka-->
 
 <br>
@@ -31,14 +25,14 @@ Other        14 mins         █▒░░░░░░░░░░░░░░░
 			<th>🇷🇺 На русском (<a href="https://t.me/tginfo">@tginfo</a>)</th>
 		</tr>
 		<caption>🚩 <a href="https://t.me/tginfo">@tginfo</a> in your language: <a href="https://t.me/tginfoworld"><b>@tginfoworld</b></a><caption/>
-  <tr><td><a href="https://t.me/tginfoen/1482">Telegram has updated the press page</a></td>
+  <tr><td><a href="https://t.me/tginfoen/1483">Rich text formatting on iOS 16 </a></td>
+    <td><a href="https://t.me/tginfo/3425">Форматирование текста с iOS 16 </a></td></tr><tr><td><a href="https://t.me/tginfoen/1482">Telegram has updated the press page</a></td>
     <td><a href="https://t.me/tginfo/3424">Telegram обновил пресс-страницу</a></td></tr><tr><td><a href="https://t.me/tginfoen/1481">Using email in Telegram</a></td>
-    <td><a href="https://t.me/tginfo/3423">Использование электронной почты в Telegram</a></td></tr><tr><td><a href="https://t.me/tginfoen/1480">What to expect from the upcoming version of Telegram for Android</a></td>
-    <td><a href="https://t.me/tginfo/3421">Новый способ авторизации в Telegram. Уточнения</a></td></tr>
+    <td><a href="https://t.me/tginfo/3423">Использование электронной почты в Telegram</a></td></tr>
 </table>
 We are also available on <a href="https://github.com/tginfo"><b>🐙 GitHub</b></a>!
 </div>
 
 <br>
 <hr>
-<h4 align="center">This README file is generated <b>every 6 hours</b>!</br>Last refresh: <b>2022-09-14 08:20:24 (UTC time)</b></h4>
+<h4 align="center">This README file is generated <b>every 6 hours</b>!</br>Last refresh: <b>2022-09-14 20:18:42 (UTC time)</b></h4>
