@@ -14,12 +14,6 @@
 <h2>📊 This week I spent my time using:</h2>
 
 <!--START_SECTION:waka-->
-
-```text
-TypeScript   3 hrs 45 mins   ██████████████████████▓░░   90.04 %
-Other        14 mins         █▒░░░░░░░░░░░░░░░░░░░░░░░   05.61 %
-```
-
 <!--END_SECTION:waka-->
 
 <br>
@@ -31,14 +25,14 @@ Other        14 mins         █▒░░░░░░░░░░░░░░░
 			<th>🇷🇺 На русском (<a href="https://t.me/tginfo">@tginfo</a>)</th>
 		</tr>
 		<caption>🚩 <a href="https://t.me/tginfo">@tginfo</a> in your language: <a href="https://t.me/tginfoworld"><b>@tginfoworld</b></a><caption/>
-  <tr><td><a href="https://t.me/tginfoen/1483">Rich text formatting on iOS 16 </a></td>
-    <td><a href="https://t.me/tginfo/3425">Форматирование текста с iOS 16 </a></td></tr><tr><td><a href="https://t.me/tginfoen/1482">Telegram has updated the press page</a></td>
-    <td><a href="https://t.me/tginfo/3424">Telegram обновил пресс-страницу</a></td></tr><tr><td><a href="https://t.me/tginfoen/1481">Using email in Telegram</a></td>
-    <td><a href="https://t.me/tginfo/3423">Использование электронной почты в Telegram</a></td></tr>
+  <tr><td><a href="https://t.me/tginfoen/1484">Telegram WebZ updated to version 1.52.0</a></td>
+    <td><a href="https://t.me/tginfo/3431">Улучшения при входе в аккаунт</a></td></tr><tr><td><a href="https://t.me/tginfoen/1483">Rich text formatting on iOS 16 </a></td>
+    <td><a href="https://t.me/tginfo/3430">Новые ссылки на профили пользователей</a></td></tr><tr><td><a href="https://t.me/tginfoen/1482">Telegram has updated the press page</a></td>
+    <td><a href="https://t.me/tginfo/3429">Эмодзи-статусы профиля</a></td></tr>
 </table>
 We are also available on <a href="https://github.com/tginfo"><b>🐙 GitHub</b></a>!
 </div>
 
 <br>
 <hr>
-<h4 align="center">This README file is generated <b>every 6 hours</b>!</br>Last refresh: <b>2022-09-16 08:20:16 (UTC time)</b></h4>
+<h4 align="center">This README file is generated <b>every 6 hours</b>!</br>Last refresh: <b>2022-09-16 20:17:00 (UTC time)</b></h4>
