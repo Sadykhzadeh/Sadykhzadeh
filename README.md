@@ -14,16 +14,6 @@
 <h2>📊 This week I spent my time using:</h2>
 
 <!--START_SECTION:waka-->
-
-```text
-JavaScript   1 hr 12 mins    ████████████▒░░░░░░░░░░░░   48.84 %
-HTML         33 mins         █████▓░░░░░░░░░░░░░░░░░░░   22.66 %
-Python       15 mins         ██▓░░░░░░░░░░░░░░░░░░░░░░   10.61 %
-Git Config   12 mins         ██░░░░░░░░░░░░░░░░░░░░░░░   08.49 %
-JSON         5 mins          █░░░░░░░░░░░░░░░░░░░░░░░░   03.69 %
-TypeScript   5 mins          █░░░░░░░░░░░░░░░░░░░░░░░░   03.64 %
-```
-
 <!--END_SECTION:waka-->
 
 <br>
@@ -36,13 +26,13 @@ TypeScript   5 mins          █░░░░░░░░░░░░░░░░
 		</tr>
 		<caption>🚩 <a href="https://t.me/tginfo">@tginfo</a> in your language: <a href="https://t.me/tginfoworld"><b>@tginfoworld</b></a><caption/>
   <tr><td><a href="https://t.me/tginfoen/1490">Telegram for iOS got an 9.0.1 version update</a></td>
-    <td><a href="https://t.me/tginfo/3432">Telegram для iOS получил обновление до версии 9.0.1</a></td></tr><tr><td><a href="https://t.me/tginfoen/1489">Improvements when signing in</a></td>
-    <td><a href="https://t.me/tginfo/3431">Улучшения при входе в аккаунт</a></td></tr><tr><td><a href="https://t.me/tginfoen/1488">New links to user profiles</a></td>
-    <td><a href="https://t.me/tginfo/3430">Новые ссылки на профили пользователей</a></td></tr>
+    <td><a href="https://t.me/tginfo/3433">Павел Дуров подтвердил блокировку каналов, связанных с Беларусью</a></td></tr><tr><td><a href="https://t.me/tginfoen/1489">Improvements when signing in</a></td>
+    <td><a href="https://t.me/tginfo/3432">Telegram для iOS получил обновление до версии 9.0.1</a></td></tr><tr><td><a href="https://t.me/tginfoen/1488">New links to user profiles</a></td>
+    <td><a href="https://t.me/tginfo/3431">Улучшения при входе в аккаунт</a></td></tr>
 </table>
 We are also available on <a href="https://github.com/tginfo"><b>🐙 GitHub</b></a>!
 </div>
 
 <br>
 <hr>
-<h4 align="center">This README file is generated <b>every 6 hours</b>!</br>Last refresh: <b>2022-09-24 08:19:53 (UTC time)</b></h4>
+<h4 align="center">This README file is generated <b>every 6 hours</b>!</br>Last refresh: <b>2022-09-24 20:16:14 (UTC time)</b></h4>
