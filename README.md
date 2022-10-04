@@ -14,16 +14,6 @@
 <h2>📊 This week I spent my time using:</h2>
 
 <!--START_SECTION:waka-->
-
-```text
-JavaScript   2 hrs 50 mins   ███████████████▓░░░░░░░░░   62.70 %
-Python       59 mins         █████▒░░░░░░░░░░░░░░░░░░░   21.98 %
-HTML         25 mins         ██▒░░░░░░░░░░░░░░░░░░░░░░   09.27 %
-Markdown     15 mins         █▒░░░░░░░░░░░░░░░░░░░░░░░   05.63 %
-CSS          0 secs          ░░░░░░░░░░░░░░░░░░░░░░░░░   00.35 %
-Git Config   0 secs          ░░░░░░░░░░░░░░░░░░░░░░░░░   00.06 %
-```
-
 <!--END_SECTION:waka-->
 
 <br>
@@ -35,14 +25,14 @@ Git Config   0 secs          ░░░░░░░░░░░░░░░░░
 			<th>🇷🇺 На русском (<a href="https://t.me/tginfo">@tginfo</a>)</th>
 		</tr>
 		<caption>🚩 <a href="https://t.me/tginfo">@tginfo</a> in your language: <a href="https://t.me/tginfoworld"><b>@tginfoworld</b></a><caption/>
-  <tr><td><a href="https://t.me/tginfoen/1492">Telegram Premium dropped price in India</a></td>
+  <tr><td><a href="https://t.me/tginfoen/1493">Telegram is preparing iOS contest</a></td>
+    <td><a href="https://t.me/tginfo/3436">Telegram готовит конкурс разработчиков для iOS</a></td></tr><tr><td><a href="https://t.me/tginfoen/1492">Telegram Premium dropped price in India</a></td>
     <td><a href="https://t.me/tginfo/3435">Telegram Premium подешевел в Индии</a></td></tr><tr><td><a href="https://t.me/tginfoen/1491">Telegram Desktop has been updated to version 4.2.3 and then to 4.2.4</a></td>
-    <td><a href="https://t.me/tginfo/3434">Telegram Desktop обновился до версии 4.2.3, а затем до версии 4.2.4</a></td></tr><tr><td><a href="https://t.me/tginfoen/1490">Telegram for iOS got an 9.0.1 version update</a></td>
-    <td><a href="https://t.me/tginfo/3433">Павел Дуров подтвердил блокировку каналов, связанных с Беларусью</a></td></tr>
+    <td><a href="https://t.me/tginfo/3434">Telegram Desktop обновился до версии 4.2.3, а затем до версии 4.2.4</a></td></tr>
 </table>
 We are also available on <a href="https://github.com/tginfo"><b>🐙 GitHub</b></a>!
 </div>
 
 <br>
 <hr>
-<h4 align="center">This README file is generated <b>every 6 hours</b>!</br>Last refresh: <b>2022-10-04 08:23:47 (UTC time)</b></h4>
+<h4 align="center">This README file is generated <b>every 6 hours</b>!</br>Last refresh: <b>2022-10-04 20:19:28 (UTC time)</b></h4>
