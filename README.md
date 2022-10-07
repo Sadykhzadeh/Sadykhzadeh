@@ -14,16 +14,6 @@
 <h2>📊 This week I spent my time using:</h2>
 
 <!--START_SECTION:waka-->
-
-```text
-Python       1 hr 14 mins    █████████▒░░░░░░░░░░░░░░░   37.99 %
-JavaScript   59 mins         ███████▓░░░░░░░░░░░░░░░░░   30.37 %
-SQL          25 mins         ███▒░░░░░░░░░░░░░░░░░░░░░   13.05 %
-Text         19 mins         ██▒░░░░░░░░░░░░░░░░░░░░░░   09.89 %
-TypeScript   12 mins         █▓░░░░░░░░░░░░░░░░░░░░░░░   06.31 %
-HTML         2 mins          ▒░░░░░░░░░░░░░░░░░░░░░░░░   01.47 %
-```
-
 <!--END_SECTION:waka-->
 
 <br>
@@ -36,13 +26,13 @@ HTML         2 mins          ▒░░░░░░░░░░░░░░░░
 		</tr>
 		<caption>🚩 <a href="https://t.me/tginfo">@tginfo</a> in your language: <a href="https://t.me/tginfoworld"><b>@tginfoworld</b></a><caption/>
   <tr><td><a href="https://t.me/tginfoen/1493">Telegram is preparing iOS contest</a></td>
-    <td><a href="https://t.me/tginfo/3436">Telegram готовит конкурс разработчиков для iOS</a></td></tr><tr><td><a href="https://t.me/tginfoen/1492">Telegram Premium dropped price in India</a></td>
-    <td><a href="https://t.me/tginfo/3435">Telegram Premium подешевел в Индии</a></td></tr><tr><td><a href="https://t.me/tginfoen/1491">Telegram Desktop has been updated to version 4.2.3 and then to 4.2.4</a></td>
-    <td><a href="https://t.me/tginfo/3434">Telegram Desktop обновился до версии 4.2.3, а затем до версии 4.2.4</a></td></tr>
+    <td><a href="https://t.me/tginfo/3437">Telegram в России продемонстрировал рекордный рост среди всех социальных платформ</a></td></tr><tr><td><a href="https://t.me/tginfoen/1492">Telegram Premium dropped price in India</a></td>
+    <td><a href="https://t.me/tginfo/3436">Telegram готовит конкурс разработчиков для iOS</a></td></tr><tr><td><a href="https://t.me/tginfoen/1491">Telegram Desktop has been updated to version 4.2.3 and then to 4.2.4</a></td>
+    <td><a href="https://t.me/tginfo/3435">Telegram Premium подешевел в Индии</a></td></tr>
 </table>
 We are also available on <a href="https://github.com/tginfo"><b>🐙 GitHub</b></a>!
 </div>
 
 <br>
 <hr>
-<h4 align="center">This README file is generated <b>every 6 hours</b>!</br>Last refresh: <b>2022-10-07 08:20:34 (UTC time)</b></h4>
+<h4 align="center">This README file is generated <b>every 6 hours</b>!</br>Last refresh: <b>2022-10-07 20:18:46 (UTC time)</b></h4>
