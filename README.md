@@ -14,16 +14,6 @@
 <h2>📊 This week I spent my time using:</h2>
 
 <!--START_SECTION:waka-->
-
-```text
-Python       53 mins         ██████████░░░░░░░░░░░░░░░   40.39 %
-SQL          25 mins         ████▓░░░░░░░░░░░░░░░░░░░░   19.24 %
-Text         19 mins         ███▓░░░░░░░░░░░░░░░░░░░░░   14.58 %
-JavaScript   18 mins         ███▒░░░░░░░░░░░░░░░░░░░░░   13.80 %
-TypeScript   12 mins         ██▒░░░░░░░░░░░░░░░░░░░░░░   09.30 %
-HTML         2 mins          ▓░░░░░░░░░░░░░░░░░░░░░░░░   02.17 %
-```
-
 <!--END_SECTION:waka-->
 
 <br>
@@ -35,14 +25,14 @@ HTML         2 mins          ▓░░░░░░░░░░░░░░░░
 			<th>🇷🇺 На русском (<a href="https://t.me/tginfo">@tginfo</a>)</th>
 		</tr>
 		<caption>🚩 <a href="https://t.me/tginfo">@tginfo</a> in your language: <a href="https://t.me/tginfoworld"><b>@tginfoworld</b></a><caption/>
-  <tr><td><a href="https://t.me/tginfoen/1493">Telegram is preparing iOS contest</a></td>
-    <td><a href="https://t.me/tginfo/3437">Telegram в России продемонстрировал рекордный рост среди всех социальных платформ</a></td></tr><tr><td><a href="https://t.me/tginfoen/1492">Telegram Premium dropped price in India</a></td>
-    <td><a href="https://t.me/tginfo/3436">Telegram готовит конкурс разработчиков для iOS</a></td></tr><tr><td><a href="https://t.me/tginfoen/1491">Telegram Desktop has been updated to version 4.2.3 and then to 4.2.4</a></td>
-    <td><a href="https://t.me/tginfo/3435">Telegram Premium подешевел в Индии</a></td></tr>
+  <tr><td><a href="https://t.me/tginfoen/1494">Telegram X Android updated to version 0.25.1.1560</a></td>
+    <td><a href="https://t.me/tginfo/3439">Telegram объявил новый конкурс для Android-разработчиков</a></td></tr><tr><td><a href="https://t.me/tginfoen/1493">Telegram is preparing iOS contest</a></td>
+    <td><a href="https://t.me/tginfo/3438">Telegram X обновился до версии 0.25.1.1560</a></td></tr><tr><td><a href="https://t.me/tginfoen/1492">Telegram Premium dropped price in India</a></td>
+    <td><a href="https://t.me/tginfo/3437">Telegram в России продемонстрировал рекордный рост среди всех социальных платформ</a></td></tr>
 </table>
 We are also available on <a href="https://github.com/tginfo"><b>🐙 GitHub</b></a>!
 </div>
 
 <br>
 <hr>
-<h4 align="center">This README file is generated <b>every 6 hours</b>!</br>Last refresh: <b>2022-10-08 08:21:11 (UTC time)</b></h4>
+<h4 align="center">This README file is generated <b>every 6 hours</b>!</br>Last refresh: <b>2022-10-08 20:17:19 (UTC time)</b></h4>
