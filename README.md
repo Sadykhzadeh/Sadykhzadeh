@@ -14,16 +14,6 @@
 <h2>📊 This week I spent my time using:</h2>
 
 <!--START_SECTION:waka-->
-
-```text
-SQL          25 mins         ██████▓░░░░░░░░░░░░░░░░░░   27.28 %
-Text         19 mins         █████▒░░░░░░░░░░░░░░░░░░░   20.67 %
-JavaScript   18 mins         █████░░░░░░░░░░░░░░░░░░░░   19.57 %
-Python       14 mins         ████░░░░░░░░░░░░░░░░░░░░░   15.46 %
-TypeScript   12 mins         ███▒░░░░░░░░░░░░░░░░░░░░░   13.20 %
-HTML         2 mins          ▓░░░░░░░░░░░░░░░░░░░░░░░░   03.08 %
-```
-
 <!--END_SECTION:waka-->
 
 <br>
@@ -35,14 +25,14 @@ HTML         2 mins          ▓░░░░░░░░░░░░░░░░
 			<th>🇷🇺 На русском (<a href="https://t.me/tginfo">@tginfo</a>)</th>
 		</tr>
 		<caption>🚩 <a href="https://t.me/tginfo">@tginfo</a> in your language: <a href="https://t.me/tginfoworld"><b>@tginfoworld</b></a><caption/>
-  <tr><td><a href="https://t.me/tginfoen/1496">Telegram announces the First Round of the iOS Contest 2022</a></td>
+  <tr><td><a href="https://t.me/tginfoen/1498">Telegram WebZ updated to version 1.53.0</a></td>
+    <td><a href="https://t.me/tginfo/3443">Telegram WebZ обновился до версии 1.53.0</a></td></tr><tr><td><a href="https://t.me/tginfoen/1496">Telegram announces the First Round of the iOS Contest 2022</a></td>
     <td><a href="https://t.me/tginfo/3442">В работе Telegram произошел сбой</a></td></tr><tr><td><a href="https://t.me/tginfoen/1494">Telegram X Android updated to version 0.25.1.1560</a></td>
-    <td><a href="https://t.me/tginfo/3440">Telegram объявляет первый этап конкурса для iOS-разработчиков</a></td></tr><tr><td><a href="https://t.me/tginfoen/1493">Telegram is preparing iOS contest</a></td>
-    <td><a href="https://t.me/tginfo/3439">Telegram объявил новый конкурс для Android-разработчиков</a></td></tr>
+    <td><a href="https://t.me/tginfo/3440">Telegram объявляет первый этап конкурса для iOS-разработчиков</a></td></tr>
 </table>
 We are also available on <a href="https://github.com/tginfo"><b>🐙 GitHub</b></a>!
 </div>
 
 <br>
 <hr>
-<h4 align="center">This README file is generated <b>every 6 hours</b>!</br>Last refresh: <b>2022-10-10 08:26:56 (UTC time)</b></h4>
+<h4 align="center">This README file is generated <b>every 6 hours</b>!</br>Last refresh: <b>2022-10-10 20:18:27 (UTC time)</b></h4>
