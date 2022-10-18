@@ -14,16 +14,6 @@
 <h2>📊 This week I spent my time using:</h2>
 
 <!--START_SECTION:waka-->
-
-```text
-Python           2 hrs 41 mins   ██████████▒░░░░░░░░░░░░░░   41.36 %
-SQL              1 hr 44 mins    ██████▓░░░░░░░░░░░░░░░░░░   26.81 %
-JavaScript       1 hr 27 mins    █████▓░░░░░░░░░░░░░░░░░░░   22.31 %
-HTML             26 mins         █▓░░░░░░░░░░░░░░░░░░░░░░░   06.76 %
-CSS              7 mins          ▒░░░░░░░░░░░░░░░░░░░░░░░░   01.86 %
-JSON             3 mins          ▒░░░░░░░░░░░░░░░░░░░░░░░░   00.87 %
-```
-
 <!--END_SECTION:waka-->
 
 <br>
@@ -35,9 +25,9 @@ JSON             3 mins          ▒░░░░░░░░░░░░░░�
 			<th>🇷🇺 На русском (<a href="https://t.me/tginfo">@tginfo</a>)</th>
 		</tr>
 		<caption>🚩 <a href="https://t.me/tginfo">@tginfo</a> in your language: <a href="https://t.me/tginfoworld"><b>@tginfoworld</b></a><caption/>
-  <tr><td><a href="https://t.me/tginfoen/1502">Import stickers from VK․com to Telegram</a></td>
-    <td><a href="https://t.me/tginfo/3450">Telegram работает нестабильно</a></td></tr><tr><td><a href="https://t.me/tginfoen/1501">Telegram is preparing to sell usernames on an auction</a></td>
-    <td><a href="https://t.me/tginfo/3449">Telegram оштрафован в Германии на €5,1 млн</a></td></tr><tr><td><a href="https://t.me/tginfoen/1500">⁠⁠⁠⁠⁠⁠Paid Telegram posts</a></td>
+  <tr><td><a href="https://t.me/tginfoen/1503">Telegram fined €5.1M by Germany</a></td>
+    <td><a href="https://t.me/tginfo/3450">Telegram работает нестабильно</a></td></tr><tr><td><a href="https://t.me/tginfoen/1502">Import stickers from VK․com to Telegram</a></td>
+    <td><a href="https://t.me/tginfo/3449">Telegram оштрафован в Германии на €5,1 млн</a></td></tr><tr><td><a href="https://t.me/tginfoen/1501">Telegram is preparing to sell usernames on an auction</a></td>
     <td><a href="https://t.me/tginfo/3448">Telegram готовится к продаже имён пользователей на аукционе</a></td></tr>
 </table>
 We are also available on <a href="https://github.com/tginfo"><b>🐙 GitHub</b></a>!
@@ -45,4 +35,4 @@ We are also available on <a href="https://github.com/tginfo"><b>🐙 GitHub</b><
 
 <br>
 <hr>
-<h4 align="center">This README file is generated <b>every 6 hours</b>!</br>Last refresh: <b>2022-10-17 20:18:54 (UTC time)</b></h4>
+<h4 align="center">This README file is generated <b>every 6 hours</b>!</br>Last refresh: <b>2022-10-18 08:29:13 (UTC time)</b></h4>
