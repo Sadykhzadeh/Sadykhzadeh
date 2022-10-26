@@ -14,16 +14,6 @@
 <h2>📊 This week I spent my time using:</h2>
 
 <!--START_SECTION:waka-->
-
-```text
-JavaScript   6 hrs 19 mins   ██████████████████▓░░░░░░   74.71 %
-SQL          40 mins         ██░░░░░░░░░░░░░░░░░░░░░░░   07.98 %
-JSON         26 mins         █▒░░░░░░░░░░░░░░░░░░░░░░░   05.31 %
-Bash         21 mins         █░░░░░░░░░░░░░░░░░░░░░░░░   04.27 %
-HTML         14 mins         ▓░░░░░░░░░░░░░░░░░░░░░░░░   02.95 %
-Markdown     10 mins         ▓░░░░░░░░░░░░░░░░░░░░░░░░   02.03 %
-```
-
 <!--END_SECTION:waka-->
 
 <br>
@@ -35,14 +25,14 @@ Markdown     10 mins         ▓░░░░░░░░░░░░░░░░
 			<th>🇷🇺 На русском (<a href="https://t.me/tginfo">@tginfo</a>)</th>
 		</tr>
 		<caption>🚩 <a href="https://t.me/tginfo">@tginfo</a> in your language: <a href="https://t.me/tginfoworld"><b>@tginfoworld</b></a><caption/>
-  <tr><td><a href="https://t.me/tginfoen/1509">WhatsApp crashes increase the load on Telegram</a></td>
-    <td><a href="https://t.me/tginfo/3458">Маркировка рекламы не распространяется на Telegram</a></td></tr><tr><td><a href="https://t.me/tginfoen/1508">The Beta version of Telegram for Android lets you create "topics" inside group chats.</a></td>
-    <td><a href="https://t.me/tginfo/3457">Сбои в WhatsApp увеличили нагрузку на Telegram </a></td></tr><tr><td><a href="https://t.me/tginfoen/1507">Telegram announces Smart Contract Cracking Competition</a></td>
-    <td><a href="https://t.me/tginfo/3456">Топики в Telegram</a></td></tr>
+  <tr><td><a href="https://t.me/tginfoen/1510">Telegram usernames auction launched</a></td>
+    <td><a href="https://t.me/tginfo/3461">Запущен аукцион Telegram юзернеймов</a></td></tr><tr><td><a href="https://t.me/tginfoen/1509">WhatsApp crashes increase the load on Telegram</a></td>
+    <td><a href="https://t.me/tginfo/3460">ФАС разъяснила закон о маркировке рекламы в Telegram</a></td></tr><tr><td><a href="https://t.me/tginfoen/1508">The Beta version of Telegram for Android lets you create "topics" inside group chats.</a></td>
+    <td><a href="https://t.me/tginfo/3458">Маркировка рекламы не распространяется на Telegram</a></td></tr>
 </table>
 We are also available on <a href="https://github.com/tginfo"><b>🐙 GitHub</b></a>!
 </div>
 
 <br>
 <hr>
-<h4 align="center">This README file is generated <b>every 6 hours</b>!</br>Last refresh: <b>2022-10-26 08:19:51 (UTC time)</b></h4>
+<h4 align="center">This README file is generated <b>every 6 hours</b>!</br>Last refresh: <b>2022-10-26 20:17:20 (UTC time)</b></h4>
