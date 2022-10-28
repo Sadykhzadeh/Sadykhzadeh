@@ -14,16 +14,6 @@
 <h2>📊 This week I spent my time using:</h2>
 
 <!--START_SECTION:waka-->
-
-```text
-JavaScript   6 hrs 36 mins   █████████████████░░░░░░░░   67.91 %
-JSON         41 mins         █▓░░░░░░░░░░░░░░░░░░░░░░░   07.13 %
-HTML         39 mins         █▓░░░░░░░░░░░░░░░░░░░░░░░   06.76 %
-Python       39 mins         █▓░░░░░░░░░░░░░░░░░░░░░░░   06.69 %
-Bash         22 mins         █░░░░░░░░░░░░░░░░░░░░░░░░   03.93 %
-SQL          11 mins         ▓░░░░░░░░░░░░░░░░░░░░░░░░   02.03 %
-```
-
 <!--END_SECTION:waka-->
 
 <br>
@@ -35,14 +25,14 @@ SQL          11 mins         ▓░░░░░░░░░░░░░░░░
 			<th>🇷🇺 На русском (<a href="https://t.me/tginfo">@tginfo</a>)</th>
 		</tr>
 		<caption>🚩 <a href="https://t.me/tginfo">@tginfo</a> in your language: <a href="https://t.me/tginfoworld"><b>@tginfoworld</b></a><caption/>
-  <tr><td><a href="https://t.me/tginfoen/1512">Pavel Durov confirmed the launch of Fragment platform</a></td>
-    <td><a href="https://t.me/tginfo/3463">Павел Дуров подтвердил запуск платформы Fragment</a></td></tr><tr><td><a href="https://t.me/tginfoen/1511">Paid posts in Telegram appeared</a></td>
-    <td><a href="https://t.me/tginfo/3462">В Telegram появились платные публикации</a></td></tr><tr><td><a href="https://t.me/tginfoen/1510">Telegram usernames auction launched</a></td>
-    <td><a href="https://t.me/tginfo/3461">Запущен аукцион Telegram юзернеймов</a></td></tr>
+  <tr><td><a href="https://t.me/tginfoen/1515">Apple's monopoly suppresses independent content creators and entrepreneurs </a></td>
+    <td><a href="https://t.me/tginfo/3466">Монополия Apple мешает независимым создателям контента и предпринимателям</a></td></tr><tr><td><a href="https://t.me/tginfoen/1514">Paid posts don't work on iOS devices anymore</a></td>
+    <td><a href="https://t.me/tginfo/3465">Платные посты больше не работают на iOS устройствах</a></td></tr><tr><td><a href="https://t.me/tginfoen/1513">Viber blocks clicks on Telegram links</a></td>
+    <td><a href="https://t.me/tginfo/3464">Viber запретил переход по Telegram-ссылкам</a></td></tr>
 </table>
 We are also available on <a href="https://github.com/tginfo"><b>🐙 GitHub</b></a>!
 </div>
 
 <br>
 <hr>
-<h4 align="center">This README file is generated <b>every 6 hours</b>!</br>Last refresh: <b>2022-10-28 08:22:22 (UTC time)</b></h4>
+<h4 align="center">This README file is generated <b>every 6 hours</b>!</br>Last refresh: <b>2022-10-28 20:17:18 (UTC time)</b></h4>
