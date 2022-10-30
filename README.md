@@ -14,16 +14,6 @@
 <h2>📊 This week I spent my time using:</h2>
 
 <!--START_SECTION:waka-->
-
-```text
-JavaScript   5 hrs 18 mins   ███████████████░░░░░░░░░░   60.25 %
-Python       1 hr 48 mins    █████░░░░░░░░░░░░░░░░░░░░   20.50 %
-HTML         37 mins         █▓░░░░░░░░░░░░░░░░░░░░░░░   07.14 %
-JSON         30 mins         █▒░░░░░░░░░░░░░░░░░░░░░░░   05.77 %
-SQL          11 mins         ▓░░░░░░░░░░░░░░░░░░░░░░░░   02.24 %
-Markdown     11 mins         ▓░░░░░░░░░░░░░░░░░░░░░░░░   02.12 %
-```
-
 <!--END_SECTION:waka-->
 
 <br>
@@ -35,14 +25,14 @@ Markdown     11 mins         ▓░░░░░░░░░░░░░░░░
 			<th>🇷🇺 На русском (<a href="https://t.me/tginfo">@tginfo</a>)</th>
 		</tr>
 		<caption>🚩 <a href="https://t.me/tginfo">@tginfo</a> in your language: <a href="https://t.me/tginfoworld"><b>@tginfoworld</b></a><caption/>
-  <tr><td><a href="https://t.me/tginfoen/1516">Problems accessing Telegram links</a></td>
+  <tr><td><a href="https://t.me/tginfoen/1517">Source code of Telegram for macOS hasn't been updated for six months</a></td>
+    <td><a href="https://t.me/tginfo/3472">Исходный код Telegram для macOS не обновляется уже полгода</a></td></tr><tr><td><a href="https://t.me/tginfoen/1516">Problems accessing Telegram links</a></td>
     <td><a href="https://t.me/tginfo/3471">⚡️Домен t.me больше не ограничивается</a></td></tr><tr><td><a href="https://t.me/tginfoen/1515">Apple's monopoly suppresses independent content creators and entrepreneurs </a></td>
-    <td><a href="https://t.me/tginfo/3470">Telegram не планируют блокировать в России</a></td></tr><tr><td><a href="https://t.me/tginfoen/1514">Paid posts don't work on iOS devices anymore</a></td>
-    <td><a href="https://t.me/tginfo/3469">По данным Роскомсвободы, домен t.me заблокировали из-за следующих публикаций: </a></td></tr>
+    <td><a href="https://t.me/tginfo/3470">Telegram не планируют блокировать в России</a></td></tr>
 </table>
 We are also available on <a href="https://github.com/tginfo"><b>🐙 GitHub</b></a>!
 </div>
 
 <br>
 <hr>
-<h4 align="center">This README file is generated <b>every 6 hours</b>!</br>Last refresh: <b>2022-10-30 08:18:53 (UTC time)</b></h4>
+<h4 align="center">This README file is generated <b>every 6 hours</b>!</br>Last refresh: <b>2022-10-30 20:16:22 (UTC time)</b></h4>
