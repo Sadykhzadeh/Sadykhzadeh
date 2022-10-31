@@ -14,16 +14,6 @@
 <h2>📊 This week I spent my time using:</h2>
 
 <!--START_SECTION:waka-->
-
-```text
-JavaScript   5 hrs 23 mins   ███████████████░░░░░░░░░░   60.55 %
-Python       1 hr 48 mins    █████░░░░░░░░░░░░░░░░░░░░   20.34 %
-HTML         37 mins         █▓░░░░░░░░░░░░░░░░░░░░░░░   07.09 %
-JSON         30 mins         █▒░░░░░░░░░░░░░░░░░░░░░░░   05.75 %
-SQL          11 mins         ▓░░░░░░░░░░░░░░░░░░░░░░░░   02.22 %
-Markdown     11 mins         ▓░░░░░░░░░░░░░░░░░░░░░░░░   02.11 %
-```
-
 <!--END_SECTION:waka-->
 
 <br>
@@ -35,14 +25,14 @@ Markdown     11 mins         ▓░░░░░░░░░░░░░░░░
 			<th>🇷🇺 На русском (<a href="https://t.me/tginfo">@tginfo</a>)</th>
 		</tr>
 		<caption>🚩 <a href="https://t.me/tginfo">@tginfo</a> in your language: <a href="https://t.me/tginfoworld"><b>@tginfoworld</b></a><caption/>
-  <tr><td><a href="https://t.me/tginfoen/1517">Source code of Telegram for macOS hasn't been updated for six months</a></td>
-    <td><a href="https://t.me/tginfo/3472">Исходный код Telegram для macOS не обновляется уже полгода</a></td></tr><tr><td><a href="https://t.me/tginfoen/1516">Problems accessing Telegram links</a></td>
-    <td><a href="https://t.me/tginfo/3471">⚡️Домен t.me больше не ограничивается</a></td></tr><tr><td><a href="https://t.me/tginfoen/1515">Apple's monopoly suppresses independent content creators and entrepreneurs </a></td>
-    <td><a href="https://t.me/tginfo/3470">Telegram не планируют блокировать в России</a></td></tr>
+  <tr><td><a href="https://t.me/tginfoen/1519">Telegram revokes fraudulent gifted Premium subscriptions</a></td>
+    <td><a href="https://t.me/tginfo/3474">Telegram отзывает подарочные Premium-подписки, полученные нечестным путём</a></td></tr><tr><td><a href="https://t.me/tginfoen/1518">Telegram October update delayed</a></td>
+    <td><a href="https://t.me/tginfo/3473">Октябрьское обновление Telegram задерживается</a></td></tr><tr><td><a href="https://t.me/tginfoen/1517">Source code of Telegram for macOS hasn't been updated for six months</a></td>
+    <td><a href="https://t.me/tginfo/3472">Исходный код Telegram для macOS не обновляется уже полгода</a></td></tr>
 </table>
 We are also available on <a href="https://github.com/tginfo"><b>🐙 GitHub</b></a>!
 </div>
 
 <br>
 <hr>
-<h4 align="center">This README file is generated <b>every 6 hours</b>!</br>Last refresh: <b>2022-10-31 08:23:51 (UTC time)</b></h4>
+<h4 align="center">This README file is generated <b>every 6 hours</b>!</br>Last refresh: <b>2022-10-31 20:17:26 (UTC time)</b></h4>
