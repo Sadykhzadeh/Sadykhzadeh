@@ -14,16 +14,6 @@
 <h2>📊 This week I spent my time using:</h2>
 
 <!--START_SECTION:waka-->
-
-```text
-TypeScript   7 hrs 50 mins   ████████████▒░░░░░░░░░░░░   48.71 %
-JavaScript   4 hrs 6 mins    ██████▒░░░░░░░░░░░░░░░░░░   25.57 %
-Python       1 hr 48 mins    ██▓░░░░░░░░░░░░░░░░░░░░░░   11.25 %
-HTML         1 hr 6 mins     █▓░░░░░░░░░░░░░░░░░░░░░░░   06.93 %
-JSON         25 mins         ▓░░░░░░░░░░░░░░░░░░░░░░░░   02.63 %
-CSS          25 mins         ▓░░░░░░░░░░░░░░░░░░░░░░░░   02.61 %
-```
-
 <!--END_SECTION:waka-->
 
 <br>
@@ -36,13 +26,13 @@ CSS          25 mins         ▓░░░░░░░░░░░░░░░░
 		</tr>
 		<caption>🚩 <a href="https://t.me/tginfo">@tginfo</a> in your language: <a href="https://t.me/tginfoworld"><b>@tginfoworld</b></a><caption/>
   <tr><td><a href="https://t.me/tginfoen/1519">Telegram revokes fraudulent gifted Premium subscriptions</a></td>
-    <td><a href="https://t.me/tginfo/3475">Аудитория Telegram в России превысила 50 млн человек в день сбоя WhatsApp</a></td></tr><tr><td><a href="https://t.me/tginfoen/1518">Telegram October update delayed</a></td>
-    <td><a href="https://t.me/tginfo/3474">Telegram отзывает подарочные Premium-подписки, полученные нечестным путём</a></td></tr><tr><td><a href="https://t.me/tginfoen/1517">Source code of Telegram for macOS hasn't been updated for six months</a></td>
-    <td><a href="https://t.me/tginfo/3473">Октябрьское обновление Telegram задерживается</a></td></tr>
+    <td><a href="https://t.me/tginfo/3477">Первый проданный юзернейм на аукционе Fragment</a></td></tr><tr><td><a href="https://t.me/tginfoen/1518">Telegram October update delayed</a></td>
+    <td><a href="https://t.me/tginfo/3476">В Узбекистане проблемы с подключением к Telegram </a></td></tr><tr><td><a href="https://t.me/tginfoen/1517">Source code of Telegram for macOS hasn't been updated for six months</a></td>
+    <td><a href="https://t.me/tginfo/3475">Аудитория Telegram в России превысила 50 млн человек в день сбоя WhatsApp</a></td></tr>
 </table>
 We are also available on <a href="https://github.com/tginfo"><b>🐙 GitHub</b></a>!
 </div>
 
 <br>
 <hr>
-<h4 align="center">This README file is generated <b>every 6 hours</b>!</br>Last refresh: <b>2022-11-02 08:20:35 (UTC time)</b></h4>
+<h4 align="center">This README file is generated <b>every 6 hours</b>!</br>Last refresh: <b>2022-11-02 20:15:29 (UTC time)</b></h4>
