@@ -14,16 +14,6 @@
 <h2>📊 This week I spent my time using:</h2>
 
 <!--START_SECTION:waka-->
-
-```text
-TypeScript   9 hrs 38 mins   ████████████████▓░░░░░░░░   66.84 %
-JavaScript   2 hrs 51 mins   █████░░░░░░░░░░░░░░░░░░░░   19.76 %
-HTML         41 mins         █▒░░░░░░░░░░░░░░░░░░░░░░░   04.77 %
-CSS          30 mins         █░░░░░░░░░░░░░░░░░░░░░░░░   03.48 %
-Markdown     25 mins         ▓░░░░░░░░░░░░░░░░░░░░░░░░   02.94 %
-Bash         8 mins          ▒░░░░░░░░░░░░░░░░░░░░░░░░   01.03 %
-```
-
 <!--END_SECTION:waka-->
 
 <br>
@@ -35,14 +25,14 @@ Bash         8 mins          ▒░░░░░░░░░░░░░░░░
 			<th>🇷🇺 На русском (<a href="https://t.me/tginfo">@tginfo</a>)</th>
 		</tr>
 		<caption>🚩 <a href="https://t.me/tginfo">@tginfo</a> in your language: <a href="https://t.me/tginfoworld"><b>@tginfoworld</b></a><caption/>
-  <tr><td><a href="https://t.me/tginfoen/1519">Telegram revokes fraudulent gifted Premium subscriptions</a></td>
-    <td><a href="https://t.me/tginfo/3478">Мошенники снова активно взламывают Telegram-аккаунты</a></td></tr><tr><td><a href="https://t.me/tginfoen/1518">Telegram October update delayed</a></td>
-    <td><a href="https://t.me/tginfo/3477">Первый проданный юзернейм на аукционе Fragment</a></td></tr><tr><td><a href="https://t.me/tginfoen/1517">Source code of Telegram for macOS hasn't been updated for six months</a></td>
-    <td><a href="https://t.me/tginfo/3476">В Узбекистане проблемы с подключением к Telegram </a></td></tr>
+  <tr><td><a href="https://t.me/tginfoen/1521">Bot API was updated to version 6.3</a></td>
+    <td><a href="https://t.me/tginfo/3487">Реклама между сообщениями</a></td></tr><tr><td><a href="https://t.me/tginfoen/1520">Topics in Groups, Collectible Usernames, Voice-to-Text for Video Messages and More</a></td>
+    <td><a href="https://t.me/tginfo/3486">Обновлён исходный код Telegram для macOS</a></td></tr><tr><td><a href="https://t.me/tginfoen/1519">Telegram revokes fraudulent gifted Premium subscriptions</a></td>
+    <td><a href="https://t.me/tginfo/3485">Bot API был обновлён до версии 6.3</a></td></tr>
 </table>
 We are also available on <a href="https://github.com/tginfo"><b>🐙 GitHub</b></a>!
 </div>
 
 <br>
 <hr>
-<h4 align="center">This README file is generated <b>every 6 hours</b>!</br>Last refresh: <b>2022-11-05 08:18:09 (UTC time)</b></h4>
+<h4 align="center">This README file is generated <b>every 6 hours</b>!</br>Last refresh: <b>2022-11-05 20:18:10 (UTC time)</b></h4>
