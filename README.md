@@ -14,16 +14,6 @@
 <h2>📊 This week I spent my time using:</h2>
 
 <!--START_SECTION:waka-->
-
-```text
-TypeScript   1 hr 37 mins    ███████████▓░░░░░░░░░░░░░   46.60 %
-Markdown     48 mins         ██████░░░░░░░░░░░░░░░░░░░   23.42 %
-Bash         30 mins         ███▓░░░░░░░░░░░░░░░░░░░░░   14.52 %
-JSON         13 mins         █▓░░░░░░░░░░░░░░░░░░░░░░░   06.46 %
-JavaScript   12 mins         █▓░░░░░░░░░░░░░░░░░░░░░░░   06.12 %
-HTML         4 mins          ▓░░░░░░░░░░░░░░░░░░░░░░░░   02.20 %
-```
-
 <!--END_SECTION:waka-->
 
 <br>
@@ -35,14 +25,14 @@ HTML         4 mins          ▓░░░░░░░░░░░░░░░░
 			<th>🇷🇺 На русском (<a href="https://t.me/tginfo">@tginfo</a>)</th>
 		</tr>
 		<caption>🚩 <a href="https://t.me/tginfo">@tginfo</a> in your language: <a href="https://t.me/tginfoworld"><b>@tginfoworld</b></a><caption/>
-  <tr><td><a href="https://t.me/tginfoen/1527">Telegram source code for macOS was updated</a></td>
+  <tr><td><a href="https://t.me/tginfoen/1528">Selling usernames at the Fragment auction</a></td>
+    <td><a href="https://t.me/tginfo/3488">Продажа юзернеймов на аукционе Fragment</a></td></tr><tr><td><a href="https://t.me/tginfoen/1527">Telegram source code for macOS was updated</a></td>
     <td><a href="https://t.me/tginfo/3487">Реклама между сообщениями</a></td></tr><tr><td><a href="https://t.me/tginfoen/1526">New interactive emojis and reactions </a></td>
-    <td><a href="https://t.me/tginfo/3486">Обновлён исходный код Telegram для macOS</a></td></tr><tr><td><a href="https://t.me/tginfoen/1525">🌟 New Emoji Sets </a></td>
-    <td><a href="https://t.me/tginfo/3485">Bot API был обновлён до версии 6.3</a></td></tr>
+    <td><a href="https://t.me/tginfo/3486">Обновлён исходный код Telegram для macOS</a></td></tr>
 </table>
 We are also available on <a href="https://github.com/tginfo"><b>🐙 GitHub</b></a>!
 </div>
 
 <br>
 <hr>
-<h4 align="center">This README file is generated <b>every 6 hours</b>!</br>Last refresh: <b>2022-11-09 20:16:20 (UTC time)</b></h4>
+<h4 align="center">This README file is generated <b>every 6 hours</b>!</br>Last refresh: <b>2022-11-10 08:23:05 (UTC time)</b></h4>
