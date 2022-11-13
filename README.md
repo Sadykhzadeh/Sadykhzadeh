@@ -14,16 +14,6 @@
 <h2>📊 This week I spent my time using:</h2>
 
 <!--START_SECTION:waka-->
-
-```text
-SQL          45 mins         ███████████▒░░░░░░░░░░░░░   45.83 %
-TypeScript   35 mins         █████████░░░░░░░░░░░░░░░░   35.45 %
-JavaScript   11 mins         ██▓░░░░░░░░░░░░░░░░░░░░░░   11.22 %
-Markdown     3 mins          █░░░░░░░░░░░░░░░░░░░░░░░░   03.49 %
-JSON         2 mins          ▓░░░░░░░░░░░░░░░░░░░░░░░░   02.05 %
-Bash         1 min           ▒░░░░░░░░░░░░░░░░░░░░░░░░   01.80 %
-```
-
 <!--END_SECTION:waka-->
 
 <br>
@@ -35,14 +25,14 @@ Bash         1 min           ▒░░░░░░░░░░░░░░░░
 			<th>🇷🇺 На русском (<a href="https://t.me/tginfo">@tginfo</a>)</th>
 		</tr>
 		<caption>🚩 <a href="https://t.me/tginfo">@tginfo</a> in your language: <a href="https://t.me/tginfoworld"><b>@tginfoworld</b></a><caption/>
-  <tr><td><a href="https://t.me/tginfoen/1530">Fragment ads from Telegram </a></td>
+  <tr><td><a href="https://t.me/tginfoen/1531">Improved forum navigation</a></td>
+    <td><a href="https://t.me/tginfo/3492">Улучшенная навигация по форумам</a></td></tr><tr><td><a href="https://t.me/tginfoen/1530">Fragment ads from Telegram </a></td>
     <td><a href="https://t.me/tginfo/3491">Реклама Fragment от Telegram </a></td></tr><tr><td><a href="https://t.me/tginfoen/1529">The results of the competition for the development of options in Telegram X for Android have been announced</a></td>
-    <td><a href="https://t.me/tginfo/3490">Оглашены результаты первого этапа конкурса для iOS-разработчиков</a></td></tr><tr><td><a href="https://t.me/tginfoen/1528">Selling usernames at the Fragment auction</a></td>
-    <td><a href="https://t.me/tginfo/3489">Оглашены результаты конкурса для разработки опций в Telegram X для Android</a></td></tr>
+    <td><a href="https://t.me/tginfo/3490">Оглашены результаты первого этапа конкурса для iOS-разработчиков</a></td></tr>
 </table>
 We are also available on <a href="https://github.com/tginfo"><b>🐙 GitHub</b></a>!
 </div>
 
 <br>
 <hr>
-<h4 align="center">This README file is generated <b>every 6 hours</b>!</br>Last refresh: <b>2022-11-13 08:18:14 (UTC time)</b></h4>
+<h4 align="center">This README file is generated <b>every 6 hours</b>!</br>Last refresh: <b>2022-11-13 20:15:07 (UTC time)</b></h4>
