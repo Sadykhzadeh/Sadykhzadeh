@@ -14,16 +14,6 @@
 <h2>📊 This week I spent my time using:</h2>
 
 <!--START_SECTION:waka-->
-
-```text
-TypeScript   2 hrs 38 mins   ██████████████░░░░░░░░░░░   55.42 %
-JavaScript   50 mins         ████▒░░░░░░░░░░░░░░░░░░░░   17.68 %
-SQL          45 mins         ████░░░░░░░░░░░░░░░░░░░░░   15.95 %
-HTML         19 mins         █▓░░░░░░░░░░░░░░░░░░░░░░░   06.70 %
-JSON         5 mins          ▓░░░░░░░░░░░░░░░░░░░░░░░░   02.07 %
-Bash         4 mins          ▒░░░░░░░░░░░░░░░░░░░░░░░░   01.63 %
-```
-
 <!--END_SECTION:waka-->
 
 <br>
@@ -35,14 +25,14 @@ Bash         4 mins          ▒░░░░░░░░░░░░░░░░
 			<th>🇷🇺 На русском (<a href="https://t.me/tginfo">@tginfo</a>)</th>
 		</tr>
 		<caption>🚩 <a href="https://t.me/tginfo">@tginfo</a> in your language: <a href="https://t.me/tginfoworld"><b>@tginfoworld</b></a><caption/>
-  <tr><td><a href="https://t.me/tginfoen/1531">Improved forum navigation</a></td>
+  <tr><td><a href="https://t.me/tginfoen/1532">Telegram continues to promote the username auction</a></td>
+    <td><a href="https://t.me/tginfo/3493">Telegram продолжает рекламировать аукцион</a></td></tr><tr><td><a href="https://t.me/tginfoen/1531">Improved forum navigation</a></td>
     <td><a href="https://t.me/tginfo/3492">Улучшенная навигация по форумам</a></td></tr><tr><td><a href="https://t.me/tginfoen/1530">Fragment ads from Telegram </a></td>
-    <td><a href="https://t.me/tginfo/3491">Реклама Fragment от Telegram </a></td></tr><tr><td><a href="https://t.me/tginfoen/1529">The results of the competition for the development of options in Telegram X for Android have been announced</a></td>
-    <td><a href="https://t.me/tginfo/3490">Оглашены результаты первого этапа конкурса для iOS-разработчиков</a></td></tr>
+    <td><a href="https://t.me/tginfo/3491">Реклама Fragment от Telegram </a></td></tr>
 </table>
 We are also available on <a href="https://github.com/tginfo"><b>🐙 GitHub</b></a>!
 </div>
 
 <br>
 <hr>
-<h4 align="center">This README file is generated <b>every 6 hours</b>!</br>Last refresh: <b>2022-11-15 08:19:21 (UTC time)</b></h4>
+<h4 align="center">This README file is generated <b>every 6 hours</b>!</br>Last refresh: <b>2022-11-15 20:14:47 (UTC time)</b></h4>
