@@ -14,16 +14,6 @@
 <h2>📊 This week I spent my time using:</h2>
 
 <!--START_SECTION:waka-->
-
-```text
-HTML             4 hrs 22 mins   ███████████▓░░░░░░░░░░░░░   46.85 %
-TypeScript       3 hrs 11 mins   ████████▓░░░░░░░░░░░░░░░░   34.16 %
-JavaScript       1 hr            ██▓░░░░░░░░░░░░░░░░░░░░░░   10.74 %
-JSON             19 mins         █░░░░░░░░░░░░░░░░░░░░░░░░   03.51 %
-CSS              13 mins         ▓░░░░░░░░░░░░░░░░░░░░░░░░   02.37 %
-Markdown         7 mins          ▒░░░░░░░░░░░░░░░░░░░░░░░░   01.27 %
-```
-
 <!--END_SECTION:waka-->
 
 <br>
@@ -35,14 +25,14 @@ Markdown         7 mins          ▒░░░░░░░░░░░░░░�
 			<th>🇷🇺 На русском (<a href="https://t.me/tginfo">@tginfo</a>)</th>
 		</tr>
 		<caption>🚩 <a href="https://t.me/tginfo">@tginfo</a> in your language: <a href="https://t.me/tginfoworld"><b>@tginfoworld</b></a><caption/>
-  <tr><td><a href="https://t.me/tginfoen/1535">Telegram will improve the anti-spam system</a></td>
-    <td><a href="https://t.me/tginfo/3498">Рост количества авторов и охвата контента в Telegram-каналах</a></td></tr><tr><td><a href="https://t.me/tginfoen/1534">Announcement of new features for small groups</a></td>
-    <td><a href="https://t.me/tginfo/3497">Telegram усилит антиспам-систему</a></td></tr><tr><td><a href="https://t.me/tginfoen/1533">Telegram WebZ updated to version 1.56.0</a></td>
-    <td><a href="https://t.me/tginfo/3496">Telegram WebZ обновился до версии 1.56.0</a></td></tr>
+  <tr><td><a href="https://t.me/tginfoen/1537">Selling username without a starting bid</a></td>
+    <td><a href="https://t.me/tginfo/3500">Продажа юзернейма без стартовой ставки</a></td></tr><tr><td><a href="https://t.me/tginfoen/1536">General topic in the Telegram forums</a></td>
+    <td><a href="https://t.me/tginfo/3499">Основной топик в форумах Telegram</a></td></tr><tr><td><a href="https://t.me/tginfoen/1535">Telegram will improve the anti-spam system</a></td>
+    <td><a href="https://t.me/tginfo/3498">Рост количества авторов и охвата контента в Telegram-каналах</a></td></tr>
 </table>
 We are also available on <a href="https://github.com/tginfo"><b>🐙 GitHub</b></a>!
 </div>
 
 <br>
 <hr>
-<h4 align="center">This README file is generated <b>every 6 hours</b>!</br>Last refresh: <b>2022-11-20 08:17:16 (UTC time)</b></h4>
+<h4 align="center">This README file is generated <b>every 6 hours</b>!</br>Last refresh: <b>2022-11-20 20:14:10 (UTC time)</b></h4>
