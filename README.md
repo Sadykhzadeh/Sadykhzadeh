@@ -14,16 +14,6 @@
 <h2>📊 This week I spent my time using:</h2>
 
 <!--START_SECTION:waka-->
-
-```text
-SQL          5 hrs 34 mins   ██████████████░░░░░░░░░░░   55.65 %
-TypeScript   2 hrs 45 mins   ███████░░░░░░░░░░░░░░░░░░   27.46 %
-JavaScript   54 mins         ██▒░░░░░░░░░░░░░░░░░░░░░░   09.01 %
-Markdown     14 mins         ▓░░░░░░░░░░░░░░░░░░░░░░░░   02.43 %
-HTML         14 mins         ▓░░░░░░░░░░░░░░░░░░░░░░░░   02.42 %
-Bash         9 mins          ▒░░░░░░░░░░░░░░░░░░░░░░░░   01.63 %
-```
-
 <!--END_SECTION:waka-->
 
 <br>
@@ -35,14 +25,14 @@ Bash         9 mins          ▒░░░░░░░░░░░░░░░░
 			<th>🇷🇺 На русском (<a href="https://t.me/tginfo">@tginfo</a>)</th>
 		</tr>
 		<caption>🚩 <a href="https://t.me/tginfo">@tginfo</a> in your language: <a href="https://t.me/tginfoworld"><b>@tginfoworld</b></a><caption/>
-  <tr><td><a href="https://t.me/tginfoen/1541">NFT is not a Username </a></td>
+  <tr><td><a href="https://t.me/tginfoen/1542">Telegram will launch an anonymous virtual number service </a></td>
+    <td><a href="https://t.me/tginfo/3506">Telegram запустит сервис анонимных виртуальных номеров</a></td></tr><tr><td><a href="https://t.me/tginfoen/1541">NFT is not a Username </a></td>
     <td><a href="https://t.me/tginfo/3505">Месяц аукциону юзернеймов Fragment. Статистика</a></td></tr><tr><td><a href="https://t.me/tginfoen/1540">Fragment ads from Telegram </a></td>
-    <td><a href="https://t.me/tginfo/3504">NFT — не юзернейм</a></td></tr><tr><td><a href="https://t.me/tginfoen/1539">Telegram Desktop has been updated to version 4.3.3</a></td>
-    <td><a href="https://t.me/tginfo/3503">Реклама Fragment от Telegram </a></td></tr>
+    <td><a href="https://t.me/tginfo/3504">NFT — не юзернейм</a></td></tr>
 </table>
 We are also available on <a href="https://github.com/tginfo"><b>🐙 GitHub</b></a>!
 </div>
 
 <br>
 <hr>
-<h4 align="center">This README file is generated <b>every 6 hours</b>!</br>Last refresh: <b>2022-11-27 20:13:10 (UTC time)</b></h4>
+<h4 align="center">This README file is generated <b>every 6 hours</b>!</br>Last refresh: <b>2022-11-28 08:17:56 (UTC time)</b></h4>
