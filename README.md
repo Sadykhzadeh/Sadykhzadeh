@@ -14,16 +14,6 @@
 <h2>📊 This week I spent my time using:</h2>
 
 <!--START_SECTION:waka-->
-
-```text
-TypeScript       5 hrs 55 mins   ██████████▓░░░░░░░░░░░░░░   42.09 %
-SQL              3 hrs 56 mins   ███████░░░░░░░░░░░░░░░░░░   28.02 %
-Python           2 hrs 48 mins   █████░░░░░░░░░░░░░░░░░░░░   19.90 %
-JSON             27 mins         ▓░░░░░░░░░░░░░░░░░░░░░░░░   03.24 %
-Markdown         16 mins         ▒░░░░░░░░░░░░░░░░░░░░░░░░   01.91 %
-Bash             13 mins         ▒░░░░░░░░░░░░░░░░░░░░░░░░   01.58 %
-```
-
 <!--END_SECTION:waka-->
 
 <br>
@@ -35,14 +25,14 @@ Bash             13 mins         ▒░░░░░░░░░░░░░░�
 			<th>🇷🇺 На русском (<a href="https://t.me/tginfo">@tginfo</a>)</th>
 		</tr>
 		<caption>🚩 <a href="https://t.me/tginfo">@tginfo</a> in your language: <a href="https://t.me/tginfoworld"><b>@tginfoworld</b></a><caption/>
-  <tr><td><a href="https://t.me/tginfoen/1543">Telegram discloses the names, phone numbers and IP addresses of the users administrating piracy channels to Indian authorities</a></td>
-    <td><a href="https://t.me/tginfo/3509">Новые юзернеймы на Fragment</a></td></tr><tr><td><a href="https://t.me/tginfoen/1542">Telegram will launch an anonymous virtual number service </a></td>
-    <td><a href="https://t.me/tginfo/3508">Скам-сделки с TON-доменами на GetGems</a></td></tr><tr><td><a href="https://t.me/tginfoen/1541">NFT is not a Username </a></td>
-    <td><a href="https://t.me/tginfo/3507">Telegram раскрыл властям Индии имена, номера телефонов и IP-адреса админов пиратских каналов</a></td></tr>
+  <tr><td><a href="https://t.me/tginfoen/1545">Pavel Durov spoke about the future of Telegram and decentralization</a></td>
+    <td><a href="https://t.me/tginfo/3511">Павел Дуров рассказал о будущем Telegram и децентрализации</a></td></tr><tr><td><a href="https://t.me/tginfoen/1544">New usernames on Fragment</a></td>
+    <td><a href="https://t.me/tginfo/3510">Анонимные номера для Telegram</a></td></tr><tr><td><a href="https://t.me/tginfoen/1543">Telegram discloses the names, phone numbers and IP addresses of the users administrating piracy channels to Indian authorities</a></td>
+    <td><a href="https://t.me/tginfo/3509">Новые юзернеймы на Fragment</a></td></tr>
 </table>
 We are also available on <a href="https://github.com/tginfo"><b>🐙 GitHub</b></a>!
 </div>
 
 <br>
 <hr>
-<h4 align="center">This README file is generated <b>every 6 hours</b>!</br>Last refresh: <b>2022-11-30 08:18:08 (UTC time)</b></h4>
+<h4 align="center">This README file is generated <b>every 6 hours</b>!</br>Last refresh: <b>2022-11-30 20:14:19 (UTC time)</b></h4>
