@@ -14,16 +14,6 @@
 <h2>📊 This week I spent my time using:</h2>
 
 <!--START_SECTION:waka-->
-
-```text
-TypeScript       15 hrs 25 mins  ██████████████████▓░░░░░░   74.39 %
-Python           2 hrs 48 mins   ███▒░░░░░░░░░░░░░░░░░░░░░   13.51 %
-JSON             44 mins         █░░░░░░░░░░░░░░░░░░░░░░░░   03.58 %
-SQL              26 mins         ▓░░░░░░░░░░░░░░░░░░░░░░░░   02.17 %
-Markdown         19 mins         ▒░░░░░░░░░░░░░░░░░░░░░░░░   01.58 %
-Bash             15 mins         ▒░░░░░░░░░░░░░░░░░░░░░░░░   01.25 %
-```
-
 <!--END_SECTION:waka-->
 
 <br>
@@ -35,14 +25,14 @@ Bash             15 mins         ▒░░░░░░░░░░░░░░�
 			<th>🇷🇺 На русском (<a href="https://t.me/tginfo">@tginfo</a>)</th>
 		</tr>
 		<caption>🚩 <a href="https://t.me/tginfo">@tginfo</a> in your language: <a href="https://t.me/tginfoworld"><b>@tginfoworld</b></a><caption/>
-  <tr><td><a href="https://t.me/tginfoen/1546">Telegram formally executed the court decision in India, user data was not transferred</a></td>
-    <td><a href="https://t.me/tginfo/3512">Telegram формально исполнил решение суда в Индии, данные пользователей не передавались</a></td></tr><tr><td><a href="https://t.me/tginfoen/1545">Pavel Durov spoke about the future of Telegram and decentralization</a></td>
-    <td><a href="https://t.me/tginfo/3511">Павел Дуров рассказал о будущем Telegram и децентрализации</a></td></tr><tr><td><a href="https://t.me/tginfoen/1544">New usernames on Fragment</a></td>
-    <td><a href="https://t.me/tginfo/3510">Анонимные номера для Telegram</a></td></tr>
+  <tr><td><a href="https://t.me/tginfoen/1551">Survey for the most popular Telegram client</a></td>
+    <td><a href="https://t.me/tginfo/3517">Опрос на звание самого популярного клиента Telegram</a></td></tr><tr><td><a href="https://t.me/tginfoen/1550">Telegram formally executed the court decision in India, user data was not transferred</a></td>
+    <td><a href="https://t.me/tginfo/3516">Telegram формально исполнил решение суда в Индии, данные пользователей не передавались</a></td></tr><tr><td><a href="https://t.me/tginfoen/1549">Pavel Durov spoke about the future of Telegram and decentralization</a></td>
+    <td><a href="https://t.me/tginfo/3515">Павел Дуров рассказал о будущем Telegram и децентрализации</a></td></tr>
 </table>
 We are also available on <a href="https://github.com/tginfo"><b>🐙 GitHub</b></a>!
 </div>
 
 <br>
 <hr>
-<h4 align="center">This README file is generated <b>every 6 hours</b>!</br>Last refresh: <b>2022-12-02 08:16:08 (UTC time)</b></h4>
+<h4 align="center">This README file is generated <b>every 6 hours</b>!</br>Last refresh: <b>2022-12-02 20:13:25 (UTC time)</b></h4>
