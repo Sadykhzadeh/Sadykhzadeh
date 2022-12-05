@@ -14,16 +14,6 @@
 <h2>📊 This week I spent my time using:</h2>
 
 <!--START_SECTION:waka-->
-
-```text
-TypeScript       10 hrs 27 mins  █████████████████▒░░░░░░░   69.61 %
-Python           2 hrs 48 mins   ████▓░░░░░░░░░░░░░░░░░░░░   18.63 %
-JSON             39 mins         █░░░░░░░░░░░░░░░░░░░░░░░░   04.38 %
-SQL              26 mins         ▓░░░░░░░░░░░░░░░░░░░░░░░░   02.99 %
-EJS              10 mins         ▒░░░░░░░░░░░░░░░░░░░░░░░░   01.16 %
-YAML             8 mins          ▒░░░░░░░░░░░░░░░░░░░░░░░░   00.90 %
-```
-
 <!--END_SECTION:waka-->
 
 <br>
@@ -35,14 +25,14 @@ YAML             8 mins          ▒░░░░░░░░░░░░░░�
 			<th>🇷🇺 На русском (<a href="https://t.me/tginfo">@tginfo</a>)</th>
 		</tr>
 		<caption>🚩 <a href="https://t.me/tginfo">@tginfo</a> in your language: <a href="https://t.me/tginfoworld"><b>@tginfoworld</b></a><caption/>
-  <tr><td><a href="https://t.me/tginfoen/1552">Virtual numbers for sale on Fragment platform, and more</a></td>
+  <tr><td><a href="https://t.me/tginfoen/1553">Less strict restrictions for subscribers of Telegram Premium and more details from @SpamBot</a></td>
+    <td><a href="https://t.me/tginfo/3519">Менее строгие ограничения для подписчиков Telegram Premium и больше информации от @SpamBot</a></td></tr><tr><td><a href="https://t.me/tginfoen/1552">Virtual numbers for sale on Fragment platform, and more</a></td>
     <td><a href="https://t.me/tginfo/3518">Продажа виртуальных номеров на платформе «Fragment», и многое другое</a></td></tr><tr><td><a href="https://t.me/tginfoen/1551">Survey for the most popular Telegram client</a></td>
-    <td><a href="https://t.me/tginfo/3517">Опрос на звание самого популярного клиента Telegram</a></td></tr><tr><td><a href="https://t.me/tginfoen/1550">Telegram formally executed the court decision in India, user data was not transferred</a></td>
-    <td><a href="https://t.me/tginfo/3516">Telegram формально исполнил решение суда в Индии, данные пользователей не передавались</a></td></tr>
+    <td><a href="https://t.me/tginfo/3517">Опрос на звание самого популярного клиента Telegram</a></td></tr>
 </table>
 We are also available on <a href="https://github.com/tginfo"><b>🐙 GitHub</b></a>!
 </div>
 
 <br>
 <hr>
-<h4 align="center">This README file is generated <b>every 6 hours</b>!</br>Last refresh: <b>2022-12-05 08:17:09 (UTC time)</b></h4>
+<h4 align="center">This README file is generated <b>every 6 hours</b>!</br>Last refresh: <b>2022-12-05 20:13:47 (UTC time)</b></h4>
