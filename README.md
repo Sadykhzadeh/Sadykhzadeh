@@ -14,16 +14,6 @@
 <h2>📊 This week I spent my time using:</h2>
 
 <!--START_SECTION:waka-->
-
-```text
-TypeScript       9 hrs 53 mins   ██████████████████████▒░░   89.84 %
-SQL              26 mins         █░░░░░░░░░░░░░░░░░░░░░░░░   04.08 %
-JSON             17 mins         ▓░░░░░░░░░░░░░░░░░░░░░░░░   02.72 %
-EJS              10 mins         ▒░░░░░░░░░░░░░░░░░░░░░░░░   01.58 %
-Markdown         3 mins          ░░░░░░░░░░░░░░░░░░░░░░░░░   00.53 %
-.env file        2 mins          ░░░░░░░░░░░░░░░░░░░░░░░░░   00.40 %
-```
-
 <!--END_SECTION:waka-->
 
 <br>
@@ -35,14 +25,14 @@ Markdown         3 mins          ░░░░░░░░░░░░░░░�
 			<th>🇷🇺 На русском (<a href="https://t.me/tginfo">@tginfo</a>)</th>
 		</tr>
 		<caption>🚩 <a href="https://t.me/tginfo">@tginfo</a> in your language: <a href="https://t.me/tginfoworld"><b>@tginfoworld</b></a><caption/>
-  <tr><td><a href="https://t.me/tginfoen/1555">Signup with Telegram without a physical SIM card</a></td>
-    <td><a href="https://t.me/tginfo/3523">Регистрация без SIM-карты, общие настройки автоудаления, темы 2.0 и многое другое</a></td></tr><tr><td><a href="https://t.me/tginfoen/1554">🌟 1 million Telegram Premium subscribers</a></td>
-    <td><a href="https://t.me/tginfo/3522">Регистрация в Telegram без физической SIM-карты</a></td></tr><tr><td><a href="https://t.me/tginfoen/1553">Less strict restrictions for subscribers of Telegram Premium and more details from @SpamBot</a></td>
-    <td><a href="https://t.me/tginfo/3521">Новые возможности Telegram Info VPN </a></td></tr>
+  <tr><td><a href="https://t.me/tginfoen/1561">Detailed Storage Usage and More on Android</a></td>
+    <td><a href="https://t.me/tginfo/3529">Новые интерактивные эмодзи</a></td></tr><tr><td><a href="https://t.me/tginfoen/1560">Aggressive Anti-Spam </a></td>
+    <td><a href="https://t.me/tginfo/3528">Подробные данные об использовании памяти (Android)</a></td></tr><tr><td><a href="https://t.me/tginfoen/1559">Topics 2.0</a></td>
+    <td><a href="https://t.me/tginfo/3527">Активный антиспам-фильтр</a></td></tr>
 </table>
 We are also available on <a href="https://github.com/tginfo"><b>🐙 GitHub</b></a>!
 </div>
 
 <br>
 <hr>
-<h4 align="center">This README file is generated <b>every 6 hours</b>!</br>Last refresh: <b>2022-12-07 08:16:39 (UTC time)</b></h4>
+<h4 align="center">This README file is generated <b>every 6 hours</b>!</br>Last refresh: <b>2022-12-07 20:13:44 (UTC time)</b></h4>
