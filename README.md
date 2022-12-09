@@ -14,16 +14,6 @@
 <h2>📊 This week I spent my time using:</h2>
 
 <!--START_SECTION:waka-->
-
-```text
-EJS          30 mins         ███████████▒░░░░░░░░░░░░░   45.15 %
-JavaScript   27 mins         ██████████░░░░░░░░░░░░░░░   40.59 %
-JSON         4 mins          ██░░░░░░░░░░░░░░░░░░░░░░░   07.41 %
-SQL          1 min           ▓░░░░░░░░░░░░░░░░░░░░░░░░   02.45 %
-Bash         1 min           ▓░░░░░░░░░░░░░░░░░░░░░░░░   02.25 %
-Git Config   1 min           ▓░░░░░░░░░░░░░░░░░░░░░░░░   02.15 %
-```
-
 <!--END_SECTION:waka-->
 
 <br>
@@ -35,14 +25,14 @@ Git Config   1 min           ▓░░░░░░░░░░░░░░░░
 			<th>🇷🇺 На русском (<a href="https://t.me/tginfo">@tginfo</a>)</th>
 		</tr>
 		<caption>🚩 <a href="https://t.me/tginfo">@tginfo</a> in your language: <a href="https://t.me/tginfoworld"><b>@tginfoworld</b></a><caption/>
-  <tr><td><a href="https://t.me/tginfoen/1562">New Interactive Emoji</a></td>
-    <td><a href="https://t.me/tginfo/3529">Новые интерактивные эмодзи</a></td></tr><tr><td><a href="https://t.me/tginfoen/1561">Detailed Storage Usage and More on Android</a></td>
-    <td><a href="https://t.me/tginfo/3528">Подробные данные об использовании памяти (Android)</a></td></tr><tr><td><a href="https://t.me/tginfoen/1560">Aggressive Anti-Spam </a></td>
-    <td><a href="https://t.me/tginfo/3527">Активный антиспам-фильтр</a></td></tr>
+  <tr><td><a href="https://t.me/tginfoen/1563">The price of anonymous numbers will increase and availability will be limited</a></td>
+    <td><a href="https://t.me/tginfo/3531">Среднесуточный охват Telegram за год вырос с 18% до 38% населения России</a></td></tr><tr><td><a href="https://t.me/tginfoen/1562">New Interactive Emoji</a></td>
+    <td><a href="https://t.me/tginfo/3530">Рост цен и ограниченная продажа анонимных номеров</a></td></tr><tr><td><a href="https://t.me/tginfoen/1561">Detailed Storage Usage and More on Android</a></td>
+    <td><a href="https://t.me/tginfo/3529">Новые интерактивные эмодзи</a></td></tr>
 </table>
 We are also available on <a href="https://github.com/tginfo"><b>🐙 GitHub</b></a>!
 </div>
 
 <br>
 <hr>
-<h4 align="center">This README file is generated <b>every 6 hours</b>!</br>Last refresh: <b>2022-12-09 08:16:32 (UTC time)</b></h4>
+<h4 align="center">This README file is generated <b>every 6 hours</b>!</br>Last refresh: <b>2022-12-09 20:13:51 (UTC time)</b></h4>
