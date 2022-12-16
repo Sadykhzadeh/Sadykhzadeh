@@ -14,6 +14,11 @@
 <h2>📊 This week I spent my time using:</h2>
 
 <!--START_SECTION:waka-->
+
+```text
+No activity tracked
+```
+
 <!--END_SECTION:waka-->
 
 <br>
