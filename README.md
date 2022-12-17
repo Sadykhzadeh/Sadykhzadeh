@@ -14,11 +14,6 @@
 <h2>📊 This week I spent my time using:</h2>
 
 <!--START_SECTION:waka-->
-
-```text
-No activity tracked
-```
-
 <!--END_SECTION:waka-->
 
 <br>
@@ -31,13 +26,13 @@ No activity tracked
 		</tr>
 		<caption>🚩 <a href="https://t.me/tginfo">@tginfo</a> in your language: <a href="https://t.me/tginfoworld"><b>@tginfoworld</b></a><caption/>
   <tr><td><a href="https://t.me/tginfoen/1563">The price of anonymous numbers will increase and availability will be limited</a></td>
-    <td><a href="https://t.me/tginfo/3532">Продолжаем развивать Telegram Info VPN</a></td></tr><tr><td><a href="https://t.me/tginfoen/1562">New Interactive Emoji</a></td>
-    <td><a href="https://t.me/tginfo/3531">Среднесуточный охват Telegram за год вырос с 18% до 38% населения России</a></td></tr><tr><td><a href="https://t.me/tginfoen/1561">Detailed Storage Usage and More on Android</a></td>
-    <td><a href="https://t.me/tginfo/3530">Рост цен и ограниченная продажа анонимных номеров</a></td></tr>
+    <td><a href="https://t.me/tginfo/3533">Мошенники угоняют аккаунты с помощью фейковых уведомлений</a></td></tr><tr><td><a href="https://t.me/tginfoen/1562">New Interactive Emoji</a></td>
+    <td><a href="https://t.me/tginfo/3532">Продолжаем развивать Telegram Info VPN</a></td></tr><tr><td><a href="https://t.me/tginfoen/1561">Detailed Storage Usage and More on Android</a></td>
+    <td><a href="https://t.me/tginfo/3531">Среднесуточный охват Telegram за год вырос с 18% до 38% населения России</a></td></tr>
 </table>
 We are also available on <a href="https://github.com/tginfo"><b>🐙 GitHub</b></a>!
 </div>
 
 <br>
 <hr>
-<h4 align="center">This README file is generated <b>every 6 hours</b>!</br>Last refresh: <b>2022-12-17 08:14:58 (UTC time)</b></h4>
+<h4 align="center">This README file is generated <b>every 6 hours</b>!</br>Last refresh: <b>2022-12-17 20:11:52 (UTC time)</b></h4>
