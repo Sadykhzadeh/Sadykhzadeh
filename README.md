@@ -14,13 +14,6 @@
 <h2>📊 This week I spent my time using:</h2>
 
 <!--START_SECTION:waka-->
-
-```text
-JavaScript   12 mins         ███████████████████████░░   91.79 %
-Git Config   0 secs          █▓░░░░░░░░░░░░░░░░░░░░░░░   06.70 %
-JSON         0 secs          ▒░░░░░░░░░░░░░░░░░░░░░░░░   01.51 %
-```
-
 <!--END_SECTION:waka-->
 
 <br>
@@ -32,14 +25,14 @@ JSON         0 secs          ▒░░░░░░░░░░░░░░░░
 			<th>🇷🇺 На русском (<a href="https://t.me/tginfo">@tginfo</a>)</th>
 		</tr>
 		<caption>🚩 <a href="https://t.me/tginfo">@tginfo</a> in your language: <a href="https://t.me/tginfoworld"><b>@tginfoworld</b></a><caption/>
-  <tr><td><a href="https://t.me/tginfoen/1579">Topics for all chats</a></td>
-    <td><a href="https://t.me/tginfo/3553">Темы для всех чатов</a></td></tr><tr><td><a href="https://t.me/tginfoen/1578">Hiding Groups Members</a></td>
-    <td><a href="https://t.me/tginfo/3552">Скрытие участников в больших группах</a></td></tr><tr><td><a href="https://t.me/tginfoen/1577">Public Profile Pictures</a></td>
-    <td><a href="https://t.me/tginfo/3551">Публичные фотографии профиля</a></td></tr>
+  <tr><td><a href="https://t.me/tginfoen/1584">The best and worst features introduced in Telegram in 2022</a></td>
+    <td><a href="https://t.me/tginfo/3559">Лучшее и худшее нововведение в Telegram в 2022 году</a></td></tr><tr><td><a href="https://t.me/tginfoen/1583">Topics for all chats</a></td>
+    <td><a href="https://t.me/tginfo/3558">Telegram Premium в качестве подарка</a></td></tr><tr><td><a href="https://t.me/tginfoen/1582">Hiding Groups Members</a></td>
+    <td><a href="https://t.me/tginfo/3557">Темы для всех чатов</a></td></tr>
 </table>
 We are also available on <a href="https://github.com/tginfo"><b>🐙 GitHub</b></a>!
 </div>
 
 <br>
 <hr>
-<h4 align="center">This README file is generated <b>every 6 hours</b>!</br>Last refresh: <b>2022-12-31 08:15:02 (UTC time)</b></h4>
+<h4 align="center">This README file is generated <b>every 6 hours</b>!</br>Last refresh: <b>2022-12-31 20:12:14 (UTC time)</b></h4>
