@@ -14,11 +14,6 @@
 <h2>📊 This week I spent my time using:</h2>
 
 <!--START_SECTION:waka-->
-
-```text
-No activity tracked
-```
-
 <!--END_SECTION:waka-->
 
 <br>
@@ -30,14 +25,14 @@ No activity tracked
 			<th>🇷🇺 На русском (<a href="https://t.me/tginfo">@tginfo</a>)</th>
 		</tr>
 		<caption>🚩 <a href="https://t.me/tginfo">@tginfo</a> in your language: <a href="https://t.me/tginfoworld"><b>@tginfoworld</b></a><caption/>
-  <tr><td><a href="https://t.me/tginfoen/1592">Telegram Desktop has been updated to version 4.5.2</a></td>
-    <td><a href="https://t.me/tginfo/3563">Telegram Desktop обновился до версии 4.5.2</a></td></tr><tr><td><a href="https://t.me/tginfoen/1591">Telegram Info 7 years! </a></td>
-    <td><a href="https://t.me/tginfo/3562">Telegram Info 7 лет! </a></td></tr><tr><td><a href="https://t.me/tginfoen/1590">Telegram Desktop has been updated to version 4.5.1</a></td>
-    <td><a href="https://t.me/tginfo/3561">Telegram Desktop обновился до версии 4.5.1</a></td></tr>
+  <tr><td><a href="https://t.me/tginfoen/1594">Changes in limits</a></td>
+    <td><a href="https://t.me/tginfo/3565">Изменение лимитов </a></td></tr><tr><td><a href="https://t.me/tginfoen/1593">Changing the name of an emoji and sticker set</a></td>
+    <td><a href="https://t.me/tginfo/3564">Изменение названия набора эмодзи и стикеров</a></td></tr><tr><td><a href="https://t.me/tginfoen/1592">Telegram Desktop has been updated to version 4.5.2</a></td>
+    <td><a href="https://t.me/tginfo/3563">Telegram Desktop обновился до версии 4.5.2</a></td></tr>
 </table>
 We are also available on <a href="https://github.com/tginfo"><b>🐙 GitHub</b></a>!
 </div>
 
 <br>
 <hr>
-<h4 align="center">This README file is generated <b>every 6 hours</b>!</br>Last refresh: <b>2023-01-05 08:16:54 (UTC time)</b></h4>
+<h4 align="center">This README file is generated <b>every 6 hours</b>!</br>Last refresh: <b>2023-01-05 20:13:43 (UTC time)</b></h4>
