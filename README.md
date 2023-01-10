@@ -14,14 +14,6 @@
 <h2>📊 This week I spent my time using:</h2>
 
 <!--START_SECTION:waka-->
-
-```text
-Bash         8 mins          ████████████████████░░░░░   80.64 %
-JavaScript   1 min           ████▒░░░░░░░░░░░░░░░░░░░░   16.85 %
-TypeScript   0 secs          ▓░░░░░░░░░░░░░░░░░░░░░░░░   02.47 %
-JSON         0 secs          ░░░░░░░░░░░░░░░░░░░░░░░░░   00.04 %
-```
-
 <!--END_SECTION:waka-->
 
 <br>
@@ -33,14 +25,14 @@ JSON         0 secs          ░░░░░░░░░░░░░░░░░
 			<th>🇷🇺 На русском (<a href="https://t.me/tginfo">@tginfo</a>)</th>
 		</tr>
 		<caption>🚩 <a href="https://t.me/tginfo">@tginfo</a> in your language: <a href="https://t.me/tginfoworld"><b>@tginfoworld</b></a><caption/>
-  <tr><td><a href="https://t.me/tginfoen/1594">Changes in limits</a></td>
+  <tr><td><a href="https://t.me/tginfoen/1595">Telegram overtakes WhatsApp in Brazil</a></td>
+    <td><a href="https://t.me/tginfo/3566">Telegram обошел WhatsApp в Бразилии</a></td></tr><tr><td><a href="https://t.me/tginfoen/1594">Changes in limits</a></td>
     <td><a href="https://t.me/tginfo/3565">Изменение лимитов </a></td></tr><tr><td><a href="https://t.me/tginfoen/1593">Changing the name of an emoji and sticker set</a></td>
-    <td><a href="https://t.me/tginfo/3564">Изменение названия набора эмодзи и стикеров</a></td></tr><tr><td><a href="https://t.me/tginfoen/1592">Telegram Desktop has been updated to version 4.5.2</a></td>
-    <td><a href="https://t.me/tginfo/3563">Telegram Desktop обновился до версии 4.5.2</a></td></tr>
+    <td><a href="https://t.me/tginfo/3564">Изменение названия набора эмодзи и стикеров</a></td></tr>
 </table>
 We are also available on <a href="https://github.com/tginfo"><b>🐙 GitHub</b></a>!
 </div>
 
 <br>
 <hr>
-<h4 align="center">This README file is generated <b>every 6 hours</b>!</br>Last refresh: <b>2023-01-10 08:16:31 (UTC time)</b></h4>
+<h4 align="center">This README file is generated <b>every 6 hours</b>!</br>Last refresh: <b>2023-01-10 20:13:45 (UTC time)</b></h4>
