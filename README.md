@@ -14,16 +14,6 @@
 <h2>📊 This week I spent my time using:</h2>
 
 <!--START_SECTION:waka-->
-
-```text
-TypeScript       9 hrs 37 mins   ██████████████▓░░░░░░░░░░   58.01 %
-CSS              5 hrs 32 mins   ████████▒░░░░░░░░░░░░░░░░   33.46 %
-JSON             43 mins         █░░░░░░░░░░░░░░░░░░░░░░░░   04.36 %
-JavaScript       21 mins         ▓░░░░░░░░░░░░░░░░░░░░░░░░   02.13 %
-HTML             17 mins         ▒░░░░░░░░░░░░░░░░░░░░░░░░   01.78 %
-XML              2 mins          ░░░░░░░░░░░░░░░░░░░░░░░░░   00.21 %
-```
-
 <!--END_SECTION:waka-->
 
 <br>
@@ -36,13 +26,13 @@ XML              2 mins          ░░░░░░░░░░░░░░░�
 		</tr>
 		<caption>🚩 <a href="https://t.me/tginfo">@tginfo</a> in your language: <a href="https://t.me/tginfoworld"><b>@tginfoworld</b></a><caption/>
   <tr><td><a href="https://t.me/tginfoen/1595">Telegram overtakes WhatsApp in Brazil</a></td>
-    <td><a href="https://t.me/tginfo/3566">Telegram обошел WhatsApp в Бразилии</a></td></tr><tr><td><a href="https://t.me/tginfoen/1594">Changes in limits</a></td>
-    <td><a href="https://t.me/tginfo/3565">Изменение лимитов </a></td></tr><tr><td><a href="https://t.me/tginfoen/1593">Changing the name of an emoji and sticker set</a></td>
-    <td><a href="https://t.me/tginfo/3564">Изменение названия набора эмодзи и стикеров</a></td></tr>
+    <td><a href="https://t.me/tginfo/3567">Роскомнадзор признает Telegram иностранным мессенджером</a></td></tr><tr><td><a href="https://t.me/tginfoen/1594">Changes in limits</a></td>
+    <td><a href="https://t.me/tginfo/3566">Telegram обошел WhatsApp в Бразилии</a></td></tr><tr><td><a href="https://t.me/tginfoen/1593">Changing the name of an emoji and sticker set</a></td>
+    <td><a href="https://t.me/tginfo/3565">Изменение лимитов </a></td></tr>
 </table>
 We are also available on <a href="https://github.com/tginfo"><b>🐙 GitHub</b></a>!
 </div>
 
 <br>
 <hr>
-<h4 align="center">This README file is generated <b>every 6 hours</b>!</br>Last refresh: <b>2023-01-21 08:15:03 (UTC time)</b></h4>
+<h4 align="center">This README file is generated <b>every 6 hours</b>!</br>Last refresh: <b>2023-01-21 20:12:11 (UTC time)</b></h4>
