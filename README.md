@@ -14,16 +14,6 @@
 <h2>📊 This week I spent my time using:</h2>
 
 <!--START_SECTION:waka-->
-
-```text
-TypeScript       9 hrs 55 mins   ████████████████▒░░░░░░░░   65.43 %
-JavaScript       2 hrs 10 mins   ███▓░░░░░░░░░░░░░░░░░░░░░   14.30 %
-JSON             1 hr 16 mins    ██░░░░░░░░░░░░░░░░░░░░░░░   08.44 %
-CSS              54 mins         █▒░░░░░░░░░░░░░░░░░░░░░░░   05.98 %
-HTML             29 mins         ▓░░░░░░░░░░░░░░░░░░░░░░░░   03.24 %
-Kotlin           15 mins         ▒░░░░░░░░░░░░░░░░░░░░░░░░   01.66 %
-```
-
 <!--END_SECTION:waka-->
 
 <br>
@@ -36,13 +26,13 @@ Kotlin           15 mins         ▒░░░░░░░░░░░░░░�
 		</tr>
 		<caption>🚩 <a href="https://t.me/tginfo">@tginfo</a> in your language: <a href="https://t.me/tginfoworld"><b>@tginfoworld</b></a><caption/>
   <tr><td><a href="https://t.me/tginfoen/1596">The best and worst innovation in Telegram 2022 ⁠⁠⁠⁠⁠⁠</a></td>
-    <td><a href="https://t.me/tginfo/3572">⁠⁠⁠⁠⁠⁠Лучшее и худшее нововведение в Telegram 2022 года</a></td></tr><tr><td><a href="https://t.me/tginfoen/1595">Telegram overtakes WhatsApp in Brazil</a></td>
-    <td><a href="https://t.me/tginfo/3571">Обновление Telegram Info VPN: пробный период, повышение цен и косметические изменения</a></td></tr><tr><td><a href="https://t.me/tginfoen/1594">Changes in limits</a></td>
-    <td><a href="https://t.me/tginfo/3570">✅ Подписка Telegram Premium не будет ограничена в России</a></td></tr>
+    <td><a href="https://t.me/tginfo/3573">Вывод TON на банковские карты российских банков</a></td></tr><tr><td><a href="https://t.me/tginfoen/1595">Telegram overtakes WhatsApp in Brazil</a></td>
+    <td><a href="https://t.me/tginfo/3572">⁠⁠⁠⁠⁠⁠Лучшее и худшее нововведение в Telegram 2022 года</a></td></tr><tr><td><a href="https://t.me/tginfoen/1594">Changes in limits</a></td>
+    <td><a href="https://t.me/tginfo/3571">Обновление Telegram Info VPN: пробный период, повышение цен и косметические изменения</a></td></tr>
 </table>
 We are also available on <a href="https://github.com/tginfo"><b>🐙 GitHub</b></a>!
 </div>
 
 <br>
 <hr>
-<h4 align="center">This README file is generated <b>every 6 hours</b>!</br>Last refresh: <b>2023-01-26 08:16:19 (UTC time)</b></h4>
+<h4 align="center">This README file is generated <b>every 6 hours</b>!</br>Last refresh: <b>2023-01-26 20:12:42 (UTC time)</b></h4>
