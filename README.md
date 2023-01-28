@@ -14,16 +14,6 @@
 <h2>📊 This week I spent my time using:</h2>
 
 <!--START_SECTION:waka-->
-
-```text
-TypeScript       7 hrs 43 mins   ████████████▒░░░░░░░░░░░░   49.25 %
-Kotlin           3 hrs 55 mins   ██████▒░░░░░░░░░░░░░░░░░░   25.06 %
-JavaScript       2 hrs 7 mins    ███▒░░░░░░░░░░░░░░░░░░░░░   13.58 %
-JSON             43 mins         █▒░░░░░░░░░░░░░░░░░░░░░░░   04.68 %
-HTML             29 mins         ▓░░░░░░░░░░░░░░░░░░░░░░░░   03.14 %
-CSS              16 mins         ▒░░░░░░░░░░░░░░░░░░░░░░░░   01.72 %
-```
-
 <!--END_SECTION:waka-->
 
 <br>
@@ -35,14 +25,14 @@ CSS              16 mins         ▒░░░░░░░░░░░░░░�
 			<th>🇷🇺 На русском (<a href="https://t.me/tginfo">@tginfo</a>)</th>
 		</tr>
 		<caption>🚩 <a href="https://t.me/tginfo">@tginfo</a> in your language: <a href="https://t.me/tginfoworld"><b>@tginfoworld</b></a><caption/>
-  <tr><td><a href="https://t.me/tginfoen/1597">Brazilian court fines Telegram for failing to comply with order</a></td>
-    <td><a href="https://t.me/tginfo/3574">Суд Бразилии оштрафовал Telegram за невыполнение постановления</a></td></tr><tr><td><a href="https://t.me/tginfoen/1596">The best and worst innovation in Telegram 2022 ⁠⁠⁠⁠⁠⁠</a></td>
-    <td><a href="https://t.me/tginfo/3573">Вывод TON на банковские карты российских банков</a></td></tr><tr><td><a href="https://t.me/tginfoen/1595">Telegram overtakes WhatsApp in Brazil</a></td>
-    <td><a href="https://t.me/tginfo/3572">⁠⁠⁠⁠⁠⁠Лучшее и худшее нововведение в Telegram 2022 года</a></td></tr>
+  <tr><td><a href="https://t.me/tginfoen/1598">SafetyNet attestation in Telegram for Android</a></td>
+    <td><a href="https://t.me/tginfo/3576">Сколько зарабатывают учителя и врачи на Telegram-каналах</a></td></tr><tr><td><a href="https://t.me/tginfoen/1597">Brazilian court fines Telegram for failing to comply with order</a></td>
+    <td><a href="https://t.me/tginfo/3575">Проверка SafetyNet в Android-приложении </a></td></tr><tr><td><a href="https://t.me/tginfoen/1596">The best and worst innovation in Telegram 2022 ⁠⁠⁠⁠⁠⁠</a></td>
+    <td><a href="https://t.me/tginfo/3574">Суд Бразилии оштрафовал Telegram за невыполнение постановления</a></td></tr>
 </table>
 We are also available on <a href="https://github.com/tginfo"><b>🐙 GitHub</b></a>!
 </div>
 
 <br>
 <hr>
-<h4 align="center">This README file is generated <b>every 6 hours</b>!</br>Last refresh: <b>2023-01-28 08:15:28 (UTC time)</b></h4>
+<h4 align="center">This README file is generated <b>every 6 hours</b>!</br>Last refresh: <b>2023-01-28 20:12:18 (UTC time)</b></h4>
