@@ -14,16 +14,6 @@
 <h2>📊 This week I spent my time using:</h2>
 
 <!--START_SECTION:waka-->
-
-```text
-Kotlin           5 hrs 15 mins   ██████████▓░░░░░░░░░░░░░░   42.77 %
-TypeScript       5 hrs 12 mins   ██████████▓░░░░░░░░░░░░░░   42.33 %
-HTML             29 mins         █░░░░░░░░░░░░░░░░░░░░░░░░   04.00 %
-XML              29 mins         █░░░░░░░░░░░░░░░░░░░░░░░░   03.96 %
-JavaScript       18 mins         ▓░░░░░░░░░░░░░░░░░░░░░░░░   02.52 %
-JSON             13 mins         ▒░░░░░░░░░░░░░░░░░░░░░░░░   01.85 %
-```
-
 <!--END_SECTION:waka-->
 
 <br>
@@ -35,14 +25,14 @@ JSON             13 mins         ▒░░░░░░░░░░░░░░�
 			<th>🇷🇺 На русском (<a href="https://t.me/tginfo">@tginfo</a>)</th>
 		</tr>
 		<caption>🚩 <a href="https://t.me/tginfo">@tginfo</a> in your language: <a href="https://t.me/tginfoworld"><b>@tginfoworld</b></a><caption/>
-  <tr><td><a href="https://t.me/tginfoen/1598">SafetyNet attestation in Telegram for Android</a></td>
+  <tr><td><a href="https://t.me/tginfoen/1599">Improved Avatar Quality</a></td>
+    <td><a href="https://t.me/tginfo/3577">Улучшенное качество аватарок</a></td></tr><tr><td><a href="https://t.me/tginfoen/1598">SafetyNet attestation in Telegram for Android</a></td>
     <td><a href="https://t.me/tginfo/3576">Сколько зарабатывают учителя и врачи на Telegram-каналах</a></td></tr><tr><td><a href="https://t.me/tginfoen/1597">Brazilian court fines Telegram for failing to comply with order</a></td>
-    <td><a href="https://t.me/tginfo/3575">Проверка SafetyNet в Android-приложении </a></td></tr><tr><td><a href="https://t.me/tginfoen/1596">The best and worst innovation in Telegram 2022 ⁠⁠⁠⁠⁠⁠</a></td>
-    <td><a href="https://t.me/tginfo/3574">Суд Бразилии оштрафовал Telegram за невыполнение постановления</a></td></tr>
+    <td><a href="https://t.me/tginfo/3575">Проверка SafetyNet в Android-приложении </a></td></tr>
 </table>
 We are also available on <a href="https://github.com/tginfo"><b>🐙 GitHub</b></a>!
 </div>
 
 <br>
 <hr>
-<h4 align="center">This README file is generated <b>every 6 hours</b>!</br>Last refresh: <b>2023-01-29 08:14:50 (UTC time)</b></h4>
+<h4 align="center">This README file is generated <b>every 6 hours</b>!</br>Last refresh: <b>2023-01-29 20:12:13 (UTC time)</b></h4>
