@@ -14,16 +14,6 @@
 <h2>📊 This week I spent my time using:</h2>
 
 <!--START_SECTION:waka-->
-
-```text
-Kotlin           4 hrs 32 mins   █████████████▒░░░░░░░░░░░   53.46 %
-CSS              1 hr 27 mins    ████▒░░░░░░░░░░░░░░░░░░░░   17.17 %
-TypeScript       57 mins         ██▓░░░░░░░░░░░░░░░░░░░░░░   11.28 %
-MDX              52 mins         ██▓░░░░░░░░░░░░░░░░░░░░░░   10.35 %
-XML              29 mins         █▒░░░░░░░░░░░░░░░░░░░░░░░   05.82 %
-GitIgnore file   5 mins          ▒░░░░░░░░░░░░░░░░░░░░░░░░   01.11 %
-```
-
 <!--END_SECTION:waka-->
 
 <br>
@@ -36,13 +26,13 @@ GitIgnore file   5 mins          ▒░░░░░░░░░░░░░░�
 		</tr>
 		<caption>🚩 <a href="https://t.me/tginfo">@tginfo</a> in your language: <a href="https://t.me/tginfoworld"><b>@tginfoworld</b></a><caption/>
   <tr><td><a href="https://t.me/tginfoen/1601">What awaits us in the upcoming Telegram 9.4 update</a></td>
-    <td><a href="https://t.me/tginfo/3581">Наши подписчики сообщают, что возможность покупки Telegram Premium через бота снова доступна.</a></td></tr><tr><td><a href="https://t.me/tginfoen/1600">Telegram WebZ updated to version 1.59.0</a></td>
-    <td><a href="https://t.me/tginfo/3580">Ошибка при покупке Telegram Premium через бота</a></td></tr><tr><td><a href="https://t.me/tginfoen/1599">Improved Avatar Quality</a></td>
-    <td><a href="https://t.me/tginfo/3579">Telegram WebZ обновился до версии 1.59.0</a></td></tr>
+    <td><a href="https://t.me/tginfo/3582">Конструктор аватаров, категории эмодзи, перевод чатов и многое другое</a></td></tr><tr><td><a href="https://t.me/tginfoen/1600">Telegram WebZ updated to version 1.59.0</a></td>
+    <td><a href="https://t.me/tginfo/3581">Наши подписчики сообщают, что возможность покупки Telegram Premium через бота снова доступна.</a></td></tr><tr><td><a href="https://t.me/tginfoen/1599">Improved Avatar Quality</a></td>
+    <td><a href="https://t.me/tginfo/3580">Ошибка при покупке Telegram Premium через бота</a></td></tr>
 </table>
 We are also available on <a href="https://github.com/tginfo"><b>🐙 GitHub</b></a>!
 </div>
 
 <br>
 <hr>
-<h4 align="center">This README file is generated <b>every 6 hours</b>!</br>Last refresh: <b>2023-02-03 08:16:31 (UTC time)</b></h4>
+<h4 align="center">This README file is generated <b>every 6 hours</b>!</br>Last refresh: <b>2023-02-03 20:13:48 (UTC time)</b></h4>
