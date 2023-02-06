@@ -14,16 +14,6 @@
 <h2>📊 This week I spent my time using:</h2>
 
 <!--START_SECTION:waka-->
-
-```text
-CSS              1 hr 27 mins    ███████▒░░░░░░░░░░░░░░░░░   28.70 %
-Python           1 hr 10 mins    █████▓░░░░░░░░░░░░░░░░░░░   22.99 %
-TypeScript       57 mins         ████▓░░░░░░░░░░░░░░░░░░░░   18.85 %
-MDX              52 mins         ████▒░░░░░░░░░░░░░░░░░░░░   17.30 %
-Markdown         16 mins         █▒░░░░░░░░░░░░░░░░░░░░░░░   05.53 %
-Kotlin           11 mins         █░░░░░░░░░░░░░░░░░░░░░░░░   03.66 %
-```
-
 <!--END_SECTION:waka-->
 
 <br>
@@ -36,13 +26,13 @@ Kotlin           11 mins         █░░░░░░░░░░░░░░�
 		</tr>
 		<caption>🚩 <a href="https://t.me/tginfo">@tginfo</a> in your language: <a href="https://t.me/tginfoworld"><b>@tginfoworld</b></a><caption/>
   <tr><td><a href="https://t.me/tginfoen/1609">Bot API has been updated to version 6.5</a></td>
-    <td><a href="https://t.me/tginfo/3589">Bot API был обновлён до версии 6.5</a></td></tr><tr><td><a href="https://t.me/tginfoen/1608">Emoji Categories</a></td>
-    <td><a href="https://t.me/tginfo/3588">Категории эмодзи</a></td></tr><tr><td><a href="https://t.me/tginfoen/1607">Network Usage</a></td>
-    <td><a href="https://t.me/tginfo/3587">Обновлённый раздел «Использование трафика»</a></td></tr>
+    <td><a href="https://t.me/tginfo/3590">Активный антиспам-фильтр в Telegram</a></td></tr><tr><td><a href="https://t.me/tginfoen/1608">Emoji Categories</a></td>
+    <td><a href="https://t.me/tginfo/3589">Bot API был обновлён до версии 6.5</a></td></tr><tr><td><a href="https://t.me/tginfoen/1607">Network Usage</a></td>
+    <td><a href="https://t.me/tginfo/3588">Категории эмодзи</a></td></tr>
 </table>
 We are also available on <a href="https://github.com/tginfo"><b>🐙 GitHub</b></a>!
 </div>
 
 <br>
 <hr>
-<h4 align="center">This README file is generated <b>every 6 hours</b>!</br>Last refresh: <b>2023-02-06 08:16:54 (UTC time)</b></h4>
+<h4 align="center">This README file is generated <b>every 6 hours</b>!</br>Last refresh: <b>2023-02-06 20:13:50 (UTC time)</b></h4>
