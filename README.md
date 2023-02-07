@@ -14,16 +14,6 @@
 <h2>📊 This week I spent my time using:</h2>
 
 <!--START_SECTION:waka-->
-
-```text
-CSS              1 hr 30 mins    ██████▓░░░░░░░░░░░░░░░░░░   27.05 %
-TypeScript       1 hr 23 mins    ██████▒░░░░░░░░░░░░░░░░░░   25.03 %
-Python           1 hr 10 mins    █████▒░░░░░░░░░░░░░░░░░░░   20.95 %
-MDX              52 mins         ████░░░░░░░░░░░░░░░░░░░░░   15.77 %
-Markdown         16 mins         █▒░░░░░░░░░░░░░░░░░░░░░░░   05.04 %
-Kotlin           11 mins         █░░░░░░░░░░░░░░░░░░░░░░░░   03.34 %
-```
-
 <!--END_SECTION:waka-->
 
 <br>
@@ -35,14 +25,14 @@ Kotlin           11 mins         █░░░░░░░░░░░░░░�
 			<th>🇷🇺 На русском (<a href="https://t.me/tginfo">@tginfo</a>)</th>
 		</tr>
 		<caption>🚩 <a href="https://t.me/tginfo">@tginfo</a> in your language: <a href="https://t.me/tginfoworld"><b>@tginfoworld</b></a><caption/>
-  <tr><td><a href="https://t.me/tginfoen/1609">Bot API has been updated to version 6.5</a></td>
+  <tr><td><a href="https://t.me/tginfoen/1610">Telegram Desktop has been updated to version 4.6.1</a></td>
+    <td><a href="https://t.me/tginfo/3591">Telegram Desktop обновился до версии 4.6.1</a></td></tr><tr><td><a href="https://t.me/tginfoen/1609">Bot API has been updated to version 6.5</a></td>
     <td><a href="https://t.me/tginfo/3590">Активный антиспам-фильтр в Telegram</a></td></tr><tr><td><a href="https://t.me/tginfoen/1608">Emoji Categories</a></td>
-    <td><a href="https://t.me/tginfo/3589">Bot API был обновлён до версии 6.5</a></td></tr><tr><td><a href="https://t.me/tginfoen/1607">Network Usage</a></td>
-    <td><a href="https://t.me/tginfo/3588">Категории эмодзи</a></td></tr>
+    <td><a href="https://t.me/tginfo/3589">Bot API был обновлён до версии 6.5</a></td></tr>
 </table>
 We are also available on <a href="https://github.com/tginfo"><b>🐙 GitHub</b></a>!
 </div>
 
 <br>
 <hr>
-<h4 align="center">This README file is generated <b>every 6 hours</b>!</br>Last refresh: <b>2023-02-07 08:16:12 (UTC time)</b></h4>
+<h4 align="center">This README file is generated <b>every 6 hours</b>!</br>Last refresh: <b>2023-02-07 20:13:48 (UTC time)</b></h4>
