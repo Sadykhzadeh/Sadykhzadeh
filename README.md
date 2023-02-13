@@ -14,16 +14,6 @@
 <h2>📊 This week I spent my time using:</h2>
 
 <!--START_SECTION:waka-->
-
-```text
-TypeScript       9 hrs 34 mins   ███████████████████▒░░░░░   77.67 %
-Python           1 hr 34 mins    ███▒░░░░░░░░░░░░░░░░░░░░░   12.72 %
-CSS              52 mins         █▓░░░░░░░░░░░░░░░░░░░░░░░   07.05 %
-JSON             13 mins         ▒░░░░░░░░░░░░░░░░░░░░░░░░   01.80 %
-GitIgnore file   2 mins          ░░░░░░░░░░░░░░░░░░░░░░░░░   00.29 %
-AUTO_DETECTED    1 min           ░░░░░░░░░░░░░░░░░░░░░░░░░   00.19 %
-```
-
 <!--END_SECTION:waka-->
 
 <br>
@@ -38,11 +28,11 @@ AUTO_DETECTED    1 min           ░░░░░░░░░░░░░░░�
   <tr><td><a href="https://t.me/tginfoen/1611">Telegram to No Longer Support SMS Requests from Third-Party Apps</a></td>
     <td><a href="https://t.me/tginfo/3596">Авторизация в Telegram с помощью электронной почты</a></td></tr><tr><td><a href="https://t.me/tginfoen/1610">Telegram Desktop has been updated to version 4.6.1 and then to 4.6.2</a></td>
     <td><a href="https://t.me/tginfo/3595">Изменения в системе отправки кодов авторизации</a></td></tr><tr><td><a href="https://t.me/tginfoen/1609">Bot API has been updated to version 6.5</a></td>
-    <td><a href="https://t.me/tginfo/3594">Адаптер GPT-3 в Telegram</a></td></tr>
+    <td><a href="https://t.me/tginfo/3593">ВЦИОМ: каждый второй совершеннолетний россиянин использует Telegram</a></td></tr>
 </table>
 We are also available on <a href="https://github.com/tginfo"><b>🐙 GitHub</b></a>!
 </div>
 
 <br>
 <hr>
-<h4 align="center">This README file is generated <b>every 6 hours</b>!</br>Last refresh: <b>2023-02-13 08:17:28 (UTC time)</b></h4>
+<h4 align="center">This README file is generated <b>every 6 hours</b>!</br>Last refresh: <b>2023-02-13 20:13:51 (UTC time)</b></h4>
