@@ -14,16 +14,6 @@
 <h2>📊 This week I spent my time using:</h2>
 
 <!--START_SECTION:waka-->
-
-```text
-TypeScript       9 hrs 41 mins   ██████████████████░░░░░░░   72.62 %
-Python           1 hr 34 mins    ███░░░░░░░░░░░░░░░░░░░░░░   11.75 %
-CSS              49 mins         █▓░░░░░░░░░░░░░░░░░░░░░░░   06.14 %
-XML              24 mins         ▓░░░░░░░░░░░░░░░░░░░░░░░░   03.00 %
-Markdown         20 mins         ▓░░░░░░░░░░░░░░░░░░░░░░░░   02.50 %
-JSON             12 mins         ▒░░░░░░░░░░░░░░░░░░░░░░░░   01.61 %
-```
-
 <!--END_SECTION:waka-->
 
 <br>
@@ -36,13 +26,13 @@ JSON             12 mins         ▒░░░░░░░░░░░░░░�
 		</tr>
 		<caption>🚩 <a href="https://t.me/tginfo">@tginfo</a> in your language: <a href="https://t.me/tginfoworld"><b>@tginfoworld</b></a><caption/>
   <tr><td><a href="https://t.me/tginfoen/1611">Telegram to No Longer Support SMS Requests from Third-Party Apps</a></td>
-    <td><a href="https://t.me/tginfo/3596">Авторизация в Telegram с помощью электронной почты</a></td></tr><tr><td><a href="https://t.me/tginfoen/1610">Telegram Desktop has been updated to version 4.6.1 and then to 4.6.2</a></td>
-    <td><a href="https://t.me/tginfo/3595">Изменения в системе отправки кодов авторизации</a></td></tr><tr><td><a href="https://t.me/tginfoen/1609">Bot API has been updated to version 6.5</a></td>
-    <td><a href="https://t.me/tginfo/3593">ВЦИОМ: каждый второй совершеннолетний россиянин использует Telegram</a></td></tr>
+    <td><a href="https://t.me/tginfo/3598">Telegram вновь рекламирует Premium-подписку</a></td></tr><tr><td><a href="https://t.me/tginfoen/1610">Telegram Desktop has been updated to version 4.6.1 and then to 4.6.2</a></td>
+    <td><a href="https://t.me/tginfo/3596">Авторизация в Telegram с помощью электронной почты</a></td></tr><tr><td><a href="https://t.me/tginfoen/1609">Bot API has been updated to version 6.5</a></td>
+    <td><a href="https://t.me/tginfo/3595">Изменения в системе отправки кодов авторизации</a></td></tr>
 </table>
 We are also available on <a href="https://github.com/tginfo"><b>🐙 GitHub</b></a>!
 </div>
 
 <br>
 <hr>
-<h4 align="center">This README file is generated <b>every 6 hours</b>!</br>Last refresh: <b>2023-02-14 08:17:24 (UTC time)</b></h4>
+<h4 align="center">This README file is generated <b>every 6 hours</b>!</br>Last refresh: <b>2023-02-14 20:14:06 (UTC time)</b></h4>
