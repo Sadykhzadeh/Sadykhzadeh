@@ -25,14 +25,14 @@
 			<th>🇷🇺 На русском (<a href="https://t.me/tginfo">@tginfo</a>)</th>
 		</tr>
 		<caption>🚩 <a href="https://t.me/tginfo">@tginfo</a> in your language: <a href="https://t.me/tginfoworld"><b>@tginfoworld</b></a><caption/>
-  <tr><td><a href="https://t.me/tginfoen/1611">Telegram to No Longer Support SMS Requests from Third-Party Apps</a></td>
+  <tr><td><a href="https://t.me/tginfoen/1612">What determines the price of Telegram Premium</a></td>
+    <td><a href="https://t.me/tginfo/3599">От чего зависит цена на Telegram Premium </a></td></tr><tr><td><a href="https://t.me/tginfoen/1611">Telegram to No Longer Support SMS Requests from Third-Party Apps</a></td>
     <td><a href="https://t.me/tginfo/3598">Telegram вновь рекламирует Premium-подписку</a></td></tr><tr><td><a href="https://t.me/tginfoen/1610">Telegram Desktop has been updated to version 4.6.1 and then to 4.6.2</a></td>
-    <td><a href="https://t.me/tginfo/3596">Авторизация в Telegram с помощью электронной почты</a></td></tr><tr><td><a href="https://t.me/tginfoen/1609">Bot API has been updated to version 6.5</a></td>
-    <td><a href="https://t.me/tginfo/3595">Изменения в системе отправки кодов авторизации</a></td></tr>
+    <td><a href="https://t.me/tginfo/3596">Авторизация в Telegram с помощью электронной почты</a></td></tr>
 </table>
 We are also available on <a href="https://github.com/tginfo"><b>🐙 GitHub</b></a>!
 </div>
 
 <br>
 <hr>
-<h4 align="center">This README file is generated <b>every 6 hours</b>!</br>Last refresh: <b>2023-02-15 08:17:18 (UTC time)</b></h4>
+<h4 align="center">This README file is generated <b>every 6 hours</b>!</br>Last refresh: <b>2023-02-15 20:14:25 (UTC time)</b></h4>
