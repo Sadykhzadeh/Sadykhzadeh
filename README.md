@@ -14,16 +14,6 @@
 <h2>📊 This week I spent my time using:</h2>
 
 <!--START_SECTION:waka-->
-
-```text
-TypeScript       3 hrs 11 mins   ██████░░░░░░░░░░░░░░░░░░░   23.54 %
-Python           2 hrs 45 mins   █████░░░░░░░░░░░░░░░░░░░░   20.38 %
-Kotlin           2 hrs 14 mins   ████░░░░░░░░░░░░░░░░░░░░░   16.47 %
-JSON             1 hr 34 mins    ███░░░░░░░░░░░░░░░░░░░░░░   11.56 %
-MDX              54 mins         █▓░░░░░░░░░░░░░░░░░░░░░░░   06.74 %
-Markdown         52 mins         █▓░░░░░░░░░░░░░░░░░░░░░░░   06.43 %
-```
-
 <!--END_SECTION:waka-->
 
 <br>
@@ -35,14 +25,14 @@ Markdown         52 mins         █▓░░░░░░░░░░░░░�
 			<th>🇷🇺 На русском (<a href="https://t.me/tginfo">@tginfo</a>)</th>
 		</tr>
 		<caption>🚩 <a href="https://t.me/tginfo">@tginfo</a> in your language: <a href="https://t.me/tginfoworld"><b>@tginfoworld</b></a><caption/>
-  <tr><td><a href="https://t.me/tginfoen/1613">Telegram Beats Facebook Messenger in Popularity</a></td>
+  <tr><td><a href="https://t.me/tginfoen/1614">New Telegram Call UI contest for Android and iOS developers</a></td>
+    <td><a href="https://t.me/tginfo/3602">🤖 AI-Тележка: автоматическая генерация текста и фото нативных интеграций </a></td></tr><tr><td><a href="https://t.me/tginfoen/1613">Telegram Beats Facebook Messenger in Popularity</a></td>
     <td><a href="https://t.me/tginfo/3601">Новый конкурс Telegram Call UI для Android и iOS-разработчиков</a></td></tr><tr><td><a href="https://t.me/tginfoen/1612">What determines the price of Telegram Premium</a></td>
-    <td><a href="https://t.me/tginfo/3600">Telegram стал самым популярным облачным мессенджером</a></td></tr><tr><td><a href="https://t.me/tginfoen/1611">Telegram to No Longer Support SMS Requests from Third-Party Apps</a></td>
-    <td><a href="https://t.me/tginfo/3599">От чего зависит цена на Telegram Premium </a></td></tr>
+    <td><a href="https://t.me/tginfo/3600">Telegram стал самым популярным облачным мессенджером</a></td></tr>
 </table>
 We are also available on <a href="https://github.com/tginfo"><b>🐙 GitHub</b></a>!
 </div>
 
 <br>
 <hr>
-<h4 align="center">This README file is generated <b>every 6 hours</b>!</br>Last refresh: <b>2023-02-20 08:17:52 (UTC time)</b></h4>
+<h4 align="center">This README file is generated <b>every 6 hours</b>!</br>Last refresh: <b>2023-02-20 20:13:34 (UTC time)</b></h4>
