@@ -14,16 +14,6 @@
 <h2>📊 This week I spent my time using:</h2>
 
 <!--START_SECTION:waka-->
-
-```text
-Python           2 hrs 54 mins   ████▒░░░░░░░░░░░░░░░░░░░░   17.63 %
-HTML             2 hrs 26 mins   ███▓░░░░░░░░░░░░░░░░░░░░░   14.74 %
-CSS              2 hrs 9 mins    ███▒░░░░░░░░░░░░░░░░░░░░░   13.09 %
-Kotlin           1 hr 34 mins    ██▒░░░░░░░░░░░░░░░░░░░░░░   09.55 %
-Bash             1 hr 34 mins    ██▒░░░░░░░░░░░░░░░░░░░░░░   09.52 %
-JSON             1 hr 32 mins    ██▒░░░░░░░░░░░░░░░░░░░░░░   09.33 %
-```
-
 <!--END_SECTION:waka-->
 
 <br>
@@ -35,14 +25,14 @@ JSON             1 hr 32 mins    ██▒░░░░░░░░░░░░�
 			<th>🇷🇺 На русском (<a href="https://t.me/tginfo">@tginfo</a>)</th>
 		</tr>
 		<caption>🚩 <a href="https://t.me/tginfo">@tginfo</a> in your language: <a href="https://t.me/tginfoworld"><b>@tginfoworld</b></a><caption/>
-  <tr><td><a href="https://t.me/tginfoen/1616">Now it's easier to gift Telegram Premium</a></td>
+  <tr><td><a href="https://t.me/tginfoen/1617">Users of unofficial clients are having trouble logging into their accounts</a></td>
+    <td><a href="https://t.me/tginfo/3605">Пользователи неофициальных клиентов испытывают затруднения при входе в аккаунты</a></td></tr><tr><td><a href="https://t.me/tginfoen/1616">Now it's easier to gift Telegram Premium</a></td>
     <td><a href="https://t.me/tginfo/3604">Подарить Telegram Premium стало проще</a></td></tr><tr><td><a href="https://t.me/tginfoen/1615">Telegram's EU Audience Reaches 38.5 Million People, or 8.5% of Population</a></td>
-    <td><a href="https://t.me/tginfo/3603">🇪🇺 Аудитория Telegram в Евросоюзе последние полгода составляла в среднем 38.5 миллионов человек, или 8.5% населения</a></td></tr><tr><td><a href="https://t.me/tginfoen/1614">New Telegram Call UI contest for Android and iOS developers</a></td>
-    <td><a href="https://t.me/tginfo/3601">Новый конкурс Telegram Call UI для Android и iOS-разработчиков</a></td></tr>
+    <td><a href="https://t.me/tginfo/3603">🇪🇺 Аудитория Telegram в Евросоюзе последние полгода составляла в среднем 38.5 миллионов человек, или 8.5% населения</a></td></tr>
 </table>
 We are also available on <a href="https://github.com/tginfo"><b>🐙 GitHub</b></a>!
 </div>
 
 <br>
 <hr>
-<h4 align="center">This README file is generated <b>every 6 hours</b>!</br>Last refresh: <b>2023-02-24 08:17:13 (UTC time)</b></h4>
+<h4 align="center">This README file is generated <b>every 6 hours</b>!</br>Last refresh: <b>2023-02-24 20:14:34 (UTC time)</b></h4>
