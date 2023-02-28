@@ -14,16 +14,6 @@
 <h2>📊 This week I spent my time using:</h2>
 
 <!--START_SECTION:waka-->
-
-```text
-Python         2 hrs 31 mins   █████▒░░░░░░░░░░░░░░░░░░░   21.44 %
-HTML           2 hrs 24 mins   █████░░░░░░░░░░░░░░░░░░░░   20.56 %
-CSS            2 hrs 9 mins    ████▓░░░░░░░░░░░░░░░░░░░░   18.39 %
-Kotlin         1 hr 22 mins    ███░░░░░░░░░░░░░░░░░░░░░░   11.66 %
-Bash           1 hr 7 mins     ██▒░░░░░░░░░░░░░░░░░░░░░░   09.61 %
-YAML           45 mins         █▓░░░░░░░░░░░░░░░░░░░░░░░   06.51 %
-```
-
 <!--END_SECTION:waka-->
 
 <br>
@@ -36,13 +26,13 @@ YAML           45 mins         █▓░░░░░░░░░░░░░░�
 		</tr>
 		<caption>🚩 <a href="https://t.me/tginfo">@tginfo</a> in your language: <a href="https://t.me/tginfoworld"><b>@tginfoworld</b></a><caption/>
   <tr><td><a href="https://t.me/tginfoen/1617">Users of unofficial clients are having trouble logging into their accounts</a></td>
-    <td><a href="https://t.me/tginfo/3605">Пользователи неофициальных клиентов испытывают затруднения при входе в аккаунты</a></td></tr><tr><td><a href="https://t.me/tginfoen/1616">Now it's easier to gift Telegram Premium</a></td>
-    <td><a href="https://t.me/tginfo/3604">Подарить Telegram Premium стало проще</a></td></tr><tr><td><a href="https://t.me/tginfoen/1615">Telegram's EU Audience Reaches 38.5 Million People, or 8.5% of Population</a></td>
-    <td><a href="https://t.me/tginfo/3603">🇪🇺 Аудитория Telegram в Евросоюзе последние полгода составляла в среднем 38.5 миллионов человек, или 8.5% населения</a></td></tr>
+    <td><a href="https://t.me/tginfo/3606">✅ fixed </a></td></tr><tr><td><a href="https://t.me/tginfoen/1616">Now it's easier to gift Telegram Premium</a></td>
+    <td><a href="https://t.me/tginfo/3605">Пользователи неофициальных клиентов испытывают затруднения при входе в аккаунты</a></td></tr><tr><td><a href="https://t.me/tginfoen/1615">Telegram's EU Audience Reaches 38.5 Million People, or 8.5% of Population</a></td>
+    <td><a href="https://t.me/tginfo/3604">Подарить Telegram Premium стало проще</a></td></tr>
 </table>
 We are also available on <a href="https://github.com/tginfo"><b>🐙 GitHub</b></a>!
 </div>
 
 <br>
 <hr>
-<h4 align="center">This README file is generated <b>every 6 hours</b>!</br>Last refresh: <b>2023-02-28 08:17:26 (UTC time)</b></h4>
+<h4 align="center">This README file is generated <b>every 6 hours</b>!</br>Last refresh: <b>2023-02-28 20:14:30 (UTC time)</b></h4>
