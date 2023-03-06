@@ -14,16 +14,6 @@
 <h2>📊 This week I spent my time using:</h2>
 
 <!--START_SECTION:waka-->
-
-```text
-Svelte           6 hrs 25 mins   █████████████░░░░░░░░░░░░   52.08 %
-Python           2 hrs 37 mins   █████▒░░░░░░░░░░░░░░░░░░░   21.29 %
-C++              1 hr            ██░░░░░░░░░░░░░░░░░░░░░░░   08.20 %
-Kotlin           33 mins         █░░░░░░░░░░░░░░░░░░░░░░░░   04.49 %
-TypeScript       26 mins         █░░░░░░░░░░░░░░░░░░░░░░░░   03.55 %
-JSON             18 mins         ▓░░░░░░░░░░░░░░░░░░░░░░░░   02.52 %
-```
-
 <!--END_SECTION:waka-->
 
 <br>
@@ -36,13 +26,13 @@ JSON             18 mins         ▓░░░░░░░░░░░░░░�
 		</tr>
 		<caption>🚩 <a href="https://t.me/tginfo">@tginfo</a> in your language: <a href="https://t.me/tginfoworld"><b>@tginfoworld</b></a><caption/>
   <tr><td><a href="https://t.me/tginfoen/1619">Telegram for macOS has been updated to version 9.4.2</a></td>
-    <td><a href="https://t.me/tginfo/3610">Среднесуточный охват Telegram в России за год вырос почти в 1,8 раз</a></td></tr><tr><td><a href="https://t.me/tginfoen/1618">Clarification on the law of digital services</a></td>
-    <td><a href="https://t.me/tginfo/3609">Telegram для macOS обновился до версии 9.4.2</a></td></tr><tr><td><a href="https://t.me/tginfoen/1617">Users of unofficial clients are having trouble logging into their accounts</a></td>
-    <td><a href="https://t.me/tginfo/3608">Роскомнадзор включил Telegram в список зарубежных сервисов с ограничениями для банков</a></td></tr>
+    <td><a href="https://t.me/tginfo/3611">Что нас ждёт в грядущем обновлении Telegram 9.5</a></td></tr><tr><td><a href="https://t.me/tginfoen/1618">Clarification on the law of digital services</a></td>
+    <td><a href="https://t.me/tginfo/3610">Среднесуточный охват Telegram в России за год вырос почти в 1,8 раз</a></td></tr><tr><td><a href="https://t.me/tginfoen/1617">Users of unofficial clients are having trouble logging into their accounts</a></td>
+    <td><a href="https://t.me/tginfo/3609">Telegram для macOS обновился до версии 9.4.2</a></td></tr>
 </table>
 We are also available on <a href="https://github.com/tginfo"><b>🐙 GitHub</b></a>!
 </div>
 
 <br>
 <hr>
-<h4 align="center">This README file is generated <b>every 6 hours</b>!</br>Last refresh: <b>2023-03-06 08:17:30 (UTC time)</b></h4>
+<h4 align="center">This README file is generated <b>every 6 hours</b>!</br>Last refresh: <b>2023-03-06 20:14:04 (UTC time)</b></h4>
