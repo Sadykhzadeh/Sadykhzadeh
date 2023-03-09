@@ -14,16 +14,6 @@
 <h2>📊 This week I spent my time using:</h2>
 
 <!--START_SECTION:waka-->
-
-```text
-Svelte            6 hrs 25 mins   █████████████▒░░░░░░░░░░░   53.97 %
-Python            1 hr 26 mins    ███░░░░░░░░░░░░░░░░░░░░░░   12.12 %
-C++               1 hr            ██░░░░░░░░░░░░░░░░░░░░░░░   08.49 %
-CSS               56 mins         ██░░░░░░░░░░░░░░░░░░░░░░░   07.94 %
-HTML              34 mins         █▒░░░░░░░░░░░░░░░░░░░░░░░   04.84 %
-TypeScript        26 mins         █░░░░░░░░░░░░░░░░░░░░░░░░   03.68 %
-```
-
 <!--END_SECTION:waka-->
 
 <br>
@@ -35,14 +25,14 @@ TypeScript        26 mins         █░░░░░░░░░░░░░░�
 			<th>🇷🇺 На русском (<a href="https://t.me/tginfo">@tginfo</a>)</th>
 		</tr>
 		<caption>🚩 <a href="https://t.me/tginfo">@tginfo</a> in your language: <a href="https://t.me/tginfoworld"><b>@tginfoworld</b></a><caption/>
-  <tr><td><a href="https://t.me/tginfoen/1620">Power Saving Mode and More</a></td>
-    <td><a href="https://t.me/tginfo/3616">Автоматическая отправка пригласительных ссылок</a></td></tr><tr><td><a href="https://t.me/tginfoen/1619">Telegram for macOS has been updated to version 9.4.2</a></td>
-    <td><a href="https://t.me/tginfo/3615">Время прочтения сообщений в небольших группах</a></td></tr><tr><td><a href="https://t.me/tginfoen/1618">Clarification on the law of digital services</a></td>
-    <td><a href="https://t.me/tginfo/3614">Настройка скорости воспроизведения</a></td></tr>
+  <tr><td><a href="https://t.me/tginfoen/1625">Bot API updated to version 6.6</a></td>
+    <td><a href="https://t.me/tginfo/3618">Bot API был обновлён до версии 6.6</a></td></tr><tr><td><a href="https://t.me/tginfoen/1624">Auto-Send Invite Links</a></td>
+    <td><a href="https://t.me/tginfo/3617">Чат-бот на GPT 3.5 в Telegram</a></td></tr><tr><td><a href="https://t.me/tginfoen/1623">Read Time in Small Groups </a></td>
+    <td><a href="https://t.me/tginfo/3616">Автоматическая отправка пригласительных ссылок</a></td></tr>
 </table>
 We are also available on <a href="https://github.com/tginfo"><b>🐙 GitHub</b></a>!
 </div>
 
 <br>
 <hr>
-<h4 align="center">This README file is generated <b>every 6 hours</b>!</br>Last refresh: <b>2023-03-09 08:17:06 (UTC time)</b></h4>
+<h4 align="center">This README file is generated <b>every 6 hours</b>!</br>Last refresh: <b>2023-03-09 20:14:04 (UTC time)</b></h4>
