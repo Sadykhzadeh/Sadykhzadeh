@@ -14,16 +14,6 @@
 <h2>📊 This week I spent my time using:</h2>
 
 <!--START_SECTION:waka-->
-
-```text
-HTML             1 hr 27 mins    ██████▒░░░░░░░░░░░░░░░░░░   25.21 %
-Python           1 hr 24 mins    ██████░░░░░░░░░░░░░░░░░░░   24.57 %
-C++              1 hr 8 mins     █████░░░░░░░░░░░░░░░░░░░░   19.67 %
-CSS              1 hr 6 mins     ████▓░░░░░░░░░░░░░░░░░░░░   19.26 %
-Shell Script     14 mins         █░░░░░░░░░░░░░░░░░░░░░░░░   04.20 %
-GitIgnore file   10 mins         ▓░░░░░░░░░░░░░░░░░░░░░░░░   03.15 %
-```
-
 <!--END_SECTION:waka-->
 
 <br>
@@ -36,13 +26,13 @@ GitIgnore file   10 mins         ▓░░░░░░░░░░░░░░�
 		</tr>
 		<caption>🚩 <a href="https://t.me/tginfo">@tginfo</a> in your language: <a href="https://t.me/tginfoworld"><b>@tginfoworld</b></a><caption/>
   <tr><td><a href="https://t.me/tginfoen/1626">Telegram fights account hijacking</a></td>
-    <td><a href="https://t.me/tginfo/3621">Выбор страны в Telegram Info VPN</a></td></tr><tr><td><a href="https://t.me/tginfoen/1625">Bot API updated to version 6.6</a></td>
-    <td><a href="https://t.me/tginfo/3620">Telegram борется со взломом аккаунтов </a></td></tr><tr><td><a href="https://t.me/tginfoen/1624">Auto-Send Invite Links</a></td>
-    <td><a href="https://t.me/tginfo/3619">Telegram X обновился до версии 0.25.6.1605 ⁠</a></td></tr>
+    <td><a href="https://t.me/tginfo/3622">Информация о рекламодателе в Telegram Ads</a></td></tr><tr><td><a href="https://t.me/tginfoen/1625">Bot API updated to version 6.6</a></td>
+    <td><a href="https://t.me/tginfo/3621">Выбор страны в Telegram Info VPN</a></td></tr><tr><td><a href="https://t.me/tginfoen/1624">Auto-Send Invite Links</a></td>
+    <td><a href="https://t.me/tginfo/3620">Telegram борется со взломом аккаунтов </a></td></tr>
 </table>
 We are also available on <a href="https://github.com/tginfo"><b>🐙 GitHub</b></a>!
 </div>
 
 <br>
 <hr>
-<h4 align="center">This README file is generated <b>every 6 hours</b>!</br>Last refresh: <b>2023-03-17 08:16:03 (UTC time)</b></h4>
+<h4 align="center">This README file is generated <b>every 6 hours</b>!</br>Last refresh: <b>2023-03-17 20:13:19 (UTC time)</b></h4>
