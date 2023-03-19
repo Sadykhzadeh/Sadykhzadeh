@@ -14,16 +14,6 @@
 <h2>📊 This week I spent my time using:</h2>
 
 <!--START_SECTION:waka-->
-
-```text
-Python           1 hr 13 mins    ███████▒░░░░░░░░░░░░░░░░░   29.67 %
-C++              1 hr 7 mins     ███████░░░░░░░░░░░░░░░░░░   27.52 %
-HTML             42 mins         ████▒░░░░░░░░░░░░░░░░░░░░   17.12 %
-CSS              33 mins         ███▒░░░░░░░░░░░░░░░░░░░░░   13.61 %
-GitIgnore file   10 mins         █░░░░░░░░░░░░░░░░░░░░░░░░   04.41 %
-Kotlin           8 mins          ▓░░░░░░░░░░░░░░░░░░░░░░░░   03.28 %
-```
-
 <!--END_SECTION:waka-->
 
 <br>
@@ -35,14 +25,14 @@ Kotlin           8 mins          ▓░░░░░░░░░░░░░░�
 			<th>🇷🇺 На русском (<a href="https://t.me/tginfo">@tginfo</a>)</th>
 		</tr>
 		<caption>🚩 <a href="https://t.me/tginfo">@tginfo</a> in your language: <a href="https://t.me/tginfoworld"><b>@tginfoworld</b></a><caption/>
-  <tr><td><a href="https://t.me/tginfoen/1626">Telegram fights account hijacking</a></td>
-    <td><a href="https://t.me/tginfo/3622">Информация о рекламодателе в Telegram Ads</a></td></tr><tr><td><a href="https://t.me/tginfoen/1625">Bot API updated to version 6.6</a></td>
-    <td><a href="https://t.me/tginfo/3621">Выбор страны в Telegram Info VPN</a></td></tr><tr><td><a href="https://t.me/tginfoen/1624">Auto-Send Invite Links</a></td>
-    <td><a href="https://t.me/tginfo/3620">Telegram борется со взломом аккаунтов </a></td></tr>
+  <tr><td><a href="https://t.me/tginfoen/1627">Results of the Call UI contest for Android and iOS developers</a></td>
+    <td><a href="https://t.me/tginfo/3624">Telegram Desktop обновился до версии 4.7</a></td></tr><tr><td><a href="https://t.me/tginfoen/1626">Telegram fights account hijacking</a></td>
+    <td><a href="https://t.me/tginfo/3623">Результаты конкурса на разработку интерфейса звонков для Android и iOS-разработчиков</a></td></tr><tr><td><a href="https://t.me/tginfoen/1625">Bot API updated to version 6.6</a></td>
+    <td><a href="https://t.me/tginfo/3622">Информация о рекламодателе в Telegram Ads</a></td></tr>
 </table>
 We are also available on <a href="https://github.com/tginfo"><b>🐙 GitHub</b></a>!
 </div>
 
 <br>
 <hr>
-<h4 align="center">This README file is generated <b>every 6 hours</b>!</br>Last refresh: <b>2023-03-19 08:14:38 (UTC time)</b></h4>
+<h4 align="center">This README file is generated <b>every 6 hours</b>!</br>Last refresh: <b>2023-03-19 20:12:35 (UTC time)</b></h4>
