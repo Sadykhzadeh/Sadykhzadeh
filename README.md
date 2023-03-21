@@ -14,16 +14,6 @@
 <h2>📊 This week I spent my time using:</h2>
 
 <!--START_SECTION:waka-->
-
-```text
-Python           1 hr 19 mins    █████████░░░░░░░░░░░░░░░░   36.27 %
-C++              56 mins         ██████▒░░░░░░░░░░░░░░░░░░   25.78 %
-HTML             26 mins         ███░░░░░░░░░░░░░░░░░░░░░░   12.18 %
-TypeScript       20 mins         ██▒░░░░░░░░░░░░░░░░░░░░░░   09.36 %
-GitIgnore file   10 mins         █▒░░░░░░░░░░░░░░░░░░░░░░░   04.94 %
-Kotlin           8 mins          █░░░░░░░░░░░░░░░░░░░░░░░░   03.68 %
-```
-
 <!--END_SECTION:waka-->
 
 <br>
@@ -36,13 +26,13 @@ Kotlin           8 mins          █░░░░░░░░░░░░░░�
 		</tr>
 		<caption>🚩 <a href="https://t.me/tginfo">@tginfo</a> in your language: <a href="https://t.me/tginfoworld"><b>@tginfoworld</b></a><caption/>
   <tr><td><a href="https://t.me/tginfoen/1628">Telegram Desktop updated to version 4.7</a></td>
-    <td><a href="https://t.me/tginfo/3624">Telegram Desktop обновился до версии 4.7</a></td></tr><tr><td><a href="https://t.me/tginfoen/1627">Results of the Call UI contest for Android and iOS developers</a></td>
-    <td><a href="https://t.me/tginfo/3623">Результаты конкурса на разработку интерфейса звонков для Android и iOS-разработчиков</a></td></tr><tr><td><a href="https://t.me/tginfoen/1626">Telegram fights account hijacking</a></td>
-    <td><a href="https://t.me/tginfo/3622">Информация о рекламодателе в Telegram Ads</a></td></tr>
+    <td><a href="https://t.me/tginfo/3625">Telegram X обновился до версии 0.25.6.1615 ⁠</a></td></tr><tr><td><a href="https://t.me/tginfoen/1627">Results of the Call UI contest for Android and iOS developers</a></td>
+    <td><a href="https://t.me/tginfo/3624">Telegram Desktop обновился до версии 4.7</a></td></tr><tr><td><a href="https://t.me/tginfoen/1626">Telegram fights account hijacking</a></td>
+    <td><a href="https://t.me/tginfo/3623">Результаты конкурса на разработку интерфейса звонков для Android и iOS-разработчиков</a></td></tr>
 </table>
 We are also available on <a href="https://github.com/tginfo"><b>🐙 GitHub</b></a>!
 </div>
 
 <br>
 <hr>
-<h4 align="center">This README file is generated <b>every 6 hours</b>!</br>Last refresh: <b>2023-03-21 08:15:25 (UTC time)</b></h4>
+<h4 align="center">This README file is generated <b>every 6 hours</b>!</br>Last refresh: <b>2023-03-21 20:12:47 (UTC time)</b></h4>
