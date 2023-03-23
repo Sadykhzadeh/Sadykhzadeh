@@ -14,16 +14,6 @@
 <h2>📊 This week I spent my time using:</h2>
 
 <!--START_SECTION:waka-->
-
-```text
-Python           2 hrs 32 mins   █████████░░░░░░░░░░░░░░░░   36.41 %
-TypeScript       2 hrs 27 mins   ████████▓░░░░░░░░░░░░░░░░   35.33 %
-C++              56 mins         ███▒░░░░░░░░░░░░░░░░░░░░░   13.55 %
-HTML             20 mins         █▒░░░░░░░░░░░░░░░░░░░░░░░   04.89 %
-GitIgnore file   10 mins         ▓░░░░░░░░░░░░░░░░░░░░░░░░   02.60 %
-JSON             8 mins          ▓░░░░░░░░░░░░░░░░░░░░░░░░   02.01 %
-```
-
 <!--END_SECTION:waka-->
 
 <br>
@@ -36,13 +26,13 @@ JSON             8 mins          ▓░░░░░░░░░░░░░░�
 		</tr>
 		<caption>🚩 <a href="https://t.me/tginfo">@tginfo</a> in your language: <a href="https://t.me/tginfoworld"><b>@tginfoworld</b></a><caption/>
   <tr><td><a href="https://t.me/tginfoen/1628">Telegram Desktop updated to version 4.7</a></td>
-    <td><a href="https://t.me/tginfo/3626">Telegram оптимизирует затраты на авторизацию пользователей</a></td></tr><tr><td><a href="https://t.me/tginfoen/1627">Results of the Call UI contest for Android and iOS developers</a></td>
-    <td><a href="https://t.me/tginfo/3625">Telegram X обновился до версии 0.25.6.1615 ⁠</a></td></tr><tr><td><a href="https://t.me/tginfoen/1626">Telegram fights account hijacking</a></td>
-    <td><a href="https://t.me/tginfo/3624">Telegram Desktop обновился до версии 4.7</a></td></tr>
+    <td><a href="https://t.me/tginfo/3627">Россияне проводят в Telegram в 3 раза больше времени, чем год назад</a></td></tr><tr><td><a href="https://t.me/tginfoen/1627">Results of the Call UI contest for Android and iOS developers</a></td>
+    <td><a href="https://t.me/tginfo/3626">Telegram оптимизирует затраты на авторизацию пользователей</a></td></tr><tr><td><a href="https://t.me/tginfoen/1626">Telegram fights account hijacking</a></td>
+    <td><a href="https://t.me/tginfo/3625">Telegram X обновился до версии 0.25.6.1615 ⁠</a></td></tr>
 </table>
 We are also available on <a href="https://github.com/tginfo"><b>🐙 GitHub</b></a>!
 </div>
 
 <br>
 <hr>
-<h4 align="center">This README file is generated <b>every 6 hours</b>!</br>Last refresh: <b>2023-03-23 08:15:24 (UTC time)</b></h4>
+<h4 align="center">This README file is generated <b>every 6 hours</b>!</br>Last refresh: <b>2023-03-23 20:12:53 (UTC time)</b></h4>
