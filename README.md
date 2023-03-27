@@ -14,16 +14,6 @@
 <h2>📊 This week I spent my time using:</h2>
 
 <!--START_SECTION:waka-->
-
-```text
-Python       2 hrs 32 mins   ██████▓░░░░░░░░░░░░░░░░░░   26.74 %
-TypeScript   2 hrs 29 mins   ██████▓░░░░░░░░░░░░░░░░░░   26.31 %
-HTML         1 hr 43 mins    ████▓░░░░░░░░░░░░░░░░░░░░   18.23 %
-C++          56 mins         ██▒░░░░░░░░░░░░░░░░░░░░░░   09.95 %
-CSS          50 mins         ██▒░░░░░░░░░░░░░░░░░░░░░░   08.78 %
-Groovy       15 mins         ▓░░░░░░░░░░░░░░░░░░░░░░░░   02.72 %
-```
-
 <!--END_SECTION:waka-->
 
 <br>
@@ -35,14 +25,14 @@ Groovy       15 mins         ▓░░░░░░░░░░░░░░░░
 			<th>🇷🇺 На русском (<a href="https://t.me/tginfo">@tginfo</a>)</th>
 		</tr>
 		<caption>🚩 <a href="https://t.me/tginfo">@tginfo</a> in your language: <a href="https://t.me/tginfoworld"><b>@tginfoworld</b></a><caption/>
-  <tr><td><a href="https://t.me/tginfoen/1630">The Norwegian Parliament Bans Telegram from Government Devices</a></td>
-    <td><a href="https://t.me/tginfo/3627">Россияне проводят в Telegram в 3 раза больше времени, чем год назад</a></td></tr><tr><td><a href="https://t.me/tginfoen/1629">Buying and Transferring USDT (TRC-20) Using the @wallet Bot</a></td>
-    <td><a href="https://t.me/tginfo/3626">Telegram оптимизирует затраты на авторизацию пользователей</a></td></tr><tr><td><a href="https://t.me/tginfoen/1628">Telegram Desktop updated to version 4.7</a></td>
-    <td><a href="https://t.me/tginfo/3625">Telegram X обновился до версии 0.25.6.1615 ⁠</a></td></tr>
+  <tr><td><a href="https://t.me/tginfoen/1632">Purchasing Premium using TON</a></td>
+    <td><a href="https://t.me/tginfo/3628">Telegram не планирует интеграцию с ChatGPT</a></td></tr><tr><td><a href="https://t.me/tginfoen/1631">Telegram Has No Plans to Integrate ChatGPT</a></td>
+    <td><a href="https://t.me/tginfo/3627">Россияне проводят в Telegram в 3 раза больше времени, чем год назад</a></td></tr><tr><td><a href="https://t.me/tginfoen/1630">The Norwegian Parliament Bans Telegram from Government Devices</a></td>
+    <td><a href="https://t.me/tginfo/3626">Telegram оптимизирует затраты на авторизацию пользователей</a></td></tr>
 </table>
 We are also available on <a href="https://github.com/tginfo"><b>🐙 GitHub</b></a>!
 </div>
 
 <br>
 <hr>
-<h4 align="center">This README file is generated <b>every 6 hours</b>!</br>Last refresh: <b>2023-03-26 20:11:39 (UTC time)</b></h4>
+<h4 align="center">This README file is generated <b>every 6 hours</b>!</br>Last refresh: <b>2023-03-27 08:16:30 (UTC time)</b></h4>
