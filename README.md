@@ -14,16 +14,6 @@
 <h2>📊 This week I spent my time using:</h2>
 
 <!--START_SECTION:waka-->
-
-```text
-TypeScript       2 hrs 58 mins   ███████▒░░░░░░░░░░░░░░░░░   28.71 %
-Python           2 hrs 39 mins   ██████▒░░░░░░░░░░░░░░░░░░   25.62 %
-HTML             1 hr 43 mins    ████▒░░░░░░░░░░░░░░░░░░░░   16.68 %
-C++              1 hr 13 mins    ███░░░░░░░░░░░░░░░░░░░░░░   11.86 %
-CSS              49 mins         ██░░░░░░░░░░░░░░░░░░░░░░░   07.98 %
-Groovy           15 mins         ▓░░░░░░░░░░░░░░░░░░░░░░░░   02.49 %
-```
-
 <!--END_SECTION:waka-->
 
 <br>
@@ -36,13 +26,13 @@ Groovy           15 mins         ▓░░░░░░░░░░░░░░�
 		</tr>
 		<caption>🚩 <a href="https://t.me/tginfo">@tginfo</a> in your language: <a href="https://t.me/tginfoworld"><b>@tginfoworld</b></a><caption/>
   <tr><td><a href="https://t.me/tginfoen/1632">Purchasing Premium using TON</a></td>
-    <td><a href="https://t.me/tginfo/3629">Telegram Premium за TON </a></td></tr><tr><td><a href="https://t.me/tginfoen/1631">Telegram Has No Plans to Integrate ChatGPT</a></td>
-    <td><a href="https://t.me/tginfo/3628">Telegram не планирует интеграцию с ChatGPT</a></td></tr><tr><td><a href="https://t.me/tginfoen/1630">The Norwegian Parliament Bans Telegram from Government Devices</a></td>
-    <td><a href="https://t.me/tginfo/3627">Россияне проводят в Telegram в 3 раза больше времени, чем год назад</a></td></tr>
+    <td><a href="https://t.me/tginfo/3630">Роскомнадзор предлагает заблокировать сайты, на которых можно получить виртуальные номера</a></td></tr><tr><td><a href="https://t.me/tginfoen/1631">Telegram Has No Plans to Integrate ChatGPT</a></td>
+    <td><a href="https://t.me/tginfo/3629">Telegram Premium за TON </a></td></tr><tr><td><a href="https://t.me/tginfoen/1630">The Norwegian Parliament Bans Telegram from Government Devices</a></td>
+    <td><a href="https://t.me/tginfo/3628">Telegram не планирует интеграцию с ChatGPT</a></td></tr>
 </table>
 We are also available on <a href="https://github.com/tginfo"><b>🐙 GitHub</b></a>!
 </div>
 
 <br>
 <hr>
-<h4 align="center">This README file is generated <b>every 6 hours</b>!</br>Last refresh: <b>2023-03-28 08:16:36 (UTC time)</b></h4>
+<h4 align="center">This README file is generated <b>every 6 hours</b>!</br>Last refresh: <b>2023-03-28 20:13:17 (UTC time)</b></h4>
