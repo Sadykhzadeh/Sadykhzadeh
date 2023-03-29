@@ -14,16 +14,6 @@
 <h2>📊 This week I spent my time using:</h2>
 
 <!--START_SECTION:waka-->
-
-```text
-Python           2 hrs 39 mins   ███████▒░░░░░░░░░░░░░░░░░   29.89 %
-TypeScript       1 hr 53 mins    █████▒░░░░░░░░░░░░░░░░░░░   21.23 %
-HTML             1 hr 29 mins    ████▒░░░░░░░░░░░░░░░░░░░░   16.75 %
-C++              1 hr 13 mins    ███▒░░░░░░░░░░░░░░░░░░░░░   13.84 %
-CSS              49 mins         ██▒░░░░░░░░░░░░░░░░░░░░░░   09.31 %
-Groovy           15 mins         ▓░░░░░░░░░░░░░░░░░░░░░░░░   02.90 %
-```
-
 <!--END_SECTION:waka-->
 
 <br>
@@ -35,14 +25,14 @@ Groovy           15 mins         ▓░░░░░░░░░░░░░░�
 			<th>🇷🇺 На русском (<a href="https://t.me/tginfo">@tginfo</a>)</th>
 		</tr>
 		<caption>🚩 <a href="https://t.me/tginfo">@tginfo</a> in your language: <a href="https://t.me/tginfoworld"><b>@tginfoworld</b></a><caption/>
-  <tr><td><a href="https://t.me/tginfoen/1632">Purchasing Premium using TON</a></td>
+  <tr><td><a href="https://t.me/tginfoen/1633">Fragment.com now provides the way to purchase Premium subscription for TON. </a></td>
+    <td><a href="https://t.me/tginfo/3632">На платформе Fragment.com появилась возможность приобрести подписку Telegram Premium, оплатив ее криптовалютой TON. </a></td></tr><tr><td><a href="https://t.me/tginfoen/1632">Purchasing Premium using TON</a></td>
     <td><a href="https://t.me/tginfo/3631">Исследование аудитории Telegram 2023</a></td></tr><tr><td><a href="https://t.me/tginfoen/1631">Telegram Has No Plans to Integrate ChatGPT</a></td>
-    <td><a href="https://t.me/tginfo/3630">Роскомнадзор предлагает заблокировать сайты, на которых можно получить виртуальные номера</a></td></tr><tr><td><a href="https://t.me/tginfoen/1630">The Norwegian Parliament Bans Telegram from Government Devices</a></td>
-    <td><a href="https://t.me/tginfo/3629">Telegram Premium за TON </a></td></tr>
+    <td><a href="https://t.me/tginfo/3630">Роскомнадзор предлагает заблокировать сайты, на которых можно получить виртуальные номера</a></td></tr>
 </table>
 We are also available on <a href="https://github.com/tginfo"><b>🐙 GitHub</b></a>!
 </div>
 
 <br>
 <hr>
-<h4 align="center">This README file is generated <b>every 6 hours</b>!</br>Last refresh: <b>2023-03-29 08:15:56 (UTC time)</b></h4>
+<h4 align="center">This README file is generated <b>every 6 hours</b>!</br>Last refresh: <b>2023-03-29 20:12:46 (UTC time)</b></h4>
