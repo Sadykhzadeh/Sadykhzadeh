@@ -14,16 +14,6 @@
 <h2>📊 This week I spent my time using:</h2>
 
 <!--START_SECTION:waka-->
-
-```text
-TypeScript             9 hrs 37 mins   ██████████████▓░░░░░░░░░░   58.10 %
-Markdown               1 hr 55 mins    ███░░░░░░░░░░░░░░░░░░░░░░   11.67 %
-Python                 1 hr 18 mins    ██░░░░░░░░░░░░░░░░░░░░░░░   07.85 %
-Go                     42 mins         █░░░░░░░░░░░░░░░░░░░░░░░░   04.31 %
-Kotlin                 30 mins         ▓░░░░░░░░░░░░░░░░░░░░░░░░   03.05 %
-Bash                   22 mins         ▓░░░░░░░░░░░░░░░░░░░░░░░░   02.22 %
-```
-
 <!--END_SECTION:waka-->
 
 <br>
@@ -35,9 +25,9 @@ Bash                   22 mins         ▓░░░░░░░░░░░░�
 			<th>🇷🇺 На русском (<a href="https://t.me/tginfo">@tginfo</a>)</th>
 		</tr>
 		<caption>🚩 <a href="https://t.me/tginfo">@tginfo</a> in your language: <a href="https://t.me/tginfoworld"><b>@tginfoworld</b></a><caption/>
-  <tr><td><a href="https://t.me/tginfoen/1633">Fragment.com now provides the way to purchase Premium subscription for TON. </a></td>
-    <td><a href="https://t.me/tginfo/3635">Возможность поделиться папкой</a></td></tr><tr><td><a href="https://t.me/tginfoen/1632">Purchasing Premium using TON</a></td>
-    <td><a href="https://t.me/tginfo/3634">Приложение Telegram WebZ версии 1.60 сменило свое название</a></td></tr><tr><td><a href="https://t.me/tginfoen/1631">Telegram Has No Plans to Integrate ChatGPT</a></td>
+  <tr><td><a href="https://t.me/tginfoen/1634">Ability to share a folder</a></td>
+    <td><a href="https://t.me/tginfo/3635">Возможность поделиться папкой</a></td></tr><tr><td><a href="https://t.me/tginfoen/1633">Fragment.com now provides the way to purchase Premium subscription for TON. </a></td>
+    <td><a href="https://t.me/tginfo/3634">Приложение Telegram WebZ версии 1.60 сменило свое название</a></td></tr><tr><td><a href="https://t.me/tginfoen/1632">Purchasing Premium using TON</a></td>
     <td><a href="https://t.me/tginfo/3633">Массовая блокировка аккаунтов «албанских переводчиков»</a></td></tr>
 </table>
 We are also available on <a href="https://github.com/tginfo"><b>🐙 GitHub</b></a>!
@@ -45,4 +35,4 @@ We are also available on <a href="https://github.com/tginfo"><b>🐙 GitHub</b><
 
 <br>
 <hr>
-<h4 align="center">This README file is generated <b>every 6 hours</b>!</br>Last refresh: <b>2023-04-05 08:16:01 (UTC time)</b></h4>
+<h4 align="center">This README file is generated <b>every 6 hours</b>!</br>Last refresh: <b>2023-04-05 20:13:34 (UTC time)</b></h4>
