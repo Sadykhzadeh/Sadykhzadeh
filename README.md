@@ -14,16 +14,6 @@
 <h2>📊 This week I spent my time using:</h2>
 
 <!--START_SECTION:waka-->
-
-```text
-TypeScript             4 hrs 33 mins   █████████████░░░░░░░░░░░░   52.45 %
-Markdown               1 hr 18 mins    ███▓░░░░░░░░░░░░░░░░░░░░░   15.12 %
-Python                 1 hr 18 mins    ███▓░░░░░░░░░░░░░░░░░░░░░   14.95 %
-C++                    19 mins         █░░░░░░░░░░░░░░░░░░░░░░░░   03.74 %
-GitIgnore file         14 mins         ▓░░░░░░░░░░░░░░░░░░░░░░░░   02.84 %
-Bash                   14 mins         ▓░░░░░░░░░░░░░░░░░░░░░░░░   02.72 %
-```
-
 <!--END_SECTION:waka-->
 
 <br>
@@ -36,13 +26,13 @@ Bash                   14 mins         ▓░░░░░░░░░░░░�
 		</tr>
 		<caption>🚩 <a href="https://t.me/tginfo">@tginfo</a> in your language: <a href="https://t.me/tginfoworld"><b>@tginfoworld</b></a><caption/>
   <tr><td><a href="https://t.me/tginfoen/1634">Ability to share a folder</a></td>
-    <td><a href="https://t.me/tginfo/3635">Возможность поделиться папкой</a></td></tr><tr><td><a href="https://t.me/tginfoen/1633">Fragment.com now provides the way to purchase Premium subscription for TON. </a></td>
-    <td><a href="https://t.me/tginfo/3634">Приложение Telegram WebZ версии 1.60 сменило свое название</a></td></tr><tr><td><a href="https://t.me/tginfoen/1632">Purchasing Premium using TON</a></td>
-    <td><a href="https://t.me/tginfo/3633">Массовая блокировка аккаунтов «албанских переводчиков»</a></td></tr>
+    <td><a href="https://t.me/tginfo/3636">Telegram ограничил возможности ботов</a></td></tr><tr><td><a href="https://t.me/tginfoen/1633">Fragment.com now provides the way to purchase Premium subscription for TON. </a></td>
+    <td><a href="https://t.me/tginfo/3635">Возможность поделиться папкой</a></td></tr><tr><td><a href="https://t.me/tginfoen/1632">Purchasing Premium using TON</a></td>
+    <td><a href="https://t.me/tginfo/3634">Приложение Telegram WebZ версии 1.60 сменило свое название</a></td></tr>
 </table>
 We are also available on <a href="https://github.com/tginfo"><b>🐙 GitHub</b></a>!
 </div>
 
 <br>
 <hr>
-<h4 align="center">This README file is generated <b>every 6 hours</b>!</br>Last refresh: <b>2023-04-09 20:11:19 (UTC time)</b></h4>
+<h4 align="center">This README file is generated <b>every 6 hours</b>!</br>Last refresh: <b>2023-04-10 08:14:36 (UTC time)</b></h4>
