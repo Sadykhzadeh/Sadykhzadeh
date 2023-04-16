@@ -14,16 +14,6 @@
 <h2>📊 This week I spent my time using:</h2>
 
 <!--START_SECTION:waka-->
-
-```text
-TypeScript   3 hrs 31 mins   ████████████░░░░░░░░░░░░░   48.42 %
-HTML         1 hr 29 mins    █████░░░░░░░░░░░░░░░░░░░░   20.54 %
-Python       1 hr 20 mins    ████▓░░░░░░░░░░░░░░░░░░░░   18.35 %
-C++          28 mins         █▓░░░░░░░░░░░░░░░░░░░░░░░   06.51 %
-CSS          14 mins         █░░░░░░░░░░░░░░░░░░░░░░░░   03.38 %
-Bash         10 mins         ▓░░░░░░░░░░░░░░░░░░░░░░░░   02.36 %
-```
-
 <!--END_SECTION:waka-->
 
 <br>
@@ -35,14 +25,14 @@ Bash         10 mins         ▓░░░░░░░░░░░░░░░░
 			<th>🇷🇺 На русском (<a href="https://t.me/tginfo">@tginfo</a>)</th>
 		</tr>
 		<caption>🚩 <a href="https://t.me/tginfo">@tginfo</a> in your language: <a href="https://t.me/tginfoworld"><b>@tginfoworld</b></a><caption/>
-  <tr><td><a href="https://t.me/tginfoen/1635">Bot Usernames on Fragment</a></td>
+  <tr><td><a href="https://t.me/tginfoen/1636">Unigram on Telegram's Official Platforms</a></td>
+    <td><a href="https://t.me/tginfo/3638">Unigram на официальных платформах Telegram</a></td></tr><tr><td><a href="https://t.me/tginfoen/1635">Bot Usernames on Fragment</a></td>
     <td><a href="https://t.me/tginfo/3637">Fragment: юзернеймы для ботов</a></td></tr><tr><td><a href="https://t.me/tginfoen/1634">Ability to share a folder</a></td>
-    <td><a href="https://t.me/tginfo/3636">Telegram ограничил возможности ботов</a></td></tr><tr><td><a href="https://t.me/tginfoen/1633">Fragment.com now provides the way to purchase Premium subscription for TON. </a></td>
-    <td><a href="https://t.me/tginfo/3635">Возможность поделиться папкой</a></td></tr>
+    <td><a href="https://t.me/tginfo/3636">Telegram ограничил возможности ботов</a></td></tr>
 </table>
 We are also available on <a href="https://github.com/tginfo"><b>🐙 GitHub</b></a>!
 </div>
 
 <br>
 <hr>
-<h4 align="center">This README file is generated <b>every 6 hours</b>!</br>Last refresh: <b>2023-04-16 08:13:31 (UTC time)</b></h4>
+<h4 align="center">This README file is generated <b>every 6 hours</b>!</br>Last refresh: <b>2023-04-16 20:11:28 (UTC time)</b></h4>
