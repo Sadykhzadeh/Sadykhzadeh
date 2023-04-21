@@ -14,16 +14,6 @@
 <h2>📊 This week I spent my time using:</h2>
 
 <!--START_SECTION:waka-->
-
-```text
-TypeScript       3 hrs 33 mins   ████████████▒░░░░░░░░░░░░   48.91 %
-Python           1 hr 18 mins    ████▒░░░░░░░░░░░░░░░░░░░░   17.90 %
-C++              46 mins         ██▓░░░░░░░░░░░░░░░░░░░░░░   10.61 %
-CSS              33 mins         ██░░░░░░░░░░░░░░░░░░░░░░░   07.67 %
-Vue.js           18 mins         █░░░░░░░░░░░░░░░░░░░░░░░░   04.12 %
-Bash             16 mins         █░░░░░░░░░░░░░░░░░░░░░░░░   03.83 %
-```
-
 <!--END_SECTION:waka-->
 
 <br>
@@ -35,14 +25,14 @@ Bash             16 mins         █░░░░░░░░░░░░░░�
 			<th>🇷🇺 На русском (<a href="https://t.me/tginfo">@tginfo</a>)</th>
 		</tr>
 		<caption>🚩 <a href="https://t.me/tginfo">@tginfo</a> in your language: <a href="https://t.me/tginfoworld"><b>@tginfoworld</b></a><caption/>
-  <tr><td><a href="https://t.me/tginfoen/1637">Resetting login email</a></td>
-    <td><a href="https://t.me/tginfo/3639">Сброс почты для входа</a></td></tr><tr><td><a href="https://t.me/tginfoen/1636">Unigram on Telegram's Official Platforms</a></td>
-    <td><a href="https://t.me/tginfo/3638">Unigram на официальных платформах Telegram</a></td></tr><tr><td><a href="https://t.me/tginfoen/1635">Bot Usernames on Fragment</a></td>
-    <td><a href="https://t.me/tginfo/3637">Fragment: юзернеймы для ботов</a></td></tr>
+  <tr><td><a href="https://t.me/tginfoen/1642">More options for bots</a></td>
+    <td><a href="https://t.me/tginfo/3644">Коллекционный юзернейм для бота </a></td></tr><tr><td><a href="https://t.me/tginfoen/1641">Choosing wallpapers for private chats</a></td>
+    <td><a href="https://t.me/tginfo/3643">Больше возможностей для ботов</a></td></tr><tr><td><a href="https://t.me/tginfoen/1640">Shared Chat Folders</a></td>
+    <td><a href="https://t.me/tginfo/3642">Выбор обоев для отдельных чатов</a></td></tr>
 </table>
 We are also available on <a href="https://github.com/tginfo"><b>🐙 GitHub</b></a>!
 </div>
 
 <br>
 <hr>
-<h4 align="center">This README file is generated <b>every 6 hours</b>!</br>Last refresh: <b>2023-04-21 08:14:39 (UTC time)</b></h4>
+<h4 align="center">This README file is generated <b>every 6 hours</b>!</br>Last refresh: <b>2023-04-21 20:12:05 (UTC time)</b></h4>
