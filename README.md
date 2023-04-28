@@ -14,16 +14,6 @@
 <h2>📊 This week I spent my time using:</h2>
 
 <!--START_SECTION:waka-->
-
-```text
-TypeScript       3 hrs 27 mins   █████████████░░░░░░░░░░░░   51.79 %
-Python           1 hr 27 mins    █████▒░░░░░░░░░░░░░░░░░░░   21.91 %
-JavaScript       29 mins         █▓░░░░░░░░░░░░░░░░░░░░░░░   07.30 %
-CSS              19 mins         █▒░░░░░░░░░░░░░░░░░░░░░░░   04.91 %
-JSON             18 mins         █░░░░░░░░░░░░░░░░░░░░░░░░   04.60 %
-HTML             14 mins         █░░░░░░░░░░░░░░░░░░░░░░░░   03.63 %
-```
-
 <!--END_SECTION:waka-->
 
 <br>
@@ -36,13 +26,13 @@ HTML             14 mins         █░░░░░░░░░░░░░░�
 		</tr>
 		<caption>🚩 <a href="https://t.me/tginfo">@tginfo</a> in your language: <a href="https://t.me/tginfoworld"><b>@tginfoworld</b></a><caption/>
   <tr><td><a href="https://t.me/tginfoen/1646">Pavel Durov on Brazil’s Block on Telegram</a></td>
-    <td><a href="https://t.me/tginfo/3648">Павел Дуров высказался по поводу блокировки Telegram в Бразилии</a></td></tr><tr><td><a href="https://t.me/tginfoen/1645">Brazilian court orders suspension of Telegram for not delivering data to police</a></td>
-    <td><a href="https://t.me/tginfo/3647">Telegram WebA обновился до версии 1.61.0</a></td></tr><tr><td><a href="https://t.me/tginfoen/1644">Bot API has been updated to version 6.7</a></td>
-    <td><a href="https://t.me/tginfo/3646">В Бразилии заблокировали Telegram за отказ передавать данные</a></td></tr>
+    <td><a href="https://t.me/tginfo/3649">Флудвейты</a></td></tr><tr><td><a href="https://t.me/tginfoen/1645">Brazilian court orders suspension of Telegram for not delivering data to police</a></td>
+    <td><a href="https://t.me/tginfo/3648">Павел Дуров высказался по поводу блокировки Telegram в Бразилии</a></td></tr><tr><td><a href="https://t.me/tginfoen/1644">Bot API has been updated to version 6.7</a></td>
+    <td><a href="https://t.me/tginfo/3647">Telegram WebA обновился до версии 1.61.0</a></td></tr>
 </table>
 We are also available on <a href="https://github.com/tginfo"><b>🐙 GitHub</b></a>!
 </div>
 
 <br>
 <hr>
-<h4 align="center">This README file is generated <b>every 6 hours</b>!</br>Last refresh: <b>2023-04-27 20:12:18 (UTC time)</b></h4>
+<h4 align="center">This README file is generated <b>every 6 hours</b>!</br>Last refresh: <b>2023-04-28 08:14:14 (UTC time)</b></h4>
