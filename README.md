@@ -14,16 +14,6 @@
 <h2>📊 This week I spent my time using:</h2>
 
 <!--START_SECTION:waka-->
-
-```text
-CSS          16 mins         ████████▓░░░░░░░░░░░░░░░░   34.36 %
-Sass         13 mins         ██████▓░░░░░░░░░░░░░░░░░░   27.25 %
-TypeScript   11 mins         ██████░░░░░░░░░░░░░░░░░░░   23.74 %
-JavaScript   3 mins          █▓░░░░░░░░░░░░░░░░░░░░░░░   07.12 %
-PHP          2 mins          █░░░░░░░░░░░░░░░░░░░░░░░░   04.51 %
-Other        1 min           ▓░░░░░░░░░░░░░░░░░░░░░░░░   02.20 %
-```
-
 <!--END_SECTION:waka-->
 
 <br>
@@ -36,13 +26,13 @@ Other        1 min           ▓░░░░░░░░░░░░░░░░
 		</tr>
 		<caption>🚩 <a href="https://t.me/tginfo">@tginfo</a> in your language: <a href="https://t.me/tginfoworld"><b>@tginfoworld</b></a><caption/>
   <tr><td><a href="https://t.me/tginfoen/1647">The Brazilian Court Partially Lifts the Ban on Telegram, Report Says</a></td>
-    <td><a href="https://t.me/tginfo/3651">Правосудие частично приостанавливает блокировку Telegram в Бразилии</a></td></tr><tr><td><a href="https://t.me/tginfoen/1646">Pavel Durov on Brazil’s Block on Telegram</a></td>
-    <td><a href="https://t.me/tginfo/3650">Telegram Desktop на TDLib с секретными чатами</a></td></tr><tr><td><a href="https://t.me/tginfoen/1645">Brazilian court orders suspension of Telegram for not delivering data to police</a></td>
-    <td><a href="https://t.me/tginfo/3649">Флудвейты</a></td></tr>
+    <td><a href="https://t.me/tginfo/3652">Telegram — лидер среди социальных сетей по приросту за последний год</a></td></tr><tr><td><a href="https://t.me/tginfoen/1646">Pavel Durov on Brazil’s Block on Telegram</a></td>
+    <td><a href="https://t.me/tginfo/3651">Правосудие частично приостанавливает блокировку Telegram в Бразилии</a></td></tr><tr><td><a href="https://t.me/tginfoen/1645">Brazilian court orders suspension of Telegram for not delivering data to police</a></td>
+    <td><a href="https://t.me/tginfo/3650">Telegram Desktop на TDLib с секретными чатами</a></td></tr>
 </table>
 We are also available on <a href="https://github.com/tginfo"><b>🐙 GitHub</b></a>!
 </div>
 
 <br>
 <hr>
-<h4 align="center">This README file is generated <b>every 6 hours</b>!</br>Last refresh: <b>2023-05-01 20:12:19 (UTC time)</b></h4>
+<h4 align="center">This README file is generated <b>every 6 hours</b>!</br>Last refresh: <b>2023-05-02 08:14:35 (UTC time)</b></h4>
