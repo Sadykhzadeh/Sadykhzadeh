@@ -14,16 +14,6 @@
 <h2>📊 This week I spent my time using:</h2>
 
 <!--START_SECTION:waka-->
-
-```text
-TypeScript       9 hrs 32 mins   ███████████████████░░░░░░   76.25 %
-Sass             1 hr 23 mins    ██▓░░░░░░░░░░░░░░░░░░░░░░   11.07 %
-JSON             37 mins         █▒░░░░░░░░░░░░░░░░░░░░░░░   05.04 %
-CSS              28 mins         █░░░░░░░░░░░░░░░░░░░░░░░░   03.83 %
-PHP              16 mins         ▓░░░░░░░░░░░░░░░░░░░░░░░░   02.26 %
-JavaScript       5 mins          ▒░░░░░░░░░░░░░░░░░░░░░░░░   00.75 %
-```
-
 <!--END_SECTION:waka-->
 
 <br>
@@ -36,13 +26,13 @@ JavaScript       5 mins          ▒░░░░░░░░░░░░░░�
 		</tr>
 		<caption>🚩 <a href="https://t.me/tginfo">@tginfo</a> in your language: <a href="https://t.me/tginfoworld"><b>@tginfoworld</b></a><caption/>
   <tr><td><a href="https://t.me/tginfoen/1647">The Brazilian Court Partially Lifts the Ban on Telegram, Report Says</a></td>
-    <td><a href="https://t.me/tginfo/3652">Telegram — лидер среди социальных сетей по приросту за последний год</a></td></tr><tr><td><a href="https://t.me/tginfoen/1646">Pavel Durov on Brazil’s Block on Telegram</a></td>
-    <td><a href="https://t.me/tginfo/3651">Правосудие частично приостанавливает блокировку Telegram в Бразилии</a></td></tr><tr><td><a href="https://t.me/tginfoen/1645">Brazilian court orders suspension of Telegram for not delivering data to police</a></td>
-    <td><a href="https://t.me/tginfo/3650">Telegram Desktop на TDLib с секретными чатами</a></td></tr>
+    <td><a href="https://t.me/tginfo/3653">В Telegram ответили на статью об опасности использования мессенджера для украинцев</a></td></tr><tr><td><a href="https://t.me/tginfoen/1646">Pavel Durov on Brazil’s Block on Telegram</a></td>
+    <td><a href="https://t.me/tginfo/3652">Telegram — лидер среди социальных сетей по приросту за последний год</a></td></tr><tr><td><a href="https://t.me/tginfoen/1645">Brazilian court orders suspension of Telegram for not delivering data to police</a></td>
+    <td><a href="https://t.me/tginfo/3651">Правосудие частично приостанавливает блокировку Telegram в Бразилии</a></td></tr>
 </table>
 We are also available on <a href="https://github.com/tginfo"><b>🐙 GitHub</b></a>!
 </div>
 
 <br>
 <hr>
-<h4 align="center">This README file is generated <b>every 6 hours</b>!</br>Last refresh: <b>2023-05-04 08:14:35 (UTC time)</b></h4>
+<h4 align="center">This README file is generated <b>every 6 hours</b>!</br>Last refresh: <b>2023-05-04 20:12:32 (UTC time)</b></h4>
