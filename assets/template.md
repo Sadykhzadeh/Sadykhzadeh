@@ -4,7 +4,7 @@
       <img src="./assets/hi.gif" width="30px"> Hey there! I'm Azer Sadykhzadeh
     </h1>
     <img height="18" src="https://komarev.com/ghpvc/?username=sadykhzadeh&label=Views&color=2081c1&style=flat-square" />
-		<a href="https://wakatime.com/@Azer"> <img height="18" src="https://wakatime.com/badge/user/f80ae27a-c328-426f-a381-bc84136e2dd6.svg" /> </a>
+		<a href="https://wakatime.com/Azer"> <img height="18" src="https://wakatime.com/badge/user/f80ae27a-c328-426f-a381-bc84136e2dd6.svg" /> </a>
     <h3>
       Passionate self-taught developer and editor from 🇦🇿 Azerbaijan
     </h3>
@@ -21,8 +21,8 @@
 <h2>⚡️ Latest Telegram News in Telegram Info</h2>
   <table border>
 		<tr>
-			<th width="50%">🇬🇧 English (<a href="https://t.me/tginfoen">@tginfoen</a>)</th>
-			<th>🇷🇺 На русском (<a href="https://t.me/tginfo">@tginfo</a>)</th>
+			<th width="50%">English (<a href="https://t.me/tginfoen">@tginfoen</a>)</th>
+			<th>На русском (<a href="https://t.me/tginfo">@tginfo</a>)</th>
 		</tr>
 		<caption>🚩 <a href="https://t.me/tginfo">@tginfo</a> in your language: <a href="https://t.me/tginfoworld"><b>@tginfoworld</b></a><caption/>
   <$tginfo$>
