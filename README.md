@@ -14,15 +14,6 @@
 <h2>📊 This week I spent my time using:</h2>
 
 <!--START_SECTION:waka-->
-
-```text
-TypeScript   6 hrs 24 mins   ███████████████████▒░░░░░   77.65 %
-Sass         1 hr 36 mins    █████░░░░░░░░░░░░░░░░░░░░   19.45 %
-JSON         11 mins         ▓░░░░░░░░░░░░░░░░░░░░░░░░   02.27 %
-CSS          1 min           ░░░░░░░░░░░░░░░░░░░░░░░░░   00.37 %
-JavaScript   1 min           ░░░░░░░░░░░░░░░░░░░░░░░░░   00.23 %
-```
-
 <!--END_SECTION:waka-->
 
 <br>
@@ -34,14 +25,14 @@ JavaScript   1 min           ░░░░░░░░░░░░░░░░░
 			<th>На русском (<a href="https://t.me/tginfo">@tginfo</a>)</th>
 		</tr>
 		<caption>🚩 <a href="https://t.me/tginfo">@tginfo</a> in your language: <a href="https://t.me/tginfoworld"><b>@tginfoworld</b></a><caption/>
-  <tr><td><a href="https://t.me/tginfoen/1651">Critical Vulnerability in Telegram for macOS Puts User Privacy at Risk</a></td>
+  <tr><td><a href="https://t.me/tginfoen/1652">Reacting as Groups and Channels</a></td>
+    <td><a href="https://t.me/tginfo/3660">Реакции от имени канала</a></td></tr><tr><td><a href="https://t.me/tginfoen/1651">Critical Vulnerability in Telegram for macOS Puts User Privacy at Risk</a></td>
     <td><a href="https://t.me/tginfo/3659">Итоги исследования аудитории Telegram 2023</a></td></tr><tr><td><a href="https://t.me/tginfoen/1650">Brazil to Pass a Law That Might “End Freedom of Speech”</a></td>
-    <td><a href="https://t.me/tginfo/3658">Команда Telegram прокомментировала информацию об уязвимости</a></td></tr><tr><td><a href="https://t.me/tginfoen/1649">Telegram Responded to Article Describing Telegram as a Dangerous Messenger for Ukrainians</a></td>
-    <td><a href="https://t.me/tginfo/3657">Уязвимость в Telegram для macOS дает злоумышленникам доступ к камере и микрофону</a></td></tr>
+    <td><a href="https://t.me/tginfo/3658">Команда Telegram прокомментировала информацию об уязвимости</a></td></tr>
 </table>
 We are also available on <a href="https://github.com/tginfo"><b>🐙 GitHub</b></a>!
 </div>
 
 <br>
 <hr>
-<h4 align="center">This README file is generated <b>every 6 hours</b>!</br>Last refresh: <b>2023-05-17 08:14:41 (UTC time)</b></h4>
+<h4 align="center">This README file is generated <b>every 6 hours</b>!</br>Last refresh: <b>2023-05-17 20:12:09 (UTC time)</b></h4>
