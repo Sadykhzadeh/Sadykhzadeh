@@ -14,15 +14,6 @@
 <h2>📊 This week I spent my time using:</h2>
 
 <!--START_SECTION:waka-->
-
-```text
-TypeScript   11 hrs 9 mins   ██████████████████▒░░░░░░   73.42 %
-Sass         2 hrs 25 mins   ████░░░░░░░░░░░░░░░░░░░░░   15.91 %
-Markdown     30 mins         ▓░░░░░░░░░░░░░░░░░░░░░░░░   03.30 %
-Python       12 mins         ▒░░░░░░░░░░░░░░░░░░░░░░░░   01.36 %
-Bash         12 mins         ▒░░░░░░░░░░░░░░░░░░░░░░░░   01.34 %
-```
-
 <!--END_SECTION:waka-->
 
 <br>
@@ -34,14 +25,14 @@ Bash         12 mins         ▒░░░░░░░░░░░░░░░░
 			<th>На русском (<a href="https://t.me/tginfo">@tginfo</a>)</th>
 		</tr>
 		<caption>🚩 <a href="https://t.me/tginfo">@tginfo</a> in your language: <a href="https://t.me/tginfoworld"><b>@tginfoworld</b></a><caption/>
-  <tr><td><a href="https://t.me/tginfoen/1658">Telegram Download Growth</a></td>
+  <tr><td><a href="https://t.me/tginfoen/1659">Malaysia’s requests to Telegram remain unanswered</a></td>
+    <td><a href="https://t.me/tginfo/3667">Запросы Малайзии к Telegram остаются без ответа</a></td></tr><tr><td><a href="https://t.me/tginfoen/1658">Telegram Download Growth</a></td>
     <td><a href="https://t.me/tginfo/3666">Трудности при скачивании медиа</a></td></tr><tr><td><a href="https://t.me/tginfoen/1657">FAQ: Chat Owner's Unique Rights</a></td>
-    <td><a href="https://t.me/tginfo/3665">Рост загрузок Telegram</a></td></tr><tr><td><a href="https://t.me/tginfoen/1656">Documentation Update</a></td>
-    <td><a href="https://t.me/tginfo/3664">Уникальные права владельца чата</a></td></tr>
+    <td><a href="https://t.me/tginfo/3665">Рост загрузок Telegram</a></td></tr>
 </table>
 We are also available on <a href="https://github.com/tginfo"><b>🐙 GitHub</b></a>!
 </div>
 
 <br>
 <hr>
-<h4 align="center">This README file is generated <b>every 6 hours</b>!</br>Last refresh: <b>2023-05-29 08:14:57 (UTC time)</b></h4>
+<h4 align="center">This README file is generated <b>every 6 hours</b>!</br>Last refresh: <b>2023-05-29 20:12:05 (UTC time)</b></h4>
