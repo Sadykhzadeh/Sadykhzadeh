@@ -14,15 +14,6 @@
 <h2>📊 This week I spent my time using:</h2>
 
 <!--START_SECTION:waka-->
-
-```text
-TypeScript       13 hrs 36 mins  ████████████████████░░░░░   79.74 %
-Sass             1 hr 6 mins     █▓░░░░░░░░░░░░░░░░░░░░░░░   06.51 %
-JavaScript       45 mins         █░░░░░░░░░░░░░░░░░░░░░░░░   04.46 %
-Markdown         27 mins         ▓░░░░░░░░░░░░░░░░░░░░░░░░   02.68 %
-CSS              16 mins         ▒░░░░░░░░░░░░░░░░░░░░░░░░   01.62 %
-```
-
 <!--END_SECTION:waka-->
 
 <br>
@@ -35,13 +26,13 @@ CSS              16 mins         ▒░░░░░░░░░░░░░░�
 		</tr>
 		<caption>🚩 <a href="https://t.me/tginfo">@tginfo</a> in your language: <a href="https://t.me/tginfoworld"><b>@tginfoworld</b></a><caption/>
   <tr><td><a href="https://t.me/tginfoen/1659">Malaysia’s requests to Telegram remain unanswered</a></td>
-    <td><a href="https://t.me/tginfo/3669">В России начали блокировать OpenVPN-подключения</a></td></tr><tr><td><a href="https://t.me/tginfoen/1658">Telegram Download Growth</a></td>
-    <td><a href="https://t.me/tginfo/3668">Трафик Telegram вырос в Москве в 3.5 раза</a></td></tr><tr><td><a href="https://t.me/tginfoen/1657">FAQ: Chat Owner's Unique Rights</a></td>
-    <td><a href="https://t.me/tginfo/3667">Запросы Малайзии к Telegram остаются без ответа</a></td></tr>
+    <td><a href="https://t.me/tginfo/3670">Рекламная платформа Telegram запрещает упоминание религии </a></td></tr><tr><td><a href="https://t.me/tginfoen/1658">Telegram Download Growth</a></td>
+    <td><a href="https://t.me/tginfo/3669">В России начали блокировать OpenVPN-подключения</a></td></tr><tr><td><a href="https://t.me/tginfoen/1657">FAQ: Chat Owner's Unique Rights</a></td>
+    <td><a href="https://t.me/tginfo/3668">Трафик Telegram вырос в Москве в 3.5 раза</a></td></tr>
 </table>
 We are also available on <a href="https://github.com/tginfo"><b>🐙 GitHub</b></a>!
 </div>
 
 <br>
 <hr>
-<h4 align="center">This README file is generated <b>every 6 hours</b>!</br>Last refresh: <b>2023-06-01 08:14:44 (UTC time)</b></h4>
+<h4 align="center">This README file is generated <b>every 6 hours</b>!</br>Last refresh: <b>2023-06-01 20:11:59 (UTC time)</b></h4>
