@@ -14,15 +14,6 @@
 <h2>📊 This week I spent my time using:</h2>
 
 <!--START_SECTION:waka-->
-
-```txt
-TypeScript       14 hrs 50 mins  ████████████████████▒░░░░   80.81 %
-Sass             56 mins         █▒░░░░░░░░░░░░░░░░░░░░░░░   05.13 %
-JavaScript       46 mins         █░░░░░░░░░░░░░░░░░░░░░░░░   04.21 %
-Markdown         27 mins         ▓░░░░░░░░░░░░░░░░░░░░░░░░   02.50 %
-JSON             18 mins         ▒░░░░░░░░░░░░░░░░░░░░░░░░   01.66 %
-```
-
 <!--END_SECTION:waka-->
 
 <br>
@@ -34,14 +25,14 @@ JSON             18 mins         ▒░░░░░░░░░░░░░░�
 			<th>На русском (<a href="https://t.me/tginfo">@tginfo</a>)</th>
 		</tr>
 		<caption>🚩 <a href="https://t.me/tginfo">@tginfo</a> in your language: <a href="https://t.me/tginfoworld"><b>@tginfoworld</b></a><caption/>
-  <tr><td><a href="https://t.me/tginfoen/1659">Malaysia’s requests to Telegram remain unanswered</a></td>
+  <tr><td><a href="https://t.me/tginfoen/1660">Telegram Desktop No Longer Allows Changing Phone Number</a></td>
+    <td><a href="https://t.me/tginfo/3672">Telegram запретил менять номер телефона в десктопных клиентах</a></td></tr><tr><td><a href="https://t.me/tginfoen/1659">Malaysia’s requests to Telegram remain unanswered</a></td>
     <td><a href="https://t.me/tginfo/3671">Клиент Telegram для российской ОС «Аврора»</a></td></tr><tr><td><a href="https://t.me/tginfoen/1658">Telegram Download Growth</a></td>
-    <td><a href="https://t.me/tginfo/3670">Рекламная платформа Telegram запрещает упоминание религии </a></td></tr><tr><td><a href="https://t.me/tginfoen/1657">FAQ: Chat Owner's Unique Rights</a></td>
-    <td><a href="https://t.me/tginfo/3669">В России начали блокировать OpenVPN-подключения</a></td></tr>
+    <td><a href="https://t.me/tginfo/3670">Рекламная платформа Telegram запрещает упоминание религии </a></td></tr>
 </table>
 We are also available on <a href="https://github.com/tginfo"><b>🐙 GitHub</b></a>!
 </div>
 
 <br>
 <hr>
-<h4 align="center">This README file is generated <b>every 6 hours</b>!</br>Last refresh: <b>2023-06-03 08:13:21 (UTC time)</b></h4>
+<h4 align="center">This README file is generated <b>every 6 hours</b>!</br>Last refresh: <b>2023-06-03 20:12:42 (UTC time)</b></h4>
