@@ -14,15 +14,6 @@
 <h2>📊 This week I spent my time using:</h2>
 
 <!--START_SECTION:waka-->
-
-```txt
-TypeScript       14 hrs 47 mins  ████████████████████▒░░░░   81.16 %
-Sass             1 hr 8 mins     █▓░░░░░░░░░░░░░░░░░░░░░░░   06.30 %
-JavaScript       46 mins         █░░░░░░░░░░░░░░░░░░░░░░░░   04.26 %
-JSON             29 mins         ▓░░░░░░░░░░░░░░░░░░░░░░░░   02.73 %
-Markdown         27 mins         ▓░░░░░░░░░░░░░░░░░░░░░░░░   02.52 %
-```
-
 <!--END_SECTION:waka-->
 
 <br>
@@ -35,7 +26,7 @@ Markdown         27 mins         ▓░░░░░░░░░░░░░░�
 		</tr>
 		<caption>🚩 <a href="https://t.me/tginfo">@tginfo</a> in your language: <a href="https://t.me/tginfoworld"><b>@tginfoworld</b></a><caption/>
   <tr><td><a href="https://t.me/tginfoen/1660">Telegram Desktop No Longer Allows Changing Phone Number</a></td>
-    <td><a href="https://t.me/tginfo/3672">Telegram запретил менять номер телефона в десктопных клиентах</a></td></tr><tr><td><a href="https://t.me/tginfoen/1659">Malaysia’s requests to Telegram remain unanswered</a></td>
+    <td><a href="https://t.me/tginfo/3672">Telegram запретил менять номер телефона в Telegram Desktop </a></td></tr><tr><td><a href="https://t.me/tginfoen/1659">Malaysia’s requests to Telegram remain unanswered</a></td>
     <td><a href="https://t.me/tginfo/3671">Клиент Telegram для российской ОС «Аврора»</a></td></tr><tr><td><a href="https://t.me/tginfoen/1658">Telegram Download Growth</a></td>
     <td><a href="https://t.me/tginfo/3670">Рекламная платформа Telegram запрещает упоминание религии </a></td></tr>
 </table>
@@ -44,4 +35,4 @@ We are also available on <a href="https://github.com/tginfo"><b>🐙 GitHub</b><
 
 <br>
 <hr>
-<h4 align="center">This README file is generated <b>every 6 hours</b>!</br>Last refresh: <b>2023-06-04 08:13:13 (UTC time)</b></h4>
+<h4 align="center">This README file is generated <b>every 6 hours</b>!</br>Last refresh: <b>2023-06-04 20:11:11 (UTC time)</b></h4>
