@@ -14,15 +14,6 @@
 <h2>📊 This week I spent my time using:</h2>
 
 <!--START_SECTION:waka-->
-
-```txt
-TypeScript       13 hrs 3 mins   ████████████████████░░░░░   79.51 %
-Python           1 hr 11 mins    █▓░░░░░░░░░░░░░░░░░░░░░░░   07.23 %
-Sass             55 mins         █▒░░░░░░░░░░░░░░░░░░░░░░░   05.61 %
-JSON             30 mins         ▓░░░░░░░░░░░░░░░░░░░░░░░░   03.14 %
-JavaScript       23 mins         ▓░░░░░░░░░░░░░░░░░░░░░░░░   02.38 %
-```
-
 <!--END_SECTION:waka-->
 
 <br>
@@ -34,14 +25,14 @@ JavaScript       23 mins         ▓░░░░░░░░░░░░░░�
 			<th>На русском (<a href="https://t.me/tginfo">@tginfo</a>)</th>
 		</tr>
 		<caption>🚩 <a href="https://t.me/tginfo">@tginfo</a> in your language: <a href="https://t.me/tginfoworld"><b>@tginfoworld</b></a><caption/>
-  <tr><td><a href="https://t.me/tginfoen/1660">Telegram Desktop No Longer Allows Changing Phone Number</a></td>
+  <tr><td><a href="https://t.me/tginfoen/1661">Issues with Telegram’s DC1</a></td>
+    <td><a href="https://t.me/tginfo/3673">Неполадки в датацентре DC1 </a></td></tr><tr><td><a href="https://t.me/tginfoen/1660">Telegram Desktop No Longer Allows Changing Phone Number</a></td>
     <td><a href="https://t.me/tginfo/3672">Telegram запретил менять номер телефона в Telegram Desktop </a></td></tr><tr><td><a href="https://t.me/tginfoen/1659">Malaysia’s requests to Telegram remain unanswered</a></td>
-    <td><a href="https://t.me/tginfo/3671">Клиент Telegram для российской ОС «Аврора»</a></td></tr><tr><td><a href="https://t.me/tginfoen/1658">Telegram Download Growth</a></td>
-    <td><a href="https://t.me/tginfo/3670">Рекламная платформа Telegram запрещает упоминание религии </a></td></tr>
+    <td><a href="https://t.me/tginfo/3671">Клиент Telegram для российской ОС «Аврора»</a></td></tr>
 </table>
 We are also available on <a href="https://github.com/tginfo"><b>🐙 GitHub</b></a>!
 </div>
 
 <br>
 <hr>
-<h4 align="center">This README file is generated <b>every 6 hours</b>!</br>Last refresh: <b>2023-06-06 08:14:15 (UTC time)</b></h4>
+<h4 align="center">This README file is generated <b>every 6 hours</b>!</br>Last refresh: <b>2023-06-06 20:11:47 (UTC time)</b></h4>
