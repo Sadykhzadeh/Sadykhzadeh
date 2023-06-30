@@ -14,15 +14,6 @@
 <h2>📊 This week I spent my time using:</h2>
 
 <!--START_SECTION:waka-->
-
-```txt
-TypeScript            5 hrs 11 mins   ██████████████▓░░░░░░░░░░   59.27 %
-Kotlin                2 hrs 43 mins   ███████▓░░░░░░░░░░░░░░░░░   31.05 %
-Properties            16 mins         ▓░░░░░░░░░░░░░░░░░░░░░░░░   03.09 %
-JSON                  14 mins         ▓░░░░░░░░░░░░░░░░░░░░░░░░   02.74 %
-HTTP Request          13 mins         ▓░░░░░░░░░░░░░░░░░░░░░░░░   02.60 %
-```
-
 <!--END_SECTION:waka-->
 
 <br>
@@ -35,13 +26,13 @@ HTTP Request          13 mins         ▓░░░░░░░░░░░░░
 		</tr>
 		<caption>🚩 <a href="https://t.me/tginfo">@tginfo</a> in your language: <a href="https://t.me/tginfoworld"><b>@tginfoworld</b></a><caption/>
   <tr><td><a href="https://t.me/tginfoen/1665">Pavel Durov Announced Upcoming Stories</a></td>
-    <td><a href="https://t.me/tginfo/3683">Сбои в видеочатах</a></td></tr><tr><td><a href="https://t.me/tginfoen/1664">Durov on Copying Telegram</a></td>
-    <td><a href="https://t.me/tginfo/3682">Павел Дуров анонсировал Stories в Telegram </a></td></tr><tr><td><a href="https://t.me/tginfoen/1663">Telegram is unstable</a></td>
-    <td><a href="https://t.me/tginfo/3681">Павел Дуров прокомментировал копирование конкурентами функций Telegram</a></td></tr>
+    <td><a href="https://t.me/tginfo/3684">Первый бот для постинга с поддержкой Premium-эмодзи</a></td></tr><tr><td><a href="https://t.me/tginfoen/1664">Durov on Copying Telegram</a></td>
+    <td><a href="https://t.me/tginfo/3683">Сбои в видеочатах</a></td></tr><tr><td><a href="https://t.me/tginfoen/1663">Telegram is unstable</a></td>
+    <td><a href="https://t.me/tginfo/3682">Павел Дуров анонсировал Stories в Telegram </a></td></tr>
 </table>
 We are also available on <a href="https://github.com/tginfo"><b>🐙 GitHub</b></a>!
 </div>
 
 <br>
 <hr>
-<h4 align="center">This README file is generated <b>every 6 hours</b>!</br>Last refresh: <b>2023-06-30 08:15:17 (UTC time)</b></h4>
+<h4 align="center">This README file is generated <b>every 6 hours</b>!</br>Last refresh: <b>2023-06-30 20:12:39 (UTC time)</b></h4>
