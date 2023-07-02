@@ -14,15 +14,6 @@
 <h2>📊 This week I spent my time using:</h2>
 
 <!--START_SECTION:waka-->
-
-```txt
-Kotlin                5 hrs 15 mins   ████████████▒░░░░░░░░░░░░   49.32 %
-TypeScript            4 hrs 30 mins   ██████████▓░░░░░░░░░░░░░░   42.38 %
-Properties            16 mins         ▓░░░░░░░░░░░░░░░░░░░░░░░░   02.54 %
-HTTP Request          13 mins         ▓░░░░░░░░░░░░░░░░░░░░░░░░   02.14 %
-JavaScript            10 mins         ▒░░░░░░░░░░░░░░░░░░░░░░░░   01.71 %
-```
-
 <!--END_SECTION:waka-->
 
 <br>
@@ -35,13 +26,13 @@ JavaScript            10 mins         ▒░░░░░░░░░░░░░
 		</tr>
 		<caption>🚩 <a href="https://t.me/tginfo">@tginfo</a> in your language: <a href="https://t.me/tginfoworld"><b>@tginfoworld</b></a><caption/>
   <tr><td><a href="https://t.me/tginfoen/1665">Pavel Durov Announced Upcoming Stories</a></td>
-    <td><a href="https://t.me/tginfo/3684">Первый бот для постинга с поддержкой Premium-эмодзи</a></td></tr><tr><td><a href="https://t.me/tginfoen/1664">Durov on Copying Telegram</a></td>
-    <td><a href="https://t.me/tginfo/3683">Сбои в видеочатах</a></td></tr><tr><td><a href="https://t.me/tginfoen/1663">Telegram is unstable</a></td>
-    <td><a href="https://t.me/tginfo/3682">Павел Дуров анонсировал Stories в Telegram </a></td></tr>
+    <td><a href="https://t.me/tginfo/3685">Банк ВТБ отключил своего веб-бота</a></td></tr><tr><td><a href="https://t.me/tginfoen/1664">Durov on Copying Telegram</a></td>
+    <td><a href="https://t.me/tginfo/3684">Первый бот для постинга с поддержкой Premium-эмодзи</a></td></tr><tr><td><a href="https://t.me/tginfoen/1663">Telegram is unstable</a></td>
+    <td><a href="https://t.me/tginfo/3683">Сбои в видеочатах</a></td></tr>
 </table>
 We are also available on <a href="https://github.com/tginfo"><b>🐙 GitHub</b></a>!
 </div>
 
 <br>
 <hr>
-<h4 align="center">This README file is generated <b>every 6 hours</b>!</br>Last refresh: <b>2023-07-02 08:15:17 (UTC time)</b></h4>
+<h4 align="center">This README file is generated <b>every 6 hours</b>!</br>Last refresh: <b>2023-07-02 20:12:32 (UTC time)</b></h4>
