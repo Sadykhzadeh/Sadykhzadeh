@@ -14,15 +14,6 @@
 <h2>📊 This week I spent my time using:</h2>
 
 <!--START_SECTION:waka-->
-
-```txt
-Kotlin          4 hrs 42 mins   █████████████▓░░░░░░░░░░░   55.00 %
-TypeScript      3 hrs 21 mins   █████████▓░░░░░░░░░░░░░░░   39.20 %
-Properties      14 mins         ▓░░░░░░░░░░░░░░░░░░░░░░░░   02.89 %
-JavaScript      10 mins         ▓░░░░░░░░░░░░░░░░░░░░░░░░   02.13 %
-Bash            3 mins          ▒░░░░░░░░░░░░░░░░░░░░░░░░   00.71 %
-```
-
 <!--END_SECTION:waka-->
 
 <br>
@@ -35,13 +26,13 @@ Bash            3 mins          ▒░░░░░░░░░░░░░░░
 		</tr>
 		<caption>🚩 <a href="https://t.me/tginfo">@tginfo</a> in your language: <a href="https://t.me/tginfoworld"><b>@tginfoworld</b></a><caption/>
   <tr><td><a href="https://t.me/tginfoen/1666">How to Contact Telegram </a></td>
-    <td><a href="https://t.me/tginfo/3685">Банк ВТБ отключил своего веб-бота</a></td></tr><tr><td><a href="https://t.me/tginfoen/1665">Pavel Durov Announced Upcoming Stories</a></td>
-    <td><a href="https://t.me/tginfo/3684">Первый бот для постинга с поддержкой Premium-эмодзи</a></td></tr><tr><td><a href="https://t.me/tginfoen/1664">Durov on Copying Telegram</a></td>
-    <td><a href="https://t.me/tginfo/3683">Сбои в видеочатах</a></td></tr>
+    <td><a href="https://t.me/tginfo/3686">Сервис TGStat.ru предупреждает о мошенниках</a></td></tr><tr><td><a href="https://t.me/tginfoen/1665">Pavel Durov Announced Upcoming Stories</a></td>
+    <td><a href="https://t.me/tginfo/3685">Банк ВТБ отключил своего веб-бота</a></td></tr><tr><td><a href="https://t.me/tginfoen/1664">Durov on Copying Telegram</a></td>
+    <td><a href="https://t.me/tginfo/3684">Первый бот для постинга с поддержкой Premium-эмодзи</a></td></tr>
 </table>
 We are also available on <a href="https://github.com/tginfo"><b>🐙 GitHub</b></a>!
 </div>
 
 <br>
 <hr>
-<h4 align="center">This README file is generated <b>every 6 hours</b>!</br>Last refresh: <b>2023-07-05 08:17:11 (UTC time)</b></h4>
+<h4 align="center">This README file is generated <b>every 6 hours</b>!</br>Last refresh: <b>2023-07-05 20:13:38 (UTC time)</b></h4>
