@@ -14,15 +14,6 @@
 <h2>📊 This week I spent my time using:</h2>
 
 <!--START_SECTION:waka-->
-
-```txt
-Kotlin       2 hrs 32 mins   ████████████▒░░░░░░░░░░░░   49.41 %
-TypeScript   2 hrs 22 mins   ███████████▓░░░░░░░░░░░░░   46.23 %
-JavaScript   11 mins         █░░░░░░░░░░░░░░░░░░░░░░░░   03.82 %
-JSON         1 min           ░░░░░░░░░░░░░░░░░░░░░░░░░   00.53 %
-Text         0 secs          ░░░░░░░░░░░░░░░░░░░░░░░░░   00.01 %
-```
-
 <!--END_SECTION:waka-->
 
 <br>
@@ -35,13 +26,13 @@ Text         0 secs          ░░░░░░░░░░░░░░░░░
 		</tr>
 		<caption>🚩 <a href="https://t.me/tginfo">@tginfo</a> in your language: <a href="https://t.me/tginfoworld"><b>@tginfoworld</b></a><caption/>
   <tr><td><a href="https://t.me/tginfoen/1666">How to Contact Telegram </a></td>
-    <td><a href="https://t.me/tginfo/3688">Жалобы на контент в Telegram</a></td></tr><tr><td><a href="https://t.me/tginfoen/1665">Pavel Durov Announced Upcoming Stories</a></td>
-    <td><a href="https://t.me/tginfo/3687">Рейд на группу Telegram Info Чат</a></td></tr><tr><td><a href="https://t.me/tginfoen/1664">Durov on Copying Telegram</a></td>
-    <td><a href="https://t.me/tginfo/3686">Сервис TGStat.ru предупреждает о мошенниках</a></td></tr>
+    <td><a href="https://t.me/tginfo/3689">Рост аудитории Telegram в России </a></td></tr><tr><td><a href="https://t.me/tginfoen/1665">Pavel Durov Announced Upcoming Stories</a></td>
+    <td><a href="https://t.me/tginfo/3688">Жалобы на контент в Telegram</a></td></tr><tr><td><a href="https://t.me/tginfoen/1664">Durov on Copying Telegram</a></td>
+    <td><a href="https://t.me/tginfo/3687">Рейд на группу Telegram Info Чат</a></td></tr>
 </table>
 We are also available on <a href="https://github.com/tginfo"><b>🐙 GitHub</b></a>!
 </div>
 
 <br>
 <hr>
-<h4 align="center">This README file is generated <b>every 6 hours</b>!</br>Last refresh: <b>2023-07-07 08:16:25 (UTC time)</b></h4>
+<h4 align="center">This README file is generated <b>every 6 hours</b>!</br>Last refresh: <b>2023-07-07 20:13:06 (UTC time)</b></h4>
