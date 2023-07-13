@@ -14,15 +14,6 @@
 <h2>📊 This week I spent my time using:</h2>
 
 <!--START_SECTION:waka-->
-
-```txt
-TypeScript   4 hrs 7 mins    ██████████████████████▒░░   89.33 %
-Sass         20 mins         ██░░░░░░░░░░░░░░░░░░░░░░░   07.55 %
-Markdown     4 mins          ▒░░░░░░░░░░░░░░░░░░░░░░░░   01.70 %
-JSON         2 mins          ▒░░░░░░░░░░░░░░░░░░░░░░░░   00.82 %
-JavaScript   0 secs          ░░░░░░░░░░░░░░░░░░░░░░░░░   00.33 %
-```
-
 <!--END_SECTION:waka-->
 
 <br>
@@ -35,13 +26,13 @@ JavaScript   0 secs          ░░░░░░░░░░░░░░░░░
 		</tr>
 		<caption>🚩 <a href="https://t.me/tginfo">@tginfo</a> in your language: <a href="https://t.me/tginfoworld"><b>@tginfoworld</b></a><caption/>
   <tr><td><a href="https://t.me/tginfoen/1668">Enhanced Targeting is Available Only in Certain Countries</a></td>
-    <td><a href="https://t.me/tginfo/3693">Яндекс тестирует собственную биржу размещения прямой рекламы в Telegram</a></td></tr><tr><td><a href="https://t.me/tginfoen/1667">Telegram Changes Its Approach to Advertising Personalization</a></td>
-    <td><a href="https://t.me/tginfo/3692">Проблемы при оплате Telegram Premium</a></td></tr><tr><td><a href="https://t.me/tginfoen/1666">How to Contact Telegram </a></td>
-    <td><a href="https://t.me/tginfo/3691">Улучшенный таргетинг доступен только для некоторых стран</a></td></tr>
+    <td><a href="https://t.me/tginfo/3694">Запуск Wallet Pay и его поддержка в Telegram Info VPN</a></td></tr><tr><td><a href="https://t.me/tginfoen/1667">Telegram Changes Its Approach to Advertising Personalization</a></td>
+    <td><a href="https://t.me/tginfo/3693">Яндекс тестирует собственную биржу размещения прямой рекламы в Telegram</a></td></tr><tr><td><a href="https://t.me/tginfoen/1666">How to Contact Telegram </a></td>
+    <td><a href="https://t.me/tginfo/3692">Проблемы при оплате Telegram Premium</a></td></tr>
 </table>
 We are also available on <a href="https://github.com/tginfo"><b>🐙 GitHub</b></a>!
 </div>
 
 <br>
 <hr>
-<h4 align="center">This README file is generated <b>every 6 hours</b>!</br>Last refresh: <b>2023-07-13 08:16:11 (UTC time)</b></h4>
+<h4 align="center">This README file is generated <b>every 6 hours</b>!</br>Last refresh: <b>2023-07-13 20:13:33 (UTC time)</b></h4>
