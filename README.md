@@ -14,15 +14,6 @@
 <h2>📊 This week I spent my time using:</h2>
 
 <!--START_SECTION:waka-->
-
-```txt
-TypeScript   10 hrs 34 mins  █████████████████████▓░░░   86.37 %
-HTML         39 mins         █▒░░░░░░░░░░░░░░░░░░░░░░░   05.40 %
-Sass         22 mins         ▓░░░░░░░░░░░░░░░░░░░░░░░░   03.10 %
-JavaScript   10 mins         ▒░░░░░░░░░░░░░░░░░░░░░░░░   01.37 %
-JSON         9 mins          ▒░░░░░░░░░░░░░░░░░░░░░░░░   01.34 %
-```
-
 <!--END_SECTION:waka-->
 
 <br>
@@ -34,14 +25,14 @@ JSON         9 mins          ▒░░░░░░░░░░░░░░░░
 			<th>На русском (<a href="https://t.me/tginfo">@tginfo</a>)</th>
 		</tr>
 		<caption>🚩 <a href="https://t.me/tginfo">@tginfo</a> in your language: <a href="https://t.me/tginfoworld"><b>@tginfoworld</b></a><caption/>
-  <tr><td><a href="https://t.me/tginfoen/1670">Telegram Changes Archive's Behavior</a></td>
+  <tr><td><a href="https://t.me/tginfoen/1671">Privacy Settings for Bio</a></td>
+    <td><a href="https://t.me/tginfo/3697">Настройки приватности секции «О себе» в Telegram</a></td></tr><tr><td><a href="https://t.me/tginfoen/1670">Telegram Changes Archive's Behavior</a></td>
     <td><a href="https://t.me/tginfo/3696">Изменение поведения чатов в архиве Telegram</a></td></tr><tr><td><a href="https://t.me/tginfoen/1669">Telegram statistics outage </a></td>
-    <td><a href="https://t.me/tginfo/3695">Сбой в работе статистики Telegram</a></td></tr><tr><td><a href="https://t.me/tginfoen/1668">Enhanced Targeting is Available Only in Certain Countries</a></td>
-    <td><a href="https://t.me/tginfo/3694">Запуск Wallet Pay и его поддержка в Telegram Info VPN</a></td></tr>
+    <td><a href="https://t.me/tginfo/3695">Сбой в работе статистики Telegram</a></td></tr>
 </table>
 We are also available on <a href="https://github.com/tginfo"><b>🐙 GitHub</b></a>!
 </div>
 
 <br>
 <hr>
-<h4 align="center">This README file is generated <b>every 6 hours</b>!</br>Last refresh: <b>2023-07-17 08:16:59 (UTC time)</b></h4>
+<h4 align="center">This README file is generated <b>every 6 hours</b>!</br>Last refresh: <b>2023-07-17 20:13:16 (UTC time)</b></h4>
