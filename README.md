@@ -14,15 +14,6 @@
 <h2>📊 This week I spent my time using:</h2>
 
 <!--START_SECTION:waka-->
-
-```txt
-TypeScript   14 hrs 35 mins  █████████████████████▒░░░   85.91 %
-Sass         56 mins         █▒░░░░░░░░░░░░░░░░░░░░░░░   05.52 %
-HTML         39 mins         █░░░░░░░░░░░░░░░░░░░░░░░░   03.89 %
-JSON         16 mins         ▒░░░░░░░░░░░░░░░░░░░░░░░░   01.61 %
-JavaScript   10 mins         ▒░░░░░░░░░░░░░░░░░░░░░░░░   00.99 %
-```
-
 <!--END_SECTION:waka-->
 
 <br>
@@ -34,14 +25,14 @@ JavaScript   10 mins         ▒░░░░░░░░░░░░░░░░
 			<th>На русском (<a href="https://t.me/tginfo">@tginfo</a>)</th>
 		</tr>
 		<caption>🚩 <a href="https://t.me/tginfo">@tginfo</a> in your language: <a href="https://t.me/tginfoworld"><b>@tginfoworld</b></a><caption/>
-  <tr><td><a href="https://t.me/tginfoen/1675">How will Telegram Stories work and what will they feature</a></td>
-    <td><a href="https://t.me/tginfo/3704">Новые настройки архива Telegram</a></td></tr><tr><td><a href="https://t.me/tginfoen/1674">Premium owners will have access to a wider range of story self-destruction options</a></td>
-    <td><a href="https://t.me/tginfo/3703">Что появится в историях Telegram</a></td></tr><tr><td><a href="https://t.me/tginfoen/1673">Posting Stories Only for Telegram Premium Users</a></td>
-    <td><a href="https://t.me/tginfo/3701">У владельцев Premium будет доступ к большему выбору опций автоудаления историй</a></td></tr>
+  <tr><td><a href="https://t.me/tginfoen/1678">More information about the upcoming update in Telegram</a></td>
+    <td><a href="https://t.me/tginfo/3706">Больше информации о грядущем обновлении Telegram</a></td></tr><tr><td><a href="https://t.me/tginfoen/1677">Telegram's stats are still unstable</a></td>
+    <td><a href="https://t.me/tginfo/3705">Статистика Telegram работает нестабильно</a></td></tr><tr><td><a href="https://t.me/tginfoen/1676">New Archive settings in Telegram</a></td>
+    <td><a href="https://t.me/tginfo/3704">Новые настройки архива Telegram</a></td></tr>
 </table>
 We are also available on <a href="https://github.com/tginfo"><b>🐙 GitHub</b></a>!
 </div>
 
 <br>
 <hr>
-<h4 align="center">This README file is generated <b>every 6 hours</b>!</br>Last refresh: <b>2023-07-20 08:14:19 (UTC time)</b></h4>
+<h4 align="center">This README file is generated <b>every 6 hours</b>!</br>Last refresh: <b>2023-07-20 20:11:44 (UTC time)</b></h4>
