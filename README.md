@@ -14,15 +14,6 @@
 <h2>📊 This week I spent my time using:</h2>
 
 <!--START_SECTION:waka-->
-
-```txt
-TypeScript   12 hrs 30 mins  ██████████████████████▒░░   89.35 %
-Sass         55 mins         █▓░░░░░░░░░░░░░░░░░░░░░░░   06.65 %
-JSON         10 mins         ▒░░░░░░░░░░░░░░░░░░░░░░░░   01.25 %
-JavaScript   9 mins          ▒░░░░░░░░░░░░░░░░░░░░░░░░   01.15 %
-.env file    5 mins          ▒░░░░░░░░░░░░░░░░░░░░░░░░   00.70 %
-```
-
 <!--END_SECTION:waka-->
 
 <br>
@@ -34,14 +25,14 @@ JavaScript   9 mins          ▒░░░░░░░░░░░░░░░░
 			<th>На русском (<a href="https://t.me/tginfo">@tginfo</a>)</th>
 		</tr>
 		<caption>🚩 <a href="https://t.me/tginfo">@tginfo</a> in your language: <a href="https://t.me/tginfoworld"><b>@tginfoworld</b></a><caption/>
-  <tr><td><a href="https://t.me/tginfoen/1679">Stories — already in Telegram!</a></td>
-    <td><a href="https://t.me/tginfo/3708">Истории, улучшенный архив, настройки приватности для секции «О себе» и другие улучшения</a></td></tr><tr><td><a href="https://t.me/tginfoen/1678">More information about the upcoming update in Telegram</a></td>
-    <td><a href="https://t.me/tginfo/3707">Stories — уже в Telegram!</a></td></tr><tr><td><a href="https://t.me/tginfoen/1677">Telegram's stats are still unstable</a></td>
-    <td><a href="https://t.me/tginfo/3706">Больше информации о грядущем обновлении Telegram</a></td></tr>
+  <tr><td><a href="https://t.me/tginfoen/1681">The Advertisement Platform Testing Phase Is Supposedly Over</a></td>
+    <td><a href="https://t.me/tginfo/3710">Тестовый период работы нативной рекламы Telegram, вероятно, завершен</a></td></tr><tr><td><a href="https://t.me/tginfoen/1680">Removing Stories From the Chat List</a></td>
+    <td><a href="https://t.me/tginfo/3709">Как скрыть все истории с главного экрана? </a></td></tr><tr><td><a href="https://t.me/tginfoen/1679">Stories — already in Telegram!</a></td>
+    <td><a href="https://t.me/tginfo/3708">Истории, улучшенный архив, настройки приватности для секции «О себе» и другие улучшения</a></td></tr>
 </table>
 We are also available on <a href="https://github.com/tginfo"><b>🐙 GitHub</b></a>!
 </div>
 
 <br>
 <hr>
-<h4 align="center">This README file is generated <b>every 6 hours</b>!</br>Last refresh: <b>2023-07-22 08:13:01 (UTC time)</b></h4>
+<h4 align="center">This README file is generated <b>every 6 hours</b>!</br>Last refresh: <b>2023-07-22 20:10:41 (UTC time)</b></h4>
