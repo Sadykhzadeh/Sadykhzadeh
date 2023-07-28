@@ -14,15 +14,6 @@
 <h2>📊 This week I spent my time using:</h2>
 
 <!--START_SECTION:waka-->
-
-```txt
-TypeScript       8 hrs 20 mins   ██████████████████▒░░░░░░   73.02 %
-JSON             49 mins         █▓░░░░░░░░░░░░░░░░░░░░░░░   07.27 %
-CSS              36 mins         █▒░░░░░░░░░░░░░░░░░░░░░░░   05.26 %
-JavaScript       19 mins         ▓░░░░░░░░░░░░░░░░░░░░░░░░   02.91 %
-TSConfig         15 mins         ▓░░░░░░░░░░░░░░░░░░░░░░░░   02.21 %
-```
-
 <!--END_SECTION:waka-->
 
 <br>
@@ -34,9 +25,9 @@ TSConfig         15 mins         ▓░░░░░░░░░░░░░░�
 			<th>На русском (<a href="https://t.me/tginfo">@tginfo</a>)</th>
 		</tr>
 		<caption>🚩 <a href="https://t.me/tginfo">@tginfo</a> in your language: <a href="https://t.me/tginfoworld"><b>@tginfoworld</b></a><caption/>
-  <tr><td><a href="https://t.me/tginfoen/1681">The Advertisement Platform Testing Phase Is Supposedly Over</a></td>
-    <td><a href="https://t.me/tginfo/3711">Реакции от имени каналов</a></td></tr><tr><td><a href="https://t.me/tginfoen/1680">Removing Stories From the Chat List</a></td>
-    <td><a href="https://t.me/tginfo/3710">Тестовый период работы нативной рекламы Telegram, вероятно, завершен</a></td></tr><tr><td><a href="https://t.me/tginfoen/1679">Stories — already in Telegram!</a></td>
+  <tr><td><a href="https://t.me/tginfoen/1682">Reactions on behalf of channels</a></td>
+    <td><a href="https://t.me/tginfo/3711">Реакции от имени каналов</a></td></tr><tr><td><a href="https://t.me/tginfoen/1681">The Advertisement Platform Testing Phase Is Supposedly Over</a></td>
+    <td><a href="https://t.me/tginfo/3710">Тестовый период работы нативной рекламы Telegram, вероятно, завершен</a></td></tr><tr><td><a href="https://t.me/tginfoen/1680">Removing Stories From the Chat List</a></td>
     <td><a href="https://t.me/tginfo/3709">Как скрыть все истории с главного экрана? </a></td></tr>
 </table>
 We are also available on <a href="https://github.com/tginfo"><b>🐙 GitHub</b></a>!
@@ -44,4 +35,4 @@ We are also available on <a href="https://github.com/tginfo"><b>🐙 GitHub</b><
 
 <br>
 <hr>
-<h4 align="center">This README file is generated <b>every 6 hours</b>!</br>Last refresh: <b>2023-07-28 08:13:23 (UTC time)</b></h4>
+<h4 align="center">This README file is generated <b>every 6 hours</b>!</br>Last refresh: <b>2023-07-28 20:11:03 (UTC time)</b></h4>
