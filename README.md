@@ -14,15 +14,6 @@
 <h2>📊 This week I spent my time using:</h2>
 
 <!--START_SECTION:waka-->
-
-```txt
-TypeScript       5 hrs 30 mins   ███████████████████████░░   91.65 %
-Other            9 mins          ▓░░░░░░░░░░░░░░░░░░░░░░░░   02.65 %
-HTML             8 mins          ▓░░░░░░░░░░░░░░░░░░░░░░░░   02.35 %
-JSON             3 mins          ▒░░░░░░░░░░░░░░░░░░░░░░░░   01.07 %
-.env file        2 mins          ▒░░░░░░░░░░░░░░░░░░░░░░░░   00.73 %
-```
-
 <!--END_SECTION:waka-->
 
 <br>
@@ -34,14 +25,14 @@ JSON             3 mins          ▒░░░░░░░░░░░░░░�
 			<th>На русском (<a href="https://t.me/tginfo">@tginfo</a>)</th>
 		</tr>
 		<caption>🚩 <a href="https://t.me/tginfo">@tginfo</a> in your language: <a href="https://t.me/tginfoworld"><b>@tginfoworld</b></a><caption/>
-  <tr><td><a href="https://t.me/tginfoen/1685">Telegram X Android updated to stable version 0.25.6.1647 </a></td>
+  <tr><td><a href="https://t.me/tginfoen/1686">Telegram Banned in Iraq </a></td>
+    <td><a href="https://t.me/tginfo/3715">Блокировка Telegram в Ираке 🇮🇶</a></td></tr><tr><td><a href="https://t.me/tginfoen/1685">Telegram X Android updated to stable version 0.25.6.1647 </a></td>
     <td><a href="https://t.me/tginfo/3714">Telegram X обновился до стабильной версии 0.25.6.1647 ⁠</a></td></tr><tr><td><a href="https://t.me/tginfoen/1684">Telegram Data Center Is Unstable</a></td>
-    <td><a href="https://t.me/tginfo/3713">Перебои на серверах Telegram</a></td></tr><tr><td><a href="https://t.me/tginfoen/1683">Telegram Stories and Foursquare</a></td>
-    <td><a href="https://t.me/tginfo/3712">Telegram-истории и Foursquare</a></td></tr>
+    <td><a href="https://t.me/tginfo/3713">Перебои на серверах Telegram</a></td></tr>
 </table>
 We are also available on <a href="https://github.com/tginfo"><b>🐙 GitHub</b></a>!
 </div>
 
 <br>
 <hr>
-<h4 align="center">This README file is generated <b>every 6 hours</b>!</br>Last refresh: <b>2023-08-06 08:12:25 (UTC time)</b></h4>
+<h4 align="center">This README file is generated <b>every 6 hours</b>!</br>Last refresh: <b>2023-08-06 20:10:22 (UTC time)</b></h4>
