@@ -14,15 +14,6 @@
 <h2>📊 This week I spent my time using:</h2>
 
 <!--START_SECTION:waka-->
-
-```txt
-TypeScript       6 hrs 6 mins    ██████████████░░░░░░░░░░░   56.21 %
-Kotlin           4 hrs 13 mins   █████████▓░░░░░░░░░░░░░░░   38.82 %
-Other            9 mins          ▒░░░░░░░░░░░░░░░░░░░░░░░░   01.46 %
-HTML             8 mins          ▒░░░░░░░░░░░░░░░░░░░░░░░░   01.30 %
-JSON             3 mins          ░░░░░░░░░░░░░░░░░░░░░░░░░   00.59 %
-```
-
 <!--END_SECTION:waka-->
 
 <br>
@@ -34,9 +25,9 @@ JSON             3 mins          ░░░░░░░░░░░░░░░�
 			<th>На русском (<a href="https://t.me/tginfo">@tginfo</a>)</th>
 		</tr>
 		<caption>🚩 <a href="https://t.me/tginfo">@tginfo</a> in your language: <a href="https://t.me/tginfoworld"><b>@tginfoworld</b></a><caption/>
-  <tr><td><a href="https://t.me/tginfoen/1686">Telegram Banned in Iraq </a></td>
-    <td><a href="https://t.me/tginfo/3716">Блокировка VPN протоколов в России</a></td></tr><tr><td><a href="https://t.me/tginfoen/1685">Telegram X Android updated to stable version 0.25.6.1647 </a></td>
-    <td><a href="https://t.me/tginfo/3715">Блокировка Telegram в Ираке 🇮🇶</a></td></tr><tr><td><a href="https://t.me/tginfoen/1684">Telegram Data Center Is Unstable</a></td>
+  <tr><td><a href="https://t.me/tginfoen/1687">MIUI identifies Telegram as a dangerous app</a></td>
+    <td><a href="https://t.me/tginfo/3716">Блокировка VPN протоколов в России</a></td></tr><tr><td><a href="https://t.me/tginfoen/1686">Telegram Banned in Iraq </a></td>
+    <td><a href="https://t.me/tginfo/3715">Блокировка Telegram в Ираке 🇮🇶</a></td></tr><tr><td><a href="https://t.me/tginfoen/1685">Telegram X Android updated to stable version 0.25.6.1647 </a></td>
     <td><a href="https://t.me/tginfo/3714">Telegram X обновился до стабильной версии 0.25.6.1647 ⁠</a></td></tr>
 </table>
 We are also available on <a href="https://github.com/tginfo"><b>🐙 GitHub</b></a>!
@@ -44,4 +35,4 @@ We are also available on <a href="https://github.com/tginfo"><b>🐙 GitHub</b><
 
 <br>
 <hr>
-<h4 align="center">This README file is generated <b>every 6 hours</b>!</br>Last refresh: <b>2023-08-09 08:14:44 (UTC time)</b></h4>
+<h4 align="center">This README file is generated <b>every 6 hours</b>!</br>Last refresh: <b>2023-08-09 20:11:57 (UTC time)</b></h4>
