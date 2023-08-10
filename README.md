@@ -14,15 +14,6 @@
 <h2>📊 This week I spent my time using:</h2>
 
 <!--START_SECTION:waka-->
-
-```txt
-TypeScript       5 hrs 47 mins   ██████████████░░░░░░░░░░░   55.83 %
-Kotlin           4 hrs 13 mins   ██████████▒░░░░░░░░░░░░░░   40.72 %
-HTML             6 mins          ▒░░░░░░░░░░░░░░░░░░░░░░░░   01.09 %
-JSON             3 mins          ░░░░░░░░░░░░░░░░░░░░░░░░░   00.62 %
-.env file        2 mins          ░░░░░░░░░░░░░░░░░░░░░░░░░   00.43 %
-```
-
 <!--END_SECTION:waka-->
 
 <br>
@@ -34,14 +25,14 @@ JSON             3 mins          ░░░░░░░░░░░░░░░�
 			<th>На русском (<a href="https://t.me/tginfo">@tginfo</a>)</th>
 		</tr>
 		<caption>🚩 <a href="https://t.me/tginfo">@tginfo</a> in your language: <a href="https://t.me/tginfoworld"><b>@tginfoworld</b></a><caption/>
-  <tr><td><a href="https://t.me/tginfoen/1687">MIUI identifies Telegram as a dangerous app</a></td>
+  <tr><td><a href="https://t.me/tginfoen/1688">Telegram Stories for Non-Premium Users</a></td>
+    <td><a href="https://t.me/tginfo/3717">Telegram-истории для пользователей без Premium</a></td></tr><tr><td><a href="https://t.me/tginfoen/1687">MIUI identifies Telegram as a dangerous app</a></td>
     <td><a href="https://t.me/tginfo/3716">Блокировка VPN протоколов в России</a></td></tr><tr><td><a href="https://t.me/tginfoen/1686">Telegram Banned in Iraq </a></td>
-    <td><a href="https://t.me/tginfo/3715">Блокировка Telegram в Ираке 🇮🇶</a></td></tr><tr><td><a href="https://t.me/tginfoen/1685">Telegram X Android updated to stable version 0.25.6.1647 </a></td>
-    <td><a href="https://t.me/tginfo/3714">Telegram X обновился до стабильной версии 0.25.6.1647 ⁠</a></td></tr>
+    <td><a href="https://t.me/tginfo/3715">Блокировка Telegram в Ираке 🇮🇶</a></td></tr>
 </table>
 We are also available on <a href="https://github.com/tginfo"><b>🐙 GitHub</b></a>!
 </div>
 
 <br>
 <hr>
-<h4 align="center">This README file is generated <b>every 6 hours</b>!</br>Last refresh: <b>2023-08-10 08:14:21 (UTC time)</b></h4>
+<h4 align="center">This README file is generated <b>every 6 hours</b>!</br>Last refresh: <b>2023-08-10 20:10:47 (UTC time)</b></h4>
