@@ -14,15 +14,6 @@
 <h2>📊 This week I spent my time using:</h2>
 
 <!--START_SECTION:waka-->
-
-```txt
-Kotlin       2 hrs 53 mins   ████████████▒░░░░░░░░░░░░   49.16 %
-TypeScript   2 hrs 37 mins   ███████████▒░░░░░░░░░░░░░   44.70 %
-JSON         9 mins          ▓░░░░░░░░░░░░░░░░░░░░░░░░   02.68 %
-Markdown     3 mins          ▒░░░░░░░░░░░░░░░░░░░░░░░░   01.12 %
-JavaScript   3 mins          ▒░░░░░░░░░░░░░░░░░░░░░░░░   00.92 %
-```
-
 <!--END_SECTION:waka-->
 
 <br>
@@ -34,14 +25,14 @@ JavaScript   3 mins          ▒░░░░░░░░░░░░░░░░
 			<th>На русском (<a href="https://t.me/tginfo">@tginfo</a>)</th>
 		</tr>
 		<caption>🚩 <a href="https://t.me/tginfo">@tginfo</a> in your language: <a href="https://t.me/tginfoworld"><b>@tginfoworld</b></a><caption/>
-  <tr><td><a href="https://t.me/tginfoen/1693">🥳 Today Telegram turns 10 years old.</a></td>
-    <td><a href="https://t.me/tginfo/3727">🎉 Сегодня Telegram исполняется 10 лет!</a></td></tr><tr><td><a href="https://t.me/tginfoen/1692">Iraq to Lift the Telegram Ban</a></td>
-    <td><a href="https://t.me/tginfo/3726">Павел Дуров — о Premium-опциях историй, их лимитах и о редизайне приложения</a></td></tr><tr><td><a href="https://t.me/tginfoen/1691">Publishing Stories in Telegram for All Users</a></td>
-    <td><a href="https://t.me/tginfo/3722">Telegram обошел VK по среднесуточному охвату в России </a></td></tr>
+  <tr><td><a href="https://t.me/tginfoen/1699">Stories Is Still Not Available for Everyone</a></td>
+    <td><a href="https://t.me/tginfo/3733">Реакции и ответы на Telegram-историю</a></td></tr><tr><td><a href="https://t.me/tginfoen/1698">Stories and Telegram’s 10th Anniversary</a></td>
+    <td><a href="https://t.me/tginfo/3732">Управление уведомлениями о новых историях</a></td></tr><tr><td><a href="https://t.me/tginfoen/1694">Pavel Durov Answered a Few Questions Regarding Stories, Its Design and Limitations</a></td>
+    <td><a href="https://t.me/tginfo/3731">Скрытие историй из верхней ленты</a></td></tr>
 </table>
 We are also available on <a href="https://github.com/tginfo"><b>🐙 GitHub</b></a>!
 </div>
 
 <br>
 <hr>
-<h4 align="center">This README file is generated <b>every 6 hours</b>!</br>Last refresh: <b>2023-08-14 08:13:31 (UTC time)</b></h4>
+<h4 align="center">This README file is generated <b>every 6 hours</b>!</br>Last refresh: <b>2023-08-14 20:11:00 (UTC time)</b></h4>
