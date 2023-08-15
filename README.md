@@ -14,15 +14,6 @@
 <h2>📊 This week I spent my time using:</h2>
 
 <!--START_SECTION:waka-->
-
-```txt
-Kotlin       2 hrs 53 mins   ████████████▒░░░░░░░░░░░░   49.16 %
-TypeScript   2 hrs 37 mins   ███████████▒░░░░░░░░░░░░░   44.70 %
-JSON         9 mins          ▓░░░░░░░░░░░░░░░░░░░░░░░░   02.68 %
-Markdown     3 mins          ▒░░░░░░░░░░░░░░░░░░░░░░░░   01.12 %
-JavaScript   3 mins          ▒░░░░░░░░░░░░░░░░░░░░░░░░   00.92 %
-```
-
 <!--END_SECTION:waka-->
 
 <br>
@@ -35,13 +26,13 @@ JavaScript   3 mins          ▒░░░░░░░░░░░░░░░░
 		</tr>
 		<caption>🚩 <a href="https://t.me/tginfo">@tginfo</a> in your language: <a href="https://t.me/tginfoworld"><b>@tginfoworld</b></a><caption/>
   <tr><td><a href="https://t.me/tginfoen/1699">Stories Is Still Not Available for Everyone</a></td>
-    <td><a href="https://t.me/tginfo/3733">Реакции и ответы на Telegram-историю</a></td></tr><tr><td><a href="https://t.me/tginfoen/1698">Stories and Telegram’s 10th Anniversary</a></td>
-    <td><a href="https://t.me/tginfo/3732">Управление уведомлениями о новых историях</a></td></tr><tr><td><a href="https://t.me/tginfoen/1694">Pavel Durov Answered a Few Questions Regarding Stories, Its Design and Limitations</a></td>
-    <td><a href="https://t.me/tginfo/3731">Скрытие историй из верхней ленты</a></td></tr>
+    <td><a href="https://t.me/tginfo/3737">Редактирование Telegram-историй</a></td></tr><tr><td><a href="https://t.me/tginfoen/1698">Stories and Telegram’s 10th Anniversary</a></td>
+    <td><a href="https://t.me/tginfo/3736">⭐ Выбор срока показа историй</a></td></tr><tr><td><a href="https://t.me/tginfoen/1694">Pavel Durov Answered a Few Questions Regarding Stories, Its Design and Limitations</a></td>
+    <td><a href="https://t.me/tginfo/3735">Настройки конфиденциальности для историй</a></td></tr>
 </table>
 We are also available on <a href="https://github.com/tginfo"><b>🐙 GitHub</b></a>!
 </div>
 
 <br>
 <hr>
-<h4 align="center">This README file is generated <b>every 6 hours</b>!</br>Last refresh: <b>2023-08-14 20:11:00 (UTC time)</b></h4>
+<h4 align="center">This README file is generated <b>every 6 hours</b>!</br>Last refresh: <b>2023-08-15 08:13:19 (UTC time)</b></h4>
