@@ -14,15 +14,6 @@
 <h2>📊 This week I spent my time using:</h2>
 
 <!--START_SECTION:waka-->
-
-```txt
-TypeScript   4 hrs 39 mins   █████████████████████▒░░░   85.41 %
-TSConfig     19 mins         █▒░░░░░░░░░░░░░░░░░░░░░░░   05.96 %
-JSON         12 mins         █░░░░░░░░░░░░░░░░░░░░░░░░   03.67 %
-JavaScript   8 mins          ▓░░░░░░░░░░░░░░░░░░░░░░░░   02.52 %
-Markdown     4 mins          ▒░░░░░░░░░░░░░░░░░░░░░░░░   01.48 %
-```
-
 <!--END_SECTION:waka-->
 
 <br>
@@ -34,14 +25,14 @@ Markdown     4 mins          ▒░░░░░░░░░░░░░░░░
 			<th>На русском (<a href="https://t.me/tginfo">@tginfo</a>)</th>
 		</tr>
 		<caption>🚩 <a href="https://t.me/tginfo">@tginfo</a> in your language: <a href="https://t.me/tginfoworld"><b>@tginfoworld</b></a><caption/>
-  <tr><td><a href="https://t.me/tginfoen/1699">Stories Is Still Not Available for Everyone</a></td>
-    <td><a href="https://t.me/tginfo/3737">Редактирование Telegram-историй</a></td></tr><tr><td><a href="https://t.me/tginfoen/1698">Stories and Telegram’s 10th Anniversary</a></td>
-    <td><a href="https://t.me/tginfo/3736">⭐ Выбор срока показа историй</a></td></tr><tr><td><a href="https://t.me/tginfoen/1694">Pavel Durov Answered a Few Questions Regarding Stories, Its Design and Limitations</a></td>
-    <td><a href="https://t.me/tginfo/3735">Настройки конфиденциальности для историй</a></td></tr>
+  <tr><td><a href="https://t.me/tginfoen/1707">Editing Stories</a></td>
+    <td><a href="https://t.me/tginfo/3740">В Минобрнауки назвали Telegram самой популярной среди молодёжи платформой</a></td></tr><tr><td><a href="https://t.me/tginfoen/1706">⭐ Story Expiration Time</a></td>
+    <td><a href="https://t.me/tginfo/3739">⭐ Premium-возможности историй в Telegram</a></td></tr><tr><td><a href="https://t.me/tginfoen/1705">Privacy Settings for Stories</a></td>
+    <td><a href="https://t.me/tginfo/3738">Подробная статистика просмотров истории</a></td></tr>
 </table>
 We are also available on <a href="https://github.com/tginfo"><b>🐙 GitHub</b></a>!
 </div>
 
 <br>
 <hr>
-<h4 align="center">This README file is generated <b>every 6 hours</b>!</br>Last refresh: <b>2023-08-15 08:13:19 (UTC time)</b></h4>
+<h4 align="center">This README file is generated <b>every 6 hours</b>!</br>Last refresh: <b>2023-08-15 20:11:05 (UTC time)</b></h4>
