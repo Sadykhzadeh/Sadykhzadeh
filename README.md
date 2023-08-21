@@ -14,15 +14,6 @@
 <h2>📊 This week I spent my time using:</h2>
 
 <!--START_SECTION:waka-->
-
-```txt
-TypeScript            5 hrs 21 mins   █████████████▒░░░░░░░░░░░   52.81 %
-Kotlin                4 hrs           ██████████░░░░░░░░░░░░░░░   39.55 %
-TSConfig              19 mins         ▓░░░░░░░░░░░░░░░░░░░░░░░░   03.25 %
-Markdown              6 mins          ▒░░░░░░░░░░░░░░░░░░░░░░░░   01.11 %
-JavaScript            5 mins          ▒░░░░░░░░░░░░░░░░░░░░░░░░   00.84 %
-```
-
 <!--END_SECTION:waka-->
 
 <br>
@@ -34,14 +25,14 @@ JavaScript            5 mins          ▒░░░░░░░░░░░░░
 			<th>На русском (<a href="https://t.me/tginfo">@tginfo</a>)</th>
 		</tr>
 		<caption>🚩 <a href="https://t.me/tginfo">@tginfo</a> in your language: <a href="https://t.me/tginfoworld"><b>@tginfoworld</b></a><caption/>
-  <tr><td><a href="https://t.me/tginfoen/1710">Bot API was updated to version 6.8</a></td>
-    <td><a href="https://t.me/tginfo/3742">Bot API был обновлён до версии 6.8</a></td></tr><tr><td><a href="https://t.me/tginfoen/1709">⭐ Premium Features for Stories</a></td>
-    <td><a href="https://t.me/tginfo/3741">Telegram грозит штраф до 18 млн рублей</a></td></tr><tr><td><a href="https://t.me/tginfoen/1708">Detailed View Statistics</a></td>
-    <td><a href="https://t.me/tginfo/3740">В Минобрнауки назвали Telegram самой популярной среди молодёжи платформой</a></td></tr>
+  <tr><td><a href="https://t.me/tginfoen/1712">Back To Stable</a></td>
+    <td><a href="https://t.me/tginfo/3746">Глобальное обновление Telegram Info VPN</a></td></tr><tr><td><a href="https://t.me/tginfoen/1711">Telegram Data Center Is Unstable</a></td>
+    <td><a href="https://t.me/tginfo/3745">Сбой устранен</a></td></tr><tr><td><a href="https://t.me/tginfoen/1710">Bot API was updated to version 6.8</a></td>
+    <td><a href="https://t.me/tginfo/3744">Telegram работает нестабильно</a></td></tr>
 </table>
 We are also available on <a href="https://github.com/tginfo"><b>🐙 GitHub</b></a>!
 </div>
 
 <br>
 <hr>
-<h4 align="center">This README file is generated <b>every 6 hours</b>!</br>Last refresh: <b>2023-08-21 08:15:01 (UTC time)</b></h4>
+<h4 align="center">This README file is generated <b>every 6 hours</b>!</br>Last refresh: <b>2023-08-21 20:11:02 (UTC time)</b></h4>
