@@ -14,15 +14,6 @@
 <h2>📊 This week I spent my time using:</h2>
 
 <!--START_SECTION:waka-->
-
-```txt
-TypeScript            4 hrs 2 mins    ████████████░░░░░░░░░░░░░   48.26 %
-Kotlin                4 hrs           ████████████░░░░░░░░░░░░░   48.03 %
-Markdown              5 mins          ▒░░░░░░░░░░░░░░░░░░░░░░░░   01.16 %
-GitIgnore file        4 mins          ▒░░░░░░░░░░░░░░░░░░░░░░░░   00.84 %
-Python                3 mins          ░░░░░░░░░░░░░░░░░░░░░░░░░   00.60 %
-```
-
 <!--END_SECTION:waka-->
 
 <br>
@@ -34,14 +25,14 @@ Python                3 mins          ░░░░░░░░░░░░░░
 			<th>На русском (<a href="https://t.me/tginfo">@tginfo</a>)</th>
 		</tr>
 		<caption>🚩 <a href="https://t.me/tginfo">@tginfo</a> in your language: <a href="https://t.me/tginfoworld"><b>@tginfoworld</b></a><caption/>
-  <tr><td><a href="https://t.me/tginfoen/1713">Telegram has been blocked in Somalia.</a></td>
+  <tr><td><a href="https://t.me/tginfoen/1714">Telegram Desktop updated to version 4.9.2</a></td>
+    <td><a href="https://t.me/tginfo/3748">Telegram Desktop обновился до версии 4.9.2</a></td></tr><tr><td><a href="https://t.me/tginfoen/1713">Telegram has been blocked in Somalia.</a></td>
     <td><a href="https://t.me/tginfo/3747">Telegram заблокирован в Сомали</a></td></tr><tr><td><a href="https://t.me/tginfoen/1712">Back To Stable</a></td>
-    <td><a href="https://t.me/tginfo/3746">Глобальное обновление Telegram Info VPN</a></td></tr><tr><td><a href="https://t.me/tginfoen/1711">Telegram Data Center Is Unstable</a></td>
-    <td><a href="https://t.me/tginfo/3745">Сбой устранен</a></td></tr>
+    <td><a href="https://t.me/tginfo/3746">Глобальное обновление Telegram Info VPN</a></td></tr>
 </table>
 We are also available on <a href="https://github.com/tginfo"><b>🐙 GitHub</b></a>!
 </div>
 
 <br>
 <hr>
-<h4 align="center">This README file is generated <b>every 6 hours</b>!</br>Last refresh: <b>2023-08-22 08:13:33 (UTC time)</b></h4>
+<h4 align="center">This README file is generated <b>every 6 hours</b>!</br>Last refresh: <b>2023-08-22 20:10:56 (UTC time)</b></h4>
