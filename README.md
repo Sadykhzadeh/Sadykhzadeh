@@ -14,15 +14,6 @@
 <h2>📊 This week I spent my time using:</h2>
 
 <!--START_SECTION:waka-->
-
-```txt
-TypeScript            5 hrs 52 mins   ████████████████░░░░░░░░░   63.56 %
-Kotlin                3 hrs 8 mins    ████████▒░░░░░░░░░░░░░░░░   33.98 %
-Markdown              5 mins          ▒░░░░░░░░░░░░░░░░░░░░░░░░   01.05 %
-GitIgnore file        4 mins          ▒░░░░░░░░░░░░░░░░░░░░░░░░   00.76 %
-JSON                  1 min           ░░░░░░░░░░░░░░░░░░░░░░░░░   00.28 %
-```
-
 <!--END_SECTION:waka-->
 
 <br>
@@ -35,13 +26,13 @@ JSON                  1 min           ░░░░░░░░░░░░░░
 		</tr>
 		<caption>🚩 <a href="https://t.me/tginfo">@tginfo</a> in your language: <a href="https://t.me/tginfoworld"><b>@tginfoworld</b></a><caption/>
   <tr><td><a href="https://t.me/tginfoen/1714">Telegram Desktop updated to version 4.9.2</a></td>
-    <td><a href="https://t.me/tginfo/3748">Telegram Desktop обновился до версии 4.9.2</a></td></tr><tr><td><a href="https://t.me/tginfoen/1713">Telegram has been blocked in Somalia.</a></td>
-    <td><a href="https://t.me/tginfo/3747">Telegram заблокирован в Сомали</a></td></tr><tr><td><a href="https://t.me/tginfoen/1712">Back To Stable</a></td>
-    <td><a href="https://t.me/tginfo/3746">Глобальное обновление Telegram Info VPN</a></td></tr>
+    <td><a href="https://t.me/tginfo/3752">Telegram впервые оштрафован за отказ удалить личные данные россиян</a></td></tr><tr><td><a href="https://t.me/tginfoen/1713">Telegram has been blocked in Somalia.</a></td>
+    <td><a href="https://t.me/tginfo/3749">Telegram UI Competition для IOS-разработчиков</a></td></tr><tr><td><a href="https://t.me/tginfoen/1712">Back To Stable</a></td>
+    <td><a href="https://t.me/tginfo/3748">Telegram Desktop обновился до версии 4.9.2</a></td></tr>
 </table>
 We are also available on <a href="https://github.com/tginfo"><b>🐙 GitHub</b></a>!
 </div>
 
 <br>
 <hr>
-<h4 align="center">This README file is generated <b>every 6 hours</b>!</br>Last refresh: <b>2023-08-24 08:13:21 (UTC time)</b></h4>
+<h4 align="center">This README file is generated <b>every 6 hours</b>!</br>Last refresh: <b>2023-08-24 20:11:11 (UTC time)</b></h4>
