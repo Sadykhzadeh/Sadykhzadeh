@@ -14,15 +14,6 @@
 <h2>📊 This week I spent my time using:</h2>
 
 <!--START_SECTION:waka-->
-
-```txt
-TypeScript       6 hrs 29 mins   ████████████████████████▒   96.67 %
-Markdown         5 mins          ▒░░░░░░░░░░░░░░░░░░░░░░░░   01.44 %
-GitIgnore file   4 mins          ▒░░░░░░░░░░░░░░░░░░░░░░░░   01.03 %
-JSON             1 min           ░░░░░░░░░░░░░░░░░░░░░░░░░   00.39 %
-Kotlin           1 min           ░░░░░░░░░░░░░░░░░░░░░░░░░   00.37 %
-```
-
 <!--END_SECTION:waka-->
 
 <br>
@@ -34,14 +25,14 @@ Kotlin           1 min           ░░░░░░░░░░░░░░░�
 			<th>На русском (<a href="https://t.me/tginfo">@tginfo</a>)</th>
 		</tr>
 		<caption>🚩 <a href="https://t.me/tginfo">@tginfo</a> in your language: <a href="https://t.me/tginfoworld"><b>@tginfoworld</b></a><caption/>
-  <tr><td><a href="https://t.me/tginfoen/1715">Stories from Telegram</a></td>
+  <tr><td><a href="https://t.me/tginfoen/1716">Does The Ability to Post Stories Without Having Premium Subscription Depend on Your Region?</a></td>
+    <td><a href="https://t.me/tginfo/3754">Возможность публиковать истории без платной подписки зависит от страны?</a></td></tr><tr><td><a href="https://t.me/tginfoen/1715">Stories from Telegram</a></td>
     <td><a href="https://t.me/tginfo/3753">Истории от Telegram</a></td></tr><tr><td><a href="https://t.me/tginfoen/1714">Telegram Desktop updated to version 4.9.2</a></td>
-    <td><a href="https://t.me/tginfo/3752">Telegram впервые оштрафован за отказ удалить личные данные россиян</a></td></tr><tr><td><a href="https://t.me/tginfoen/1713">Telegram has been blocked in Somalia.</a></td>
-    <td><a href="https://t.me/tginfo/3749">Telegram UI Competition для IOS-разработчиков</a></td></tr>
+    <td><a href="https://t.me/tginfo/3752">Telegram впервые оштрафован за отказ удалить личные данные россиян</a></td></tr>
 </table>
 We are also available on <a href="https://github.com/tginfo"><b>🐙 GitHub</b></a>!
 </div>
 
 <br>
 <hr>
-<h4 align="center">This README file is generated <b>every 6 hours</b>!</br>Last refresh: <b>2023-08-26 08:12:03 (UTC time)</b></h4>
+<h4 align="center">This README file is generated <b>every 6 hours</b>!</br>Last refresh: <b>2023-08-26 20:10:29 (UTC time)</b></h4>
