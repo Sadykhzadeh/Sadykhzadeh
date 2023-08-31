@@ -14,15 +14,6 @@
 <h2>📊 This week I spent my time using:</h2>
 
 <!--START_SECTION:waka-->
-
-```txt
-TypeScript   6 hrs 21 mins   ███████████████████░░░░░░   76.40 %
-Markdown     1 hr 25 mins    ████▒░░░░░░░░░░░░░░░░░░░░   17.10 %
-JSON         14 mins         ▓░░░░░░░░░░░░░░░░░░░░░░░░   02.89 %
-Kotlin       8 mins          ▒░░░░░░░░░░░░░░░░░░░░░░░░   01.78 %
-HTML         6 mins          ▒░░░░░░░░░░░░░░░░░░░░░░░░   01.33 %
-```
-
 <!--END_SECTION:waka-->
 
 <br>
@@ -35,13 +26,13 @@ HTML         6 mins          ▒░░░░░░░░░░░░░░░░
 		</tr>
 		<caption>🚩 <a href="https://t.me/tginfo">@tginfo</a> in your language: <a href="https://t.me/tginfoworld"><b>@tginfoworld</b></a><caption/>
   <tr><td><a href="https://t.me/tginfoen/1717">Stories is Now Available in Uzbekistan</a></td>
-    <td><a href="https://t.me/tginfo/3755">Истории стали доступны в Узбекистане</a></td></tr><tr><td><a href="https://t.me/tginfoen/1716">Does The Ability to Post Stories Without Having Premium Subscription Depend on Your Region?</a></td>
-    <td><a href="https://t.me/tginfo/3754">Возможность публиковать истории без платной подписки зависит от страны?</a></td></tr><tr><td><a href="https://t.me/tginfoen/1715">Stories from Telegram</a></td>
-    <td><a href="https://t.me/tginfo/3753">Истории от Telegram</a></td></tr>
+    <td><a href="https://t.me/tginfo/3756">Новинки на платформе Telegram Ads</a></td></tr><tr><td><a href="https://t.me/tginfoen/1716">Does The Ability to Post Stories Without Having Premium Subscription Depend on Your Region?</a></td>
+    <td><a href="https://t.me/tginfo/3755">Истории стали доступны в Узбекистане</a></td></tr><tr><td><a href="https://t.me/tginfoen/1715">Stories from Telegram</a></td>
+    <td><a href="https://t.me/tginfo/3754">Возможность публиковать истории без платной подписки зависит от страны?</a></td></tr>
 </table>
 We are also available on <a href="https://github.com/tginfo"><b>🐙 GitHub</b></a>!
 </div>
 
 <br>
 <hr>
-<h4 align="center">This README file is generated <b>every 6 hours</b>!</br>Last refresh: <b>2023-08-30 20:11:27 (UTC time)</b></h4>
+<h4 align="center">This README file is generated <b>every 6 hours</b>!</br>Last refresh: <b>2023-08-31 08:13:58 (UTC time)</b></h4>
