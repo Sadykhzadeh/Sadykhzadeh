@@ -14,15 +14,6 @@
 <h2>📊 This week I spent my time using:</h2>
 
 <!--START_SECTION:waka-->
-
-```txt
-TypeScript       2 hrs 57 mins   █████████████████████░░░░   83.47 %
-Markdown         16 mins         ██░░░░░░░░░░░░░░░░░░░░░░░   07.60 %
-GitIgnore file   8 mins          █░░░░░░░░░░░░░░░░░░░░░░░░   03.77 %
-JSON             5 mins          ▓░░░░░░░░░░░░░░░░░░░░░░░░   02.69 %
-Python           3 mins          ▒░░░░░░░░░░░░░░░░░░░░░░░░   01.66 %
-```
-
 <!--END_SECTION:waka-->
 
 <br>
@@ -35,13 +26,13 @@ Python           3 mins          ▒░░░░░░░░░░░░░░�
 		</tr>
 		<caption>🚩 <a href="https://t.me/tginfo">@tginfo</a> in your language: <a href="https://t.me/tginfoworld"><b>@tginfoworld</b></a><caption/>
   <tr><td><a href="https://t.me/tginfoen/1723">Crypto wallet integration in Telegram</a></td>
-    <td><a href="https://t.me/tginfo/3764">Интеграция криптокошелька в Telegram</a></td></tr><tr><td><a href="https://t.me/tginfoen/1722">Updates to Web Bots, Stories for Channels and Channel Boosts</a></td>
-    <td><a href="https://t.me/tginfo/3763">Что делать, если есть хорошая идея для бота?</a></td></tr><tr><td><a href="https://t.me/tginfoen/1721">Telegram Is Preparing to Bring Stories to Channels</a></td>
-    <td><a href="https://t.me/tginfo/3762">Обновление платформы Web-ботов, истории для каналов и бусты каналов</a></td></tr>
+    <td><a href="https://t.me/tginfo/3765">Результаты конкурса Telegram UI Competition для IOS-разработчиков</a></td></tr><tr><td><a href="https://t.me/tginfoen/1722">Updates to Web Bots, Stories for Channels and Channel Boosts</a></td>
+    <td><a href="https://t.me/tginfo/3764">Интеграция криптокошелька в Telegram</a></td></tr><tr><td><a href="https://t.me/tginfoen/1721">Telegram Is Preparing to Bring Stories to Channels</a></td>
+    <td><a href="https://t.me/tginfo/3763">Что делать, если есть хорошая идея для бота?</a></td></tr>
 </table>
 We are also available on <a href="https://github.com/tginfo"><b>🐙 GitHub</b></a>!
 </div>
 
 <br>
 <hr>
-<h4 align="center">This README file is generated <b>every 6 hours</b>!</br>Last refresh: <b>2023-09-13 20:09:41 (UTC time)</b></h4>
+<h4 align="center">This README file is generated <b>every 6 hours</b>!</br>Last refresh: <b>2023-09-14 08:14:06 (UTC time)</b></h4>
