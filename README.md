@@ -14,14 +14,6 @@
 <h2>📊 This week I spent my time using:</h2>
 
 <!--START_SECTION:waka-->
-
-```txt
-TypeScript   20 mins         ████████████████████░░░░░   79.81 %
-Python       3 mins          ███▒░░░░░░░░░░░░░░░░░░░░░   13.67 %
-Kotlin       1 min           █░░░░░░░░░░░░░░░░░░░░░░░░   04.50 %
-Other        0 secs          ▓░░░░░░░░░░░░░░░░░░░░░░░░   02.02 %
-```
-
 <!--END_SECTION:waka-->
 
 <br>
@@ -33,14 +25,14 @@ Other        0 secs          ▓░░░░░░░░░░░░░░░░
 			<th>На русском (<a href="https://t.me/tginfo">@tginfo</a>)</th>
 		</tr>
 		<caption>🚩 <a href="https://t.me/tginfo">@tginfo</a> in your language: <a href="https://t.me/tginfoworld"><b>@tginfoworld</b></a><caption/>
-  <tr><td><a href="https://t.me/tginfoen/1723">Crypto wallet integration in Telegram</a></td>
+  <tr><td><a href="https://t.me/tginfoen/1724">Pavel Durov Cleared Concerns About New Global Search Behavior</a></td>
+    <td><a href="https://t.me/tginfo/3767">Об изменении алгоритмов поиска в Telegram — официально</a></td></tr><tr><td><a href="https://t.me/tginfoen/1723">Crypto wallet integration in Telegram</a></td>
     <td><a href="https://t.me/tginfo/3766">Павел Дуров опубликовал сообщение о перспективах TON</a></td></tr><tr><td><a href="https://t.me/tginfoen/1722">Updates to Web Bots, Stories for Channels and Channel Boosts</a></td>
-    <td><a href="https://t.me/tginfo/3765">Результаты конкурса Telegram UI Competition для IOS-разработчиков</a></td></tr><tr><td><a href="https://t.me/tginfoen/1721">Telegram Is Preparing to Bring Stories to Channels</a></td>
-    <td><a href="https://t.me/tginfo/3764">Интеграция криптокошелька в Telegram</a></td></tr>
+    <td><a href="https://t.me/tginfo/3765">Результаты конкурса Telegram UI Competition для IOS-разработчиков</a></td></tr>
 </table>
 We are also available on <a href="https://github.com/tginfo"><b>🐙 GitHub</b></a>!
 </div>
 
 <br>
 <hr>
-<h4 align="center">This README file is generated <b>every 6 hours</b>!</br>Last refresh: <b>2023-09-16 08:12:22 (UTC time)</b></h4>
+<h4 align="center">This README file is generated <b>every 6 hours</b>!</br>Last refresh: <b>2023-09-16 20:10:19 (UTC time)</b></h4>
