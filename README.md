@@ -14,14 +14,6 @@
 <h2>📊 This week I spent my time using:</h2>
 
 <!--START_SECTION:waka-->
-
-```txt
-Python       3 mins          ████████████████▒░░░░░░░░   65.33 %
-Kotlin       1 min           █████▒░░░░░░░░░░░░░░░░░░░   21.48 %
-Other        0 secs          ██▒░░░░░░░░░░░░░░░░░░░░░░   09.67 %
-TypeScript   0 secs          █░░░░░░░░░░░░░░░░░░░░░░░░   03.52 %
-```
-
 <!--END_SECTION:waka-->
 
 <br>
@@ -43,4 +35,4 @@ We are also available on <a href="https://github.com/tginfo"><b>🐙 GitHub</b><
 
 <br>
 <hr>
-<h4 align="center">This README file is generated <b>every 6 hours</b>!</br>Last refresh: <b>2023-09-18 20:11:29 (UTC time)</b></h4>
+<h4 align="center">This README file is generated <b>every 6 hours</b>!</br>Last refresh: <b>2023-09-19 08:14:36 (UTC time)</b></h4>
