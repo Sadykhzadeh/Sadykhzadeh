@@ -14,15 +14,6 @@
 <h2>📊 This week I spent my time using:</h2>
 
 <!--START_SECTION:waka-->
-
-```txt
-YAML             57 mins         ███████████▓░░░░░░░░░░░░░   46.82 %
-Kotlin           32 mins         ██████▓░░░░░░░░░░░░░░░░░░   26.19 %
-TypeScript       13 mins         ██▓░░░░░░░░░░░░░░░░░░░░░░   10.52 %
-GitIgnore file   12 mins         ██▒░░░░░░░░░░░░░░░░░░░░░░   09.85 %
-Markdown         4 mins          ▓░░░░░░░░░░░░░░░░░░░░░░░░   03.28 %
-```
-
 <!--END_SECTION:waka-->
 
 <br>
@@ -34,14 +25,14 @@ Markdown         4 mins          ▓░░░░░░░░░░░░░░�
 			<th>На русском (<a href="https://t.me/tginfo">@tginfo</a>)</th>
 		</tr>
 		<caption>🚩 <a href="https://t.me/tginfo">@tginfo</a> in your language: <a href="https://t.me/tginfoworld"><b>@tginfoworld</b></a><caption/>
-  <tr><td><a href="https://t.me/tginfoen/1726">Telegram Redesign Competition for Android</a></td>
-    <td><a href="https://t.me/tginfo/3771">Новая атака Anonymous Sudan</a></td></tr><tr><td><a href="https://t.me/tginfoen/1725">How The Boost System Works in Telegram Channels</a></td>
-    <td><a href="https://t.me/tginfo/3770">Конкурс на редизайн Telegram для Android</a></td></tr><tr><td><a href="https://t.me/tginfoen/1724">Pavel Durov Cleared Concerns About New Global Search Behavior</a></td>
-    <td><a href="https://t.me/tginfo/3769">Что нас ждёт в грядущем обновлении Telegram 10.1</a></td></tr>
+  <tr><td><a href="https://t.me/tginfoen/1732">New Login Notifications</a></td>
+    <td><a href="https://t.me/tginfo/3778">Новые возможности для каналов за голоса</a></td></tr><tr><td><a href="https://t.me/tginfoen/1731">View Media Files Once</a></td>
+    <td><a href="https://t.me/tginfo/3777">Новые уведомления о входе в учётную запись</a></td></tr><tr><td><a href="https://t.me/tginfoen/1730">Reaction Stickers in Stories</a></td>
+    <td><a href="https://t.me/tginfo/3776">Однократный просмотр медиафайлов</a></td></tr>
 </table>
 We are also available on <a href="https://github.com/tginfo"><b>🐙 GitHub</b></a>!
 </div>
 
 <br>
 <hr>
-<h4 align="center">This README file is generated <b>every 6 hours</b>!</br>Last refresh: <b>2023-09-22 08:14:04 (UTC time)</b></h4>
+<h4 align="center">This README file is generated <b>every 6 hours</b>!</br>Last refresh: <b>2023-09-22 20:11:21 (UTC time)</b></h4>
