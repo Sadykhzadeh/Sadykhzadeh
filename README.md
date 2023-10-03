@@ -14,15 +14,6 @@
 <h2>📊 This week I spent my time using:</h2>
 
 <!--START_SECTION:waka-->
-
-```txt
-Kotlin                3 hrs 49 mins   ███████████░░░░░░░░░░░░░░   44.44 %
-TypeScript            2 hrs 40 mins   ███████▓░░░░░░░░░░░░░░░░░   31.07 %
-Java                  48 mins         ██▒░░░░░░░░░░░░░░░░░░░░░░   09.46 %
-GitIgnore file        17 mins         █░░░░░░░░░░░░░░░░░░░░░░░░   03.44 %
-YAML                  15 mins         ▓░░░░░░░░░░░░░░░░░░░░░░░░   03.09 %
-```
-
 <!--END_SECTION:waka-->
 
 <br>
@@ -35,13 +26,13 @@ YAML                  15 mins         ▓░░░░░░░░░░░░░
 		</tr>
 		<caption>🚩 <a href="https://t.me/tginfo">@tginfo</a> in your language: <a href="https://t.me/tginfoworld"><b>@tginfoworld</b></a><caption/>
   <tr><td><a href="https://t.me/tginfoen/1740">Channel Stories, Levels, and Boosts FAQ</a></td>
-    <td><a href="https://t.me/tginfo/3784">Неполадки в работе статистики Telegram</a></td></tr><tr><td><a href="https://t.me/tginfoen/1739">Telegram Statistics Failures</a></td>
-    <td><a href="https://t.me/tginfo/3783">Telegram WebK обновился до версии 1.9.6</a></td></tr><tr><td><a href="https://t.me/tginfoen/1738">Telegram WebK has been updated to version 1.9.6</a></td>
-    <td><a href="https://t.me/tginfo/3782">Число голосов для получения нового уровня на каналах снижено</a></td></tr>
+    <td><a href="https://t.me/tginfo/3785">FAQ по историям на каналах. Голоса, уровни и другие особенности</a></td></tr><tr><td><a href="https://t.me/tginfoen/1739">Telegram Statistics Failures</a></td>
+    <td><a href="https://t.me/tginfo/3784">Неполадки в работе статистики Telegram</a></td></tr><tr><td><a href="https://t.me/tginfoen/1738">Telegram WebK has been updated to version 1.9.6</a></td>
+    <td><a href="https://t.me/tginfo/3783">Telegram WebK обновился до версии 1.9.6</a></td></tr>
 </table>
 We are also available on <a href="https://github.com/tginfo"><b>🐙 GitHub</b></a>!
 </div>
 
 <br>
 <hr>
-<h4 align="center">This README file is generated <b>every 6 hours</b>!</br>Last refresh: <b>2023-10-02 20:12:00 (UTC time)</b></h4>
+<h4 align="center">This README file is generated <b>every 6 hours</b>!</br>Last refresh: <b>2023-10-03 08:14:16 (UTC time)</b></h4>
