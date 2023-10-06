@@ -14,15 +14,6 @@
 <h2>📊 This week I spent my time using:</h2>
 
 <!--START_SECTION:waka-->
-
-```txt
-Kotlin                1 hr 47 mins    ███████████▓░░░░░░░░░░░░░   46.70 %
-Java                  48 mins         █████▒░░░░░░░░░░░░░░░░░░░   21.20 %
-GDScript              34 mins         ███▓░░░░░░░░░░░░░░░░░░░░░   14.91 %
-GitIgnore file        9 mins          █░░░░░░░░░░░░░░░░░░░░░░░░   04.25 %
-HTML                  7 mins          █░░░░░░░░░░░░░░░░░░░░░░░░   03.42 %
-```
-
 <!--END_SECTION:waka-->
 
 <br>
@@ -34,14 +25,14 @@ HTML                  7 mins          █░░░░░░░░░░░░░
 			<th>На русском (<a href="https://t.me/tginfo">@tginfo</a>)</th>
 		</tr>
 		<caption>🚩 <a href="https://t.me/tginfo">@tginfo</a> in your language: <a href="https://t.me/tginfoworld"><b>@tginfoworld</b></a><caption/>
-  <tr><td><a href="https://t.me/tginfoen/1743">Programming Language Classifier by Telegram</a></td>
+  <tr><td><a href="https://t.me/tginfoen/1744">Telegram Increased Cooldown Time to Reactivate Stealth Mode in Stories</a></td>
+    <td><a href="https://t.me/tginfo/3789">Telegram увеличил время ожидания для повторной активации режима инкогнито в историях</a></td></tr><tr><td><a href="https://t.me/tginfoen/1743">Programming Language Classifier by Telegram</a></td>
     <td><a href="https://t.me/tginfo/3788">Классификатор языков программирования от Telegram</a></td></tr><tr><td><a href="https://t.me/tginfoen/1742">Telegram Contest for Machine Learning </a></td>
-    <td><a href="https://t.me/tginfo/3787">Конкурс для инженеров машинного обучения</a></td></tr><tr><td><a href="https://t.me/tginfoen/1741">Be careful if asked to change your account info</a></td>
-    <td><a href="https://t.me/tginfo/3786">Не ведитесь на предложение изменить имя, аватарку или графу «О себе»</a></td></tr>
+    <td><a href="https://t.me/tginfo/3787">Конкурс для инженеров машинного обучения</a></td></tr>
 </table>
 We are also available on <a href="https://github.com/tginfo"><b>🐙 GitHub</b></a>!
 </div>
 
 <br>
 <hr>
-<h4 align="center">This README file is generated <b>every 6 hours</b>!</br>Last refresh: <b>2023-10-06 08:14:12 (UTC time)</b></h4>
+<h4 align="center">This README file is generated <b>every 6 hours</b>!</br>Last refresh: <b>2023-10-06 20:11:27 (UTC time)</b></h4>
