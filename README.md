@@ -14,15 +14,6 @@
 <h2>📊 This week I spent my time using:</h2>
 
 <!--START_SECTION:waka-->
-
-```txt
-Kotlin                1 hr 30 mins    ███████▒░░░░░░░░░░░░░░░░░   29.06 %
-JavaScript            1 hr 2 mins     █████░░░░░░░░░░░░░░░░░░░░   20.17 %
-Java                  48 mins         ████░░░░░░░░░░░░░░░░░░░░░   15.70 %
-GDScript              34 mins         ██▓░░░░░░░░░░░░░░░░░░░░░░   11.04 %
-TypeScript            15 mins         █▒░░░░░░░░░░░░░░░░░░░░░░░   04.95 %
-```
-
 <!--END_SECTION:waka-->
 
 <br>
@@ -34,14 +25,14 @@ TypeScript            15 mins         █▒░░░░░░░░░░░░
 			<th>На русском (<a href="https://t.me/tginfo">@tginfo</a>)</th>
 		</tr>
 		<caption>🚩 <a href="https://t.me/tginfo">@tginfo</a> in your language: <a href="https://t.me/tginfoworld"><b>@tginfoworld</b></a><caption/>
-  <tr><td><a href="https://t.me/tginfoen/1744">Telegram Increased Cooldown Time to Reactivate Stealth Mode in Stories</a></td>
+  <tr><td><a href="https://t.me/tginfoen/1745">Official Hebrew support in Telegram</a></td>
+    <td><a href="https://t.me/tginfo/3790">Поддержка иврита в Telegram</a></td></tr><tr><td><a href="https://t.me/tginfoen/1744">Telegram Increased Cooldown Time to Reactivate Stealth Mode in Stories</a></td>
     <td><a href="https://t.me/tginfo/3789">Telegram увеличил время ожидания для повторной активации режима инкогнито в историях</a></td></tr><tr><td><a href="https://t.me/tginfoen/1743">Programming Language Classifier by Telegram</a></td>
-    <td><a href="https://t.me/tginfo/3788">Классификатор языков программирования от Telegram</a></td></tr><tr><td><a href="https://t.me/tginfoen/1742">Telegram Contest for Machine Learning </a></td>
-    <td><a href="https://t.me/tginfo/3787">Конкурс для инженеров машинного обучения</a></td></tr>
+    <td><a href="https://t.me/tginfo/3788">Классификатор языков программирования от Telegram</a></td></tr>
 </table>
 We are also available on <a href="https://github.com/tginfo"><b>🐙 GitHub</b></a>!
 </div>
 
 <br>
 <hr>
-<h4 align="center">This README file is generated <b>every 6 hours</b>!</br>Last refresh: <b>2023-10-08 08:12:32 (UTC time)</b></h4>
+<h4 align="center">This README file is generated <b>every 6 hours</b>!</br>Last refresh: <b>2023-10-08 20:10:37 (UTC time)</b></h4>
