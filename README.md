@@ -14,15 +14,6 @@
 <h2>📊 This week I spent my time using:</h2>
 
 <!--START_SECTION:waka-->
-
-```txt
-Kotlin           3 hrs 9 mins    ████████████▒░░░░░░░░░░░░   49.98 %
-JavaScript       1 hr 2 mins     ████░░░░░░░░░░░░░░░░░░░░░   16.51 %
-TypeScript       56 mins         ███▓░░░░░░░░░░░░░░░░░░░░░   15.00 %
-Markdown         37 mins         ██▒░░░░░░░░░░░░░░░░░░░░░░   09.87 %
-JSON             19 mins         █▒░░░░░░░░░░░░░░░░░░░░░░░   05.13 %
-```
-
 <!--END_SECTION:waka-->
 
 <br>
@@ -34,14 +25,14 @@ JSON             19 mins         █▒░░░░░░░░░░░░░�
 			<th>На русском (<a href="https://t.me/tginfo">@tginfo</a>)</th>
 		</tr>
 		<caption>🚩 <a href="https://t.me/tginfo">@tginfo</a> in your language: <a href="https://t.me/tginfoworld"><b>@tginfoworld</b></a><caption/>
-  <tr><td><a href="https://t.me/tginfoen/1750">Telegram Is Obligated to Assign a Representative in the EU</a></td>
+  <tr><td><a href="https://t.me/tginfoen/1751">Telegram Statistics Outages</a></td>
+    <td><a href="https://t.me/tginfo/3796">Неполадки в работе статистики Telegram</a></td></tr><tr><td><a href="https://t.me/tginfoen/1750">Telegram Is Obligated to Assign a Representative in the EU</a></td>
     <td><a href="https://t.me/tginfo/3795">Telegram должен будет назначить представителя в ЕС</a></td></tr><tr><td><a href="https://t.me/tginfoen/1748">Telegram Info VPN: New Token, Improved Stability, and Multi-fold Speed Increase</a></td>
-    <td><a href="https://t.me/tginfo/3793">Telegram Info VPN: новый токен, улучшение стабильности и многократный рост скорости</a></td></tr><tr><td><a href="https://t.me/tginfoen/1747">Telegram is Working on Telegram Premium Giveaways</a></td>
-    <td><a href="https://t.me/tginfo/3792">Telegram готовит розыгрыши Premium-подписок</a></td></tr>
+    <td><a href="https://t.me/tginfo/3793">Telegram Info VPN: новый токен, улучшение стабильности и многократный рост скорости</a></td></tr>
 </table>
 We are also available on <a href="https://github.com/tginfo"><b>🐙 GitHub</b></a>!
 </div>
 
 <br>
 <hr>
-<h4 align="center">This README file is generated <b>every 6 hours</b>!</br>Last refresh: <b>2023-10-13 08:14:39 (UTC time)</b></h4>
+<h4 align="center">This README file is generated <b>every 6 hours</b>!</br>Last refresh: <b>2023-10-13 20:12:21 (UTC time)</b></h4>
