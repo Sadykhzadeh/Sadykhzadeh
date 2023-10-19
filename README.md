@@ -14,15 +14,6 @@
 <h2>📊 This week I spent my time using:</h2>
 
 <!--START_SECTION:waka-->
-
-```txt
-TypeScript       7 hrs 50 mins   ████████████▒░░░░░░░░░░░░   48.74 %
-Kotlin           2 hrs 25 mins   ███▓░░░░░░░░░░░░░░░░░░░░░   15.09 %
-Docker           1 hr 51 mins    ███░░░░░░░░░░░░░░░░░░░░░░   11.53 %
-Java             1 hr 4 mins     █▓░░░░░░░░░░░░░░░░░░░░░░░   06.72 %
-JSON             40 mins         █░░░░░░░░░░░░░░░░░░░░░░░░   04.16 %
-```
-
 <!--END_SECTION:waka-->
 
 <br>
@@ -35,13 +26,13 @@ JSON             40 mins         █░░░░░░░░░░░░░░�
 		</tr>
 		<caption>🚩 <a href="https://t.me/tginfo">@tginfo</a> in your language: <a href="https://t.me/tginfoworld"><b>@tginfoworld</b></a><caption/>
   <tr><td><a href="https://t.me/tginfoen/1753">Mentions of Telegram Premium Giveaways Functionality on Fragment</a></td>
-    <td><a href="https://t.me/tginfo/3799">@Presscodebot — конструктор собственных ботов Telegram без знания программирования</a></td></tr><tr><td><a href="https://t.me/tginfoen/1752">Telegram App Icon Competition</a></td>
-    <td><a href="https://t.me/tginfo/3798">Упоминание функции раздачи подписок Telegram Premium появилось на Fragment</a></td></tr><tr><td><a href="https://t.me/tginfoen/1751">Telegram Statistics Outages</a></td>
-    <td><a href="https://t.me/tginfo/3797">Конкурс по созданию иконок приложений Telegram</a></td></tr>
+    <td><a href="https://t.me/tginfo/3800">Реклама на личных данных абонентов МТС в Telegram — насколько это приватно?</a></td></tr><tr><td><a href="https://t.me/tginfoen/1752">Telegram App Icon Competition</a></td>
+    <td><a href="https://t.me/tginfo/3799">@Presscodebot — конструктор собственных ботов Telegram без знания программирования</a></td></tr><tr><td><a href="https://t.me/tginfoen/1751">Telegram Statistics Outages</a></td>
+    <td><a href="https://t.me/tginfo/3798">Упоминание функции раздачи подписок Telegram Premium появилось на Fragment</a></td></tr>
 </table>
 We are also available on <a href="https://github.com/tginfo"><b>🐙 GitHub</b></a>!
 </div>
 
 <br>
 <hr>
-<h4 align="center">This README file is generated <b>every 6 hours</b>!</br>Last refresh: <b>2023-10-18 20:11:48 (UTC time)</b></h4>
+<h4 align="center">This README file is generated <b>every 6 hours</b>!</br>Last refresh: <b>2023-10-19 08:14:42 (UTC time)</b></h4>
