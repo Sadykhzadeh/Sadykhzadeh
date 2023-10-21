@@ -14,15 +14,6 @@
 <h2>📊 This week I spent my time using:</h2>
 
 <!--START_SECTION:waka-->
-
-```txt
-TypeScript       6 hrs 16 mins   ████████████░░░░░░░░░░░░░   48.26 %
-Docker           1 hr 51 mins    ███▓░░░░░░░░░░░░░░░░░░░░░   14.27 %
-Kotlin           1 hr 30 mins    ███░░░░░░░░░░░░░░░░░░░░░░   11.58 %
-Java             1 hr 4 mins     ██░░░░░░░░░░░░░░░░░░░░░░░   08.32 %
-JSON             31 mins         █░░░░░░░░░░░░░░░░░░░░░░░░   04.10 %
-```
-
 <!--END_SECTION:waka-->
 
 <br>
@@ -34,14 +25,14 @@ JSON             31 mins         █░░░░░░░░░░░░░░�
 			<th>На русском (<a href="https://t.me/tginfo">@tginfo</a>)</th>
 		</tr>
 		<caption>🚩 <a href="https://t.me/tginfo">@tginfo</a> in your language: <a href="https://t.me/tginfoworld"><b>@tginfoworld</b></a><caption/>
-  <tr><td><a href="https://t.me/tginfoen/1753">Mentions of Telegram Premium Giveaways Functionality on Fragment</a></td>
-    <td><a href="https://t.me/tginfo/3802">Telegram увеличил максимальное количество папок для чатов Premium-пользователям</a></td></tr><tr><td><a href="https://t.me/tginfoen/1752">Telegram App Icon Competition</a></td>
-    <td><a href="https://t.me/tginfo/3801">Результаты конкурса на редизайн Telegram для Android</a></td></tr><tr><td><a href="https://t.me/tginfoen/1751">Telegram Statistics Outages</a></td>
-    <td><a href="https://t.me/tginfo/3800">Реклама на личных данных абонентов МТС в Telegram — насколько это приватно?</a></td></tr>
+  <tr><td><a href="https://t.me/tginfoen/1756">Telegram Is Working On Citations</a></td>
+    <td><a href="https://t.me/tginfo/3804">Telegram работает над функцией цитирования</a></td></tr><tr><td><a href="https://t.me/tginfoen/1755">Telegram Has Increased The Maximum Number of Chat Folders for Premium Users</a></td>
+    <td><a href="https://t.me/tginfo/3803">Сбой в работе @PremiumBot</a></td></tr><tr><td><a href="https://t.me/tginfoen/1754">Results of The Competition for Redesign of Telegram for Android</a></td>
+    <td><a href="https://t.me/tginfo/3802">Telegram увеличил максимальное количество папок для чатов Premium-пользователям</a></td></tr>
 </table>
 We are also available on <a href="https://github.com/tginfo"><b>🐙 GitHub</b></a>!
 </div>
 
 <br>
 <hr>
-<h4 align="center">This README file is generated <b>every 6 hours</b>!</br>Last refresh: <b>2023-10-21 08:12:39 (UTC time)</b></h4>
+<h4 align="center">This README file is generated <b>every 6 hours</b>!</br>Last refresh: <b>2023-10-21 20:10:35 (UTC time)</b></h4>
