@@ -14,15 +14,6 @@
 <h2>📊 This week I spent my time using:</h2>
 
 <!--START_SECTION:waka-->
-
-```txt
-Kotlin           2 hrs 55 mins   ███████████▒░░░░░░░░░░░░░   45.78 %
-Java             2 hrs 42 mins   ██████████▓░░░░░░░░░░░░░░   42.49 %
-Markdown         28 mins         ██░░░░░░░░░░░░░░░░░░░░░░░   07.52 %
-Text             6 mins          ▒░░░░░░░░░░░░░░░░░░░░░░░░   01.57 %
-Python           4 mins          ▒░░░░░░░░░░░░░░░░░░░░░░░░   01.29 %
-```
-
 <!--END_SECTION:waka-->
 
 <br>
@@ -34,14 +25,14 @@ Python           4 mins          ▒░░░░░░░░░░░░░░�
 			<th>На русском (<a href="https://t.me/tginfo">@tginfo</a>)</th>
 		</tr>
 		<caption>🚩 <a href="https://t.me/tginfo">@tginfo</a> in your language: <a href="https://t.me/tginfoworld"><b>@tginfoworld</b></a><caption/>
-  <tr><td><a href="https://t.me/tginfoen/1756">Telegram Is Working On Citations</a></td>
+  <tr><td><a href="https://t.me/tginfoen/1757">New Features in Telegram for Android Beta</a></td>
+    <td><a href="https://t.me/tginfo/3805">Новые функции в Beta-версии Telegram для Android</a></td></tr><tr><td><a href="https://t.me/tginfoen/1756">Telegram Is Working On Citations</a></td>
     <td><a href="https://t.me/tginfo/3804">Telegram работает над функцией цитирования</a></td></tr><tr><td><a href="https://t.me/tginfoen/1755">Telegram Has Increased The Maximum Number of Chat Folders for Premium Users</a></td>
-    <td><a href="https://t.me/tginfo/3803">Сбой в работе @PremiumBot</a></td></tr><tr><td><a href="https://t.me/tginfoen/1754">Results of The Competition for Redesign of Telegram for Android</a></td>
-    <td><a href="https://t.me/tginfo/3802">Telegram увеличил максимальное количество папок для чатов Premium-пользователям</a></td></tr>
+    <td><a href="https://t.me/tginfo/3803">Сбой в работе @PremiumBot</a></td></tr>
 </table>
 We are also available on <a href="https://github.com/tginfo"><b>🐙 GitHub</b></a>!
 </div>
 
 <br>
 <hr>
-<h4 align="center">This README file is generated <b>every 6 hours</b>!</br>Last refresh: <b>2023-10-23 08:14:50 (UTC time)</b></h4>
+<h4 align="center">This README file is generated <b>every 6 hours</b>!</br>Last refresh: <b>2023-10-23 20:10:19 (UTC time)</b></h4>
