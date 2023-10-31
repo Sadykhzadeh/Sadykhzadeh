@@ -14,15 +14,6 @@
 <h2>📊 This week I spent my time using:</h2>
 
 <!--START_SECTION:waka-->
-
-```txt
-Java             3 hrs 22 mins   ████████████▒░░░░░░░░░░░░   49.45 %
-TypeScript       1 hr 35 mins    █████▓░░░░░░░░░░░░░░░░░░░   23.21 %
-Markdown         50 mins         ███░░░░░░░░░░░░░░░░░░░░░░   12.26 %
-JavaScript       19 mins         █░░░░░░░░░░░░░░░░░░░░░░░░   04.65 %
-Kotlin           15 mins         █░░░░░░░░░░░░░░░░░░░░░░░░   03.81 %
-```
-
 <!--END_SECTION:waka-->
 
 <br>
@@ -35,13 +26,13 @@ Kotlin           15 mins         █░░░░░░░░░░░░░░�
 		</tr>
 		<caption>🚩 <a href="https://t.me/tginfo">@tginfo</a> in your language: <a href="https://t.me/tginfoworld"><b>@tginfoworld</b></a><caption/>
   <tr><td><a href="https://t.me/tginfoen/1766">Telegram Premium has almost 3.5 million subscribers</a></td>
-    <td><a href="https://t.me/tginfo/3822">Боты не могут писать в каналы</a></td></tr><tr><td><a href="https://t.me/tginfoen/1765">Quote Formatting</a></td>
-    <td><a href="https://t.me/tginfo/3820">Обход блокировки с помощью Telegram Info VPN</a></td></tr><tr><td><a href="https://t.me/tginfoen/1764">Replies, forwarding and link settings </a></td>
-    <td><a href="https://t.me/tginfo/3819">У Telegram Premium почти 3.5 миллиона подписчиков</a></td></tr>
+    <td><a href="https://t.me/tginfo/3823">Telegram снова доступен</a></td></tr><tr><td><a href="https://t.me/tginfoen/1765">Quote Formatting</a></td>
+    <td><a href="https://t.me/tginfo/3822">Боты не могут писать в каналы</a></td></tr><tr><td><a href="https://t.me/tginfoen/1764">Replies, forwarding and link settings </a></td>
+    <td><a href="https://t.me/tginfo/3820">Обход блокировки с помощью Telegram Info VPN</a></td></tr>
 </table>
 We are also available on <a href="https://github.com/tginfo"><b>🐙 GitHub</b></a>!
 </div>
 
 <br>
 <hr>
-<h4 align="center">This README file is generated <b>every 6 hours</b>!</br>Last refresh: <b>2023-10-31 08:14:19 (UTC time)</b></h4>
+<h4 align="center">This README file is generated <b>every 6 hours</b>!</br>Last refresh: <b>2023-10-31 20:11:33 (UTC time)</b></h4>
