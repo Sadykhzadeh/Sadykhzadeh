@@ -14,15 +14,6 @@
 <h2>📊 This week I spent my time using:</h2>
 
 <!--START_SECTION:waka-->
-
-```txt
-Java             4 hrs 2 mins    ████████████▓░░░░░░░░░░░░   51.26 %
-TypeScript       1 hr 35 mins    █████░░░░░░░░░░░░░░░░░░░░   20.14 %
-Markdown         50 mins         ██▓░░░░░░░░░░░░░░░░░░░░░░   10.75 %
-Kotlin           35 mins         ██░░░░░░░░░░░░░░░░░░░░░░░   07.59 %
-JavaScript       19 mins         █░░░░░░░░░░░░░░░░░░░░░░░░   04.04 %
-```
-
 <!--END_SECTION:waka-->
 
 <br>
@@ -34,14 +25,14 @@ JavaScript       19 mins         █░░░░░░░░░░░░░░�
 			<th>На русском (<a href="https://t.me/tginfo">@tginfo</a>)</th>
 		</tr>
 		<caption>🚩 <a href="https://t.me/tginfo">@tginfo</a> in your language: <a href="https://t.me/tginfoworld"><b>@tginfoworld</b></a><caption/>
-  <tr><td><a href="https://t.me/tginfoen/1765">Quote Formatting</a></td>
-    <td><a href="https://t.me/tginfo/3816">Телеграм частично недоступен в нескольких регионах РФ</a></td></tr><tr><td><a href="https://t.me/tginfoen/1764">Replies, forwarding and link settings </a></td>
-    <td><a href="https://t.me/tginfo/3815">Telegram Desktop обновился до версии 4.11, а затем до версии 4.11.1</a></td></tr><tr><td><a href="https://t.me/tginfoen/1763">Settings for links previews in messages</a></td>
-    <td><a href="https://t.me/tginfo/3814">Цитаты в тексте сообщений</a></td></tr>
+  <tr><td><a href="https://t.me/tginfoen/1766">Telegram Premium has almost 3.5 million subscribers</a></td>
+    <td><a href="https://t.me/tginfo/3822">Боты не могут писать в каналы</a></td></tr><tr><td><a href="https://t.me/tginfoen/1765">Quote Formatting</a></td>
+    <td><a href="https://t.me/tginfo/3820">Обход блокировки с помощью Telegram Info VPN</a></td></tr><tr><td><a href="https://t.me/tginfoen/1764">Replies, forwarding and link settings </a></td>
+    <td><a href="https://t.me/tginfo/3819">У Telegram Premium почти 3.5 миллиона подписчиков</a></td></tr>
 </table>
 We are also available on <a href="https://github.com/tginfo"><b>🐙 GitHub</b></a>!
 </div>
 
 <br>
 <hr>
-<h4 align="center">This README file is generated <b>every 6 hours</b>!</br>Last refresh: <b>2023-10-30 08:14:26 (UTC time)</b></h4>
+<h4 align="center">This README file is generated <b>every 6 hours</b>!</br>Last refresh: <b>2023-10-31 08:14:19 (UTC time)</b></h4>
