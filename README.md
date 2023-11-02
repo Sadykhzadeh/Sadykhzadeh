@@ -14,15 +14,6 @@
 <h2>📊 This week I spent my time using:</h2>
 
 <!--START_SECTION:waka-->
-
-```txt
-Java             2 hrs 55 mins   ███████████░░░░░░░░░░░░░░   43.84 %
-TypeScript       1 hr 13 mins    ████▓░░░░░░░░░░░░░░░░░░░░   18.37 %
-Kotlin           54 mins         ███▒░░░░░░░░░░░░░░░░░░░░░   13.74 %
-Markdown         24 mins         █▓░░░░░░░░░░░░░░░░░░░░░░░   06.15 %
-Docker           24 mins         █▓░░░░░░░░░░░░░░░░░░░░░░░   06.07 %
-```
-
 <!--END_SECTION:waka-->
 
 <br>
@@ -34,7 +25,7 @@ Docker           24 mins         █▓░░░░░░░░░░░░░�
 			<th>На русском (<a href="https://t.me/tginfo">@tginfo</a>)</th>
 		</tr>
 		<caption>🚩 <a href="https://t.me/tginfo">@tginfo</a> in your language: <a href="https://t.me/tginfoworld"><b>@tginfoworld</b></a><caption/>
-  <tr><td><a href="https://t.me/tginfoen/1768">Telegram Desktop updated to version 4.11.2</a></td>
+  <tr><td><a href="https://t.me/tginfoen/1768">Telegram Desktop was updated to version 4.11.2</a></td>
     <td><a href="https://t.me/tginfo/3825">Telegram Desktop обновился до версии 4.11.2</a></td></tr><tr><td><a href="https://t.me/tginfoen/1767">Unclickable Images in Link Previews, Worse Forwarding UX, and Other Downgrades</a></td>
     <td><a href="https://t.me/tginfo/3824">Некликабельные картинки в ссылках, неудобный интерфейс пересылки сообщений и другие ухудшения</a></td></tr><tr><td><a href="https://t.me/tginfoen/1766">Telegram Premium has almost 3.5 million subscribers</a></td>
     <td><a href="https://t.me/tginfo/3823">Telegram снова доступен</a></td></tr>
@@ -44,4 +35,4 @@ We are also available on <a href="https://github.com/tginfo"><b>🐙 GitHub</b><
 
 <br>
 <hr>
-<h4 align="center">This README file is generated <b>every 6 hours</b>!</br>Last refresh: <b>2023-11-02 08:13:59 (UTC time)</b></h4>
+<h4 align="center">This README file is generated <b>every 6 hours</b>!</br>Last refresh: <b>2023-11-02 20:11:40 (UTC time)</b></h4>
