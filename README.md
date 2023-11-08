@@ -14,15 +14,6 @@
 <h2>📊 This week I spent my time using:</h2>
 
 <!--START_SECTION:waka-->
-
-```txt
-Kotlin                2 hrs 26 mins   ████████░░░░░░░░░░░░░░░░░   31.82 %
-Java                  1 hr 16 mins    ████▒░░░░░░░░░░░░░░░░░░░░   16.70 %
-TypeScript            1 hr 8 mins     ███▓░░░░░░░░░░░░░░░░░░░░░   14.95 %
-Docker                41 mins         ██▒░░░░░░░░░░░░░░░░░░░░░░   08.94 %
-YAML                  32 mins         █▓░░░░░░░░░░░░░░░░░░░░░░░   07.19 %
-```
-
 <!--END_SECTION:waka-->
 
 <br>
@@ -34,14 +25,14 @@ YAML                  32 mins         █▓░░░░░░░░░░░░
 			<th>На русском (<a href="https://t.me/tginfo">@tginfo</a>)</th>
 		</tr>
 		<caption>🚩 <a href="https://t.me/tginfo">@tginfo</a> in your language: <a href="https://t.me/tginfoworld"><b>@tginfoworld</b></a><caption/>
-  <tr><td><a href="https://t.me/tginfoen/1776">More Boosts for Premium Users</a></td>
+  <tr><td><a href="https://t.me/tginfoen/1777">Custom Reactions for Telegram Channels</a></td>
+    <td><a href="https://t.me/tginfo/3836">Кастомные реакции для Telegram-каналов</a></td></tr><tr><td><a href="https://t.me/tginfoen/1776">More Boosts for Premium Users</a></td>
     <td><a href="https://t.me/tginfo/3835">Больше голосов для Premium-пользователей</a></td></tr><tr><td><a href="https://t.me/tginfoen/1775">Payment for Giveaway Subscriptions</a></td>
-    <td><a href="https://t.me/tginfo/3834">Оплата разыгрываемых подписок</a></td></tr><tr><td><a href="https://t.me/tginfoen/1774">Creating a Giveaway in a Telegram Channel</a></td>
-    <td><a href="https://t.me/tginfo/3833">Создание розыгрыша в канале</a></td></tr>
+    <td><a href="https://t.me/tginfo/3834">Оплата разыгрываемых подписок</a></td></tr>
 </table>
 We are also available on <a href="https://github.com/tginfo"><b>🐙 GitHub</b></a>!
 </div>
 
 <br>
 <hr>
-<h4 align="center">This README file is generated <b>every 6 hours</b>!</br>Last refresh: <b>2023-11-08 08:14:23 (UTC time)</b></h4>
+<h4 align="center">This README file is generated <b>every 6 hours</b>!</br>Last refresh: <b>2023-11-08 20:11:36 (UTC time)</b></h4>
