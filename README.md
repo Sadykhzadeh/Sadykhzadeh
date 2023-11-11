@@ -14,15 +14,6 @@
 <h2>📊 This week I spent my time using:</h2>
 
 <!--START_SECTION:waka-->
-
-```txt
-TypeScript            2 hrs 12 mins   ███████░░░░░░░░░░░░░░░░░░   27.77 %
-Kotlin                1 hr 23 mins    ████▒░░░░░░░░░░░░░░░░░░░░   17.46 %
-Java                  1 hr 14 mins    ████░░░░░░░░░░░░░░░░░░░░░   15.56 %
-Docker                35 mins         ██░░░░░░░░░░░░░░░░░░░░░░░   07.53 %
-YAML                  32 mins         █▓░░░░░░░░░░░░░░░░░░░░░░░   06.91 %
-```
-
 <!--END_SECTION:waka-->
 
 <br>
@@ -34,9 +25,9 @@ YAML                  32 mins         █▓░░░░░░░░░░░░
 			<th>На русском (<a href="https://t.me/tginfo">@tginfo</a>)</th>
 		</tr>
 		<caption>🚩 <a href="https://t.me/tginfo">@tginfo</a> in your language: <a href="https://t.me/tginfoworld"><b>@tginfoworld</b></a><caption/>
-  <tr><td><a href="https://t.me/tginfoen/1779">Telegram Desktop has been updated to version 4.11.6</a></td>
-    <td><a href="https://t.me/tginfo/3840">Масштабная интеграция криптокошелька в Telegram</a></td></tr><tr><td><a href="https://t.me/tginfoen/1778">Changes in The Telegram Boost System</a></td>
-    <td><a href="https://t.me/tginfo/3839">Возможность разыгрывать криптовалюту TON</a></td></tr><tr><td><a href="https://t.me/tginfoen/1777">Custom Reactions for Telegram Channels</a></td>
+  <tr><td><a href="https://t.me/tginfoen/1781">Large-scale Integration of Crypto Wallet into Telegram</a></td>
+    <td><a href="https://t.me/tginfo/3840">Масштабная интеграция криптокошелька в Telegram</a></td></tr><tr><td><a href="https://t.me/tginfoen/1780">Opportunity to Giveaway TON Cryptocurrency</a></td>
+    <td><a href="https://t.me/tginfo/3839">Возможность разыгрывать криптовалюту TON</a></td></tr><tr><td><a href="https://t.me/tginfoen/1779">Telegram Desktop has been updated to version 4.11.6</a></td>
     <td><a href="https://t.me/tginfo/3838">Telegram Desktop обновился до версии 4.11.6</a></td></tr>
 </table>
 We are also available on <a href="https://github.com/tginfo"><b>🐙 GitHub</b></a>!
@@ -44,4 +35,4 @@ We are also available on <a href="https://github.com/tginfo"><b>🐙 GitHub</b><
 
 <br>
 <hr>
-<h4 align="center">This README file is generated <b>every 6 hours</b>!</br>Last refresh: <b>2023-11-10 20:11:26 (UTC time)</b></h4>
+<h4 align="center">This README file is generated <b>every 6 hours</b>!</br>Last refresh: <b>2023-11-11 08:12:57 (UTC time)</b></h4>
