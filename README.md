@@ -14,15 +14,6 @@
 <h2>📊 This week I spent my time using:</h2>
 
 <!--START_SECTION:waka-->
-
-```txt
-TypeScript       2 hrs 44 mins   █████████▓░░░░░░░░░░░░░░░   38.72 %
-Java             2 hrs 38 mins   █████████▒░░░░░░░░░░░░░░░   37.39 %
-Docker           31 mins         ██░░░░░░░░░░░░░░░░░░░░░░░   07.42 %
-JSON             24 mins         █▒░░░░░░░░░░░░░░░░░░░░░░░   05.83 %
-HTML             11 mins         ▓░░░░░░░░░░░░░░░░░░░░░░░░   02.79 %
-```
-
 <!--END_SECTION:waka-->
 
 <br>
@@ -34,14 +25,14 @@ HTML             11 mins         ▓░░░░░░░░░░░░░░�
 			<th>На русском (<a href="https://t.me/tginfo">@tginfo</a>)</th>
 		</tr>
 		<caption>🚩 <a href="https://t.me/tginfo">@tginfo</a> in your language: <a href="https://t.me/tginfoworld"><b>@tginfoworld</b></a><caption/>
-  <tr><td><a href="https://t.me/tginfoen/1781">Large-scale Integration of Crypto Wallet into Telegram</a></td>
+  <tr><td><a href="https://t.me/tginfoen/1782">Telegram for Apple Vision Pro headset</a></td>
+    <td><a href="https://t.me/tginfo/3842">Telegram для шлема Apple Vision Pro</a></td></tr><tr><td><a href="https://t.me/tginfoen/1781">Large-scale Integration of Crypto Wallet into Telegram</a></td>
     <td><a href="https://t.me/tginfo/3841">Автомаркировка рекламы и запуск объявлений в Telegram Ads</a></td></tr><tr><td><a href="https://t.me/tginfoen/1780">Opportunity to Giveaway TON Cryptocurrency</a></td>
-    <td><a href="https://t.me/tginfo/3840">Масштабная интеграция криптокошелька в Telegram</a></td></tr><tr><td><a href="https://t.me/tginfoen/1779">Telegram Desktop has been updated to version 4.11.6</a></td>
-    <td><a href="https://t.me/tginfo/3839">Возможность разыгрывать криптовалюту TON</a></td></tr>
+    <td><a href="https://t.me/tginfo/3840">Масштабная интеграция криптокошелька в Telegram</a></td></tr>
 </table>
 We are also available on <a href="https://github.com/tginfo"><b>🐙 GitHub</b></a>!
 </div>
 
 <br>
 <hr>
-<h4 align="center">This README file is generated <b>every 6 hours</b>!</br>Last refresh: <b>2023-11-14 20:10:45 (UTC time)</b></h4>
+<h4 align="center">This README file is generated <b>every 6 hours</b>!</br>Last refresh: <b>2023-11-15 08:14:30 (UTC time)</b></h4>
