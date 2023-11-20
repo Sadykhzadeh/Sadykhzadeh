@@ -14,15 +14,6 @@
 <h2>📊 This week I spent my time using:</h2>
 
 <!--START_SECTION:waka-->
-
-```txt
-TypeScript       2 hrs 39 mins   █████████████████▓░░░░░░░   70.11 %
-Java             26 mins         ███░░░░░░░░░░░░░░░░░░░░░░   11.68 %
-YAML             16 mins         █▓░░░░░░░░░░░░░░░░░░░░░░░   07.07 %
-GitIgnore file   10 mins         █▒░░░░░░░░░░░░░░░░░░░░░░░   04.71 %
-HTML             3 mins          ▒░░░░░░░░░░░░░░░░░░░░░░░░   01.62 %
-```
-
 <!--END_SECTION:waka-->
 
 <br>
@@ -34,14 +25,14 @@ HTML             3 mins          ▒░░░░░░░░░░░░░░�
 			<th>На русском (<a href="https://t.me/tginfo">@tginfo</a>)</th>
 		</tr>
 		<caption>🚩 <a href="https://t.me/tginfo">@tginfo</a> in your language: <a href="https://t.me/tginfoworld"><b>@tginfoworld</b></a><caption/>
-  <tr><td><a href="https://t.me/tginfoen/1783">Auto-Login When Clicking Links to Official Telegram Resources</a></td>
-    <td><a href="https://t.me/tginfo/3844">Автологин при переходе по ссылкам на официальные ресурсы Telegram</a></td></tr><tr><td><a href="https://t.me/tginfoen/1782">Telegram for Apple Vision Pro headset</a></td>
-    <td><a href="https://t.me/tginfo/3843">Telegram обошел VK по ежедневно активной аудитории в России</a></td></tr><tr><td><a href="https://t.me/tginfoen/1781">Large-scale Integration of Crypto Wallet into Telegram</a></td>
-    <td><a href="https://t.me/tginfo/3842">Telegram для шлема Apple Vision Pro</a></td></tr>
+  <tr><td><a href="https://t.me/tginfoen/1784">Telegram Is Again at the Top of the US App Store</a></td>
+    <td><a href="https://t.me/tginfo/3846">Telegram снова в топе американского App Store</a></td></tr><tr><td><a href="https://t.me/tginfoen/1783">Auto-Login When Clicking Links to Official Telegram Resources</a></td>
+    <td><a href="https://t.me/tginfo/3845">Бот для постинга с поддержкой Premium-эмодзи, статистикой и многим другим</a></td></tr><tr><td><a href="https://t.me/tginfoen/1782">Telegram for Apple Vision Pro headset</a></td>
+    <td><a href="https://t.me/tginfo/3844">Автологин при переходе по ссылкам на официальные ресурсы Telegram</a></td></tr>
 </table>
 We are also available on <a href="https://github.com/tginfo"><b>🐙 GitHub</b></a>!
 </div>
 
 <br>
 <hr>
-<h4 align="center">This README file is generated <b>every 6 hours</b>!</br>Last refresh: <b>2023-11-20 08:15:32 (UTC time)</b></h4>
+<h4 align="center">This README file is generated <b>every 6 hours</b>!</br>Last refresh: <b>2023-11-20 20:12:19 (UTC time)</b></h4>
