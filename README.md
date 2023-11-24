@@ -14,15 +14,6 @@
 <h2>📊 This week I spent my time using:</h2>
 
 <!--START_SECTION:waka-->
-
-```txt
-MDX              35 mins         ███████▒░░░░░░░░░░░░░░░░░   29.06 %
-Java             31 mins         ██████▒░░░░░░░░░░░░░░░░░░   25.73 %
-TypeScript       26 mins         █████▒░░░░░░░░░░░░░░░░░░░   21.96 %
-JSON             10 mins         ██▒░░░░░░░░░░░░░░░░░░░░░░   08.70 %
-GitIgnore file   10 mins         ██░░░░░░░░░░░░░░░░░░░░░░░   08.38 %
-```
-
 <!--END_SECTION:waka-->
 
 <br>
@@ -34,14 +25,14 @@ GitIgnore file   10 mins         ██░░░░░░░░░░░░░�
 			<th>На русском (<a href="https://t.me/tginfo">@tginfo</a>)</th>
 		</tr>
 		<caption>🚩 <a href="https://t.me/tginfo">@tginfo</a> in your language: <a href="https://t.me/tginfoworld"><b>@tginfoworld</b></a><caption/>
-  <tr><td><a href="https://t.me/tginfoen/1784">Telegram Is Again at the Top of the US App Store</a></td>
-    <td><a href="https://t.me/tginfo/3846">Telegram снова в топе американского App Store</a></td></tr><tr><td><a href="https://t.me/tginfoen/1783">Auto-Login When Clicking Links to Official Telegram Resources</a></td>
-    <td><a href="https://t.me/tginfo/3845">Бот для постинга с поддержкой Premium-эмодзи, статистикой и многим другим</a></td></tr><tr><td><a href="https://t.me/tginfoen/1782">Telegram for Apple Vision Pro headset</a></td>
-    <td><a href="https://t.me/tginfo/3844">Автологин при переходе по ссылкам на официальные ресурсы Telegram</a></td></tr>
+  <tr><td><a href="https://t.me/tginfoen/1785">What Should You Do If You Forgot Your Cloud Password?</a></td>
+    <td><a href="https://t.me/tginfo/3849">Что делать, если забыл облачный пароль? </a></td></tr><tr><td><a href="https://t.me/tginfoen/1784">Telegram Is Again at the Top of the US App Store</a></td>
+    <td><a href="https://t.me/tginfo/3848">Telegram стал бенефициаром блокировки Instagram в России</a></td></tr><tr><td><a href="https://t.me/tginfoen/1783">Auto-Login When Clicking Links to Official Telegram Resources</a></td>
+    <td><a href="https://t.me/tginfo/3847">Сбои Telegram в Узбекистане</a></td></tr>
 </table>
 We are also available on <a href="https://github.com/tginfo"><b>🐙 GitHub</b></a>!
 </div>
 
 <br>
 <hr>
-<h4 align="center">This README file is generated <b>every 6 hours</b>!</br>Last refresh: <b>2023-11-24 08:14:11 (UTC time)</b></h4>
+<h4 align="center">This README file is generated <b>every 6 hours</b>!</br>Last refresh: <b>2023-11-24 20:11:37 (UTC time)</b></h4>
