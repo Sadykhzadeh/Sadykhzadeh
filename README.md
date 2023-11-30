@@ -14,15 +14,6 @@
 <h2>📊 This week I spent my time using:</h2>
 
 <!--START_SECTION:waka-->
-
-```txt
-Kotlin            3 hrs 17 mins   █████████████▓░░░░░░░░░░░   54.84 %
-Java              1 hr 29 mins    ██████▒░░░░░░░░░░░░░░░░░░   24.71 %
-JavaScript        24 mins         █▓░░░░░░░░░░░░░░░░░░░░░░░   06.80 %
-TypeScript        21 mins         █▓░░░░░░░░░░░░░░░░░░░░░░░   06.05 %
-Java Properties   10 mins         ▓░░░░░░░░░░░░░░░░░░░░░░░░   02.82 %
-```
-
 <!--END_SECTION:waka-->
 
 <br>
@@ -34,14 +25,14 @@ Java Properties   10 mins         ▓░░░░░░░░░░░░░░�
 			<th>На русском (<a href="https://t.me/tginfo">@tginfo</a>)</th>
 		</tr>
 		<caption>🚩 <a href="https://t.me/tginfo">@tginfo</a> in your language: <a href="https://t.me/tginfoworld"><b>@tginfoworld</b></a><caption/>
-  <tr><td><a href="https://t.me/tginfoen/1789">Xiaomi GetApps store is distributing a malicious modification of the Telegram client</a></td>
-    <td><a href="https://t.me/tginfo/3855">Обновление Anypost: управление закупами и детальная аналитика подписчиков</a></td></tr><tr><td><a href="https://t.me/tginfoen/1788">Fake News: Telegram's Unlimited Storage to Become Paid</a></td>
-    <td><a href="https://t.me/tginfo/3854">Xiaomi GetApps распространяет фишинговую модификацию приложения Telegram версии 9.6.9</a></td></tr><tr><td><a href="https://t.me/tginfoen/1787">Similar Channels, Free Speech Recognition, Stories Stats, and Other Features</a></td>
-    <td><a href="https://t.me/tginfo/3853">Фейк: Безлимитное хранилище Telegram станет платным</a></td></tr>
+  <tr><td><a href="https://t.me/tginfoen/1790">Telegram’s DC2 Was Unstable</a></td>
+    <td><a href="https://t.me/tginfo/3863">Лимитированная расшифровка речи для всех пользователей</a></td></tr><tr><td><a href="https://t.me/tginfoen/1789">Xiaomi GetApps store is distributing a malicious modification of the Telegram client</a></td>
+    <td><a href="https://t.me/tginfo/3862">⚡ Эмодзи из наборов в качестве реакций в каналах</a></td></tr><tr><td><a href="https://t.me/tginfoen/1788">Fake News: Telegram's Unlimited Storage to Become Paid</a></td>
+    <td><a href="https://t.me/tginfo/3861">⭐ Обои для Вас и собеседника</a></td></tr>
 </table>
 We are also available on <a href="https://github.com/tginfo"><b>🐙 GitHub</b></a>!
 </div>
 
 <br>
 <hr>
-<h4 align="center">This README file is generated <b>every 6 hours</b>!</br>Last refresh: <b>2023-11-30 08:14:24 (UTC time)</b></h4>
+<h4 align="center">This README file is generated <b>every 6 hours</b>!</br>Last refresh: <b>2023-11-30 20:12:01 (UTC time)</b></h4>
