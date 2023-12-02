@@ -14,15 +14,6 @@
 <h2>📊 This week I spent my time using:</h2>
 
 <!--START_SECTION:waka-->
-
-```txt
-Kotlin            3 hrs 17 mins   ██████████████░░░░░░░░░░░   55.98 %
-Java              1 hr 29 mins    ██████▒░░░░░░░░░░░░░░░░░░   25.22 %
-JavaScript        24 mins         █▓░░░░░░░░░░░░░░░░░░░░░░░   06.94 %
-TypeScript        14 mins         █░░░░░░░░░░░░░░░░░░░░░░░░   04.11 %
-Java Properties   10 mins         ▓░░░░░░░░░░░░░░░░░░░░░░░░   02.88 %
-```
-
 <!--END_SECTION:waka-->
 
 <br>
@@ -34,9 +25,9 @@ Java Properties   10 mins         ▓░░░░░░░░░░░░░░�
 			<th>На русском (<a href="https://t.me/tginfo">@tginfo</a>)</th>
 		</tr>
 		<caption>🚩 <a href="https://t.me/tginfo">@tginfo</a> in your language: <a href="https://t.me/tginfoworld"><b>@tginfoworld</b></a><caption/>
-  <tr><td><a href="https://t.me/tginfoen/1790">Telegram’s DC2 Was Unstable</a></td>
-    <td><a href="https://t.me/tginfo/3863">Лимитированная расшифровка речи для всех пользователей</a></td></tr><tr><td><a href="https://t.me/tginfoen/1789">Xiaomi GetApps store is distributing a malicious modification of the Telegram client</a></td>
-    <td><a href="https://t.me/tginfo/3862">⚡ Эмодзи из наборов в качестве реакций в каналах</a></td></tr><tr><td><a href="https://t.me/tginfoen/1788">Fake News: Telegram's Unlimited Storage to Become Paid</a></td>
+  <tr><td><a href="https://t.me/tginfoen/1791">Telegram for Android and iOS has been updated to version 10.3.</a></td>
+    <td><a href="https://t.me/tginfo/3863">Лимитированная расшифровка речи для всех пользователей</a></td></tr><tr><td><a href="https://t.me/tginfoen/1790">Telegram’s DC2 Was Unstable</a></td>
+    <td><a href="https://t.me/tginfo/3862">⚡ Эмодзи из наборов в качестве реакций в каналах</a></td></tr><tr><td><a href="https://t.me/tginfoen/1789">Xiaomi GetApps store is distributing a malicious modification of the Telegram client</a></td>
     <td><a href="https://t.me/tginfo/3861">⭐ Обои для Вас и собеседника</a></td></tr>
 </table>
 We are also available on <a href="https://github.com/tginfo"><b>🐙 GitHub</b></a>!
@@ -44,4 +35,4 @@ We are also available on <a href="https://github.com/tginfo"><b>🐙 GitHub</b><
 
 <br>
 <hr>
-<h4 align="center">This README file is generated <b>every 6 hours</b>!</br>Last refresh: <b>2023-12-01 20:12:06 (UTC time)</b></h4>
+<h4 align="center">This README file is generated <b>every 6 hours</b>!</br>Last refresh: <b>2023-12-02 08:13:09 (UTC time)</b></h4>
