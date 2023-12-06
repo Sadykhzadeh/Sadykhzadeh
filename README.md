@@ -26,13 +26,13 @@
 		</tr>
 		<caption>🚩 <a href="https://t.me/tginfo">@tginfo</a> in your language: <a href="https://t.me/tginfoworld"><b>@tginfoworld</b></a><caption/>
   <tr><td><a href="https://t.me/tginfoen/1802">Survey for the most popular Telegram client</a></td>
-    <td><a href="https://t.me/tginfo/3869">Розыгрыш подписок Telegram Premium среди подписчиков каналов</a></td></tr><tr><td><a href="https://t.me/tginfoen/1801">Limited Voice-to-Text for Everyone </a></td>
-    <td><a href="https://t.me/tginfo/3868">Опрос на звание самого популярного клиента Telegram</a></td></tr><tr><td><a href="https://t.me/tginfoen/1800">⚡ Custom Emojis as Reactions in Channels </a></td>
-    <td><a href="https://t.me/tginfo/3867">Лимитированная расшифровка речи для всех пользователей</a></td></tr>
+    <td><a href="https://t.me/tginfo/3870">Тестирование обновлённого интерфейса звонков на iOS</a></td></tr><tr><td><a href="https://t.me/tginfoen/1801">Limited Voice-to-Text for Everyone </a></td>
+    <td><a href="https://t.me/tginfo/3869">Розыгрыш подписок Telegram Premium среди подписчиков каналов</a></td></tr><tr><td><a href="https://t.me/tginfoen/1800">⚡ Custom Emojis as Reactions in Channels </a></td>
+    <td><a href="https://t.me/tginfo/3868">Опрос на звание самого популярного клиента Telegram</a></td></tr>
 </table>
 We are also available on <a href="https://github.com/tginfo"><b>🐙 GitHub</b></a>!
 </div>
 
 <br>
 <hr>
-<h4 align="center">This README file is generated <b>every 6 hours</b>!</br>Last refresh: <b>2023-12-06 08:14:35 (UTC time)</b></h4>
+<h4 align="center">This README file is generated <b>every 6 hours</b>!</br>Last refresh: <b>2023-12-06 20:12:15 (UTC time)</b></h4>
