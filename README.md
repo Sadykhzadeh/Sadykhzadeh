@@ -14,15 +14,6 @@
 <h2>📊 This week I spent my time using:</h2>
 
 <!--START_SECTION:waka-->
-
-```txt
-Java             7 hrs 39 mins   ██████████████████████▓░░   90.79 %
-Kotlin           18 mins         █░░░░░░░░░░░░░░░░░░░░░░░░   03.65 %
-XML              9 mins          ▒░░░░░░░░░░░░░░░░░░░░░░░░   01.86 %
-GitIgnore file   5 mins          ▒░░░░░░░░░░░░░░░░░░░░░░░░   01.16 %
-TypeScript       4 mins          ▒░░░░░░░░░░░░░░░░░░░░░░░░   00.90 %
-```
-
 <!--END_SECTION:waka-->
 
 <br>
@@ -34,14 +25,14 @@ TypeScript       4 mins          ▒░░░░░░░░░░░░░░�
 			<th>На русском (<a href="https://t.me/tginfo">@tginfo</a>)</th>
 		</tr>
 		<caption>🚩 <a href="https://t.me/tginfo">@tginfo</a> in your language: <a href="https://t.me/tginfoworld"><b>@tginfoworld</b></a><caption/>
-  <tr><td><a href="https://t.me/tginfoen/1802">Survey for the most popular Telegram client</a></td>
-    <td><a href="https://t.me/tginfo/3870">Тестирование обновлённого интерфейса звонков на iOS</a></td></tr><tr><td><a href="https://t.me/tginfoen/1801">Limited Voice-to-Text for Everyone </a></td>
-    <td><a href="https://t.me/tginfo/3869">Розыгрыш подписок Telegram Premium среди подписчиков каналов</a></td></tr><tr><td><a href="https://t.me/tginfoen/1800">⚡ Custom Emojis as Reactions in Channels </a></td>
-    <td><a href="https://t.me/tginfo/3868">Опрос на звание самого популярного клиента Telegram</a></td></tr>
+  <tr><td><a href="https://t.me/tginfoen/1803">Survey for the most popular Telegram client</a></td>
+    <td><a href="https://t.me/tginfo/3872">Задержка и остановка транзакций в TON</a></td></tr><tr><td><a href="https://t.me/tginfoen/1802">Limited Voice-to-Text for Everyone </a></td>
+    <td><a href="https://t.me/tginfo/3871">Число подписчиков Telegram Premium превысило 4 миллиона</a></td></tr><tr><td><a href="https://t.me/tginfoen/1801">⚡ Custom Emojis as Reactions in Channels </a></td>
+    <td><a href="https://t.me/tginfo/3870">Тестирование обновлённого интерфейса звонков на iOS</a></td></tr>
 </table>
 We are also available on <a href="https://github.com/tginfo"><b>🐙 GitHub</b></a>!
 </div>
 
 <br>
 <hr>
-<h4 align="center">This README file is generated <b>every 6 hours</b>!</br>Last refresh: <b>2023-12-08 08:14:39 (UTC time)</b></h4>
+<h4 align="center">This README file is generated <b>every 6 hours</b>!</br>Last refresh: <b>2023-12-08 20:12:16 (UTC time)</b></h4>
