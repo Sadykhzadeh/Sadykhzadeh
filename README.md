@@ -14,11 +14,6 @@
 <h2>📊 This week I spent my time using:</h2>
 
 <!--START_SECTION:waka-->
-
-```txt
-Kotlin   15 mins         █████████████████████████   100.00 %
-```
-
 <!--END_SECTION:waka-->
 
 <br>
@@ -31,13 +26,13 @@ Kotlin   15 mins         ██████████████████�
 		</tr>
 		<caption>🚩 <a href="https://t.me/tginfo">@tginfo</a> in your language: <a href="https://t.me/tginfoworld"><b>@tginfoworld</b></a><caption/>
   <tr><td><a href="https://t.me/tginfoen/1803">Survey for the most popular Telegram client</a></td>
-    <td><a href="https://t.me/tginfo/3873">Что делать если взломали аккаунт Telegram?</a></td></tr><tr><td><a href="https://t.me/tginfoen/1802">Limited Voice-to-Text for Everyone </a></td>
-    <td><a href="https://t.me/tginfo/3872">Задержка и остановка транзакций в TON</a></td></tr><tr><td><a href="https://t.me/tginfoen/1801">⚡ Custom Emojis as Reactions in Channels </a></td>
-    <td><a href="https://t.me/tginfo/3871">Число подписчиков Telegram Premium превысило 4 миллиона</a></td></tr>
+    <td><a href="https://t.me/tginfo/3874">Что делать если взломали аккаунт Telegram?</a></td></tr><tr><td><a href="https://t.me/tginfoen/1802">Limited Voice-to-Text for Everyone </a></td>
+    <td><a href="https://t.me/tginfo/3873">Задержка и остановка транзакций в TON</a></td></tr><tr><td><a href="https://t.me/tginfoen/1801">⚡ Custom Emojis as Reactions in Channels </a></td>
+    <td><a href="https://t.me/tginfo/3872">Число подписчиков Telegram Premium превысило 4 миллиона</a></td></tr>
 </table>
 We are also available on <a href="https://github.com/tginfo"><b>🐙 GitHub</b></a>!
 </div>
 
 <br>
 <hr>
-<h4 align="center">This README file is generated <b>every 6 hours</b>!</br>Last refresh: <b>2023-12-21 08:14:33 (UTC time)</b></h4>
+<h4 align="center">This README file is generated <b>every 6 hours</b>!</br>Last refresh: <b>2023-12-21 20:11:41 (UTC time)</b></h4>
