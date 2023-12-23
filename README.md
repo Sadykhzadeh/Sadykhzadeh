@@ -14,14 +14,6 @@
 <h2>📊 This week I spent my time using:</h2>
 
 <!--START_SECTION:waka-->
-
-```txt
-Kotlin           18 mins         ███████████████████████▓░   94.97 %
-Markdown         0 secs          ▓░░░░░░░░░░░░░░░░░░░░░░░░   02.36 %
-GitIgnore file   0 secs          ▓░░░░░░░░░░░░░░░░░░░░░░░░   02.27 %
-HTML             0 secs          ░░░░░░░░░░░░░░░░░░░░░░░░░   00.40 %
-```
-
 <!--END_SECTION:waka-->
 
 <br>
@@ -33,14 +25,14 @@ HTML             0 secs          ░░░░░░░░░░░░░░░�
 			<th>На русском (<a href="https://t.me/tginfo">@tginfo</a>)</th>
 		</tr>
 		<caption>🚩 <a href="https://t.me/tginfo">@tginfo</a> in your language: <a href="https://t.me/tginfoworld"><b>@tginfoworld</b></a><caption/>
-  <tr><td><a href="https://t.me/tginfoen/1803">Survey for the most popular Telegram client</a></td>
-    <td><a href="https://t.me/tginfo/3874">Что делать если взломали аккаунт Telegram?</a></td></tr><tr><td><a href="https://t.me/tginfoen/1802">Limited Voice-to-Text for Everyone </a></td>
-    <td><a href="https://t.me/tginfo/3873">Задержка и остановка транзакций в TON</a></td></tr><tr><td><a href="https://t.me/tginfoen/1801">⚡ Custom Emojis as Reactions in Channels </a></td>
-    <td><a href="https://t.me/tginfo/3872">Число подписчиков Telegram Premium превысило 4 миллиона</a></td></tr>
+  <tr><td><a href="https://t.me/tginfoen/1804">Channel Appearance, Message Reposts to Stories and More</a></td>
+    <td><a href="https://t.me/tginfo/3879">Вырезки из фотографий в историях</a></td></tr><tr><td><a href="https://t.me/tginfoen/1803">Survey for the most popular Telegram client</a></td>
+    <td><a href="https://t.me/tginfo/3878">Репосты из каналов в истории</a></td></tr><tr><td><a href="https://t.me/tginfoen/1802">Limited Voice-to-Text for Everyone </a></td>
+    <td><a href="https://t.me/tginfo/3877">⚡ Оформление каналов</a></td></tr>
 </table>
 We are also available on <a href="https://github.com/tginfo"><b>🐙 GitHub</b></a>!
 </div>
 
 <br>
 <hr>
-<h4 align="center">This README file is generated <b>every 6 hours</b>!</br>Last refresh: <b>2023-12-23 08:13:05 (UTC time)</b></h4>
+<h4 align="center">This README file is generated <b>every 6 hours</b>!</br>Last refresh: <b>2023-12-23 20:10:59 (UTC time)</b></h4>
