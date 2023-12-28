@@ -14,15 +14,6 @@
 <h2>📊 This week I spent my time using:</h2>
 
 <!--START_SECTION:waka-->
-
-```txt
-TypeScript       1 hr 52 mins    ████████████████▓░░░░░░░░   66.18 %
-Go               28 mins         ████░░░░░░░░░░░░░░░░░░░░░   16.55 %
-CSS              19 mins         ██▓░░░░░░░░░░░░░░░░░░░░░░   11.24 %
-GitIgnore file   4 mins          ▓░░░░░░░░░░░░░░░░░░░░░░░░   02.43 %
-Kotlin           2 mins          ▒░░░░░░░░░░░░░░░░░░░░░░░░   01.72 %
-```
-
 <!--END_SECTION:waka-->
 
 <br>
@@ -34,14 +25,14 @@ Kotlin           2 mins          ▒░░░░░░░░░░░░░░�
 			<th>На русском (<a href="https://t.me/tginfo">@tginfo</a>)</th>
 		</tr>
 		<caption>🚩 <a href="https://t.me/tginfo">@tginfo</a> in your language: <a href="https://t.me/tginfoworld"><b>@tginfoworld</b></a><caption/>
-  <tr><td><a href="https://t.me/tginfoen/1805">The First Telegram Channel with 10 Million Subscribers</a></td>
-    <td><a href="https://t.me/tginfo/3882">Первый Telegram-канал с 10 миллионами подписчиков</a></td></tr><tr><td><a href="https://t.me/tginfoen/1804">Channel Appearance, Message Reposts to Stories and More</a></td>
-    <td><a href="https://t.me/tginfo/3881">Подарочная подписка снова работает корректно</a></td></tr><tr><td><a href="https://t.me/tginfoen/1803">Survey for the most popular Telegram client</a></td>
-    <td><a href="https://t.me/tginfo/3880">Подаренная подписка Telegram Premium не доходит до получателя</a></td></tr>
+  <tr><td><a href="https://t.me/tginfoen/1807">TGStat summarizes the results of your channels and chats for 2023</a></td>
+    <td><a href="https://t.me/tginfo/3884">Telegram работает нестабильно</a></td></tr><tr><td><a href="https://t.me/tginfoen/1805">The First Telegram Channel with 10 Million Subscribers</a></td>
+    <td><a href="https://t.me/tginfo/3883">TGStat подводит итоги ваших каналов и чатов за 2023 год</a></td></tr><tr><td><a href="https://t.me/tginfoen/1804">Channel Appearance, Message Reposts to Stories and More</a></td>
+    <td><a href="https://t.me/tginfo/3882">Первый Telegram-канал с 10 миллионами подписчиков</a></td></tr>
 </table>
 We are also available on <a href="https://github.com/tginfo"><b>🐙 GitHub</b></a>!
 </div>
 
 <br>
 <hr>
-<h4 align="center">This README file is generated <b>every 6 hours</b>!</br>Last refresh: <b>2023-12-28 08:14:20 (UTC time)</b></h4>
+<h4 align="center">This README file is generated <b>every 6 hours</b>!</br>Last refresh: <b>2023-12-28 20:10:39 (UTC time)</b></h4>
