@@ -14,15 +14,6 @@
 <h2>📊 This week I spent my time using:</h2>
 
 <!--START_SECTION:waka-->
-
-```txt
-TypeScript       1 hr 52 mins    █████████████████░░░░░░░░   67.73 %
-Go               28 mins         ████▒░░░░░░░░░░░░░░░░░░░░   16.94 %
-CSS              19 mins         ███░░░░░░░░░░░░░░░░░░░░░░   11.51 %
-GitIgnore file   3 mins          ▓░░░░░░░░░░░░░░░░░░░░░░░░   02.22 %
-HTML             1 min           ▒░░░░░░░░░░░░░░░░░░░░░░░░   01.09 %
-```
-
 <!--END_SECTION:waka-->
 
 <br>
@@ -35,13 +26,13 @@ HTML             1 min           ▒░░░░░░░░░░░░░░�
 		</tr>
 		<caption>🚩 <a href="https://t.me/tginfo">@tginfo</a> in your language: <a href="https://t.me/tginfoworld"><b>@tginfoworld</b></a><caption/>
   <tr><td><a href="https://t.me/tginfoen/1807">TGStat summarizes the results of your channels and chats for 2023</a></td>
-    <td><a href="https://t.me/tginfo/3884">Telegram работает нестабильно</a></td></tr><tr><td><a href="https://t.me/tginfoen/1805">The First Telegram Channel with 10 Million Subscribers</a></td>
-    <td><a href="https://t.me/tginfo/3883">TGStat подводит итоги ваших каналов и чатов за 2023 год</a></td></tr><tr><td><a href="https://t.me/tginfoen/1804">Channel Appearance, Message Reposts to Stories and More</a></td>
-    <td><a href="https://t.me/tginfo/3882">Первый Telegram-канал с 10 миллионами подписчиков</a></td></tr>
+    <td><a href="https://t.me/tginfo/3885">Bot API был обновлён до версии 7.0</a></td></tr><tr><td><a href="https://t.me/tginfoen/1805">The First Telegram Channel with 10 Million Subscribers</a></td>
+    <td><a href="https://t.me/tginfo/3884">Telegram работает нестабильно</a></td></tr><tr><td><a href="https://t.me/tginfoen/1804">Channel Appearance, Message Reposts to Stories and More</a></td>
+    <td><a href="https://t.me/tginfo/3883">TGStat подводит итоги ваших каналов и чатов за 2023 год</a></td></tr>
 </table>
 We are also available on <a href="https://github.com/tginfo"><b>🐙 GitHub</b></a>!
 </div>
 
 <br>
 <hr>
-<h4 align="center">This README file is generated <b>every 6 hours</b>!</br>Last refresh: <b>2023-12-29 08:14:05 (UTC time)</b></h4>
+<h4 align="center">This README file is generated <b>every 6 hours</b>!</br>Last refresh: <b>2023-12-29 20:11:13 (UTC time)</b></h4>
