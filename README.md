@@ -14,15 +14,6 @@
 <h2>📊 This week I spent my time using:</h2>
 
 <!--START_SECTION:waka-->
-
-```txt
-Java             1 hr 10 mins    ████████████████████████░   95.74 %
-XML              2 mins          ▓░░░░░░░░░░░░░░░░░░░░░░░░   03.00 %
-Groovy           0 secs          ▒░░░░░░░░░░░░░░░░░░░░░░░░   00.98 %
-Shell Script     0 secs          ░░░░░░░░░░░░░░░░░░░░░░░░░   00.14 %
-Batchfile        0 secs          ░░░░░░░░░░░░░░░░░░░░░░░░░   00.08 %
-```
-
 <!--END_SECTION:waka-->
 
 <br>
@@ -34,14 +25,14 @@ Batchfile        0 secs          ░░░░░░░░░░░░░░░�
 			<th>На русском (<a href="https://t.me/tginfo">@tginfo</a>)</th>
 		</tr>
 		<caption>🚩 <a href="https://t.me/tginfo">@tginfo</a> in your language: <a href="https://t.me/tginfoworld"><b>@tginfoworld</b></a><caption/>
-  <tr><td><a href="https://t.me/tginfoen/1807">TGStat summarizes the results of your channels and chats for 2023</a></td>
-    <td><a href="https://t.me/tginfo/3886">Проблемы с оплатой подарочной Premium-подписки</a></td></tr><tr><td><a href="https://t.me/tginfoen/1805">The First Telegram Channel with 10 Million Subscribers</a></td>
-    <td><a href="https://t.me/tginfo/3885">Bot API был обновлён до версии 7.0</a></td></tr><tr><td><a href="https://t.me/tginfoen/1804">Channel Appearance, Message Reposts to Stories and More</a></td>
-    <td><a href="https://t.me/tginfo/3884">Telegram работает нестабильно</a></td></tr>
+  <tr><td><a href="https://t.me/tginfoen/1811">An Epic Bot Update</a></td>
+    <td><a href="https://t.me/tginfo/3891">Telegram информирует владельцев каналов о новых возможностях</a></td></tr><tr><td><a href="https://t.me/tginfoen/1810">Thanos Snap Effect when Deleting Messages</a></td>
+    <td><a href="https://t.me/tginfo/3890">Грандиозное обновление для платформы ботов</a></td></tr><tr><td><a href="https://t.me/tginfoen/1809">Upgraded Calls</a></td>
+    <td><a href="https://t.me/tginfo/3889">Новая анимация при удалении сообщений</a></td></tr>
 </table>
 We are also available on <a href="https://github.com/tginfo"><b>🐙 GitHub</b></a>!
 </div>
 
 <br>
 <hr>
-<h4 align="center">This README file is generated <b>every 6 hours</b>!</br>Last refresh: <b>2023-12-31 08:13:16 (UTC time)</b></h4>
+<h4 align="center">This README file is generated <b>every 6 hours</b>!</br>Last refresh: <b>2023-12-31 20:11:21 (UTC time)</b></h4>
