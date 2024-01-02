@@ -14,15 +14,6 @@
 <h2>📊 This week I spent my time using:</h2>
 
 <!--START_SECTION:waka-->
-
-```txt
-Java             1 hr 10 mins    ████████████████████████░   95.74 %
-XML              2 mins          ▓░░░░░░░░░░░░░░░░░░░░░░░░   03.00 %
-Groovy           0 secs          ▒░░░░░░░░░░░░░░░░░░░░░░░░   00.98 %
-Shell Script     0 secs          ░░░░░░░░░░░░░░░░░░░░░░░░░   00.14 %
-Batchfile        0 secs          ░░░░░░░░░░░░░░░░░░░░░░░░░   00.08 %
-```
-
 <!--END_SECTION:waka-->
 
 <br>
@@ -34,14 +25,14 @@ Batchfile        0 secs          ░░░░░░░░░░░░░░░�
 			<th>На русском (<a href="https://t.me/tginfo">@tginfo</a>)</th>
 		</tr>
 		<caption>🚩 <a href="https://t.me/tginfo">@tginfo</a> in your language: <a href="https://t.me/tginfoworld"><b>@tginfoworld</b></a><caption/>
-  <tr><td><a href="https://t.me/tginfoen/1811">An Epic Bot Update</a></td>
+  <tr><td><a href="https://t.me/tginfoen/1812">Telegram Info turns 8</a></td>
+    <td><a href="https://t.me/tginfo/3893">Telegram Info 8 лет! </a></td></tr><tr><td><a href="https://t.me/tginfoen/1811">An Epic Bot Update</a></td>
     <td><a href="https://t.me/tginfo/3892">Telegram информирует владельцев каналов о новых возможностях</a></td></tr><tr><td><a href="https://t.me/tginfoen/1810">Thanos Snap Effect when Deleting Messages</a></td>
-    <td><a href="https://t.me/tginfo/3891">Грандиозное обновление для платформы ботов</a></td></tr><tr><td><a href="https://t.me/tginfoen/1809">Upgraded Calls</a></td>
-    <td><a href="https://t.me/tginfo/3890">Новая анимация при удалении сообщений</a></td></tr>
+    <td><a href="https://t.me/tginfo/3891">Грандиозное обновление для платформы ботов</a></td></tr>
 </table>
 We are also available on <a href="https://github.com/tginfo"><b>🐙 GitHub</b></a>!
 </div>
 
 <br>
 <hr>
-<h4 align="center">This README file is generated <b>every 6 hours</b>!</br>Last refresh: <b>2024-01-01 20:11:36 (UTC time)</b></h4>
+<h4 align="center">This README file is generated <b>every 6 hours</b>!</br>Last refresh: <b>2024-01-02 08:14:30 (UTC time)</b></h4>
