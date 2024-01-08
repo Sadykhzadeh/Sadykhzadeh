@@ -14,15 +14,6 @@
 <h2>📊 This week I spent my time using:</h2>
 
 <!--START_SECTION:waka-->
-
-```txt
-Java             3 hrs 1 min     █████████████████▓░░░░░░░   70.12 %
-Text             24 mins         ██▒░░░░░░░░░░░░░░░░░░░░░░   09.45 %
-Astro            22 mins         ██▒░░░░░░░░░░░░░░░░░░░░░░   08.71 %
-XML              10 mins         █░░░░░░░░░░░░░░░░░░░░░░░░   04.25 %
-JavaScript       8 mins          █░░░░░░░░░░░░░░░░░░░░░░░░   03.38 %
-```
-
 <!--END_SECTION:waka-->
 
 <br>
@@ -34,14 +25,14 @@ JavaScript       8 mins          █░░░░░░░░░░░░░░�
 			<th>На русском (<a href="https://t.me/tginfo">@tginfo</a>)</th>
 		</tr>
 		<caption>🚩 <a href="https://t.me/tginfo">@tginfo</a> in your language: <a href="https://t.me/tginfoworld"><b>@tginfoworld</b></a><caption/>
-  <tr><td><a href="https://t.me/tginfoen/1815">Tags in "Saved Messages" Chat on iOS</a></td>
+  <tr><td><a href="https://t.me/tginfoen/1816">Telegram is Working Unstably</a></td>
+    <td><a href="https://t.me/tginfo/3897">Telegram работает нестабильно </a></td></tr><tr><td><a href="https://t.me/tginfoen/1815">Tags in "Saved Messages" Chat on iOS</a></td>
     <td><a href="https://t.me/tginfo/3896">Теги в «Избранном» на iOS </a></td></tr><tr><td><a href="https://t.me/tginfoen/1814">Changes on the Telegram Ads Platform</a></td>
-    <td><a href="https://t.me/tginfo/3895">Изменения на платформе Telegram Ads</a></td></tr><tr><td><a href="https://t.me/tginfoen/1813">Updated Saved Messages</a></td>
-    <td><a href="https://t.me/tginfo/3894">Обновлённый чат «Избранное»</a></td></tr>
+    <td><a href="https://t.me/tginfo/3895">Изменения на платформе Telegram Ads</a></td></tr>
 </table>
 We are also available on <a href="https://github.com/tginfo"><b>🐙 GitHub</b></a>!
 </div>
 
 <br>
 <hr>
-<h4 align="center">This README file is generated <b>every 6 hours</b>!</br>Last refresh: <b>2024-01-07 20:11:18 (UTC time)</b></h4>
+<h4 align="center">This README file is generated <b>every 6 hours</b>!</br>Last refresh: <b>2024-01-08 08:15:49 (UTC time)</b></h4>
