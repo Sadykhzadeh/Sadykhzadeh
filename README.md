@@ -14,15 +14,6 @@
 <h2>📊 This week I spent my time using:</h2>
 
 <!--START_SECTION:waka-->
-
-```txt
-Astro        1 hr 37 mins    █████████████████░░░░░░░░   68.19 %
-JSON         31 mins         █████▓░░░░░░░░░░░░░░░░░░░   22.41 %
-Markdown     10 mins         ██░░░░░░░░░░░░░░░░░░░░░░░   07.42 %
-SVG          1 min           ▒░░░░░░░░░░░░░░░░░░░░░░░░   01.18 %
-XML          0 secs          ▒░░░░░░░░░░░░░░░░░░░░░░░░   00.70 %
-```
-
 <!--END_SECTION:waka-->
 
 <br>
@@ -35,13 +26,13 @@ XML          0 secs          ▒░░░░░░░░░░░░░░░░
 		</tr>
 		<caption>🚩 <a href="https://t.me/tginfo">@tginfo</a> in your language: <a href="https://t.me/tginfoworld"><b>@tginfoworld</b></a><caption/>
   <tr><td><a href="https://t.me/tginfoen/1825">⭐ More Features for Telegram Premium Users</a></td>
-    <td><a href="https://t.me/tginfo/3907">⭐ Больше функций для пользователей Telegram Premium</a></td></tr><tr><td><a href="https://t.me/tginfoen/1824">⭐ Limit Who You Can Receive Private Messages From</a></td>
-    <td><a href="https://t.me/tginfo/3906">⭐ Возможность ограничить отправку личных сообщений</a></td></tr><tr><td><a href="https://t.me/tginfoen/1823">Self-destructing Video Messages And Pause During Recording</a></td>
-    <td><a href="https://t.me/tginfo/3905">Самоуничтожающиеся видеосообщения и пауза во время записи</a></td></tr>
+    <td><a href="https://t.me/tginfo/3908">Telegram обновился до версии 10.6</a></td></tr><tr><td><a href="https://t.me/tginfoen/1824">⭐ Limit Who You Can Receive Private Messages From</a></td>
+    <td><a href="https://t.me/tginfo/3907">⭐ Больше функций для пользователей Telegram Premium</a></td></tr><tr><td><a href="https://t.me/tginfoen/1823">Self-destructing Video Messages And Pause During Recording</a></td>
+    <td><a href="https://t.me/tginfo/3906">⭐ Возможность ограничить отправку личных сообщений</a></td></tr>
 </table>
 We are also available on <a href="https://github.com/tginfo"><b>🐙 GitHub</b></a>!
 </div>
 
 <br>
 <hr>
-<h4 align="center">This README file is generated <b>every 6 hours</b>!</br>Last refresh: <b>2024-01-16 08:15:04 (UTC time)</b></h4>
+<h4 align="center">This README file is generated <b>every 6 hours</b>!</br>Last refresh: <b>2024-01-16 20:12:37 (UTC time)</b></h4>
