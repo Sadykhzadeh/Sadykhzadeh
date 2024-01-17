@@ -14,15 +14,6 @@
 <h2>📊 This week I spent my time using:</h2>
 
 <!--START_SECTION:waka-->
-
-```txt
-Astro      1 hr 10 mins    █████████████████████░░░░   84.12 %
-Markdown   9 mins          ██▓░░░░░░░░░░░░░░░░░░░░░░   11.05 %
-JSON       2 mins          █░░░░░░░░░░░░░░░░░░░░░░░░   03.43 %
-SVG        0 secs          ▒░░░░░░░░░░░░░░░░░░░░░░░░   00.96 %
-XML        0 secs          ░░░░░░░░░░░░░░░░░░░░░░░░░   00.44 %
-```
-
 <!--END_SECTION:waka-->
 
 <br>
@@ -34,9 +25,9 @@ XML        0 secs          ░░░░░░░░░░░░░░░░░�
 			<th>На русском (<a href="https://t.me/tginfo">@tginfo</a>)</th>
 		</tr>
 		<caption>🚩 <a href="https://t.me/tginfo">@tginfo</a> in your language: <a href="https://t.me/tginfoworld"><b>@tginfoworld</b></a><caption/>
-  <tr><td><a href="https://t.me/tginfoen/1825">⭐ More Features for Telegram Premium Users</a></td>
-    <td><a href="https://t.me/tginfo/3908">Telegram обновился до версии 10.6</a></td></tr><tr><td><a href="https://t.me/tginfoen/1824">⭐ Limit Who You Can Receive Private Messages From</a></td>
-    <td><a href="https://t.me/tginfo/3907">⭐ Больше функций для пользователей Telegram Premium</a></td></tr><tr><td><a href="https://t.me/tginfoen/1823">Self-destructing Video Messages And Pause During Recording</a></td>
+  <tr><td><a href="https://t.me/tginfoen/1826">Telegram Has Been Updated to Version 10.6</a></td>
+    <td><a href="https://t.me/tginfo/3908">Telegram обновился до версии 10.6</a></td></tr><tr><td><a href="https://t.me/tginfoen/1825">⭐ More Features for Telegram Premium Users</a></td>
+    <td><a href="https://t.me/tginfo/3907">⭐ Больше функций для пользователей Telegram Premium</a></td></tr><tr><td><a href="https://t.me/tginfoen/1824">⭐ Limit Who You Can Receive Private Messages From</a></td>
     <td><a href="https://t.me/tginfo/3906">⭐ Возможность ограничить отправку личных сообщений</a></td></tr>
 </table>
 We are also available on <a href="https://github.com/tginfo"><b>🐙 GitHub</b></a>!
@@ -44,4 +35,4 @@ We are also available on <a href="https://github.com/tginfo"><b>🐙 GitHub</b><
 
 <br>
 <hr>
-<h4 align="center">This README file is generated <b>every 6 hours</b>!</br>Last refresh: <b>2024-01-17 08:15:11 (UTC time)</b></h4>
+<h4 align="center">This README file is generated <b>every 6 hours</b>!</br>Last refresh: <b>2024-01-17 20:12:34 (UTC time)</b></h4>
