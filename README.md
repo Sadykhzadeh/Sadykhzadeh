@@ -14,15 +14,6 @@
 <h2>📊 This week I spent my time using:</h2>
 
 <!--START_SECTION:waka-->
-
-```txt
-Java             52 mins         ███████████▓░░░░░░░░░░░░░   47.01 %
-Kotlin           43 mins         █████████▓░░░░░░░░░░░░░░░   38.86 %
-JSON             11 mins         ██▓░░░░░░░░░░░░░░░░░░░░░░   10.08 %
-Text             3 mins          ▓░░░░░░░░░░░░░░░░░░░░░░░░   02.91 %
-TeX              1 min           ▒░░░░░░░░░░░░░░░░░░░░░░░░   00.91 %
-```
-
 <!--END_SECTION:waka-->
 
 <br>
@@ -35,13 +26,13 @@ TeX              1 min           ▒░░░░░░░░░░░░░░�
 		</tr>
 		<caption>🚩 <a href="https://t.me/tginfo">@tginfo</a> in your language: <a href="https://t.me/tginfoworld"><b>@tginfoworld</b></a><caption/>
   <tr><td><a href="https://t.me/tginfoen/1830">Fixed recording of video messages on iOS</a></td>
-    <td><a href="https://t.me/tginfo/3915">Исправлена запись видеосообщений на iOS </a></td></tr><tr><td><a href="https://t.me/tginfoen/1829">Telegram Desktop Has Been Updated to Version 4.14.8</a></td>
-    <td><a href="https://t.me/tginfo/3914">Сбои при подключении к Telegram </a></td></tr><tr><td><a href="https://t.me/tginfoen/1828">Telegram Updated to Version 10.6.1</a></td>
-    <td><a href="https://t.me/tginfo/3913">Telegram Desktop обновился до версии 4.14.8 </a></td></tr>
+    <td><a href="https://t.me/tginfo/3916">Telemetr: обновление тарифов и новые возможности</a></td></tr><tr><td><a href="https://t.me/tginfoen/1829">Telegram Desktop Has Been Updated to Version 4.14.8</a></td>
+    <td><a href="https://t.me/tginfo/3915">Исправлена запись видеосообщений на iOS </a></td></tr><tr><td><a href="https://t.me/tginfoen/1828">Telegram Updated to Version 10.6.1</a></td>
+    <td><a href="https://t.me/tginfo/3914">Сбои при подключении к Telegram </a></td></tr>
 </table>
 We are also available on <a href="https://github.com/tginfo"><b>🐙 GitHub</b></a>!
 </div>
 
 <br>
 <hr>
-<h4 align="center">This README file is generated <b>every 6 hours</b>!</br>Last refresh: <b>2024-01-29 08:13:53 (UTC time)</b></h4>
+<h4 align="center">This README file is generated <b>every 6 hours</b>!</br>Last refresh: <b>2024-01-29 20:12:34 (UTC time)</b></h4>
