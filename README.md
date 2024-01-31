@@ -14,15 +14,6 @@
 <h2>📊 This week I spent my time using:</h2>
 
 <!--START_SECTION:waka-->
-
-```txt
-Java             52 mins         ███████████▓░░░░░░░░░░░░░   47.01 %
-Kotlin           43 mins         █████████▓░░░░░░░░░░░░░░░   38.86 %
-JSON             11 mins         ██▓░░░░░░░░░░░░░░░░░░░░░░   10.08 %
-Text             3 mins          ▓░░░░░░░░░░░░░░░░░░░░░░░░   02.91 %
-TeX              1 min           ▒░░░░░░░░░░░░░░░░░░░░░░░░   00.91 %
-```
-
 <!--END_SECTION:waka-->
 
 <br>
@@ -34,14 +25,14 @@ TeX              1 min           ▒░░░░░░░░░░░░░░�
 			<th>На русском (<a href="https://t.me/tginfo">@tginfo</a>)</th>
 		</tr>
 		<caption>🚩 <a href="https://t.me/tginfo">@tginfo</a> in your language: <a href="https://t.me/tginfoworld"><b>@tginfoworld</b></a><caption/>
-  <tr><td><a href="https://t.me/tginfoen/1833">Creating a Telegram Account Without Notification</a></td>
-    <td><a href="https://t.me/tginfo/3920">Фильтры сообщений в Избранном </a></td></tr><tr><td><a href="https://t.me/tginfoen/1832">⭐ Improved Quality of Stories in Telegram</a></td>
-    <td><a href="https://t.me/tginfo/3919">Создание аккаунта в Telegram без уведомления</a></td></tr><tr><td><a href="https://t.me/tginfoen/1831">⭐ Tags in Saved Messages for Telegram Premium Users</a></td>
-    <td><a href="https://t.me/tginfo/3918">⭐ Повышенное качество историй в Telegram</a></td></tr>
+  <tr><td><a href="https://t.me/tginfoen/1835">⚡ Boosts for Groups</a></td>
+    <td><a href="https://t.me/tginfo/3922">Telegram для Android обновился до версии 10.6.3</a></td></tr><tr><td><a href="https://t.me/tginfoen/1834">Filters in Saved Messages</a></td>
+    <td><a href="https://t.me/tginfo/3921">⚡ Голоса для групповых чатов</a></td></tr><tr><td><a href="https://t.me/tginfoen/1833">Creating a Telegram Account Without Notification</a></td>
+    <td><a href="https://t.me/tginfo/3920">Фильтры сообщений в Избранном </a></td></tr>
 </table>
 We are also available on <a href="https://github.com/tginfo"><b>🐙 GitHub</b></a>!
 </div>
 
 <br>
 <hr>
-<h4 align="center">This README file is generated <b>every 6 hours</b>!</br>Last refresh: <b>2024-01-31 08:13:35 (UTC time)</b></h4>
+<h4 align="center">This README file is generated <b>every 6 hours</b>!</br>Last refresh: <b>2024-01-31 20:11:18 (UTC time)</b></h4>
