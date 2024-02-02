@@ -14,14 +14,6 @@
 <h2>📊 This week I spent my time using:</h2>
 
 <!--START_SECTION:waka-->
-
-```txt
-Kotlin           43 mins         ███████████████████▓░░░░░   79.05 %
-JSON             11 mins         █████░░░░░░░░░░░░░░░░░░░░   20.50 %
-Markdown         0 secs          ░░░░░░░░░░░░░░░░░░░░░░░░░   00.27 %
-GitIgnore file   0 secs          ░░░░░░░░░░░░░░░░░░░░░░░░░   00.18 %
-```
-
 <!--END_SECTION:waka-->
 
 <br>
@@ -33,14 +25,14 @@ GitIgnore file   0 secs          ░░░░░░░░░░░░░░░�
 			<th>На русском (<a href="https://t.me/tginfo">@tginfo</a>)</th>
 		</tr>
 		<caption>🚩 <a href="https://t.me/tginfo">@tginfo</a> in your language: <a href="https://t.me/tginfoworld"><b>@tginfoworld</b></a><caption/>
-  <tr><td><a href="https://t.me/tginfoen/1836">Telegram for Android Has Been Updated to Version 10.6.3</a></td>
-    <td><a href="https://t.me/tginfo/3922">Telegram для Android обновился до версии 10.6.3</a></td></tr><tr><td><a href="https://t.me/tginfoen/1835">⚡ Boosts for Groups</a></td>
-    <td><a href="https://t.me/tginfo/3921">⚡ Голоса для групповых чатов</a></td></tr><tr><td><a href="https://t.me/tginfoen/1834">Filters in Saved Messages</a></td>
-    <td><a href="https://t.me/tginfo/3920">Фильтры сообщений в Избранном </a></td></tr>
+  <tr><td><a href="https://t.me/tginfoen/1842">⭐ Limit Who You Can Receive Private Messages From</a></td>
+    <td><a href="https://t.me/tginfo/3928">⭐ Ограничение входящих сообщений</a></td></tr><tr><td><a href="https://t.me/tginfoen/1841">Read Time in Private Chats</a></td>
+    <td><a href="https://t.me/tginfo/3927">Время прочтения в личных чатах</a></td></tr><tr><td><a href="https://t.me/tginfoen/1840">⭐ Tags in Saved Messages</a></td>
+    <td><a href="https://t.me/tginfo/3926">⭐ Теги в «Избранном»</a></td></tr>
 </table>
 We are also available on <a href="https://github.com/tginfo"><b>🐙 GitHub</b></a>!
 </div>
 
 <br>
 <hr>
-<h4 align="center">This README file is generated <b>every 6 hours</b>!</br>Last refresh: <b>2024-02-02 08:14:01 (UTC time)</b></h4>
+<h4 align="center">This README file is generated <b>every 6 hours</b>!</br>Last refresh: <b>2024-02-02 20:10:57 (UTC time)</b></h4>
