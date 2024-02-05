@@ -14,15 +14,6 @@
 <h2>📊 This week I spent my time using:</h2>
 
 <!--START_SECTION:waka-->
-
-```txt
-CSS        49 mins         ████████████████▒░░░░░░░░   64.76 %
-Bash       12 mins         ████▒░░░░░░░░░░░░░░░░░░░░   16.86 %
-Text       6 mins          ██▒░░░░░░░░░░░░░░░░░░░░░░   08.71 %
-Markdown   4 mins          █▓░░░░░░░░░░░░░░░░░░░░░░░   06.09 %
-HTML       2 mins          ▓░░░░░░░░░░░░░░░░░░░░░░░░   03.06 %
-```
-
 <!--END_SECTION:waka-->
 
 <br>
@@ -34,14 +25,14 @@ HTML       2 mins          ▓░░░░░░░░░░░░░░░░�
 			<th>На русском (<a href="https://t.me/tginfo">@tginfo</a>)</th>
 		</tr>
 		<caption>🚩 <a href="https://t.me/tginfo">@tginfo</a> in your language: <a href="https://t.me/tginfoworld"><b>@tginfoworld</b></a><caption/>
-  <tr><td><a href="https://t.me/tginfoen/1842">⭐ Limit Who You Can Receive Private Messages From</a></td>
+  <tr><td><a href="https://t.me/tginfoen/1843">Telegram for Android Has Been Updated to Version 10.6.4</a></td>
+    <td><a href="https://t.me/tginfo/3929">Telegram для Android обновился до версии 10.6.4</a></td></tr><tr><td><a href="https://t.me/tginfoen/1842">⭐ Limit Who You Can Receive Private Messages From</a></td>
     <td><a href="https://t.me/tginfo/3928">⭐ Ограничение входящих сообщений</a></td></tr><tr><td><a href="https://t.me/tginfoen/1841">Read Time in Private Chats</a></td>
-    <td><a href="https://t.me/tginfo/3927">Время прочтения в личных чатах</a></td></tr><tr><td><a href="https://t.me/tginfoen/1840">⭐ Tags in Saved Messages</a></td>
-    <td><a href="https://t.me/tginfo/3926">⭐ Теги в «Избранном»</a></td></tr>
+    <td><a href="https://t.me/tginfo/3927">Время прочтения в личных чатах</a></td></tr>
 </table>
 We are also available on <a href="https://github.com/tginfo"><b>🐙 GitHub</b></a>!
 </div>
 
 <br>
 <hr>
-<h4 align="center">This README file is generated <b>every 6 hours</b>!</br>Last refresh: <b>2024-02-05 08:14:15 (UTC time)</b></h4>
+<h4 align="center">This README file is generated <b>every 6 hours</b>!</br>Last refresh: <b>2024-02-05 20:12:19 (UTC time)</b></h4>
