@@ -14,15 +14,6 @@
 <h2>📊 This week I spent my time using:</h2>
 
 <!--START_SECTION:waka-->
-
-```txt
-TypeScript   9 hrs 57 mins   ███████████████████░░░░░░   75.47 %
-JavaScript   1 hr 4 mins     ██░░░░░░░░░░░░░░░░░░░░░░░   08.20 %
-Python       45 mins         █▒░░░░░░░░░░░░░░░░░░░░░░░   05.73 %
-JSON         34 mins         █░░░░░░░░░░░░░░░░░░░░░░░░   04.35 %
-CSS          21 mins         ▓░░░░░░░░░░░░░░░░░░░░░░░░   02.76 %
-```
-
 <!--END_SECTION:waka-->
 
 <br>
@@ -35,13 +26,13 @@ CSS          21 mins         ▓░░░░░░░░░░░░░░░░
 		</tr>
 		<caption>🚩 <a href="https://t.me/tginfo">@tginfo</a> in your language: <a href="https://t.me/tginfoworld"><b>@tginfoworld</b></a><caption/>
   <tr><td><a href="https://t.me/tginfoen/1848">⚡ Boosts in Groups</a></td>
-    <td><a href="https://t.me/tginfo/3936">⭐ Telegram готовит Premium-функции для бизнеса</a></td></tr><tr><td><a href="https://t.me/tginfoen/1847">⚡ Features of the Boost System in Groups</a></td>
-    <td><a href="https://t.me/tginfo/3935">⚡ Бусты в группах</a></td></tr><tr><td><a href="https://t.me/tginfoen/1846">⚡ Boosts in Groups</a></td>
-    <td><a href="https://t.me/tginfo/3934">⚡ Особенности системы голосов в группах</a></td></tr>
+    <td><a href="https://t.me/tginfo/3937">Приложения Telegram для Android и iOS обновились до версии 10.8 </a></td></tr><tr><td><a href="https://t.me/tginfoen/1847">⚡ Features of the Boost System in Groups</a></td>
+    <td><a href="https://t.me/tginfo/3936">⭐ Telegram готовит Premium-функции для бизнеса</a></td></tr><tr><td><a href="https://t.me/tginfoen/1846">⚡ Boosts in Groups</a></td>
+    <td><a href="https://t.me/tginfo/3935">⚡ Бусты в группах</a></td></tr>
 </table>
 We are also available on <a href="https://github.com/tginfo"><b>🐙 GitHub</b></a>!
 </div>
 
 <br>
 <hr>
-<h4 align="center">This README file is generated <b>every 6 hours</b>!</br>Last refresh: <b>2024-02-15 08:13:49 (UTC time)</b></h4>
+<h4 align="center">This README file is generated <b>every 6 hours</b>!</br>Last refresh: <b>2024-02-15 20:09:58 (UTC time)</b></h4>
