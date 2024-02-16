@@ -14,15 +14,6 @@
 <h2>📊 This week I spent my time using:</h2>
 
 <!--START_SECTION:waka-->
-
-```txt
-TypeScript   10 hrs 36 mins  ████████████████████▓░░░░   82.69 %
-Python       45 mins         █▒░░░░░░░░░░░░░░░░░░░░░░░   05.89 %
-JavaScript   34 mins         █░░░░░░░░░░░░░░░░░░░░░░░░   04.46 %
-JSON         25 mins         ▓░░░░░░░░░░░░░░░░░░░░░░░░   03.31 %
-CSS          16 mins         ▓░░░░░░░░░░░░░░░░░░░░░░░░   02.17 %
-```
-
 <!--END_SECTION:waka-->
 
 <br>
@@ -34,14 +25,14 @@ CSS          16 mins         ▓░░░░░░░░░░░░░░░░
 			<th>На русском (<a href="https://t.me/tginfo">@tginfo</a>)</th>
 		</tr>
 		<caption>🚩 <a href="https://t.me/tginfo">@tginfo</a> in your language: <a href="https://t.me/tginfoworld"><b>@tginfoworld</b></a><caption/>
-  <tr><td><a href="https://t.me/tginfoen/1849">⭐ Telegram Is Developing Premium Features for Business</a></td>
-    <td><a href="https://t.me/tginfo/3937">Приложения Telegram для Android и iOS обновились до версии 10.8 </a></td></tr><tr><td><a href="https://t.me/tginfoen/1848">⚡ Boosts in Groups</a></td>
-    <td><a href="https://t.me/tginfo/3936">⭐ Telegram готовит Premium-функции для бизнеса</a></td></tr><tr><td><a href="https://t.me/tginfoen/1847">⚡ Features of the Boost System in Groups</a></td>
-    <td><a href="https://t.me/tginfo/3935">⚡ Бусты в группах</a></td></tr>
+  <tr><td><a href="https://t.me/tginfoen/1851">Telegram Has Been Updated to Version 10.8</a></td>
+    <td><a href="https://t.me/tginfo/3938">Bot API обновился до версии 7.1</a></td></tr><tr><td><a href="https://t.me/tginfoen/1850">Bot API was updated to version 7.1</a></td>
+    <td><a href="https://t.me/tginfo/3937">Telegram обновился до версии 10.8 </a></td></tr><tr><td><a href="https://t.me/tginfoen/1849">⭐ Telegram Is Developing Premium Features for Business</a></td>
+    <td><a href="https://t.me/tginfo/3936">⭐ Telegram готовит Premium-функции для бизнеса</a></td></tr>
 </table>
 We are also available on <a href="https://github.com/tginfo"><b>🐙 GitHub</b></a>!
 </div>
 
 <br>
 <hr>
-<h4 align="center">This README file is generated <b>every 6 hours</b>!</br>Last refresh: <b>2024-02-16 08:14:04 (UTC time)</b></h4>
+<h4 align="center">This README file is generated <b>every 6 hours</b>!</br>Last refresh: <b>2024-02-16 20:11:02 (UTC time)</b></h4>
