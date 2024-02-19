@@ -14,15 +14,6 @@
 <h2>📊 This week I spent my time using:</h2>
 
 <!--START_SECTION:waka-->
-
-```txt
-TypeScript       6 hrs 27 mins   ███████████████████▒░░░░░   76.87 %
-Python           45 mins         ██▒░░░░░░░░░░░░░░░░░░░░░░   08.99 %
-JavaScript       34 mins         █▓░░░░░░░░░░░░░░░░░░░░░░░   06.79 %
-CSS              12 mins         ▓░░░░░░░░░░░░░░░░░░░░░░░░   02.42 %
-C++              10 mins         ▓░░░░░░░░░░░░░░░░░░░░░░░░   02.03 %
-```
-
 <!--END_SECTION:waka-->
 
 <br>
@@ -35,13 +26,13 @@ C++              10 mins         ▓░░░░░░░░░░░░░░�
 		</tr>
 		<caption>🚩 <a href="https://t.me/tginfo">@tginfo</a> in your language: <a href="https://t.me/tginfoworld"><b>@tginfoworld</b></a><caption/>
   <tr><td><a href="https://t.me/tginfoen/1853">Telegram’s DC2 Is Unstable</a></td>
-    <td><a href="https://t.me/tginfo/3940">Наблюдаются проблемы с Telegram по всему миру с 14:20 МСК.</a></td></tr><tr><td><a href="https://t.me/tginfoen/1852">⭐ Learn More About Premium Features For Business</a></td>
-    <td><a href="https://t.me/tginfo/3939">⭐ Подробнее о Premium-функциях для бизнеса</a></td></tr><tr><td><a href="https://t.me/tginfoen/1851">Telegram Has Been Updated to Version 10.8</a></td>
-    <td><a href="https://t.me/tginfo/3938">Bot API обновился до версии 7.1</a></td></tr>
+    <td><a href="https://t.me/tginfo/3941">«Номер телефона заблокирован»: что делать?</a></td></tr><tr><td><a href="https://t.me/tginfoen/1852">⭐ Learn More About Premium Features For Business</a></td>
+    <td><a href="https://t.me/tginfo/3940">Наблюдаются проблемы с Telegram по всему миру с 14:20 МСК.</a></td></tr><tr><td><a href="https://t.me/tginfoen/1851">Telegram Has Been Updated to Version 10.8</a></td>
+    <td><a href="https://t.me/tginfo/3939">⭐ Подробнее о Premium-функциях для бизнеса</a></td></tr>
 </table>
 We are also available on <a href="https://github.com/tginfo"><b>🐙 GitHub</b></a>!
 </div>
 
 <br>
 <hr>
-<h4 align="center">This README file is generated <b>every 6 hours</b>!</br>Last refresh: <b>2024-02-18 20:11:38 (UTC time)</b></h4>
+<h4 align="center">This README file is generated <b>every 6 hours</b>!</br>Last refresh: <b>2024-02-19 08:14:35 (UTC time)</b></h4>
