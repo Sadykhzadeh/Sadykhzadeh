@@ -14,15 +14,6 @@
 <h2>📊 This week I spent my time using:</h2>
 
 <!--START_SECTION:waka-->
-
-```txt
-TypeScript       6 hrs 52 mins   ███████████████████▓░░░░░   79.19 %
-CSS              51 mins         ██▒░░░░░░░░░░░░░░░░░░░░░░   09.92 %
-JSON             36 mins         █▓░░░░░░░░░░░░░░░░░░░░░░░   07.04 %
-JavaScript       7 mins          ▒░░░░░░░░░░░░░░░░░░░░░░░░   01.50 %
-Other            7 mins          ▒░░░░░░░░░░░░░░░░░░░░░░░░   01.39 %
-```
-
 <!--END_SECTION:waka-->
 
 <br>
@@ -34,14 +25,14 @@ Other            7 mins          ▒░░░░░░░░░░░░░░�
 			<th>На русском (<a href="https://t.me/tginfo">@tginfo</a>)</th>
 		</tr>
 		<caption>🚩 <a href="https://t.me/tginfo">@tginfo</a> in your language: <a href="https://t.me/tginfoworld"><b>@tginfoworld</b></a><caption/>
-  <tr><td><a href="https://t.me/tginfoen/1859">⭐ Option to Set Colors for Folder Tags in Chat List</a></td>
+  <tr><td><a href="https://t.me/tginfoen/1860">Telegram Will Only Share Its Ad Revenue in Countries Where Ad Platform Is Newly Introduced</a></td>
+    <td><a href="https://t.me/tginfo/3947">Истории для групп и ещё 8 нововведений</a></td></tr><tr><td><a href="https://t.me/tginfoen/1859">⭐ Option to Set Colors for Folder Tags in Chat List</a></td>
     <td><a href="https://t.me/tginfo/3946">Каналам из России не будут выплачиваться доходы за нативную рекламу</a></td></tr><tr><td><a href="https://t.me/tginfoen/1858">Get Premium for Helping Telegram Send SMS Codes</a></td>
-    <td><a href="https://t.me/tginfo/3945">⭐ Настройка цветов для названий папок</a></td></tr><tr><td><a href="https://t.me/tginfoen/1856">What to do when my phone number gets banned on Telegram?</a></td>
-    <td><a href="https://t.me/tginfo/3944">Проблемы с доступом к Telegram</a></td></tr>
+    <td><a href="https://t.me/tginfo/3945">⭐ Настройка цветов для названий папок</a></td></tr>
 </table>
 We are also available on <a href="https://github.com/tginfo"><b>🐙 GitHub</b></a>!
 </div>
 
 <br>
 <hr>
-<h4 align="center">This README file is generated <b>every 6 hours</b>!</br>Last refresh: <b>2024-02-29 20:13:00 (UTC time)</b></h4>
+<h4 align="center">This README file is generated <b>every 6 hours</b>!</br>Last refresh: <b>2024-03-01 08:13:53 (UTC time)</b></h4>
