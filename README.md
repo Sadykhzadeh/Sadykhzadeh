@@ -14,15 +14,6 @@
 <h2>📊 This week I spent my time using:</h2>
 
 <!--START_SECTION:waka-->
-
-```txt
-TypeScript   5 hrs 42 mins   ██████████████████████░░░   88.39 %
-CSS          20 mins         █▒░░░░░░░░░░░░░░░░░░░░░░░   05.25 %
-JSON         12 mins         █░░░░░░░░░░░░░░░░░░░░░░░░   03.35 %
-Markdown     6 mins          ▒░░░░░░░░░░░░░░░░░░░░░░░░   01.59 %
-JavaScript   3 mins          ▒░░░░░░░░░░░░░░░░░░░░░░░░   00.87 %
-```
-
 <!--END_SECTION:waka-->
 
 <br>
@@ -34,14 +25,14 @@ JavaScript   3 mins          ▒░░░░░░░░░░░░░░░░
 			<th>На русском (<a href="https://t.me/tginfo">@tginfo</a>)</th>
 		</tr>
 		<caption>🚩 <a href="https://t.me/tginfo">@tginfo</a> in your language: <a href="https://t.me/tginfoworld"><b>@tginfoworld</b></a><caption/>
-  <tr><td><a href="https://t.me/tginfoen/1860">Telegram Will Only Share Its Ad Revenue in Countries Where Ad Platform Is Newly Introduced</a></td>
-    <td><a href="https://t.me/tginfo/3947">Истории для групп и ещё 8 нововведений</a></td></tr><tr><td><a href="https://t.me/tginfoen/1859">⭐ Option to Set Colors for Folder Tags in Chat List</a></td>
-    <td><a href="https://t.me/tginfo/3946">Каналам из России не будут выплачиваться доходы за нативную рекламу</a></td></tr><tr><td><a href="https://t.me/tginfoen/1858">Get Premium for Helping Telegram Send SMS Codes</a></td>
-    <td><a href="https://t.me/tginfo/3945">⭐ Настройка цветов для названий папок</a></td></tr>
+  <tr><td><a href="https://t.me/tginfoen/1861">🏪 Telegram Business Features</a></td>
+    <td><a href="https://t.me/tginfo/3950">Telegram для Android и iOS обновился до версии 10.9</a></td></tr><tr><td><a href="https://t.me/tginfoen/1860">Telegram Will Only Share Its Ad Revenue in Countries Where Ad Platform Is Newly Introduced</a></td>
+    <td><a href="https://t.me/tginfo/3949">Проблемы с доступом к Telegram</a></td></tr><tr><td><a href="https://t.me/tginfoen/1859">⭐ Option to Set Colors for Folder Tags in Chat List</a></td>
+    <td><a href="https://t.me/tginfo/3948">🏪 Функции Telegram для бизнеса</a></td></tr>
 </table>
 We are also available on <a href="https://github.com/tginfo"><b>🐙 GitHub</b></a>!
 </div>
 
 <br>
 <hr>
-<h4 align="center">This README file is generated <b>every 6 hours</b>!</br>Last refresh: <b>2024-03-04 09:59:29 (UTC time)</b></h4>
+<h4 align="center">This README file is generated <b>every 6 hours</b>!</br>Last refresh: <b>2024-03-04 20:11:28 (UTC time)</b></h4>
