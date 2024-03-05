@@ -14,15 +14,6 @@
 <h2>📊 This week I spent my time using:</h2>
 
 <!--START_SECTION:waka-->
-
-```txt
-TypeScript   4 hrs 32 mins   █████████████████████░░░░   83.92 %
-JavaScript   24 mins         ██░░░░░░░░░░░░░░░░░░░░░░░   07.42 %
-CSS          19 mins         █▓░░░░░░░░░░░░░░░░░░░░░░░   06.10 %
-Markdown     6 mins          ▒░░░░░░░░░░░░░░░░░░░░░░░░   01.89 %
-Other        2 mins          ░░░░░░░░░░░░░░░░░░░░░░░░░   00.62 %
-```
-
 <!--END_SECTION:waka-->
 
 <br>
@@ -34,14 +25,14 @@ Other        2 mins          ░░░░░░░░░░░░░░░░░
 			<th>На русском (<a href="https://t.me/tginfo">@tginfo</a>)</th>
 		</tr>
 		<caption>🚩 <a href="https://t.me/tginfo">@tginfo</a> in your language: <a href="https://t.me/tginfoworld"><b>@tginfoworld</b></a><caption/>
-  <tr><td><a href="https://t.me/tginfoen/1861">🏪 Telegram Business Features</a></td>
-    <td><a href="https://t.me/tginfo/3951">🪙 Telegram Business могут вынести в отдельную подписку</a></td></tr><tr><td><a href="https://t.me/tginfoen/1860">Telegram Will Only Share Its Ad Revenue in Countries Where Ad Platform Is Newly Introduced</a></td>
-    <td><a href="https://t.me/tginfo/3950">Telegram для Android и iOS обновился до версии 10.9</a></td></tr><tr><td><a href="https://t.me/tginfoen/1859">⭐ Option to Set Colors for Folder Tags in Chat List</a></td>
-    <td><a href="https://t.me/tginfo/3949">Проблемы с доступом к Telegram</a></td></tr>
+  <tr><td><a href="https://t.me/tginfoen/1862">Pavel Durov speaks on the reliability and innovation of Telegram in comparison to other platforms </a></td>
+    <td><a href="https://t.me/tginfo/3954">Сотрудничество Telegram с Малайзией</a></td></tr><tr><td><a href="https://t.me/tginfoen/1861">🏪 Telegram Business Features</a></td>
+    <td><a href="https://t.me/tginfo/3953">Бот для постинга с поддержкой Premium-эмодзи, статистикой и многим другим</a></td></tr><tr><td><a href="https://t.me/tginfoen/1860">Telegram Will Only Share Its Ad Revenue in Countries Where Ad Platform Is Newly Introduced</a></td>
+    <td><a href="https://t.me/tginfo/3952">🪙 Telegram Business могут вынести в отдельную подписку</a></td></tr>
 </table>
 We are also available on <a href="https://github.com/tginfo"><b>🐙 GitHub</b></a>!
 </div>
 
 <br>
 <hr>
-<h4 align="center">This README file is generated <b>every 6 hours</b>!</br>Last refresh: <b>2024-03-05 08:14:36 (UTC time)</b></h4>
+<h4 align="center">This README file is generated <b>every 6 hours</b>!</br>Last refresh: <b>2024-03-05 20:11:25 (UTC time)</b></h4>
