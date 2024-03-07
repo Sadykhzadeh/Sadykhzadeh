@@ -14,15 +14,6 @@
 <h2>📊 This week I spent my time using:</h2>
 
 <!--START_SECTION:waka-->
-
-```txt
-TypeScript   4 hrs 56 mins   ███████████████████░░░░░░   75.54 %
-CSS          38 mins         ██▒░░░░░░░░░░░░░░░░░░░░░░   09.73 %
-JavaScript   36 mins         ██▒░░░░░░░░░░░░░░░░░░░░░░   09.35 %
-Markdown     18 mins         █░░░░░░░░░░░░░░░░░░░░░░░░   04.61 %
-Other        2 mins          ▒░░░░░░░░░░░░░░░░░░░░░░░░   00.72 %
-```
-
 <!--END_SECTION:waka-->
 
 <br>
@@ -34,9 +25,9 @@ Other        2 mins          ▒░░░░░░░░░░░░░░░░
 			<th>На русском (<a href="https://t.me/tginfo">@tginfo</a>)</th>
 		</tr>
 		<caption>🚩 <a href="https://t.me/tginfo">@tginfo</a> in your language: <a href="https://t.me/tginfoworld"><b>@tginfoworld</b></a><caption/>
-  <tr><td><a href="https://t.me/tginfoen/1862">Pavel Durov speaks on the reliability and innovation of Telegram in comparison to other platforms </a></td>
-    <td><a href="https://t.me/tginfo/3955">Сотрудничество Telegram с Малайзией</a></td></tr><tr><td><a href="https://t.me/tginfoen/1861">🏪 Telegram Business Features</a></td>
-    <td><a href="https://t.me/tginfo/3954">Бот для постинга с поддержкой Premium-эмодзи, статистикой и многим другим</a></td></tr><tr><td><a href="https://t.me/tginfoen/1860">Telegram Will Only Share Its Ad Revenue in Countries Where Ad Platform Is Newly Introduced</a></td>
+  <tr><td><a href="https://t.me/tginfoen/1866">Telegram's Co-Operation with Malaysia</a></td>
+    <td><a href="https://t.me/tginfo/3955">Сотрудничество Telegram с Малайзией</a></td></tr><tr><td><a href="https://t.me/tginfoen/1862">Pavel Durov speaks on the reliability and innovation of Telegram in comparison to other platforms </a></td>
+    <td><a href="https://t.me/tginfo/3954">Бот для постинга с поддержкой Premium-эмодзи, статистикой и многим другим</a></td></tr><tr><td><a href="https://t.me/tginfoen/1861">🏪 Telegram Business Features</a></td>
     <td><a href="https://t.me/tginfo/3953">🪙 Telegram Business могут вынести в отдельную подписку</a></td></tr>
 </table>
 We are also available on <a href="https://github.com/tginfo"><b>🐙 GitHub</b></a>!
@@ -44,4 +35,4 @@ We are also available on <a href="https://github.com/tginfo"><b>🐙 GitHub</b><
 
 <br>
 <hr>
-<h4 align="center">This README file is generated <b>every 6 hours</b>!</br>Last refresh: <b>2024-03-07 08:11:41 (UTC time)</b></h4>
+<h4 align="center">This README file is generated <b>every 6 hours</b>!</br>Last refresh: <b>2024-03-07 20:11:05 (UTC time)</b></h4>
