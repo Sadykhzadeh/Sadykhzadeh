@@ -14,15 +14,6 @@
 <h2>📊 This week I spent my time using:</h2>
 
 <!--START_SECTION:waka-->
-
-```txt
-TypeScript   6 hrs 45 mins   ███████████████████░░░░░░   75.62 %
-CSS          48 mins         ██▒░░░░░░░░░░░░░░░░░░░░░░   09.00 %
-JavaScript   39 mins         █▓░░░░░░░░░░░░░░░░░░░░░░░   07.31 %
-JSON         25 mins         █▒░░░░░░░░░░░░░░░░░░░░░░░   04.80 %
-Markdown     16 mins         ▓░░░░░░░░░░░░░░░░░░░░░░░░   03.08 %
-```
-
 <!--END_SECTION:waka-->
 
 <br>
@@ -34,14 +25,14 @@ Markdown     16 mins         ▓░░░░░░░░░░░░░░░░
 			<th>На русском (<a href="https://t.me/tginfo">@tginfo</a>)</th>
 		</tr>
 		<caption>🚩 <a href="https://t.me/tginfo">@tginfo</a> in your language: <a href="https://t.me/tginfoworld"><b>@tginfoworld</b></a><caption/>
-  <tr><td><a href="https://t.me/tginfoen/1868">Biometrics in Mini Apps</a></td>
-    <td><a href="https://t.me/tginfo/3958">Биометрия в мини-приложениях</a></td></tr><tr><td><a href="https://t.me/tginfoen/1867">Telegram Desktop Has Been Updated to Version 4.15.1</a></td>
-    <td><a href="https://t.me/tginfo/3957">Telegram Desktop обновился до версии 4.15.1 </a></td></tr><tr><td><a href="https://t.me/tginfoen/1866">Telegram's Co-Operation with Malaysia</a></td>
-    <td><a href="https://t.me/tginfo/3956">Сотрудничество Telegram с Малайзией</a></td></tr>
+  <tr><td><a href="https://t.me/tginfoen/1869">Biometrics in Mini Apps</a></td>
+    <td><a href="https://t.me/tginfo/3960">TgConf — первая конференция по Telegram Ads</a></td></tr><tr><td><a href="https://t.me/tginfoen/1868">Telegram Desktop Has Been Updated to Version 4.15.1</a></td>
+    <td><a href="https://t.me/tginfo/3959">Биометрия в мини-приложениях</a></td></tr><tr><td><a href="https://t.me/tginfoen/1867">Telegram's Co-Operation with Malaysia</a></td>
+    <td><a href="https://t.me/tginfo/3958">Telegram Desktop обновился до версии 4.15.1 </a></td></tr>
 </table>
 We are also available on <a href="https://github.com/tginfo"><b>🐙 GitHub</b></a>!
 </div>
 
 <br>
 <hr>
-<h4 align="center">This README file is generated <b>every 6 hours</b>!</br>Last refresh: <b>2024-03-11 08:14:48 (UTC time)</b></h4>
+<h4 align="center">This README file is generated <b>every 6 hours</b>!</br>Last refresh: <b>2024-03-11 20:13:07 (UTC time)</b></h4>
