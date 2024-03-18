@@ -14,15 +14,6 @@
 <h2>📊 This week I spent my time using:</h2>
 
 <!--START_SECTION:waka-->
-
-```txt
-TypeScript       15 hrs 12 mins  ██████████████████████░░░   88.12 %
-CSS              1 hr 40 mins    ██▒░░░░░░░░░░░░░░░░░░░░░░   09.73 %
-JSON             14 mins         ▒░░░░░░░░░░░░░░░░░░░░░░░░   01.42 %
-Bash             5 mins          ░░░░░░░░░░░░░░░░░░░░░░░░░   00.51 %
-GitIgnore file   1 min           ░░░░░░░░░░░░░░░░░░░░░░░░░   00.13 %
-```
-
 <!--END_SECTION:waka-->
 
 <br>
@@ -34,14 +25,14 @@ GitIgnore file   1 min           ░░░░░░░░░░░░░░░�
 			<th>На русском (<a href="https://t.me/tginfo">@tginfo</a>)</th>
 		</tr>
 		<caption>🚩 <a href="https://t.me/tginfo">@tginfo</a> in your language: <a href="https://t.me/tginfoworld"><b>@tginfoworld</b></a><caption/>
-  <tr><td><a href="https://t.me/tginfoen/1871">Telegram Desktop has been updated to version 4.15.2</a></td>
+  <tr><td><a href="https://t.me/tginfoen/1872">New Telegram Bond Issued for $330 Million</a></td>
+    <td><a href="https://t.me/tginfo/3964">Новый выпуск облигаций Telegram на $330 млн</a></td></tr><tr><td><a href="https://t.me/tginfoen/1871">Telegram Desktop has been updated to version 4.15.2</a></td>
     <td><a href="https://t.me/tginfo/3963">Telegram Desktop обновился до версии 4.15.2</a></td></tr><tr><td><a href="https://t.me/tginfoen/1870">Disruptions in Telegram's Services</a></td>
-    <td><a href="https://t.me/tginfo/3962">Перебои в работе Telegram</a></td></tr><tr><td><a href="https://t.me/tginfoen/1869">Biometrics in Mini Apps</a></td>
-    <td><a href="https://t.me/tginfo/3961">85 млн. пользователей Telegram&nbsp;в России</a></td></tr>
+    <td><a href="https://t.me/tginfo/3962">Перебои в работе Telegram</a></td></tr>
 </table>
 We are also available on <a href="https://github.com/tginfo"><b>🐙 GitHub</b></a>!
 </div>
 
 <br>
 <hr>
-<h4 align="center">This README file is generated <b>every 6 hours</b>!</br>Last refresh: <b>2024-03-18 08:14:13 (UTC time)</b></h4>
+<h4 align="center">This README file is generated <b>every 6 hours</b>!</br>Last refresh: <b>2024-03-18 20:12:09 (UTC time)</b></h4>
