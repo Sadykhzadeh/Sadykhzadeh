@@ -14,15 +14,6 @@
 <h2>📊 This week I spent my time using:</h2>
 
 <!--START_SECTION:waka-->
-
-```txt
-TypeScript   17 hrs          █████████████████████▒░░░   84.78 %
-CSS          1 hr 34 mins    ██░░░░░░░░░░░░░░░░░░░░░░░   07.83 %
-JSON         1 hr 22 mins    █▓░░░░░░░░░░░░░░░░░░░░░░░   06.87 %
-Bash         5 mins          ░░░░░░░░░░░░░░░░░░░░░░░░░   00.46 %
-Other        0 secs          ░░░░░░░░░░░░░░░░░░░░░░░░░   00.05 %
-```
-
 <!--END_SECTION:waka-->
 
 <br>
@@ -34,7 +25,7 @@ Other        0 secs          ░░░░░░░░░░░░░░░░░
 			<th>На русском (<a href="https://t.me/tginfo">@tginfo</a>)</th>
 		</tr>
 		<caption>🚩 <a href="https://t.me/tginfo">@tginfo</a> in your language: <a href="https://t.me/tginfoworld"><b>@tginfoworld</b></a><caption/>
-  <tr><td><a href="https://t.me/tginfoen/1873">Detailed statistics on revenue from Telegram Ads</a></td>
+  <tr><td><a href="https://t.me/tginfoen/1873">Detailed Statistics On Revenue From Telegram Ads</a></td>
     <td><a href="https://t.me/tginfo/3965">Подробная статистика доходов с Telegram Ads</a></td></tr><tr><td><a href="https://t.me/tginfoen/1872">New Telegram Bond Issued for $330 Million</a></td>
     <td><a href="https://t.me/tginfo/3964">Новый выпуск облигаций Telegram на $330 млн</a></td></tr><tr><td><a href="https://t.me/tginfoen/1871">Telegram Desktop has been updated to version 4.15.2</a></td>
     <td><a href="https://t.me/tginfo/3963">Telegram Desktop обновился до версии 4.15.2</a></td></tr>
@@ -44,4 +35,4 @@ We are also available on <a href="https://github.com/tginfo"><b>🐙 GitHub</b><
 
 <br>
 <hr>
-<h4 align="center">This README file is generated <b>every 6 hours</b>!</br>Last refresh: <b>2024-03-20 20:12:20 (UTC time)</b></h4>
+<h4 align="center">This README file is generated <b>every 6 hours</b>!</br>Last refresh: <b>2024-03-21 08:13:54 (UTC time)</b></h4>
