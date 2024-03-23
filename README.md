@@ -14,15 +14,6 @@
 <h2>📊 This week I spent my time using:</h2>
 
 <!--START_SECTION:waka-->
-
-```txt
-TypeScript   15 hrs 26 mins  ████████████████████▓░░░░   82.46 %
-JSON         1 hr 38 mins    ██▒░░░░░░░░░░░░░░░░░░░░░░   08.79 %
-CSS          1 hr 35 mins    ██░░░░░░░░░░░░░░░░░░░░░░░   08.50 %
-JavaScript   1 min           ░░░░░░░░░░░░░░░░░░░░░░░░░   00.13 %
-TSConfig     0 secs          ░░░░░░░░░░░░░░░░░░░░░░░░░   00.05 %
-```
-
 <!--END_SECTION:waka-->
 
 <br>
@@ -35,13 +26,13 @@ TSConfig     0 secs          ░░░░░░░░░░░░░░░░░
 		</tr>
 		<caption>🚩 <a href="https://t.me/tginfo">@tginfo</a> in your language: <a href="https://t.me/tginfoworld"><b>@tginfoworld</b></a><caption/>
   <tr><td><a href="https://t.me/tginfoen/1874">DC2 Media Downloading Issues</a></td>
-    <td><a href="https://t.me/tginfo/3966">Сбои в Telegram</a></td></tr><tr><td><a href="https://t.me/tginfoen/1873">Detailed Statistics On Revenue From Telegram Ads</a></td>
-    <td><a href="https://t.me/tginfo/3965">Подробная статистика доходов с Telegram Ads</a></td></tr><tr><td><a href="https://t.me/tginfoen/1872">New Telegram Bond Issued for $330 Million</a></td>
-    <td><a href="https://t.me/tginfo/3964">Новый выпуск облигаций Telegram на $330 млн</a></td></tr>
+    <td><a href="https://t.me/tginfo/3967">Проблемы при загрузке медиа</a></td></tr><tr><td><a href="https://t.me/tginfoen/1873">Detailed Statistics On Revenue From Telegram Ads</a></td>
+    <td><a href="https://t.me/tginfo/3966">Сбои в Telegram</a></td></tr><tr><td><a href="https://t.me/tginfoen/1872">New Telegram Bond Issued for $330 Million</a></td>
+    <td><a href="https://t.me/tginfo/3965">Подробная статистика доходов с Telegram Ads</a></td></tr>
 </table>
 We are also available on <a href="https://github.com/tginfo"><b>🐙 GitHub</b></a>!
 </div>
 
 <br>
 <hr>
-<h4 align="center">This README file is generated <b>every 6 hours</b>!</br>Last refresh: <b>2024-03-23 08:12:36 (UTC time)</b></h4>
+<h4 align="center">This README file is generated <b>every 6 hours</b>!</br>Last refresh: <b>2024-03-23 20:11:48 (UTC time)</b></h4>
