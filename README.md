@@ -14,15 +14,6 @@
 <h2>📊 This week I spent my time using:</h2>
 
 <!--START_SECTION:waka-->
-
-```txt
-TypeScript   14 hrs 21 mins  ███████████████████████░░   92.29 %
-JSON         57 mins         █▓░░░░░░░░░░░░░░░░░░░░░░░   06.12 %
-Markdown     6 mins          ▒░░░░░░░░░░░░░░░░░░░░░░░░   00.74 %
-JavaScript   5 mins          ░░░░░░░░░░░░░░░░░░░░░░░░░   00.55 %
-CSS          1 min           ░░░░░░░░░░░░░░░░░░░░░░░░░   00.18 %
-```
-
 <!--END_SECTION:waka-->
 
 <br>
@@ -34,14 +25,14 @@ CSS          1 min           ░░░░░░░░░░░░░░░░░
 			<th>На русском (<a href="https://t.me/tginfo">@tginfo</a>)</th>
 		</tr>
 		<caption>🚩 <a href="https://t.me/tginfo">@tginfo</a> in your language: <a href="https://t.me/tginfoworld"><b>@tginfoworld</b></a><caption/>
-  <tr><td><a href="https://t.me/tginfoen/1876">Supreme Court of Spain Suspends Order to Block Telegram</a></td>
+  <tr><td><a href="https://t.me/tginfoen/1877">🪙 Custom Intros</a></td>
+    <td><a href="https://t.me/tginfo/3971">🪙 Кастомное приветственное окно</a></td></tr><tr><td><a href="https://t.me/tginfoen/1876">Supreme Court of Spain Suspends Order to Block Telegram</a></td>
     <td><a href="https://t.me/tginfo/3970">Верховный суд Испании приостановил действие постановления о блокировке Telegram</a></td></tr><tr><td><a href="https://t.me/tginfoen/1875">Spain Blocks Telegram Over Distribution of Pirated Content by Users</a></td>
-    <td><a href="https://t.me/tginfo/3969">Базовые группы и супергруппы</a></td></tr><tr><td><a href="https://t.me/tginfoen/1874">DC2 Media Downloading Issues</a></td>
-    <td><a href="https://t.me/tginfo/3968">Суд в Испании постановил временно заблокировать Telegram в стране из-за пиратского контента</a></td></tr>
+    <td><a href="https://t.me/tginfo/3969">Базовые группы и супергруппы</a></td></tr>
 </table>
 We are also available on <a href="https://github.com/tginfo"><b>🐙 GitHub</b></a>!
 </div>
 
 <br>
 <hr>
-<h4 align="center">This README file is generated <b>every 6 hours</b>!</br>Last refresh: <b>2024-03-26 08:14:12 (UTC time)</b></h4>
+<h4 align="center">This README file is generated <b>every 6 hours</b>!</br>Last refresh: <b>2024-03-26 20:12:11 (UTC time)</b></h4>
