@@ -14,15 +14,6 @@
 <h2>📊 This week I spent my time using:</h2>
 
 <!--START_SECTION:waka-->
-
-```txt
-TypeScript       4 hrs 53 mins   ████████████▒░░░░░░░░░░░░   49.19 %
-Python           1 hr 57 mins    █████░░░░░░░░░░░░░░░░░░░░   19.62 %
-HTML             46 mins         ██░░░░░░░░░░░░░░░░░░░░░░░   07.75 %
-JSON             39 mins         █▓░░░░░░░░░░░░░░░░░░░░░░░   06.69 %
-Java             39 mins         █▓░░░░░░░░░░░░░░░░░░░░░░░   06.64 %
-```
-
 <!--END_SECTION:waka-->
 
 <br>
@@ -34,14 +25,14 @@ Java             39 mins         █▓░░░░░░░░░░░░░�
 			<th>На русском (<a href="https://t.me/tginfo">@tginfo</a>)</th>
 		</tr>
 		<caption>🚩 <a href="https://t.me/tginfo">@tginfo</a> in your language: <a href="https://t.me/tginfoworld"><b>@tginfoworld</b></a><caption/>
-  <tr><td><a href="https://t.me/tginfoen/1881">Bot API Updated to Version 7.2</a></td>
+  <tr><td><a href="https://t.me/tginfoen/1882">Issues with Downloading Media</a></td>
+    <td><a href="https://t.me/tginfo/3978">Сбои при загрузке медиа</a></td></tr><tr><td><a href="https://t.me/tginfoen/1881">Bot API Updated to Version 7.2</a></td>
     <td><a href="https://t.me/tginfo/3977">Bot API обновился до версии 7.2</a></td></tr><tr><td><a href="https://t.me/tginfoen/1880">Telegram for Android and iOS Updated to Version 10.10</a></td>
-    <td><a href="https://t.me/tginfo/3976">Telegram для Android и iOS обновились до версии 10.10</a></td></tr><tr><td><a href="https://t.me/tginfoen/1879">Monetisation Program for Channel Owners</a></td>
-    <td><a href="https://t.me/tginfo/3975">Программа монетизации для владельцев каналов</a></td></tr>
+    <td><a href="https://t.me/tginfo/3976">Telegram для Android и iOS обновились до версии 10.10</a></td></tr>
 </table>
 We are also available on <a href="https://github.com/tginfo"><b>🐙 GitHub</b></a>!
 </div>
 
 <br>
 <hr>
-<h4 align="center">This README file is generated <b>every 6 hours</b>!</br>Last refresh: <b>2024-04-02 08:14:37 (UTC time)</b></h4>
+<h4 align="center">This README file is generated <b>every 6 hours</b>!</br>Last refresh: <b>2024-04-02 20:11:34 (UTC time)</b></h4>
