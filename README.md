@@ -14,15 +14,6 @@
 <h2>📊 This week I spent my time using:</h2>
 
 <!--START_SECTION:waka-->
-
-```txt
-TypeScript       5 hrs 13 mins   ████████████▓░░░░░░░░░░░░   50.74 %
-Python           1 hr 57 mins    ████▓░░░░░░░░░░░░░░░░░░░░   18.95 %
-HTML             46 mins         ██░░░░░░░░░░░░░░░░░░░░░░░   07.48 %
-JSON             41 mins         █▓░░░░░░░░░░░░░░░░░░░░░░░   06.65 %
-Java             39 mins         █▓░░░░░░░░░░░░░░░░░░░░░░░   06.41 %
-```
-
 <!--END_SECTION:waka-->
 
 <br>
@@ -44,4 +35,4 @@ We are also available on <a href="https://github.com/tginfo"><b>🐙 GitHub</b><
 
 <br>
 <hr>
-<h4 align="center">This README file is generated <b>every 6 hours</b>!</br>Last refresh: <b>2024-04-03 20:13:08 (UTC time)</b></h4>
+<h4 align="center">This README file is generated <b>every 6 hours</b>!</br>Last refresh: <b>2024-04-04 08:14:56 (UTC time)</b></h4>
