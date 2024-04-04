@@ -14,15 +14,6 @@
 <h2>📊 This week I spent my time using:</h2>
 
 <!--START_SECTION:waka-->
-
-```txt
-TypeScript       3 hrs 50 mins   ███████████▓░░░░░░░░░░░░░   46.23 %
-Python           1 hr 21 mins    ████░░░░░░░░░░░░░░░░░░░░░   16.42 %
-HTML             46 mins         ██▒░░░░░░░░░░░░░░░░░░░░░░   09.26 %
-JSON             40 mins         ██░░░░░░░░░░░░░░░░░░░░░░░   08.04 %
-Java             39 mins         ██░░░░░░░░░░░░░░░░░░░░░░░   07.93 %
-```
-
 <!--END_SECTION:waka-->
 
 <br>
@@ -34,14 +25,14 @@ Java             39 mins         ██░░░░░░░░░░░░░�
 			<th>На русском (<a href="https://t.me/tginfo">@tginfo</a>)</th>
 		</tr>
 		<caption>🚩 <a href="https://t.me/tginfo">@tginfo</a> in your language: <a href="https://t.me/tginfoworld"><b>@tginfoworld</b></a><caption/>
-  <tr><td><a href="https://t.me/tginfoen/1884">Worst Features of 2023: Results</a></td>
+  <tr><td><a href="https://t.me/tginfoen/1885">New Telegram Monetization System</a></td>
+    <td><a href="https://t.me/tginfo/3981">Новая система монетизации Telegram </a></td></tr><tr><td><a href="https://t.me/tginfoen/1884">Worst Features of 2023: Results</a></td>
     <td><a href="https://t.me/tginfo/3980">Итоги опроса на худшее нововведение 2023 года</a></td></tr><tr><td><a href="https://t.me/tginfoen/1883">Best Features of 2023: Results</a></td>
-    <td><a href="https://t.me/tginfo/3979">Итоги опроса на лучшее нововведение 2023 года</a></td></tr><tr><td><a href="https://t.me/tginfoen/1882">Issues with Downloading Media</a></td>
-    <td><a href="https://t.me/tginfo/3978">Сбои при загрузке медиа</a></td></tr>
+    <td><a href="https://t.me/tginfo/3979">Итоги опроса на лучшее нововведение 2023 года</a></td></tr>
 </table>
 We are also available on <a href="https://github.com/tginfo"><b>🐙 GitHub</b></a>!
 </div>
 
 <br>
 <hr>
-<h4 align="center">This README file is generated <b>every 6 hours</b>!</br>Last refresh: <b>2024-04-04 08:14:56 (UTC time)</b></h4>
+<h4 align="center">This README file is generated <b>every 6 hours</b>!</br>Last refresh: <b>2024-04-04 20:11:44 (UTC time)</b></h4>
