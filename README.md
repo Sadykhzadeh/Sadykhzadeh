@@ -14,15 +14,6 @@
 <h2>📊 This week I spent my time using:</h2>
 
 <!--START_SECTION:waka-->
-
-```txt
-TypeScript   3 hrs 24 mins   ███████████████████████▓░   94.64 %
-Python       8 mins          █░░░░░░░░░░░░░░░░░░░░░░░░   04.14 %
-JSON         1 min           ▒░░░░░░░░░░░░░░░░░░░░░░░░   00.70 %
-CSS          0 secs          ░░░░░░░░░░░░░░░░░░░░░░░░░   00.41 %
-Batchfile    0 secs          ░░░░░░░░░░░░░░░░░░░░░░░░░   00.11 %
-```
-
 <!--END_SECTION:waka-->
 
 <br>
@@ -34,14 +25,14 @@ Batchfile    0 secs          ░░░░░░░░░░░░░░░░░
 			<th>На русском (<a href="https://t.me/tginfo">@tginfo</a>)</th>
 		</tr>
 		<caption>🚩 <a href="https://t.me/tginfo">@tginfo</a> in your language: <a href="https://t.me/tginfoworld"><b>@tginfoworld</b></a><caption/>
-  <tr><td><a href="https://t.me/tginfoen/1889">List of User's Groups and Channels in Telegram Desktop</a></td>
-    <td><a href="https://t.me/tginfo/3984">Стоимость юзернеймов для ботов снижена в 5 раз</a></td></tr><tr><td><a href="https://t.me/tginfoen/1888">Ability to View Peer IDs in Desktop Clients</a></td>
-    <td><a href="https://t.me/tginfo/3983">Просмотр своих групп и каналов в Telegram Desktop</a></td></tr><tr><td><a href="https://t.me/tginfoen/1887">The Cost for Bot Username Upgrades Decreased by 5 Times</a></td>
-    <td><a href="https://t.me/tginfo/3982">Telegram Desktop обновился до версии 4.16.2 </a></td></tr>
+  <tr><td><a href="https://t.me/tginfoen/1890">Telegram Desktop has been updated to version 4.16.5</a></td>
+    <td><a href="https://t.me/tginfo/3986">Telegram Desktop обновился до версии 4.16.6</a></td></tr><tr><td><a href="https://t.me/tginfoen/1889">List of User's Groups and Channels in Telegram Desktop</a></td>
+    <td><a href="https://t.me/tginfo/3985">Telegram Desktop обновился до версии 4.16.5 </a></td></tr><tr><td><a href="https://t.me/tginfoen/1888">Ability to View Peer IDs in Desktop Clients</a></td>
+    <td><a href="https://t.me/tginfo/3984">Стоимость юзернеймов для ботов снижена в 5 раз</a></td></tr>
 </table>
 We are also available on <a href="https://github.com/tginfo"><b>🐙 GitHub</b></a>!
 </div>
 
 <br>
 <hr>
-<h4 align="center">This README file is generated <b>every 6 hours</b>!</br>Last refresh: <b>2024-04-09 08:14:20 (UTC time)</b></h4>
+<h4 align="center">This README file is generated <b>every 6 hours</b>!</br>Last refresh: <b>2024-04-09 20:11:11 (UTC time)</b></h4>
