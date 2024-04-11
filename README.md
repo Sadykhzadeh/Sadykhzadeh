@@ -14,15 +14,6 @@
 <h2>📊 This week I spent my time using:</h2>
 
 <!--START_SECTION:waka-->
-
-```txt
-TypeScript   3 hrs 58 mins   ████████████████████████░   95.92 %
-Python       8 mins          █░░░░░░░░░░░░░░░░░░░░░░░░   03.60 %
-CSS          0 secs          ░░░░░░░░░░░░░░░░░░░░░░░░░   00.36 %
-Batchfile    0 secs          ░░░░░░░░░░░░░░░░░░░░░░░░░   00.09 %
-C#           0 secs          ░░░░░░░░░░░░░░░░░░░░░░░░░   00.02 %
-```
-
 <!--END_SECTION:waka-->
 
 <br>
@@ -34,14 +25,14 @@ C#           0 secs          ░░░░░░░░░░░░░░░░░
 			<th>На русском (<a href="https://t.me/tginfo">@tginfo</a>)</th>
 		</tr>
 		<caption>🚩 <a href="https://t.me/tginfo">@tginfo</a> in your language: <a href="https://t.me/tginfoworld"><b>@tginfoworld</b></a><caption/>
-  <tr><td><a href="https://t.me/tginfoen/1891">Telegram Reaches Self-Sustainability</a></td>
+  <tr><td><a href="https://t.me/tginfoen/1892">Buying, Managing and Canceling Telegram Premium — FAQ</a></td>
+    <td><a href="https://t.me/tginfo/3988">Покупка, управление и отмена Telegram Premium — частые вопросы</a></td></tr><tr><td><a href="https://t.me/tginfoen/1891">Telegram Reaches Self-Sustainability</a></td>
     <td><a href="https://t.me/tginfo/3987">Telegram выходит на самоокупаемость </a></td></tr><tr><td><a href="https://t.me/tginfoen/1890">Telegram Desktop has been updated to version 4.16.5</a></td>
-    <td><a href="https://t.me/tginfo/3986">Telegram Desktop обновился до версии 4.16.6</a></td></tr><tr><td><a href="https://t.me/tginfoen/1889">List of User's Groups and Channels in Telegram Desktop</a></td>
-    <td><a href="https://t.me/tginfo/3985">Telegram Desktop обновился до версии 4.16.5 </a></td></tr>
+    <td><a href="https://t.me/tginfo/3986">Telegram Desktop обновился до версии 4.16.6</a></td></tr>
 </table>
 We are also available on <a href="https://github.com/tginfo"><b>🐙 GitHub</b></a>!
 </div>
 
 <br>
 <hr>
-<h4 align="center">This README file is generated <b>every 6 hours</b>!</br>Last refresh: <b>2024-04-11 08:14:28 (UTC time)</b></h4>
+<h4 align="center">This README file is generated <b>every 6 hours</b>!</br>Last refresh: <b>2024-04-11 20:11:18 (UTC time)</b></h4>
