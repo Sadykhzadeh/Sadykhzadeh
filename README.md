@@ -14,15 +14,6 @@
 <h2>📊 This week I spent my time using:</h2>
 
 <!--START_SECTION:waka-->
-
-```txt
-TypeScript   3 hrs 31 mins   ████████████████████████░   95.49 %
-Python       8 mins          █░░░░░░░░░░░░░░░░░░░░░░░░   04.04 %
-CSS          0 secs          ░░░░░░░░░░░░░░░░░░░░░░░░░   00.35 %
-Batchfile    0 secs          ░░░░░░░░░░░░░░░░░░░░░░░░░   00.10 %
-C#           0 secs          ░░░░░░░░░░░░░░░░░░░░░░░░░   00.02 %
-```
-
 <!--END_SECTION:waka-->
 
 <br>
@@ -35,13 +26,13 @@ C#           0 secs          ░░░░░░░░░░░░░░░░░
 		</tr>
 		<caption>🚩 <a href="https://t.me/tginfo">@tginfo</a> in your language: <a href="https://t.me/tginfoworld"><b>@tginfoworld</b></a><caption/>
   <tr><td><a href="https://t.me/tginfoen/1893">FAKE: "Telegram Ads Will Get Images and Carousel Galleries"</a></td>
-    <td><a href="https://t.me/tginfo/3989">Фейк: В Telegram Ads появятся изображения и карусели </a></td></tr><tr><td><a href="https://t.me/tginfoen/1892">Buying, Managing and Canceling Telegram Premium — FAQ</a></td>
-    <td><a href="https://t.me/tginfo/3988">Покупка, управление и отмена Telegram Premium — частые вопросы</a></td></tr><tr><td><a href="https://t.me/tginfoen/1891">Telegram is Approaching Profitability</a></td>
-    <td><a href="https://t.me/tginfo/3987">Telegram выходит на самоокупаемость </a></td></tr>
+    <td><a href="https://t.me/tginfo/3990">Сбои в работе Telegram</a></td></tr><tr><td><a href="https://t.me/tginfoen/1892">Buying, Managing and Canceling Telegram Premium — FAQ</a></td>
+    <td><a href="https://t.me/tginfo/3989">Фейк: В Telegram Ads появятся изображения и карусели </a></td></tr><tr><td><a href="https://t.me/tginfoen/1891">Telegram is Approaching Profitability</a></td>
+    <td><a href="https://t.me/tginfo/3988">Покупка, управление и отмена Telegram Premium — частые вопросы</a></td></tr>
 </table>
 We are also available on <a href="https://github.com/tginfo"><b>🐙 GitHub</b></a>!
 </div>
 
 <br>
 <hr>
-<h4 align="center">This README file is generated <b>every 6 hours</b>!</br>Last refresh: <b>2024-04-13 20:10:17 (UTC time)</b></h4>
+<h4 align="center">This README file is generated <b>every 6 hours</b>!</br>Last refresh: <b>2024-04-14 10:33:45 (UTC time)</b></h4>
