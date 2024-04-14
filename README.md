@@ -14,15 +14,6 @@
 <h2>📊 This week I spent my time using:</h2>
 
 <!--START_SECTION:waka-->
-
-```txt
-TypeScript   4 hrs 36 mins   ███████████████████▓░░░░░   78.68 %
-JavaScript   33 mins         ██▒░░░░░░░░░░░░░░░░░░░░░░   09.61 %
-CSS          14 mins         █░░░░░░░░░░░░░░░░░░░░░░░░   03.99 %
-JSON         12 mins         █░░░░░░░░░░░░░░░░░░░░░░░░   03.48 %
-Python       8 mins          ▓░░░░░░░░░░░░░░░░░░░░░░░░   02.54 %
-```
-
 <!--END_SECTION:waka-->
 
 <br>
@@ -34,14 +25,14 @@ Python       8 mins          ▓░░░░░░░░░░░░░░░░
 			<th>На русском (<a href="https://t.me/tginfo">@tginfo</a>)</th>
 		</tr>
 		<caption>🚩 <a href="https://t.me/tginfo">@tginfo</a> in your language: <a href="https://t.me/tginfoworld"><b>@tginfoworld</b></a><caption/>
-  <tr><td><a href="https://t.me/tginfoen/1893">FAKE: "Telegram Ads Will Get Images and Carousel Galleries"</a></td>
-    <td><a href="https://t.me/tginfo/3990">Сбои в работе Telegram</a></td></tr><tr><td><a href="https://t.me/tginfoen/1892">Buying, Managing and Canceling Telegram Premium — FAQ</a></td>
-    <td><a href="https://t.me/tginfo/3989">Фейк: В Telegram Ads появятся изображения и карусели </a></td></tr><tr><td><a href="https://t.me/tginfoen/1891">Telegram is Approaching Profitability</a></td>
-    <td><a href="https://t.me/tginfo/3988">Покупка, управление и отмена Telegram Premium — частые вопросы</a></td></tr>
+  <tr><td><a href="https://t.me/tginfoen/1895">Sticker Editor - Create Your Own Stickers</a></td>
+    <td><a href="https://t.me/tginfo/3992">Редактор стикеров — создавайте свои стикеры</a></td></tr><tr><td><a href="https://t.me/tginfoen/1894">Telegram for Android and iOS Has Been Updated to Version 10.11</a></td>
+    <td><a href="https://t.me/tginfo/3991">Telegram для Android и iOS обновились до версии 10.11</a></td></tr><tr><td><a href="https://t.me/tginfoen/1893">FAKE: "Telegram Ads Will Get Images and Carousel Galleries"</a></td>
+    <td><a href="https://t.me/tginfo/3990">Сбои в работе Telegram</a></td></tr>
 </table>
 We are also available on <a href="https://github.com/tginfo"><b>🐙 GitHub</b></a>!
 </div>
 
 <br>
 <hr>
-<h4 align="center">This README file is generated <b>every 6 hours</b>!</br>Last refresh: <b>2024-04-14 10:33:45 (UTC time)</b></h4>
+<h4 align="center">This README file is generated <b>every 6 hours</b>!</br>Last refresh: <b>2024-04-14 23:13:47 (UTC time)</b></h4>
