@@ -14,15 +14,6 @@
 <h2>📊 This week I spent my time using:</h2>
 
 <!--START_SECTION:waka-->
-
-```txt
-TypeScript   2 hrs 5 mins    ████████████████▒░░░░░░░░   65.94 %
-JavaScript   33 mins         ████▒░░░░░░░░░░░░░░░░░░░░   17.69 %
-CSS          13 mins         █▓░░░░░░░░░░░░░░░░░░░░░░░   06.95 %
-JSON         12 mins         █▓░░░░░░░░░░░░░░░░░░░░░░░   06.41 %
-Other        3 mins          ▒░░░░░░░░░░░░░░░░░░░░░░░░   01.62 %
-```
-
 <!--END_SECTION:waka-->
 
 <br>
@@ -34,14 +25,14 @@ Other        3 mins          ▒░░░░░░░░░░░░░░░░
 			<th>На русском (<a href="https://t.me/tginfo">@tginfo</a>)</th>
 		</tr>
 		<caption>🚩 <a href="https://t.me/tginfo">@tginfo</a> in your language: <a href="https://t.me/tginfoworld"><b>@tginfoworld</b></a><caption/>
-  <tr><td><a href="https://t.me/tginfoen/1896">Changes in Monetization Terms</a></td>
+  <tr><td><a href="https://t.me/tginfoen/1897">Tucker Carlson’s Interview with Pavel Durov</a></td>
+    <td><a href="https://t.me/tginfo/3995">Интервью Павла Дурова Такеру Карлсону</a></td></tr><tr><td><a href="https://t.me/tginfoen/1896">Changes in Monetization Terms</a></td>
     <td><a href="https://t.me/tginfo/3994">Изменения в условиях монетизации</a></td></tr><tr><td><a href="https://t.me/tginfoen/1895">Sticker Editor - Create Your Own Stickers</a></td>
-    <td><a href="https://t.me/tginfo/3993">Павел Дуров дал интервью Такеру Карлсону</a></td></tr><tr><td><a href="https://t.me/tginfoen/1894">Telegram for Android and iOS Has Been Updated to Version 10.11</a></td>
-    <td><a href="https://t.me/tginfo/3992">Редактор стикеров — создавайте свои стикеры</a></td></tr>
+    <td><a href="https://t.me/tginfo/3993">Павел Дуров дал интервью Такеру Карлсону</a></td></tr>
 </table>
 We are also available on <a href="https://github.com/tginfo"><b>🐙 GitHub</b></a>!
 </div>
 
 <br>
 <hr>
-<h4 align="center">This README file is generated <b>every 6 hours</b>!</br>Last refresh: <b>2024-04-16 20:11:36 (UTC time)</b></h4>
+<h4 align="center">This README file is generated <b>every 6 hours</b>!</br>Last refresh: <b>2024-04-17 08:14:20 (UTC time)</b></h4>
