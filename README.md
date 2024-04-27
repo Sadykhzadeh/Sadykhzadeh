@@ -14,15 +14,6 @@
 <h2>📊 This week I spent my time using:</h2>
 
 <!--START_SECTION:waka-->
-
-```txt
-TypeScript    2 hrs 48 mins   ██████████████░░░░░░░░░░░   55.56 %
-Docker        1 hr 2 mins     █████░░░░░░░░░░░░░░░░░░░░   20.56 %
-Python        35 mins         ███░░░░░░░░░░░░░░░░░░░░░░   11.58 %
-Markdown      18 mins         █▓░░░░░░░░░░░░░░░░░░░░░░░   06.08 %
-CSS           12 mins         █░░░░░░░░░░░░░░░░░░░░░░░░   04.26 %
-```
-
 <!--END_SECTION:waka-->
 
 <br>
@@ -35,13 +26,13 @@ CSS           12 mins         █░░░░░░░░░░░░░░░�
 		</tr>
 		<caption>🚩 <a href="https://t.me/tginfo">@tginfo</a> in your language: <a href="https://t.me/tginfoworld"><b>@tginfoworld</b></a><caption/>
   <tr><td><a href="https://t.me/tginfoen/1909">Telegram’s DC5 Is Down</a></td>
-    <td><a href="https://t.me/tginfo/4009">Сбои в работе Telegram</a></td></tr><tr><td><a href="https://t.me/tginfoen/1908">"My Profile" Section, Recommended Channels and 15 Other Updates</a></td>
-    <td><a href="https://t.me/tginfo/4008">Раздел «Мой профиль», рекомендованные каналы и ещё 15 нововведений</a></td></tr><tr><td><a href="https://t.me/tginfoen/1907">Telegram for Android and iOS Has Been Updated to Version 10.12</a></td>
-    <td><a href="https://t.me/tginfo/4007">Telegram для Android и iOS обновились до версии 10.12</a></td></tr>
+    <td><a href="https://t.me/tginfo/4010">Telegram Desktop обновился до версии 4.16.10 Beta</a></td></tr><tr><td><a href="https://t.me/tginfoen/1908">"My Profile" Section, Recommended Channels and 15 Other Updates</a></td>
+    <td><a href="https://t.me/tginfo/4009">Сбои в работе Telegram</a></td></tr><tr><td><a href="https://t.me/tginfoen/1907">Telegram for Android and iOS Has Been Updated to Version 10.12</a></td>
+    <td><a href="https://t.me/tginfo/4008">Раздел «Мой профиль», рекомендованные каналы и ещё 15 нововведений</a></td></tr>
 </table>
 We are also available on <a href="https://github.com/tginfo"><b>🐙 GitHub</b></a>!
 </div>
 
 <br>
 <hr>
-<h4 align="center">This README file is generated <b>every 6 hours</b>!</br>Last refresh: <b>2024-04-26 20:12:38 (UTC time)</b></h4>
+<h4 align="center">This README file is generated <b>every 6 hours</b>!</br>Last refresh: <b>2024-04-27 08:13:56 (UTC time)</b></h4>
