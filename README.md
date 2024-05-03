@@ -14,6 +14,11 @@
 <h2>📊 This week I spent my time using:</h2>
 
 <!--START_SECTION:waka-->
+
+```txt
+PHP   0 secs          █████████████████████████   100.00 %
+```
+
 <!--END_SECTION:waka-->
 
 <br>
