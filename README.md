@@ -14,15 +14,6 @@
 <h2>📊 This week I spent my time using:</h2>
 
 <!--START_SECTION:waka-->
-
-```txt
-PHP                        1 hr 36 mins    █████████████▒░░░░░░░░░░░   52.93 %
-YAML                       37 mins         █████░░░░░░░░░░░░░░░░░░░░   20.55 %
-HTML                       12 mins         █▓░░░░░░░░░░░░░░░░░░░░░░░   06.90 %
-Markdown                   12 mins         █▓░░░░░░░░░░░░░░░░░░░░░░░   06.71 %
-Other                      11 mins         █▓░░░░░░░░░░░░░░░░░░░░░░░   06.17 %
-```
-
 <!--END_SECTION:waka-->
 
 <br>
@@ -34,9 +25,9 @@ Other                      11 mins         █▓░░░░░░░░░░�
 			<th>На русском (<a href="https://t.me/tginfo">@tginfo</a>)</th>
 		</tr>
 		<caption>🚩 <a href="https://t.me/tginfo">@tginfo</a> in your language: <a href="https://t.me/tginfoworld"><b>@tginfoworld</b></a><caption/>
-  <tr><td><a href="https://t.me/tginfoen/1912">Telegram Desktop Has Been Updated To Version 5.0.1</a></td>
-    <td><a href="https://t.me/tginfo/4017">Статьи с ответами на часто задаваемые вопросы</a></td></tr><tr><td><a href="https://t.me/tginfoen/1911">Telegram Desktop Has Been Updated To Version 5.0</a></td>
-    <td><a href="https://t.me/tginfo/4016">Telegram Desktop обновился до версии 5.0.1</a></td></tr><tr><td><a href="https://t.me/tginfoen/1910">Telegram’s DC5 Is Down Again</a></td>
+  <tr><td><a href="https://t.me/tginfoen/1913">Telegram’s DC5 Is Down</a></td>
+    <td><a href="https://t.me/tginfo/4017">Статьи с ответами на часто задаваемые вопросы</a></td></tr><tr><td><a href="https://t.me/tginfoen/1912">Telegram Desktop Has Been Updated To Version 5.0.1</a></td>
+    <td><a href="https://t.me/tginfo/4016">Telegram Desktop обновился до версии 5.0.1</a></td></tr><tr><td><a href="https://t.me/tginfoen/1911">Telegram Desktop Has Been Updated To Version 5.0</a></td>
     <td><a href="https://t.me/tginfo/4015">Половина жителей России использует Telegram ежедневно</a></td></tr>
 </table>
 We are also available on <a href="https://github.com/tginfo"><b>🐙 GitHub</b></a>!
@@ -44,4 +35,4 @@ We are also available on <a href="https://github.com/tginfo"><b>🐙 GitHub</b><
 
 <br>
 <hr>
-<h4 align="center">This README file is generated <b>every 6 hours</b>!</br>Last refresh: <b>2024-05-11 08:14:05 (UTC time)</b></h4>
+<h4 align="center">This README file is generated <b>every 6 hours</b>!</br>Last refresh: <b>2024-05-11 20:12:19 (UTC time)</b></h4>
