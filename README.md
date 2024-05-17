@@ -14,15 +14,6 @@
 <h2>📊 This week I spent my time using:</h2>
 
 <!--START_SECTION:waka-->
-
-```txt
-PHP                   2 hrs 58 mins   ████████████████░░░░░░░░░   64.05 %
-TypeScript            53 mins         ████▓░░░░░░░░░░░░░░░░░░░░   19.31 %
-Other                 11 mins         █░░░░░░░░░░░░░░░░░░░░░░░░   04.08 %
-HTTP Request          11 mins         █░░░░░░░░░░░░░░░░░░░░░░░░   03.96 %
-HTML                  8 mins          ▓░░░░░░░░░░░░░░░░░░░░░░░░   03.06 %
-```
-
 <!--END_SECTION:waka-->
 
 <br>
@@ -34,14 +25,14 @@ HTML                  8 mins          ▓░░░░░░░░░░░░░
 			<th>На русском (<a href="https://t.me/tginfo">@tginfo</a>)</th>
 		</tr>
 		<caption>🚩 <a href="https://t.me/tginfo">@tginfo</a> in your language: <a href="https://t.me/tginfoworld"><b>@tginfoworld</b></a><caption/>
-  <tr><td><a href="https://t.me/tginfoen/1915">Links like t․me open in Telegram X, but I use a different client — what should I do?</a></td>
+  <tr><td><a href="https://t.me/tginfoen/1916">Telegram Will Introduce a Global Search for Posts by Hashtags</a></td>
+    <td><a href="https://t.me/tginfo/4020">В Telegram появится глобальный поиск постов по хештегам</a></td></tr><tr><td><a href="https://t.me/tginfoen/1915">Links like t․me open in Telegram X, but I use a different client — what should I do?</a></td>
     <td><a href="https://t.me/tginfo/4019">Ссылки t․me открываются в Telegram X, но я использую другой клиент — что делать?</a></td></tr><tr><td><a href="https://t.me/tginfoen/1914">Telegram X Has Been Updated to Version  0.26.8.1717</a></td>
-    <td><a href="https://t.me/tginfo/4018">Telegram X обновился до версии 0.26.8.1717</a></td></tr><tr><td><a href="https://t.me/tginfoen/1913">Telegram’s DC5 Is Down</a></td>
-    <td><a href="https://t.me/tginfo/4017">Статьи с ответами на часто задаваемые вопросы</a></td></tr>
+    <td><a href="https://t.me/tginfo/4018">Telegram X обновился до версии 0.26.8.1717</a></td></tr>
 </table>
 We are also available on <a href="https://github.com/tginfo"><b>🐙 GitHub</b></a>!
 </div>
 
 <br>
 <hr>
-<h4 align="center">This README file is generated <b>every 6 hours</b>!</br>Last refresh: <b>2024-05-17 08:15:21 (UTC time)</b></h4>
+<h4 align="center">This README file is generated <b>every 6 hours</b>!</br>Last refresh: <b>2024-05-17 20:13:12 (UTC time)</b></h4>
