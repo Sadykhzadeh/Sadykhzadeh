@@ -14,15 +14,6 @@
 <h2>📊 This week I spent my time using:</h2>
 
 <!--START_SECTION:waka-->
-
-```txt
-PHP                   3 hrs 37 mins   ██████████████████▒░░░░░░   73.32 %
-TypeScript            54 mins         ████▓░░░░░░░░░░░░░░░░░░░░   18.25 %
-HTTP Request          11 mins         █░░░░░░░░░░░░░░░░░░░░░░░░   03.72 %
-HTML                  6 mins          ▓░░░░░░░░░░░░░░░░░░░░░░░░   02.04 %
-.env file             1 min           ▒░░░░░░░░░░░░░░░░░░░░░░░░   00.67 %
-```
-
 <!--END_SECTION:waka-->
 
 <br>
@@ -34,14 +25,14 @@ HTML                  6 mins          ▓░░░░░░░░░░░░░
 			<th>На русском (<a href="https://t.me/tginfo">@tginfo</a>)</th>
 		</tr>
 		<caption>🚩 <a href="https://t.me/tginfo">@tginfo</a> in your language: <a href="https://t.me/tginfoworld"><b>@tginfoworld</b></a><caption/>
-  <tr><td><a href="https://t.me/tginfoen/1916">Telegram Will Introduce a Global Search for Posts by Hashtags</a></td>
+  <tr><td><a href="https://t.me/tginfoen/1917">Telegram Removes Bots Containing Specific Phrases in Messages</a></td>
+    <td><a href="https://t.me/tginfo/4021">Telegram удаляет ботов, в сообщениях которых присутствуют определённые фразы</a></td></tr><tr><td><a href="https://t.me/tginfoen/1916">Telegram Will Introduce a Global Search for Posts by Hashtags</a></td>
     <td><a href="https://t.me/tginfo/4020">В Telegram появится глобальный поиск постов по хештегам</a></td></tr><tr><td><a href="https://t.me/tginfoen/1915">Links like t․me open in Telegram X, but I use a different client — what should I do?</a></td>
-    <td><a href="https://t.me/tginfo/4019">Ссылки t․me открываются в Telegram X, но я использую другой клиент — что делать?</a></td></tr><tr><td><a href="https://t.me/tginfoen/1914">Telegram X Has Been Updated to Version  0.26.8.1717</a></td>
-    <td><a href="https://t.me/tginfo/4018">Telegram X обновился до версии 0.26.8.1717</a></td></tr>
+    <td><a href="https://t.me/tginfo/4019">Ссылки t․me открываются в Telegram X, но я использую другой клиент — что делать?</a></td></tr>
 </table>
 We are also available on <a href="https://github.com/tginfo"><b>🐙 GitHub</b></a>!
 </div>
 
 <br>
 <hr>
-<h4 align="center">This README file is generated <b>every 6 hours</b>!</br>Last refresh: <b>2024-05-19 08:13:56 (UTC time)</b></h4>
+<h4 align="center">This README file is generated <b>every 6 hours</b>!</br>Last refresh: <b>2024-05-19 20:12:26 (UTC time)</b></h4>
