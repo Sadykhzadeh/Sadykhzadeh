@@ -14,15 +14,6 @@
 <h2>📊 This week I spent my time using:</h2>
 
 <!--START_SECTION:waka-->
-
-```txt
-PHP                   2 hrs 40 mins   █████████████████████░░░░   83.41 %
-TypeScript            11 mins         █▓░░░░░░░░░░░░░░░░░░░░░░░   06.21 %
-CSS                   6 mins          █░░░░░░░░░░░░░░░░░░░░░░░░   03.37 %
-Astro                 4 mins          ▓░░░░░░░░░░░░░░░░░░░░░░░░   02.48 %
-GitIgnore file        4 mins          ▓░░░░░░░░░░░░░░░░░░░░░░░░   02.26 %
-```
-
 <!--END_SECTION:waka-->
 
 <br>
@@ -34,9 +25,9 @@ GitIgnore file        4 mins          ▓░░░░░░░░░░░░░
 			<th>На русском (<a href="https://t.me/tginfo">@tginfo</a>)</th>
 		</tr>
 		<caption>🚩 <a href="https://t.me/tginfo">@tginfo</a> in your language: <a href="https://t.me/tginfoworld"><b>@tginfoworld</b></a><caption/>
-  <tr><td><a href="https://t.me/tginfoen/1918">Telegram Demands All Bot Developers to Sell Paid Features Using Its New Currency — Telegram Stars</a></td>
-    <td><a href="https://t.me/tginfo/4023">Telegram требует от всех разработчиков ботов продавать платные функции за свою новую валюту — Telegram Stars</a></td></tr><tr><td><a href="https://t.me/tginfoen/1917">Telegram Removes Bots Containing Specific Phrases in Messages</a></td>
-    <td><a href="https://t.me/tginfo/4022">Интеграция Anypost и TGStat</a></td></tr><tr><td><a href="https://t.me/tginfoen/1916">Telegram Will Introduce a Global Search for Posts by Hashtags</a></td>
+  <tr><td><a href="https://t.me/tginfoen/1919">Official Microsoft Copilot Bot on Telegram</a></td>
+    <td><a href="https://t.me/tginfo/4023">Telegram требует от всех разработчиков ботов продавать платные функции за свою новую валюту — Telegram Stars</a></td></tr><tr><td><a href="https://t.me/tginfoen/1918">Telegram Demands All Bot Developers to Sell Paid Features Using Its New Currency — Telegram Stars</a></td>
+    <td><a href="https://t.me/tginfo/4022">Интеграция Anypost и TGStat</a></td></tr><tr><td><a href="https://t.me/tginfoen/1917">Telegram Removes Bots Containing Specific Phrases in Messages</a></td>
     <td><a href="https://t.me/tginfo/4021">Telegram удаляет ботов, в сообщениях которых присутствуют определённые фразы</a></td></tr>
 </table>
 We are also available on <a href="https://github.com/tginfo"><b>🐙 GitHub</b></a>!
@@ -44,4 +35,4 @@ We are also available on <a href="https://github.com/tginfo"><b>🐙 GitHub</b><
 
 <br>
 <hr>
-<h4 align="center">This README file is generated <b>every 6 hours</b>!</br>Last refresh: <b>2024-05-25 08:15:00 (UTC time)</b></h4>
+<h4 align="center">This README file is generated <b>every 6 hours</b>!</br>Last refresh: <b>2024-05-25 20:11:54 (UTC time)</b></h4>
