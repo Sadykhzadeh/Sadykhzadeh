@@ -14,15 +14,6 @@
 <h2>📊 This week I spent my time using:</h2>
 
 <!--START_SECTION:waka-->
-
-```txt
-PHP                        1 hr 55 mins    ███████████████████░░░░░░   76.51 %
-Blade Template             12 mins         ██░░░░░░░░░░░░░░░░░░░░░░░   08.10 %
-PowerShell                 11 mins         ██░░░░░░░░░░░░░░░░░░░░░░░   07.90 %
-JSON                       7 mins          █▒░░░░░░░░░░░░░░░░░░░░░░░   05.28 %
-CSS                        1 min           ▒░░░░░░░░░░░░░░░░░░░░░░░░   01.24 %
-```
-
 <!--END_SECTION:waka-->
 
 <br>
@@ -35,13 +26,13 @@ CSS                        1 min           ▒░░░░░░░░░░░�
 		</tr>
 		<caption>🚩 <a href="https://t.me/tginfo">@tginfo</a> in your language: <a href="https://t.me/tginfoworld"><b>@tginfoworld</b></a><caption/>
   <tr><td><a href="https://t.me/tginfoen/1921">Telegram at the Center of Disinformation: EU's Struggle with the Messenger</a></td>
-    <td><a href="https://t.me/tginfo/4027">Telegram в центре дезинформации: ЕС и его борьба с мессенджером</a></td></tr><tr><td><a href="https://t.me/tginfoen/1920">Telegram to Introduce Fact-Checking Feature</a></td>
-    <td><a href="https://t.me/tginfo/4026">Telegram Desktop обновился до версии 5.0.3</a></td></tr><tr><td><a href="https://t.me/tginfoen/1919">Official Microsoft Copilot Bot on Telegram</a></td>
-    <td><a href="https://t.me/tginfo/4025">Telegram Desktop обновился до версии 5.0.2</a></td></tr>
+    <td><a href="https://t.me/tginfo/4029">Telegram для Android и iOS обновились до версии 10.13</a></td></tr><tr><td><a href="https://t.me/tginfoen/1920">Telegram to Introduce Fact-Checking Feature</a></td>
+    <td><a href="https://t.me/tginfo/4028">Telegram в центре дезинформации: ЕС и его борьба с мессенджером</a></td></tr><tr><td><a href="https://t.me/tginfoen/1919">Official Microsoft Copilot Bot on Telegram</a></td>
+    <td><a href="https://t.me/tginfo/4027">Telegram Desktop обновился до версии 5.0.3</a></td></tr>
 </table>
 We are also available on <a href="https://github.com/tginfo"><b>🐙 GitHub</b></a>!
 </div>
 
 <br>
 <hr>
-<h4 align="center">This README file is generated <b>every 6 hours</b>!</br>Last refresh: <b>2024-05-31 08:16:01 (UTC time)</b></h4>
+<h4 align="center">This README file is generated <b>every 6 hours</b>!</br>Last refresh: <b>2024-05-31 20:12:28 (UTC time)</b></h4>
