@@ -14,15 +14,6 @@
 <h2>📊 This week I spent my time using:</h2>
 
 <!--START_SECTION:waka-->
-
-```txt
-TypeScript       59 mins         █████████████▒░░░░░░░░░░░   53.59 %
-PHP              24 mins         █████▒░░░░░░░░░░░░░░░░░░░   21.53 %
-YAML             6 mins          █▒░░░░░░░░░░░░░░░░░░░░░░░   05.84 %
-GitIgnore file   6 mins          █▒░░░░░░░░░░░░░░░░░░░░░░░   05.80 %
-JSON             4 mins          █░░░░░░░░░░░░░░░░░░░░░░░░   04.06 %
-```
-
 <!--END_SECTION:waka-->
 
 <br>
@@ -34,14 +25,14 @@ JSON             4 mins          █░░░░░░░░░░░░░░�
 			<th>На русском (<a href="https://t.me/tginfo">@tginfo</a>)</th>
 		</tr>
 		<caption>🚩 <a href="https://t.me/tginfo">@tginfo</a> in your language: <a href="https://t.me/tginfoworld"><b>@tginfoworld</b></a><caption/>
-  <tr><td><a href="https://t.me/tginfoen/1923">Telegram Apps for Android and iOS Have Been Updated to Version 10.13</a></td>
+  <tr><td><a href="https://t.me/tginfoen/1924">Telegram Stars: Payment for Digital Goods and More</a></td>
+    <td><a href="https://t.me/tginfo/4031">«Звёзды» Telegram: оплата цифровых товаров и не только</a></td></tr><tr><td><a href="https://t.me/tginfoen/1923">Telegram Apps for Android and iOS Have Been Updated to Version 10.13</a></td>
     <td><a href="https://t.me/tginfo/4030">Telegram для Android и iOS обновились до версии 10.13</a></td></tr><tr><td><a href="https://t.me/tginfoen/1922">Telegram at the Center of Disinformation: EU's Struggle with the Messenger</a></td>
-    <td><a href="https://t.me/tginfo/4029">Telegram в центре дезинформации: ЕС и его борьба с мессенджером</a></td></tr><tr><td><a href="https://t.me/tginfoen/1921">Telegram to Introduce Fact-Checking Feature</a></td>
-    <td><a href="https://t.me/tginfo/4028">Telegram Desktop обновился до версии 5.0.3</a></td></tr>
+    <td><a href="https://t.me/tginfo/4029">Telegram в центре дезинформации: ЕС и его борьба с мессенджером</a></td></tr>
 </table>
 We are also available on <a href="https://github.com/tginfo"><b>🐙 GitHub</b></a>!
 </div>
 
 <br>
 <hr>
-<h4 align="center">This README file is generated <b>every 6 hours</b>!</br>Last refresh: <b>2024-06-06 08:15:39 (UTC time)</b></h4>
+<h4 align="center">This README file is generated <b>every 6 hours</b>!</br>Last refresh: <b>2024-06-06 20:14:02 (UTC time)</b></h4>
