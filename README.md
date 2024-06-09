@@ -14,15 +14,6 @@
 <h2>📊 This week I spent my time using:</h2>
 
 <!--START_SECTION:waka-->
-
-```txt
-TypeScript       49 mins         ███████████▒░░░░░░░░░░░░░   45.34 %
-PHP              32 mins         ███████▒░░░░░░░░░░░░░░░░░   29.61 %
-YAML             6 mins          █▒░░░░░░░░░░░░░░░░░░░░░░░   05.98 %
-GitIgnore file   6 mins          █▒░░░░░░░░░░░░░░░░░░░░░░░   05.97 %
-JSON             4 mins          █░░░░░░░░░░░░░░░░░░░░░░░░   03.76 %
-```
-
 <!--END_SECTION:waka-->
 
 <br>
@@ -34,9 +25,9 @@ JSON             4 mins          █░░░░░░░░░░░░░░�
 			<th>На русском (<a href="https://t.me/tginfo">@tginfo</a>)</th>
 		</tr>
 		<caption>🚩 <a href="https://t.me/tginfo">@tginfo</a> in your language: <a href="https://t.me/tginfoworld"><b>@tginfoworld</b></a><caption/>
-  <tr><td><a href="https://t.me/tginfoen/1924">Telegram Stars: Payment for Digital Goods and More</a></td>
-    <td><a href="https://t.me/tginfo/4032">Сбой в Telegram </a></td></tr><tr><td><a href="https://t.me/tginfoen/1923">Telegram Apps for Android and iOS Have Been Updated to Version 10.13</a></td>
-    <td><a href="https://t.me/tginfo/4031">«Звёзды» Telegram: оплата цифровых товаров и не только</a></td></tr><tr><td><a href="https://t.me/tginfoen/1922">Telegram at the Center of Disinformation: EU's Struggle with the Messenger</a></td>
+  <tr><td><a href="https://t.me/tginfoen/1925">Outage in Telegram</a></td>
+    <td><a href="https://t.me/tginfo/4032">Сбой в Telegram </a></td></tr><tr><td><a href="https://t.me/tginfoen/1924">Telegram Stars: Payment for Digital Goods and More</a></td>
+    <td><a href="https://t.me/tginfo/4031">«Звёзды» Telegram: оплата цифровых товаров и не только</a></td></tr><tr><td><a href="https://t.me/tginfoen/1923">Telegram Apps for Android and iOS Have Been Updated to Version 10.13</a></td>
     <td><a href="https://t.me/tginfo/4030">Telegram для Android и iOS обновились до версии 10.13</a></td></tr>
 </table>
 We are also available on <a href="https://github.com/tginfo"><b>🐙 GitHub</b></a>!
@@ -44,4 +35,4 @@ We are also available on <a href="https://github.com/tginfo"><b>🐙 GitHub</b><
 
 <br>
 <hr>
-<h4 align="center">This README file is generated <b>every 6 hours</b>!</br>Last refresh: <b>2024-06-08 20:11:38 (UTC time)</b></h4>
+<h4 align="center">This README file is generated <b>every 6 hours</b>!</br>Last refresh: <b>2024-06-09 08:14:14 (UTC time)</b></h4>
