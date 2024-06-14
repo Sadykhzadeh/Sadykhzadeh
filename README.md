@@ -14,15 +14,6 @@
 <h2>📊 This week I spent my time using:</h2>
 
 <!--START_SECTION:waka-->
-
-```txt
-PHP                        47 mins         █████████████▒░░░░░░░░░░░   53.27 %
-TypeScript                 16 mins         ████▓░░░░░░░░░░░░░░░░░░░░   18.34 %
-YAML                       11 mins         ███▒░░░░░░░░░░░░░░░░░░░░░   13.38 %
-INI                        6 mins          ██░░░░░░░░░░░░░░░░░░░░░░░   07.72 %
-Nginx configuration file   2 mins          ▓░░░░░░░░░░░░░░░░░░░░░░░░   02.56 %
-```
-
 <!--END_SECTION:waka-->
 
 <br>
@@ -35,13 +26,13 @@ Nginx configuration file   2 mins          ▓░░░░░░░░░░░�
 		</tr>
 		<caption>🚩 <a href="https://t.me/tginfo">@tginfo</a> in your language: <a href="https://t.me/tginfoworld"><b>@tginfoworld</b></a><caption/>
   <tr><td><a href="https://t.me/tginfoen/1926">Telegram is Preparing to Launch a Store for Bots and Mini Apps</a></td>
-    <td><a href="https://t.me/tginfo/4034">Telegram X обновился до версии 0.26.9.1730</a></td></tr><tr><td><a href="https://t.me/tginfoen/1925">Outage in Telegram</a></td>
-    <td><a href="https://t.me/tginfo/4033">Telegram готовится к запуску магазина ботов и мини-приложений</a></td></tr><tr><td><a href="https://t.me/tginfoen/1924">Telegram Stars: Payment for Digital Goods and More</a></td>
-    <td><a href="https://t.me/tginfo/4032">Сбой в Telegram </a></td></tr>
+    <td><a href="https://t.me/tginfo/4035">Telegram Desktop обновился до версии 5.1.6</a></td></tr><tr><td><a href="https://t.me/tginfoen/1925">Outage in Telegram</a></td>
+    <td><a href="https://t.me/tginfo/4034">Telegram X обновился до версии 0.26.9.1730</a></td></tr><tr><td><a href="https://t.me/tginfoen/1924">Telegram Stars: Payment for Digital Goods and More</a></td>
+    <td><a href="https://t.me/tginfo/4033">Telegram готовится к запуску магазина ботов и мини-приложений</a></td></tr>
 </table>
 We are also available on <a href="https://github.com/tginfo"><b>🐙 GitHub</b></a>!
 </div>
 
 <br>
 <hr>
-<h4 align="center">This README file is generated <b>every 6 hours</b>!</br>Last refresh: <b>2024-06-14 08:15:14 (UTC time)</b></h4>
+<h4 align="center">This README file is generated <b>every 6 hours</b>!</br>Last refresh: <b>2024-06-14 20:13:01 (UTC time)</b></h4>
