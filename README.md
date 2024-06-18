@@ -14,15 +14,6 @@
 <h2>📊 This week I spent my time using:</h2>
 
 <!--START_SECTION:waka-->
-
-```txt
-PHP                        1 hr 24 mins    ████████████████▒░░░░░░░░   65.95 %
-TypeScript                 16 mins         ███▒░░░░░░░░░░░░░░░░░░░░░   12.67 %
-YAML                       14 mins         ██▓░░░░░░░░░░░░░░░░░░░░░░   11.01 %
-INI                        6 mins          █▒░░░░░░░░░░░░░░░░░░░░░░░   05.33 %
-Nginx configuration file   2 mins          ▒░░░░░░░░░░░░░░░░░░░░░░░░   01.77 %
-```
-
 <!--END_SECTION:waka-->
 
 <br>
@@ -34,14 +25,14 @@ Nginx configuration file   2 mins          ▒░░░░░░░░░░░�
 			<th>На русском (<a href="https://t.me/tginfo">@tginfo</a>)</th>
 		</tr>
 		<caption>🚩 <a href="https://t.me/tginfo">@tginfo</a> in your language: <a href="https://t.me/tginfoworld"><b>@tginfoworld</b></a><caption/>
-  <tr><td><a href="https://t.me/tginfoen/1927">Telegram Desktop Has Been Updated To Version 5.1.7</a></td>
+  <tr><td><a href="https://t.me/tginfoen/1928">Telegram has begun blocking bots that have not switched to Telegram Stars</a></td>
+    <td><a href="https://t.me/tginfo/4037">Telegram начал блокировку ботов, не перешедших на Telegram Stars</a></td></tr><tr><td><a href="https://t.me/tginfoen/1927">Telegram Desktop Has Been Updated To Version 5.1.7</a></td>
     <td><a href="https://t.me/tginfo/4036">В Ростовской области сбои в работе Telegram</a></td></tr><tr><td><a href="https://t.me/tginfoen/1926">Telegram is Preparing to Launch a Store for Bots and Mini Apps</a></td>
-    <td><a href="https://t.me/tginfo/4035">Telegram Desktop обновился до версии 5.1.6</a></td></tr><tr><td><a href="https://t.me/tginfoen/1925">Outage in Telegram</a></td>
-    <td><a href="https://t.me/tginfo/4034">Telegram X обновился до версии 0.26.9.1730</a></td></tr>
+    <td><a href="https://t.me/tginfo/4035">Telegram Desktop обновился до версии 5.1.6</a></td></tr>
 </table>
 We are also available on <a href="https://github.com/tginfo"><b>🐙 GitHub</b></a>!
 </div>
 
 <br>
 <hr>
-<h4 align="center">This README file is generated <b>every 6 hours</b>!</br>Last refresh: <b>2024-06-17 20:11:04 (UTC time)</b></h4>
+<h4 align="center">This README file is generated <b>every 6 hours</b>!</br>Last refresh: <b>2024-06-18 08:17:18 (UTC time)</b></h4>
