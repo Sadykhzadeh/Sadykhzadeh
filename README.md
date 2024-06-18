@@ -14,15 +14,6 @@
 <h2>📊 This week I spent my time using:</h2>
 
 <!--START_SECTION:waka-->
-
-```txt
-PHP          45 mins         █████████████████▒░░░░░░░   69.28 %
-TypeScript   16 mins         ██████▒░░░░░░░░░░░░░░░░░░   24.79 %
-YAML         2 mins          █░░░░░░░░░░░░░░░░░░░░░░░░   03.44 %
-Markdown     1 min           ▓░░░░░░░░░░░░░░░░░░░░░░░░   02.34 %
-JSON         0 secs          ░░░░░░░░░░░░░░░░░░░░░░░░░   00.16 %
-```
-
 <!--END_SECTION:waka-->
 
 <br>
@@ -35,13 +26,13 @@ JSON         0 secs          ░░░░░░░░░░░░░░░░░
 		</tr>
 		<caption>🚩 <a href="https://t.me/tginfo">@tginfo</a> in your language: <a href="https://t.me/tginfoworld"><b>@tginfoworld</b></a><caption/>
   <tr><td><a href="https://t.me/tginfoen/1928">Telegram has begun blocking bots that have not switched to Telegram Stars</a></td>
-    <td><a href="https://t.me/tginfo/4037">Telegram начал блокировку ботов, не перешедших на Telegram Stars</a></td></tr><tr><td><a href="https://t.me/tginfoen/1927">Telegram Desktop Has Been Updated To Version 5.1.7</a></td>
-    <td><a href="https://t.me/tginfo/4036">В Ростовской области сбои в работе Telegram</a></td></tr><tr><td><a href="https://t.me/tginfoen/1926">Telegram is Preparing to Launch a Store for Bots and Mini Apps</a></td>
-    <td><a href="https://t.me/tginfo/4035">Telegram Desktop обновился до версии 5.1.6</a></td></tr>
+    <td><a href="https://t.me/tginfo/4038">Bot API обновился до версии 7.5</a></td></tr><tr><td><a href="https://t.me/tginfoen/1927">Telegram Desktop Has Been Updated To Version 5.1.7</a></td>
+    <td><a href="https://t.me/tginfo/4037">Telegram начал блокировку ботов, не перешедших на Telegram Stars</a></td></tr><tr><td><a href="https://t.me/tginfoen/1926">Telegram is Preparing to Launch a Store for Bots and Mini Apps</a></td>
+    <td><a href="https://t.me/tginfo/4036">В Ростовской области сбои в работе Telegram</a></td></tr>
 </table>
 We are also available on <a href="https://github.com/tginfo"><b>🐙 GitHub</b></a>!
 </div>
 
 <br>
 <hr>
-<h4 align="center">This README file is generated <b>every 6 hours</b>!</br>Last refresh: <b>2024-06-18 08:17:18 (UTC time)</b></h4>
+<h4 align="center">This README file is generated <b>every 6 hours</b>!</br>Last refresh: <b>2024-06-18 20:13:20 (UTC time)</b></h4>
