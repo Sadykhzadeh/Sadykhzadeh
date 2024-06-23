@@ -14,15 +14,6 @@
 <h2>📊 This week I spent my time using:</h2>
 
 <!--START_SECTION:waka-->
-
-```txt
-Astro         30 mins         █████████████▒░░░░░░░░░░░   53.76 %
-TypeScript    16 mins         ███████░░░░░░░░░░░░░░░░░░   28.25 %
-PHP           8 mins          ███▓░░░░░░░░░░░░░░░░░░░░░   14.86 %
-JSON          1 min           ▓░░░░░░░░░░░░░░░░░░░░░░░░   02.22 %
-JavaScript    0 secs          ░░░░░░░░░░░░░░░░░░░░░░░░░   00.43 %
-```
-
 <!--END_SECTION:waka-->
 
 <br>
@@ -34,14 +25,14 @@ JavaScript    0 secs          ░░░░░░░░░░░░░░░░�
 			<th>На русском (<a href="https://t.me/tginfo">@tginfo</a>)</th>
 		</tr>
 		<caption>🚩 <a href="https://t.me/tginfo">@tginfo</a> in your language: <a href="https://t.me/tginfoworld"><b>@tginfoworld</b></a><caption/>
-  <tr><td><a href="https://t.me/tginfoen/1929">Beta Version of Telegram for Android</a></td>
+  <tr><td><a href="https://t.me/tginfoen/1930">Telegram for Android and iOS Updated to Version 10.14</a></td>
+    <td><a href="https://t.me/tginfo/4040">Telegram для Android и iOS обновился до версии 10.14</a></td></tr><tr><td><a href="https://t.me/tginfoen/1929">Beta Version of Telegram for Android</a></td>
     <td><a href="https://t.me/tginfo/4039">Бета-версия Telegram для Android</a></td></tr><tr><td><a href="https://t.me/tginfoen/1928">Telegram has begun blocking bots that have not switched to Telegram Stars</a></td>
-    <td><a href="https://t.me/tginfo/4038">Bot API обновился до версии 7.5</a></td></tr><tr><td><a href="https://t.me/tginfoen/1927">Telegram Desktop Has Been Updated To Version 5.1.7</a></td>
-    <td><a href="https://t.me/tginfo/4037">Telegram начал блокировку ботов, не перешедших на Telegram Stars</a></td></tr>
+    <td><a href="https://t.me/tginfo/4038">Bot API обновился до версии 7.5</a></td></tr>
 </table>
 We are also available on <a href="https://github.com/tginfo"><b>🐙 GitHub</b></a>!
 </div>
 
 <br>
 <hr>
-<h4 align="center">This README file is generated <b>every 6 hours</b>!</br>Last refresh: <b>2024-06-22 20:11:49 (UTC time)</b></h4>
+<h4 align="center">This README file is generated <b>every 6 hours</b>!</br>Last refresh: <b>2024-06-23 08:14:03 (UTC time)</b></h4>
