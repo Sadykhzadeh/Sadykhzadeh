@@ -14,11 +14,6 @@
 <h2>📊 This week I spent my time using:</h2>
 
 <!--START_SECTION:waka-->
-
-```txt
-No activity tracked
-```
-
 <!--END_SECTION:waka-->
 
 <br>
@@ -31,13 +26,13 @@ No activity tracked
 		</tr>
 		<caption>🚩 <a href="https://t.me/tginfo">@tginfo</a> in your language: <a href="https://t.me/tginfoworld"><b>@tginfoworld</b></a><caption/>
   <tr><td><a href="https://t.me/tginfoen/1932">"Stealth Mode" Working Unreliably When Viewing Stories </a></td>
-    <td><a href="https://t.me/tginfo/4043">Нестабильная работа режима «Инкогнито» при просмотре историй</a></td></tr><tr><td><a href="https://t.me/tginfoen/1931">Telegram for Android and iOS Updated to Version 10.14</a></td>
-    <td><a href="https://t.me/tginfo/4042">Подарочные подписки Telegram Premium не доходят до получателей </a></td></tr><tr><td><a href="https://t.me/tginfoen/1930">Beta Version of Telegram for Android</a></td>
-    <td><a href="https://t.me/tginfo/4041">Telegram для Android и iOS обновился до версии 10.14</a></td></tr>
+    <td><a href="https://t.me/tginfo/4044">Нестабильная работа режима «Инкогнито» при просмотре историй</a></td></tr><tr><td><a href="https://t.me/tginfoen/1931">Telegram for Android and iOS Updated to Version 10.14</a></td>
+    <td><a href="https://t.me/tginfo/4043">Подарочные подписки Telegram Premium не доходят до получателей </a></td></tr><tr><td><a href="https://t.me/tginfoen/1930">Beta Version of Telegram for Android</a></td>
+    <td><a href="https://t.me/tginfo/4042">Telegram для Android и iOS обновился до версии 10.14</a></td></tr>
 </table>
 We are also available on <a href="https://github.com/tginfo"><b>🐙 GitHub</b></a>!
 </div>
 
 <br>
 <hr>
-<h4 align="center">This README file is generated <b>every 6 hours</b>!</br>Last refresh: <b>2024-06-28 08:15:15 (UTC time)</b></h4>
+<h4 align="center">This README file is generated <b>every 6 hours</b>!</br>Last refresh: <b>2024-06-28 20:12:45 (UTC time)</b></h4>
