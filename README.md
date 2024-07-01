@@ -14,11 +14,6 @@
 <h2>📊 This week I spent my time using:</h2>
 
 <!--START_SECTION:waka-->
-
-```txt
-No activity tracked
-```
-
 <!--END_SECTION:waka-->
 
 <br>
@@ -30,14 +25,14 @@ No activity tracked
 			<th>На русском (<a href="https://t.me/tginfo">@tginfo</a>)</th>
 		</tr>
 		<caption>🚩 <a href="https://t.me/tginfo">@tginfo</a> in your language: <a href="https://t.me/tginfoworld"><b>@tginfoworld</b></a><caption/>
-  <tr><td><a href="https://t.me/tginfoen/1935">Telegram Desktop updated to version 5.2.0</a></td>
+  <tr><td><a href="https://t.me/tginfoen/1936">Bot API was updated to version 7.6</a></td>
+    <td><a href="https://t.me/tginfo/4049">Bot API обновился до версии 7.6</a></td></tr><tr><td><a href="https://t.me/tginfoen/1935">Telegram Desktop updated to version 5.2.0</a></td>
     <td><a href="https://t.me/tginfo/4048">Telegram Desktop обновился до версии 5.2.0</a></td></tr><tr><td><a href="https://t.me/tginfoen/1934">Paid posts are now available on any channel</a></td>
-    <td><a href="https://t.me/tginfo/4047">Платные посты теперь доступны на любых каналах</a></td></tr><tr><td><a href="https://t.me/tginfoen/1933">Telegram for Android updated to version 10.14.2, Telegram for iOS to 10.14.1</a></td>
-    <td><a href="https://t.me/tginfo/4046">Telegram для Android обновился до версии 10.14.2, Telegram для iOS — до 10.14.1</a></td></tr>
+    <td><a href="https://t.me/tginfo/4047">Платные посты теперь доступны на любых каналах</a></td></tr>
 </table>
 We are also available on <a href="https://github.com/tginfo"><b>🐙 GitHub</b></a>!
 </div>
 
 <br>
 <hr>
-<h4 align="center">This README file is generated <b>every 6 hours</b>!</br>Last refresh: <b>2024-07-01 08:16:54 (UTC time)</b></h4>
+<h4 align="center">This README file is generated <b>every 6 hours</b>!</br>Last refresh: <b>2024-07-01 20:13:22 (UTC time)</b></h4>
