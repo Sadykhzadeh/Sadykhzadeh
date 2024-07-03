@@ -14,11 +14,6 @@
 <h2>📊 This week I spent my time using:</h2>
 
 <!--START_SECTION:waka-->
-
-```txt
-No activity tracked
-```
-
 <!--END_SECTION:waka-->
 
 <br>
@@ -31,13 +26,13 @@ No activity tracked
 		</tr>
 		<caption>🚩 <a href="https://t.me/tginfo">@tginfo</a> in your language: <a href="https://t.me/tginfoworld"><b>@tginfoworld</b></a><caption/>
   <tr><td><a href="https://t.me/tginfoen/1937">Pavel Durov on "Telegram Stars" and Upcoming Mini-App Bar Enhancements</a></td>
-    <td><a href="https://t.me/tginfo/4050">Павел Дуров о выводе «звёзд» и будущих функциях панели мини-приложений </a></td></tr><tr><td><a href="https://t.me/tginfoen/1936">Bot API was updated to version 7.6</a></td>
-    <td><a href="https://t.me/tginfo/4049">Bot API обновился до версии 7.6</a></td></tr><tr><td><a href="https://t.me/tginfoen/1935">Telegram Desktop updated to version 5.2.0</a></td>
-    <td><a href="https://t.me/tginfo/4048">Telegram Desktop обновился до версии 5.2.0</a></td></tr>
+    <td><a href="https://t.me/tginfo/4051">Неполадки у Telegram и ложные спам-баны</a></td></tr><tr><td><a href="https://t.me/tginfoen/1936">Bot API was updated to version 7.6</a></td>
+    <td><a href="https://t.me/tginfo/4050">Павел Дуров о выводе «звёзд» и будущих функциях панели мини-приложений </a></td></tr><tr><td><a href="https://t.me/tginfoen/1935">Telegram Desktop updated to version 5.2.0</a></td>
+    <td><a href="https://t.me/tginfo/4049">Bot API обновился до версии 7.6</a></td></tr>
 </table>
 We are also available on <a href="https://github.com/tginfo"><b>🐙 GitHub</b></a>!
 </div>
 
 <br>
 <hr>
-<h4 align="center">This README file is generated <b>every 6 hours</b>!</br>Last refresh: <b>2024-07-02 20:14:30 (UTC time)</b></h4>
+<h4 align="center">This README file is generated <b>every 6 hours</b>!</br>Last refresh: <b>2024-07-03 08:16:23 (UTC time)</b></h4>
