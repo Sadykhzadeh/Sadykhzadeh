@@ -14,15 +14,6 @@
 <h2>📊 This week I spent my time using:</h2>
 
 <!--START_SECTION:waka-->
-
-```txt
-TypeScript   23 mins         ████████████████████▒░░░░   81.36 %
-Other        2 mins          ██▒░░░░░░░░░░░░░░░░░░░░░░   09.95 %
-JavaScript   2 mins          ██░░░░░░░░░░░░░░░░░░░░░░░   07.60 %
-JSON         0 secs          ░░░░░░░░░░░░░░░░░░░░░░░░░   00.50 %
-Astro        0 secs          ░░░░░░░░░░░░░░░░░░░░░░░░░   00.34 %
-```
-
 <!--END_SECTION:waka-->
 
 <br>
@@ -34,14 +25,14 @@ Astro        0 secs          ░░░░░░░░░░░░░░░░░
 			<th>На русском (<a href="https://t.me/tginfo">@tginfo</a>)</th>
 		</tr>
 		<caption>🚩 <a href="https://t.me/tginfo">@tginfo</a> in your language: <a href="https://t.me/tginfoworld"><b>@tginfoworld</b></a><caption/>
-  <tr><td><a href="https://t.me/tginfoen/1939">Support Posts by Sending Stars</a></td>
+  <tr><td><a href="https://t.me/tginfoen/1940">Rewards for Channel Owners</a></td>
+    <td><a href="https://t.me/tginfo/4054">О вознаграждениях владельцам каналов</a></td></tr><tr><td><a href="https://t.me/tginfoen/1939">Support Posts by Sending Stars</a></td>
     <td><a href="https://t.me/tginfo/4053">Платные реакции</a></td></tr><tr><td><a href="https://t.me/tginfoen/1938">Pavel Durov on "Telegram Stars" and Upcoming Mini-App Bar Enhancements</a></td>
-    <td><a href="https://t.me/tginfo/4052">Неполадки у Telegram и ложные спам-баны</a></td></tr><tr><td><a href="https://t.me/tginfoen/1937">Bot API was updated to version 7.6</a></td>
-    <td><a href="https://t.me/tginfo/4051">Павел Дуров о выводе «звёзд» и будущих функциях панели мини-приложений </a></td></tr>
+    <td><a href="https://t.me/tginfo/4052">Неполадки у Telegram и ложные спам-баны</a></td></tr>
 </table>
 We are also available on <a href="https://github.com/tginfo"><b>🐙 GitHub</b></a>!
 </div>
 
 <br>
 <hr>
-<h4 align="center">This README file is generated <b>every 6 hours</b>!</br>Last refresh: <b>2024-07-05 08:15:49 (UTC time)</b></h4>
+<h4 align="center">This README file is generated <b>every 6 hours</b>!</br>Last refresh: <b>2024-07-05 20:13:48 (UTC time)</b></h4>
