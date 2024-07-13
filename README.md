@@ -14,15 +14,6 @@
 <h2>📊 This week I spent my time using:</h2>
 
 <!--START_SECTION:waka-->
-
-```txt
-Kotlin                5 hrs 27 mins   ████████████████████▓░░░░   82.55 %
-Python                25 mins         █▓░░░░░░░░░░░░░░░░░░░░░░░   06.51 %
-YAML                  12 mins         ▓░░░░░░░░░░░░░░░░░░░░░░░░   03.24 %
-Java Properties       10 mins         ▓░░░░░░░░░░░░░░░░░░░░░░░░   02.62 %
-JavaScript            5 mins          ▒░░░░░░░░░░░░░░░░░░░░░░░░   01.51 %
-```
-
 <!--END_SECTION:waka-->
 
 <br>
@@ -34,14 +25,14 @@ JavaScript            5 mins          ▒░░░░░░░░░░░░░
 			<th>На русском (<a href="https://t.me/tginfo">@tginfo</a>)</th>
 		</tr>
 		<caption>🚩 <a href="https://t.me/tginfo">@tginfo</a> in your language: <a href="https://t.me/tginfoworld"><b>@tginfoworld</b></a><caption/>
-  <tr><td><a href="https://t.me/tginfoen/1941">Beta Version of Telegram for Android Displays Stars in All Channels</a></td>
+  <tr><td><a href="https://t.me/tginfoen/1942">Purchasing Stars on the Fragment Platform</a></td>
+    <td><a href="https://t.me/tginfo/4058">Покупка звёзд на платформе Fragment</a></td></tr><tr><td><a href="https://t.me/tginfoen/1941">Beta Version of Telegram for Android Displays Stars in All Channels</a></td>
     <td><a href="https://t.me/tginfo/4057">Beta-версия Telegram для Android отображает «звёзды» во всех каналах</a></td></tr><tr><td><a href="https://t.me/tginfoen/1940">Rewards for Channel Owners</a></td>
-    <td><a href="https://t.me/tginfo/4056">Неполадки в работе статистики Telegram</a></td></tr><tr><td><a href="https://t.me/tginfoen/1939">Support Posts by Sending Stars</a></td>
-    <td><a href="https://t.me/tginfo/4055">О вознаграждениях владельцам каналов</a></td></tr>
+    <td><a href="https://t.me/tginfo/4056">Неполадки в работе статистики Telegram</a></td></tr>
 </table>
 We are also available on <a href="https://github.com/tginfo"><b>🐙 GitHub</b></a>!
 </div>
 
 <br>
 <hr>
-<h4 align="center">This README file is generated <b>every 6 hours</b>!</br>Last refresh: <b>2024-07-12 20:13:15 (UTC time)</b></h4>
+<h4 align="center">This README file is generated <b>every 6 hours</b>!</br>Last refresh: <b>2024-07-13 08:14:25 (UTC time)</b></h4>
