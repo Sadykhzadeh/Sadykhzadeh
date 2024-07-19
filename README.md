@@ -14,15 +14,6 @@
 <h2>📊 This week I spent my time using:</h2>
 
 <!--START_SECTION:waka-->
-
-```txt
-Kotlin                     2 hrs 25 mins   ███████▓░░░░░░░░░░░░░░░░░   30.40 %
-Vue.js                     1 hr 28 mins    ████▓░░░░░░░░░░░░░░░░░░░░   18.41 %
-Astro                      1 hr 16 mins    ████░░░░░░░░░░░░░░░░░░░░░   15.96 %
-HTML                       57 mins         ███░░░░░░░░░░░░░░░░░░░░░░   12.09 %
-TypeScript                 52 mins         ██▓░░░░░░░░░░░░░░░░░░░░░░   10.93 %
-```
-
 <!--END_SECTION:waka-->
 
 <br>
@@ -34,14 +25,14 @@ TypeScript                 52 mins         ██▓░░░░░░░░░�
 			<th>На русском (<a href="https://t.me/tginfo">@tginfo</a>)</th>
 		</tr>
 		<caption>🚩 <a href="https://t.me/tginfo">@tginfo</a> in your language: <a href="https://t.me/tginfoworld"><b>@tginfoworld</b></a><caption/>
-  <tr><td><a href="https://t.me/tginfoen/1942">Purchasing Stars on the Fragment Platform</a></td>
-    <td><a href="https://t.me/tginfo/4058">Покупка звёзд на платформе Fragment</a></td></tr><tr><td><a href="https://t.me/tginfoen/1941">Beta Version of Telegram for Android Displays Stars in All Channels</a></td>
-    <td><a href="https://t.me/tginfo/4057">Beta-версия Telegram для Android отображает «звёзды» во всех каналах</a></td></tr><tr><td><a href="https://t.me/tginfoen/1940">Rewards for Channel Owners</a></td>
-    <td><a href="https://t.me/tginfo/4056">Неполадки в работе статистики Telegram</a></td></tr>
+  <tr><td><a href="https://t.me/tginfoen/1943">Purchasing Stars on the Fragment Platform</a></td>
+    <td><a href="https://t.me/tginfo/4059">Покупка звёзд на платформе Fragment</a></td></tr><tr><td><a href="https://t.me/tginfoen/1942">Beta Version of Telegram for Android Displays Stars in All Channels</a></td>
+    <td><a href="https://t.me/tginfo/4058">Beta-версия Telegram для Android отображает «звёзды» во всех каналах</a></td></tr><tr><td><a href="https://t.me/tginfoen/1941">Rewards for Channel Owners</a></td>
+    <td><a href="https://t.me/tginfo/4057">Неполадки в работе статистики Telegram</a></td></tr>
 </table>
 We are also available on <a href="https://github.com/tginfo"><b>🐙 GitHub</b></a>!
 </div>
 
 <br>
 <hr>
-<h4 align="center">This README file is generated <b>every 6 hours</b>!</br>Last refresh: <b>2024-07-19 08:15:53 (UTC time)</b></h4>
+<h4 align="center">This README file is generated <b>every 6 hours</b>!</br>Last refresh: <b>2024-07-19 20:14:49 (UTC time)</b></h4>
