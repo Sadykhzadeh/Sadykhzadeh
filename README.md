@@ -14,15 +14,6 @@
 <h2>📊 This week I spent my time using:</h2>
 
 <!--START_SECTION:waka-->
-
-```txt
-PHP              1 hr 15 mins    ███████▒░░░░░░░░░░░░░░░░░   29.87 %
-TypeScript       56 mins         █████▓░░░░░░░░░░░░░░░░░░░   22.47 %
-Bash             47 mins         ████▓░░░░░░░░░░░░░░░░░░░░   18.88 %
-Astro            36 mins         ███▓░░░░░░░░░░░░░░░░░░░░░   14.26 %
-Vue.js           10 mins         █░░░░░░░░░░░░░░░░░░░░░░░░   04.02 %
-```
-
 <!--END_SECTION:waka-->
 
 <br>
@@ -34,9 +25,9 @@ Vue.js           10 mins         █░░░░░░░░░░░░░░�
 			<th>На русском (<a href="https://t.me/tginfo">@tginfo</a>)</th>
 		</tr>
 		<caption>🚩 <a href="https://t.me/tginfo">@tginfo</a> in your language: <a href="https://t.me/tginfoworld"><b>@tginfoworld</b></a><caption/>
-  <tr><td><a href="https://t.me/tginfoen/1944">Telegram Reaches 950 Million Monthly Active Users</a></td>
-    <td><a href="https://t.me/tginfo/4065">В Сибири наблюдаются сбои в работе Telegram</a></td></tr><tr><td><a href="https://t.me/tginfoen/1943">Purchasing Stars on the Fragment Platform</a></td>
-    <td><a href="https://t.me/tginfo/4064">Обновлённый встроенный браузер</a></td></tr><tr><td><a href="https://t.me/tginfoen/1942">Beta Version of Telegram for Android Displays Stars in All Channels</a></td>
+  <tr><td><a href="https://t.me/tginfoen/1946">Updated in-app browser</a></td>
+    <td><a href="https://t.me/tginfo/4065">В Сибири наблюдаются сбои в работе Telegram</a></td></tr><tr><td><a href="https://t.me/tginfoen/1945">Catalog of Mini-Apps</a></td>
+    <td><a href="https://t.me/tginfo/4064">Обновлённый встроенный браузер</a></td></tr><tr><td><a href="https://t.me/tginfoen/1944">Telegram Reaches 950 Million Monthly Active Users</a></td>
     <td><a href="https://t.me/tginfo/4063">Каталог мини-приложений</a></td></tr>
 </table>
 We are also available on <a href="https://github.com/tginfo"><b>🐙 GitHub</b></a>!
@@ -44,4 +35,4 @@ We are also available on <a href="https://github.com/tginfo"><b>🐙 GitHub</b><
 
 <br>
 <hr>
-<h4 align="center">This README file is generated <b>every 6 hours</b>!</br>Last refresh: <b>2024-07-26 08:15:34 (UTC time)</b></h4>
+<h4 align="center">This README file is generated <b>every 6 hours</b>!</br>Last refresh: <b>2024-07-26 20:15:30 (UTC time)</b></h4>
