@@ -14,15 +14,6 @@
 <h2>📊 This week I spent my time using:</h2>
 
 <!--START_SECTION:waka-->
-
-```txt
-Bash             2 hrs 16 mins   ████████▒░░░░░░░░░░░░░░░░   33.51 %
-PHP              1 hr 22 mins    █████░░░░░░░░░░░░░░░░░░░░   20.19 %
-TypeScript       1 hr 9 mins     ████▒░░░░░░░░░░░░░░░░░░░░   17.04 %
-JSON             36 mins         ██▒░░░░░░░░░░░░░░░░░░░░░░   08.97 %
-Astro            21 mins         █▒░░░░░░░░░░░░░░░░░░░░░░░   05.16 %
-```
-
 <!--END_SECTION:waka-->
 
 <br>
@@ -35,13 +26,13 @@ Astro            21 mins         █▒░░░░░░░░░░░░░�
 		</tr>
 		<caption>🚩 <a href="https://t.me/tginfo">@tginfo</a> in your language: <a href="https://t.me/tginfoworld"><b>@tginfoworld</b></a><caption/>
   <tr><td><a href="https://t.me/tginfoen/1946">Updated in-app browser</a></td>
-    <td><a href="https://t.me/tginfo/4066">Очередная схема кражи аккаунтов</a></td></tr><tr><td><a href="https://t.me/tginfoen/1945">Catalog of Mini-Apps</a></td>
-    <td><a href="https://t.me/tginfo/4065">В Сибири наблюдаются сбои в работе Telegram</a></td></tr><tr><td><a href="https://t.me/tginfoen/1944">Telegram Reaches 950 Million Monthly Active Users</a></td>
-    <td><a href="https://t.me/tginfo/4064">Обновлённый встроенный браузер</a></td></tr>
+    <td><a href="https://t.me/tginfo/4067">Принудительное завершение сеансов и удаление последних сообщений</a></td></tr><tr><td><a href="https://t.me/tginfoen/1945">Catalog of Mini-Apps</a></td>
+    <td><a href="https://t.me/tginfo/4066">Очередная схема кражи аккаунтов</a></td></tr><tr><td><a href="https://t.me/tginfoen/1944">Telegram Reaches 950 Million Monthly Active Users</a></td>
+    <td><a href="https://t.me/tginfo/4065">В Сибири наблюдаются сбои в работе Telegram</a></td></tr>
 </table>
 We are also available on <a href="https://github.com/tginfo"><b>🐙 GitHub</b></a>!
 </div>
 
 <br>
 <hr>
-<h4 align="center">This README file is generated <b>every 6 hours</b>!</br>Last refresh: <b>2024-07-28 20:13:38 (UTC time)</b></h4>
+<h4 align="center">This README file is generated <b>every 6 hours</b>!</br>Last refresh: <b>2024-07-29 08:16:43 (UTC time)</b></h4>
