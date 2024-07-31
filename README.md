@@ -14,15 +14,6 @@
 <h2>📊 This week I spent my time using:</h2>
 
 <!--START_SECTION:waka-->
-
-```txt
-TypeScript       9 hrs 22 mins   ███████████████▓░░░░░░░░░   62.96 %
-Bash             2 hrs 15 mins   ███▓░░░░░░░░░░░░░░░░░░░░░   15.17 %
-PHP              1 hr 22 mins    ██▒░░░░░░░░░░░░░░░░░░░░░░   09.22 %
-JSON             45 mins         █▒░░░░░░░░░░░░░░░░░░░░░░░   05.08 %
-Python           18 mins         ▓░░░░░░░░░░░░░░░░░░░░░░░░   02.03 %
-```
-
 <!--END_SECTION:waka-->
 
 <br>
@@ -34,14 +25,14 @@ Python           18 mins         ▓░░░░░░░░░░░░░░�
 			<th>На русском (<a href="https://t.me/tginfo">@tginfo</a>)</th>
 		</tr>
 		<caption>🚩 <a href="https://t.me/tginfo">@tginfo</a> in your language: <a href="https://t.me/tginfoworld"><b>@tginfoworld</b></a><caption/>
-  <tr><td><a href="https://t.me/tginfoen/1946">Updated in-app browser</a></td>
+  <tr><td><a href="https://t.me/tginfoen/1947">Telegram for Android, iOS and macOS updated to version 10.15</a></td>
+    <td><a href="https://t.me/tginfo/4068">Telegram для Android и iOS обновились до версии 10.15</a></td></tr><tr><td><a href="https://t.me/tginfoen/1946">Updated in-app browser</a></td>
     <td><a href="https://t.me/tginfo/4067">Принудительное завершение сеансов и удаление последних сообщений</a></td></tr><tr><td><a href="https://t.me/tginfoen/1945">Catalog of Mini-Apps</a></td>
-    <td><a href="https://t.me/tginfo/4066">Очередная схема кражи аккаунтов</a></td></tr><tr><td><a href="https://t.me/tginfoen/1944">Telegram Reaches 950 Million Monthly Active Users</a></td>
-    <td><a href="https://t.me/tginfo/4065">В Сибири наблюдаются сбои в работе Telegram</a></td></tr>
+    <td><a href="https://t.me/tginfo/4066">Очередная схема кражи аккаунтов</a></td></tr>
 </table>
 We are also available on <a href="https://github.com/tginfo"><b>🐙 GitHub</b></a>!
 </div>
 
 <br>
 <hr>
-<h4 align="center">This README file is generated <b>every 6 hours</b>!</br>Last refresh: <b>2024-07-31 08:15:29 (UTC time)</b></h4>
+<h4 align="center">This README file is generated <b>every 6 hours</b>!</br>Last refresh: <b>2024-07-31 20:13:13 (UTC time)</b></h4>
