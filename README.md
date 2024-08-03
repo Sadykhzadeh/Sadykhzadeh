@@ -14,15 +14,6 @@
 <h2>📊 This week I spent my time using:</h2>
 
 <!--START_SECTION:waka-->
-
-```txt
-TypeScript       19 hrs 12 mins  ████████████████████▓░░░░   82.33 %
-Other            2 hrs 19 mins   ██▒░░░░░░░░░░░░░░░░░░░░░░   09.94 %
-Bash             21 mins         ▒░░░░░░░░░░░░░░░░░░░░░░░░   01.55 %
-Python           18 mins         ▒░░░░░░░░░░░░░░░░░░░░░░░░   01.31 %
-CSS              16 mins         ▒░░░░░░░░░░░░░░░░░░░░░░░░   01.20 %
-```
-
 <!--END_SECTION:waka-->
 
 <br>
@@ -34,14 +25,14 @@ CSS              16 mins         ▒░░░░░░░░░░░░░░�
 			<th>На русском (<a href="https://t.me/tginfo">@tginfo</a>)</th>
 		</tr>
 		<caption>🚩 <a href="https://t.me/tginfo">@tginfo</a> in your language: <a href="https://t.me/tginfoworld"><b>@tginfoworld</b></a><caption/>
-  <tr><td><a href="https://t.me/tginfoen/1949">Telegram Desktop updated to version 5.3.1</a></td>
+  <tr><td><a href="https://t.me/tginfoen/1950">Buying and Gifting Stars via @premiumbot</a></td>
+    <td><a href="https://t.me/tginfo/4076">Покупка и отправка звёзд в подарок с помощью @premiumbot</a></td></tr><tr><td><a href="https://t.me/tginfoen/1949">Telegram Desktop updated to version 5.3.1</a></td>
     <td><a href="https://t.me/tginfo/4075">Владельцы крупных каналов будут обязаны сообщать о себе в РКН</a></td></tr><tr><td><a href="https://t.me/tginfoen/1948">Telegram Desktop updated to version 5.3.0</a></td>
-    <td><a href="https://t.me/tginfo/4074">Telegram Desktop обновился до версии 5.3.1</a></td></tr><tr><td><a href="https://t.me/tginfoen/1947">Telegram for Android, iOS and macOS updated to version 10.15</a></td>
-    <td><a href="https://t.me/tginfo/4073">Bot API обновился до версии 7.8</a></td></tr>
+    <td><a href="https://t.me/tginfo/4074">Telegram Desktop обновился до версии 5.3.1</a></td></tr>
 </table>
 We are also available on <a href="https://github.com/tginfo"><b>🐙 GitHub</b></a>!
 </div>
 
 <br>
 <hr>
-<h4 align="center">This README file is generated <b>every 6 hours</b>!</br>Last refresh: <b>2024-08-03 08:16:11 (UTC time)</b></h4>
+<h4 align="center">This README file is generated <b>every 6 hours</b>!</br>Last refresh: <b>2024-08-03 20:12:20 (UTC time)</b></h4>
