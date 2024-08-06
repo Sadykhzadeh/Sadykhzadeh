@@ -14,15 +14,6 @@
 <h2>📊 This week I spent my time using:</h2>
 
 <!--START_SECTION:waka-->
-
-```txt
-TypeScript       18 hrs 7 mins   ████████████████████▓░░░░   82.57 %
-Other            2 hrs 19 mins   ██▓░░░░░░░░░░░░░░░░░░░░░░   10.55 %
-Text             18 mins         ▒░░░░░░░░░░░░░░░░░░░░░░░░   01.43 %
-CSS              16 mins         ▒░░░░░░░░░░░░░░░░░░░░░░░░   01.27 %
-JSON             13 mins         ▒░░░░░░░░░░░░░░░░░░░░░░░░   01.00 %
-```
-
 <!--END_SECTION:waka-->
 
 <br>
@@ -35,13 +26,13 @@ JSON             13 mins         ▒░░░░░░░░░░░░░░�
 		</tr>
 		<caption>🚩 <a href="https://t.me/tginfo">@tginfo</a> in your language: <a href="https://t.me/tginfoworld"><b>@tginfoworld</b></a><caption/>
   <tr><td><a href="https://t.me/tginfoen/1950">Buying and Gifting Stars via @premiumbot</a></td>
-    <td><a href="https://t.me/tginfo/4077">Как изменить номер телефона своего аккаунта в Telegram?</a></td></tr><tr><td><a href="https://t.me/tginfoen/1949">Telegram Desktop updated to version 5.3.1</a></td>
-    <td><a href="https://t.me/tginfo/4076">Покупка и отправка звёзд в подарок с помощью @premiumbot</a></td></tr><tr><td><a href="https://t.me/tginfoen/1948">Telegram Desktop updated to version 5.3.0</a></td>
-    <td><a href="https://t.me/tginfo/4075">Владельцы крупных каналов будут обязаны сообщать о себе в РКН</a></td></tr>
+    <td><a href="https://t.me/tginfo/4078">Как изменить номер телефона своего аккаунта в Telegram?</a></td></tr><tr><td><a href="https://t.me/tginfoen/1949">Telegram Desktop updated to version 5.3.1</a></td>
+    <td><a href="https://t.me/tginfo/4077">Покупка и отправка звёзд в подарок с помощью @premiumbot</a></td></tr><tr><td><a href="https://t.me/tginfoen/1948">Telegram Desktop updated to version 5.3.0</a></td>
+    <td><a href="https://t.me/tginfo/4076">Владельцы крупных каналов будут обязаны сообщать о себе в РКН</a></td></tr>
 </table>
 We are also available on <a href="https://github.com/tginfo"><b>🐙 GitHub</b></a>!
 </div>
 
 <br>
 <hr>
-<h4 align="center">This README file is generated <b>every 6 hours</b>!</br>Last refresh: <b>2024-08-06 08:15:57 (UTC time)</b></h4>
+<h4 align="center">This README file is generated <b>every 6 hours</b>!</br>Last refresh: <b>2024-08-06 20:11:45 (UTC time)</b></h4>
