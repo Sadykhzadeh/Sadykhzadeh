@@ -14,15 +14,6 @@
 <h2>📊 This week I spent my time using:</h2>
 
 <!--START_SECTION:waka-->
-
-```txt
-TypeScript       4 hrs 43 mins   ████████████▒░░░░░░░░░░░░   49.95 %
-PHP              3 hrs 15 mins   ████████▓░░░░░░░░░░░░░░░░   34.43 %
-JSON             38 mins         █▓░░░░░░░░░░░░░░░░░░░░░░░   06.85 %
-Batchfile        19 mins         █░░░░░░░░░░░░░░░░░░░░░░░░   03.51 %
-Text             9 mins          ▒░░░░░░░░░░░░░░░░░░░░░░░░   01.71 %
-```
-
 <!--END_SECTION:waka-->
 
 <br>
@@ -34,14 +25,14 @@ Text             9 mins          ▒░░░░░░░░░░░░░░�
 			<th>На русском (<a href="https://t.me/tginfo">@tginfo</a>)</th>
 		</tr>
 		<caption>🚩 <a href="https://t.me/tginfo">@tginfo</a> in your language: <a href="https://t.me/tginfoworld"><b>@tginfoworld</b></a><caption/>
-  <tr><td><a href="https://t.me/tginfoen/1951">Rumors of Potential Telegram Ban in Turkey</a></td>
-    <td><a href="https://t.me/tginfo/4083">Unigram обновился до версии 10.15.3</a></td></tr><tr><td><a href="https://t.me/tginfoen/1950">Buying and Gifting Stars via @premiumbot</a></td>
-    <td><a href="https://t.me/tginfo/4082">Сбои при публикации постов на каналах</a></td></tr><tr><td><a href="https://t.me/tginfoen/1949">Telegram Desktop updated to version 5.3.1</a></td>
-    <td><a href="https://t.me/tginfo/4081">Слухи о возможной блокировке Telegram в Турции</a></td></tr>
+  <tr><td><a href="https://t.me/tginfoen/1954">Telegram for Android and iOS Updated to Version 11.0</a></td>
+    <td><a href="https://t.me/tginfo/4085">Telegram для Android, iOS и macOS обновились до версии 11.0</a></td></tr><tr><td><a href="https://t.me/tginfoen/1953">Pavel Durov on Telegram’s Birthday</a></td>
+    <td><a href="https://t.me/tginfo/4084">Unigram обновился до версии 10.15.3</a></td></tr><tr><td><a href="https://t.me/tginfoen/1951">Rumors of Potential Telegram Ban in Turkey</a></td>
+    <td><a href="https://t.me/tginfo/4083">Сбои при публикации постов на каналах</a></td></tr>
 </table>
 We are also available on <a href="https://github.com/tginfo"><b>🐙 GitHub</b></a>!
 </div>
 
 <br>
 <hr>
-<h4 align="center">This README file is generated <b>every 6 hours</b>!</br>Last refresh: <b>2024-08-14 08:17:36 (UTC time)</b></h4>
+<h4 align="center">This README file is generated <b>every 6 hours</b>!</br>Last refresh: <b>2024-08-14 20:13:33 (UTC time)</b></h4>
