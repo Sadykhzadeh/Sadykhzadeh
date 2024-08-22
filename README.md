@@ -14,15 +14,6 @@
 <h2>📊 This week I spent my time using:</h2>
 
 <!--START_SECTION:waka-->
-
-```txt
-PHP              4 hrs 12 mins   ███████████████████████▒░   93.75 %
-textmate         10 mins         █░░░░░░░░░░░░░░░░░░░░░░░░   03.87 %
-Bash             1 min           ░░░░░░░░░░░░░░░░░░░░░░░░░   00.66 %
-XML              1 min           ░░░░░░░░░░░░░░░░░░░░░░░░░   00.60 %
-JSON             1 min           ░░░░░░░░░░░░░░░░░░░░░░░░░   00.48 %
-```
-
 <!--END_SECTION:waka-->
 
 <br>
@@ -34,14 +25,14 @@ JSON             1 min           ░░░░░░░░░░░░░░░�
 			<th>На русском (<a href="https://t.me/tginfo">@tginfo</a>)</th>
 		</tr>
 		<caption>🚩 <a href="https://t.me/tginfo">@tginfo</a> in your language: <a href="https://t.me/tginfoworld"><b>@tginfoworld</b></a><caption/>
-  <tr><td><a href="https://t.me/tginfoen/1959">The Default Lifetime of New Accounts Has Been Increased to 1½ years</a></td>
-    <td><a href="https://t.me/tginfo/4093">Амстердам запретил Telegram для госслужащих</a></td></tr><tr><td><a href="https://t.me/tginfoen/1958">Telegram Desktop Has Been Updated To Version 5.4.1</a></td>
-    <td><a href="https://t.me/tginfo/4092">Как очистить приложение Telegram от ненужных данных?</a></td></tr><tr><td><a href="https://t.me/tginfoen/1957">Standard Privacy Policy for bots</a></td>
-    <td><a href="https://t.me/tginfo/4091">Дефолтное время жизни новых аккаунтов при неактивности увеличено до полутора лет</a></td></tr>
+  <tr><td><a href="https://t.me/tginfoen/1960">Increasing Account Lifetime for All Users</a></td>
+    <td><a href="https://t.me/tginfo/4095">Увеличение срока жизни аккаунта для всех пользователей</a></td></tr><tr><td><a href="https://t.me/tginfoen/1959">The Default Lifetime of New Accounts Has Been Increased to 1½ years</a></td>
+    <td><a href="https://t.me/tginfo/4094">Конструктор ботов для приёма заявок в канал </a></td></tr><tr><td><a href="https://t.me/tginfoen/1958">Telegram Desktop Has Been Updated To Version 5.4.1</a></td>
+    <td><a href="https://t.me/tginfo/4093">Амстердам запретил Telegram для госслужащих</a></td></tr>
 </table>
 We are also available on <a href="https://github.com/tginfo"><b>🐙 GitHub</b></a>!
 </div>
 
 <br>
 <hr>
-<h4 align="center">This README file is generated <b>every 6 hours</b>!</br>Last refresh: <b>2024-08-22 08:16:23 (UTC time)</b></h4>
+<h4 align="center">This README file is generated <b>every 6 hours</b>!</br>Last refresh: <b>2024-08-22 20:14:08 (UTC time)</b></h4>
