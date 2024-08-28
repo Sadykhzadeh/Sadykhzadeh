@@ -14,15 +14,6 @@
 <h2>📊 This week I spent my time using:</h2>
 
 <!--START_SECTION:waka-->
-
-```txt
-TypeScript       1 hr 26 mins    ████████████▒░░░░░░░░░░░░   48.80 %
-PHP              1 hr 14 mins    ██████████▓░░░░░░░░░░░░░░   42.07 %
-textmate         5 mins          ▓░░░░░░░░░░░░░░░░░░░░░░░░   03.08 %
-JSON             4 mins          ▓░░░░░░░░░░░░░░░░░░░░░░░░   02.59 %
-JavaScript       2 mins          ▒░░░░░░░░░░░░░░░░░░░░░░░░   01.55 %
-```
-
 <!--END_SECTION:waka-->
 
 <br>
@@ -34,14 +25,14 @@ JavaScript       2 mins          ▒░░░░░░░░░░░░░░�
 			<th>На русском (<a href="https://t.me/tginfo">@tginfo</a>)</th>
 		</tr>
 		<caption>🚩 <a href="https://t.me/tginfo">@tginfo</a> in your language: <a href="https://t.me/tginfoworld"><b>@tginfoworld</b></a><caption/>
-  <tr><td><a href="https://t.me/tginfoen/1965">What legal framework is Emmanuel Macron referring to?</a></td>
+  <tr><td><a href="https://t.me/tginfoen/1966">Tginfo Telegram FAQ</a></td>
+    <td><a href="https://t.me/tginfo/4103">Telegram перестал отображать количество активных пользователей у ботов</a></td></tr><tr><td><a href="https://t.me/tginfoen/1965">What legal framework is Emmanuel Macron referring to?</a></td>
     <td><a href="https://t.me/tginfo/4102">О какой правовой базе говорит Эмануэль Макрон?</a></td></tr><tr><td><a href="https://t.me/tginfoen/1964">Pavel Durov Suspected of 12 Crimes</a></td>
-    <td><a href="https://t.me/tginfo/4101">Павлу Дурову могут предъявить обвинение в 12 преступлениях</a></td></tr><tr><td><a href="https://t.me/tginfoen/1963">France Extends Pavel Durov's Arrest</a></td>
-    <td><a href="https://t.me/tginfo/4100">Франция продлила арест Павла Дурова</a></td></tr>
+    <td><a href="https://t.me/tginfo/4101">Павлу Дурову могут предъявить обвинение в 12 преступлениях</a></td></tr>
 </table>
 We are also available on <a href="https://github.com/tginfo"><b>🐙 GitHub</b></a>!
 </div>
 
 <br>
 <hr>
-<h4 align="center">This README file is generated <b>every 6 hours</b>!</br>Last refresh: <b>2024-08-28 08:17:08 (UTC time)</b></h4>
+<h4 align="center">This README file is generated <b>every 6 hours</b>!</br>Last refresh: <b>2024-08-28 20:14:36 (UTC time)</b></h4>
