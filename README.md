@@ -14,15 +14,6 @@
 <h2>📊 This week I spent my time using:</h2>
 
 <!--START_SECTION:waka-->
-
-```txt
-TypeScript       4 hrs 41 mins   ██████████████████████▒░░   89.91 %
-JavaScript       20 mins         █▓░░░░░░░░░░░░░░░░░░░░░░░   06.70 %
-JSON             4 mins          ▒░░░░░░░░░░░░░░░░░░░░░░░░   01.54 %
-MDX              4 mins          ▒░░░░░░░░░░░░░░░░░░░░░░░░   01.44 %
-Bash             0 secs          ░░░░░░░░░░░░░░░░░░░░░░░░░   00.19 %
-```
-
 <!--END_SECTION:waka-->
 
 <br>
@@ -34,14 +25,14 @@ Bash             0 secs          ░░░░░░░░░░░░░░░�
 			<th>На русском (<a href="https://t.me/tginfo">@tginfo</a>)</th>
 		</tr>
 		<caption>🚩 <a href="https://t.me/tginfo">@tginfo</a> in your language: <a href="https://t.me/tginfoworld"><b>@tginfoworld</b></a><caption/>
-  <tr><td><a href="https://t.me/tginfoen/1967">Pavel Durov Has Been Charged and Must Remain in France</a></td>
+  <tr><td><a href="https://t.me/tginfoen/1968">People Nearby and Groups Nearby No Longer Visible</a></td>
+    <td><a href="https://t.me/tginfo/4105">«Люди рядом» и геочаты больше не отображаются</a></td></tr><tr><td><a href="https://t.me/tginfoen/1967">Pavel Durov Has Been Charged and Must Remain in France</a></td>
     <td><a href="https://t.me/tginfo/4104">Павлу Дурову были предъявлены обвинения и он должен оставаться во Франции</a></td></tr><tr><td><a href="https://t.me/tginfoen/1966">Tginfo Telegram FAQ</a></td>
-    <td><a href="https://t.me/tginfo/4103">Telegram перестал отображать количество активных пользователей у ботов</a></td></tr><tr><td><a href="https://t.me/tginfoen/1965">What legal framework is Emmanuel Macron referring to?</a></td>
-    <td><a href="https://t.me/tginfo/4102">О какой правовой базе говорит Эмануэль Макрон?</a></td></tr>
+    <td><a href="https://t.me/tginfo/4103">Telegram перестал отображать количество активных пользователей у ботов</a></td></tr>
 </table>
 We are also available on <a href="https://github.com/tginfo"><b>🐙 GitHub</b></a>!
 </div>
 
 <br>
 <hr>
-<h4 align="center">This README file is generated <b>every 6 hours</b>!</br>Last refresh: <b>2024-08-31 08:16:57 (UTC time)</b></h4>
+<h4 align="center">This README file is generated <b>every 6 hours</b>!</br>Last refresh: <b>2024-08-31 20:14:45 (UTC time)</b></h4>
