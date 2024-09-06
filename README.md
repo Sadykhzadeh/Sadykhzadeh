@@ -14,15 +14,6 @@
 <h2>📊 This week I spent my time using:</h2>
 
 <!--START_SECTION:waka-->
-
-```txt
-TypeScript       2 hrs 23 mins   ██████████████▒░░░░░░░░░░   57.22 %
-PHP              1 hr 43 mins    ██████████▒░░░░░░░░░░░░░░   41.37 %
-SQL              3 mins          ▒░░░░░░░░░░░░░░░░░░░░░░░░   01.37 %
-Blade Template   0 secs          ░░░░░░░░░░░░░░░░░░░░░░░░░   00.02 %
-TSConfig         0 secs          ░░░░░░░░░░░░░░░░░░░░░░░░░   00.02 %
-```
-
 <!--END_SECTION:waka-->
 
 <br>
@@ -34,14 +25,14 @@ TSConfig         0 secs          ░░░░░░░░░░░░░░░�
 			<th>На русском (<a href="https://t.me/tginfo">@tginfo</a>)</th>
 		</tr>
 		<caption>🚩 <a href="https://t.me/tginfo">@tginfo</a> in your language: <a href="https://t.me/tginfoworld"><b>@tginfoworld</b></a><caption/>
-  <tr><td><a href="https://t.me/tginfoen/1971">Promote Your Channel Using Incentivized Traffic</a></td>
-    <td><a href="https://t.me/tginfo/4108">Видео и изображения в рекламных сообщениях Telegram</a></td></tr><tr><td><a href="https://t.me/tginfoen/1970">Photos and Videos in Telegram Ads</a></td>
-    <td><a href="https://t.me/tginfo/4107">Теперь Корея?</a></td></tr><tr><td><a href="https://t.me/tginfoen/1969">Korea now?</a></td>
-    <td><a href="https://t.me/tginfo/4106">Продвижение канала через мотивированный трафик из ботов</a></td></tr>
+  <tr><td><a href="https://t.me/tginfoen/1972">Promote Your Channel Using Incentivized Traffic</a></td>
+    <td><a href="https://t.me/tginfo/4109">Видео и изображения в рекламных сообщениях Telegram</a></td></tr><tr><td><a href="https://t.me/tginfoen/1971">Photos and Videos in Telegram Ads</a></td>
+    <td><a href="https://t.me/tginfo/4108">Теперь Корея?</a></td></tr><tr><td><a href="https://t.me/tginfoen/1970">Korea now?</a></td>
+    <td><a href="https://t.me/tginfo/4107">Продвижение канала через мотивированный трафик из ботов</a></td></tr>
 </table>
 We are also available on <a href="https://github.com/tginfo"><b>🐙 GitHub</b></a>!
 </div>
 
 <br>
 <hr>
-<h4 align="center">This README file is generated <b>every 6 hours</b>!</br>Last refresh: <b>2024-09-05 20:14:25 (UTC time)</b></h4>
+<h4 align="center">This README file is generated <b>every 6 hours</b>!</br>Last refresh: <b>2024-09-06 08:17:37 (UTC time)</b></h4>
