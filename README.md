@@ -14,15 +14,6 @@
 <h2>📊 This week I spent my time using:</h2>
 
 <!--START_SECTION:waka-->
-
-```txt
-TypeScript       3 hrs 51 mins   █████████████████░░░░░░░░   67.40 %
-PHP              1 hr 43 mins    ███████▓░░░░░░░░░░░░░░░░░   30.12 %
-JSON             3 mins          ▒░░░░░░░░░░░░░░░░░░░░░░░░   01.15 %
-SQL              3 mins          ▒░░░░░░░░░░░░░░░░░░░░░░░░   01.00 %
-Other            1 min           ░░░░░░░░░░░░░░░░░░░░░░░░░   00.31 %
-```
-
 <!--END_SECTION:waka-->
 
 <br>
@@ -35,13 +26,13 @@ Other            1 min           ░░░░░░░░░░░░░░░�
 		</tr>
 		<caption>🚩 <a href="https://t.me/tginfo">@tginfo</a> in your language: <a href="https://t.me/tginfoworld"><b>@tginfoworld</b></a><caption/>
   <tr><td><a href="https://t.me/tginfoen/1977">Telegram is Replacing "People Nearby" with "Businesses Nearby"</a></td>
-    <td><a href="https://t.me/tginfo/4116">TgConf: конференция по трафику и продажам в Telegram</a></td></tr><tr><td><a href="https://t.me/tginfoen/1976">Telegram for Android and iOS Updated to Version 11.1</a></td>
-    <td><a href="https://t.me/tginfo/4114">На замену «Люди рядом» Telegram готовит «Бизнес рядом»</a></td></tr><tr><td><a href="https://t.me/tginfoen/1975">Telegra.ph Disables File Uploading from Devices</a></td>
-    <td><a href="https://t.me/tginfo/4113">Telegra․ph отключил возможность прикреплять картинки и другие типы файлов с устройства</a></td></tr>
+    <td><a href="https://t.me/tginfo/4118">Максимальный срок жизни аккаунта увеличен до 2 лет</a></td></tr><tr><td><a href="https://t.me/tginfoen/1976">Telegram for Android and iOS Updated to Version 11.1</a></td>
+    <td><a href="https://t.me/tginfo/4117">Telegram Desktop обновился до версии 5.5.1</a></td></tr><tr><td><a href="https://t.me/tginfoen/1975">Telegra.ph Disables File Uploading from Devices</a></td>
+    <td><a href="https://t.me/tginfo/4116">TgConf: конференция по трафику и продажам в Telegram</a></td></tr>
 </table>
 We are also available on <a href="https://github.com/tginfo"><b>🐙 GitHub</b></a>!
 </div>
 
 <br>
 <hr>
-<h4 align="center">This README file is generated <b>every 6 hours</b>!</br>Last refresh: <b>2024-09-06 20:14:20 (UTC time)</b></h4>
+<h4 align="center">This README file is generated <b>every 6 hours</b>!</br>Last refresh: <b>2024-09-07 08:15:34 (UTC time)</b></h4>
