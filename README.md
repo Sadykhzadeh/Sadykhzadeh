@@ -14,15 +14,6 @@
 <h2>📊 This week I spent my time using:</h2>
 
 <!--START_SECTION:waka-->
-
-```txt
-PHP          3 hrs 9 mins    ██████████▓░░░░░░░░░░░░░░   43.30 %
-TypeScript   2 hrs 44 mins   █████████▒░░░░░░░░░░░░░░░   37.57 %
-JSON         33 mins         ██░░░░░░░░░░░░░░░░░░░░░░░   07.56 %
-JavaScript   15 mins         █░░░░░░░░░░░░░░░░░░░░░░░░   03.64 %
-Bash         15 mins         █░░░░░░░░░░░░░░░░░░░░░░░░   03.62 %
-```
-
 <!--END_SECTION:waka-->
 
 <br>
@@ -35,13 +26,13 @@ Bash         15 mins         █░░░░░░░░░░░░░░░░
 		</tr>
 		<caption>🚩 <a href="https://t.me/tginfo">@tginfo</a> in your language: <a href="https://t.me/tginfoworld"><b>@tginfoworld</b></a><caption/>
   <tr><td><a href="https://t.me/tginfoen/1979">Unigram Has Updated to Version 11.1</a></td>
-    <td><a href="https://t.me/tginfo/4120">Unigram обновился до версии 11.1</a></td></tr><tr><td><a href="https://t.me/tginfoen/1978">Bot API Updated to Version 7.10</a></td>
-    <td><a href="https://t.me/tginfo/4119">Bot API обновился до версии 7.10</a></td></tr><tr><td><a href="https://t.me/tginfoen/1977">Telegram is Replacing "People Nearby" with "Businesses Nearby"</a></td>
-    <td><a href="https://t.me/tginfo/4118">Максимальный срок жизни аккаунта увеличен до 2 лет</a></td></tr>
+    <td><a href="https://t.me/tginfo/4121">Telegram Desktop обновился до версии 5.5.3</a></td></tr><tr><td><a href="https://t.me/tginfoen/1978">Bot API Updated to Version 7.10</a></td>
+    <td><a href="https://t.me/tginfo/4120">Unigram обновился до версии 11.1</a></td></tr><tr><td><a href="https://t.me/tginfoen/1977">Telegram is Replacing "People Nearby" with "Businesses Nearby"</a></td>
+    <td><a href="https://t.me/tginfo/4119">Bot API обновился до версии 7.10</a></td></tr>
 </table>
 We are also available on <a href="https://github.com/tginfo"><b>🐙 GitHub</b></a>!
 </div>
 
 <br>
 <hr>
-<h4 align="center">This README file is generated <b>every 6 hours</b>!</br>Last refresh: <b>2024-09-11 08:18:05 (UTC time)</b></h4>
+<h4 align="center">This README file is generated <b>every 6 hours</b>!</br>Last refresh: <b>2024-09-11 20:13:19 (UTC time)</b></h4>
