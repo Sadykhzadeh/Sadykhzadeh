@@ -14,15 +14,6 @@
 <h2>📊 This week I spent my time using:</h2>
 
 <!--START_SECTION:waka-->
-
-```txt
-PHP          3 hrs 1 min     ████████████▒░░░░░░░░░░░░   48.75 %
-TypeScript   1 hr 45 mins    ███████░░░░░░░░░░░░░░░░░░   28.50 %
-JSON         29 mins         ██░░░░░░░░░░░░░░░░░░░░░░░   07.82 %
-JavaScript   15 mins         █░░░░░░░░░░░░░░░░░░░░░░░░   04.28 %
-Bash         15 mins         █░░░░░░░░░░░░░░░░░░░░░░░░   04.26 %
-```
-
 <!--END_SECTION:waka-->
 
 <br>
@@ -34,14 +25,14 @@ Bash         15 mins         █░░░░░░░░░░░░░░░░
 			<th>На русском (<a href="https://t.me/tginfo">@tginfo</a>)</th>
 		</tr>
 		<caption>🚩 <a href="https://t.me/tginfo">@tginfo</a> in your language: <a href="https://t.me/tginfoworld"><b>@tginfoworld</b></a><caption/>
-  <tr><td><a href="https://t.me/tginfoen/1981">Telegram Again Displays The MAU of Bots</a></td>
-    <td><a href="https://t.me/tginfo/4123">Telegram снова отображает количество пользователей у ботов</a></td></tr><tr><td><a href="https://t.me/tginfoen/1980">Telegram Desktop Has Been Updated to Version 5.5.4</a></td>
-    <td><a href="https://t.me/tginfo/4122">Telegram Desktop обновился до версии 5.5.4</a></td></tr><tr><td><a href="https://t.me/tginfoen/1979">Unigram Has Updated to Version 11.1</a></td>
-    <td><a href="https://t.me/tginfo/4121">Telegram Desktop обновился до версии 5.5.3</a></td></tr>
+  <tr><td><a href="https://t.me/tginfoen/1983">Telegram Desktop Has Been Updated to Version 5.5.5</a></td>
+    <td><a href="https://t.me/tginfo/4126">Telegram Desktop обновился до версии 5.5.5</a></td></tr><tr><td><a href="https://t.me/tginfoen/1982">Premium Subscriptions Won Through Giveaways Can No Longer Be Transferred to Other Users</a></td>
+    <td><a href="https://t.me/tginfo/4125">Подписки, полученные в розыгрышах, больше нельзя передавать другим пользователям</a></td></tr><tr><td><a href="https://t.me/tginfoen/1981">Telegram Again Displays The MAU of Bots</a></td>
+    <td><a href="https://t.me/tginfo/4124">Менеджер задач в Telegram</a></td></tr>
 </table>
 We are also available on <a href="https://github.com/tginfo"><b>🐙 GitHub</b></a>!
 </div>
 
 <br>
 <hr>
-<h4 align="center">This README file is generated <b>every 6 hours</b>!</br>Last refresh: <b>2024-09-13 08:17:24 (UTC time)</b></h4>
+<h4 align="center">This README file is generated <b>every 6 hours</b>!</br>Last refresh: <b>2024-09-13 20:14:14 (UTC time)</b></h4>
