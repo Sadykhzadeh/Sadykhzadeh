@@ -1,7 +1,9 @@
 name: Update WakaTime & Telegram Info News
 
 on:
-  schedule: [{cron: "0 8/12 * * *"}]
+  schedule:
+    # Runs at 12am UTC
+    - cron: "0 0 * * *"
   push: 
     branches: "master"
 
