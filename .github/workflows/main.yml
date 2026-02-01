@@ -1,29 +1,37 @@
 name: Update WakaTime & Telegram Info News
 
 on:
-  schedule: [{cron: "0 8/12 * * *"}]
-  push: 
+  schedule:
+    - cron: "0 */6 * * *" # Every 6 hours
+  push:
     branches: "master"
+  workflow_dispatch: # Allow manual trigger
 
 jobs:
   build:
     runs-on: ubuntu-latest
     steps:
-      - uses: actions/checkout@v2
-      - name: Use Node.JS 16.X
-        uses: actions/setup-node@v1
+      - uses: actions/checkout@v3
+
+      - name: Setup Bun
+        uses: oven-sh/setup-bun@v1
         with:
-          node-version: "16.x"
+          bun-version: latest
+
       - name: Install dependencies
-        run: npm ci
-      - name: Typescript —> JavaScript
-        run: npm run build
+        run: bun install
+
+      - name: Build TypeScript
+        run: bun run build
+
       - name: Generate README.md
-        run: npm start
+        run: bun run start
+
       - name: Push new README.md
         uses: mikeal/publish-to-github-action@master
         env:
-         GITHUB_TOKEN: ${{ secrets.SECRET }}
+          GITHUB_TOKEN: ${{ secrets.SECRET }}
+
       - name: Update WakaTime stats
         uses: athul/waka-readme@master
         with:

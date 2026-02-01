@@ -1,19 +1,40 @@
-import got from "got";
-import cheerio from 'cheerio';
+import * as cheerio from 'cheerio';
 
-export const getContent = async (url: string): Promise<Array<Array<string>>> => {
-  const $ = await cheerio.load((await got(url)).body);
-  
-  const mainClass = "div .tgme_widget_message_bubble",
-  linkClass = "div .tgme_widget_message";
-  
-  let mainContent = $(mainClass).map((__i, x) => {
-    const $$ = cheerio.load(x);
-    return $$("div .tgme_widget_message_text").last().html()?.split("<br>")[0].replace(/<\/?[^>]+(>|$)/g, "");
-  }).toArray().slice(-3);
-  let linkContent = $(linkClass).map((__i, x):string =>
-    `https://t.me/${$(x).attr("data-post")}`
-  ).toArray().slice(-3);
-
-  return (mainContent.map((x, i) => [x, linkContent[i]])).reverse();
+export const getLatestPost = async (url: string): Promise<{ title: string; url: string } | null> => {
+  try {
+    const response = await fetch(url);
+    const html = await response.text();
+    const $ = cheerio.load(html);
+    
+    const mainClass = "div.tgme_widget_message_bubble";
+    const linkClass = "div.tgme_widget_message";
+    
+    // Get the last (latest) message
+    const messages = $(mainClass).toArray();
+    if (messages.length === 0) return null;
+    
+    const lastMessage = messages[messages.length - 1];
+    const $$ = cheerio.load(lastMessage);
+    
+    // Extract title (first line of text)
+    const titleHtml = $$("div.tgme_widget_message_text").last().html();
+    const title = titleHtml
+      ?.split("<br>")[0]
+      .replace(/<\/?[^>]+(>|$)/g, "")
+      .trim();
+    
+    // Extract link
+    const postLinks = $(linkClass).toArray();
+    const lastLink = postLinks[postLinks.length - 1];
+    const postId = $(lastLink).attr("data-post");
+    const postUrl = `https://t.me/${postId}`;
+    
+    return {
+      title: title || "Latest post",
+      url: postUrl
+    };
+  } catch (error) {
+    console.error(`Error fetching from ${url}:`, error);
+    return null;
+  }
 }
