@@ -1,47 +1,61 @@
-import fs from "fs";
 import { nowUTC } from './nowUTC.js';
-import { getLatestPost } from './tginfo.js';
-import { getLatestBlogPost } from './blog-posts.js';
+import { getLatestPosts } from './tginfo.js';
+import { getLatestBlogPosts } from './blog-posts.js';
 
 (async () => {
   console.log("Fetching latest posts...");
   
-  // Fetch Telegram posts
-  const postEn = await getLatestPost("https://t.me/s/tginfoen/");
-  const postRu = await getLatestPost("https://t.me/s/tginfo/");
+  // Fetch Telegram posts (2 latest from each)
+  const postsEn = await getLatestPosts("https://t.me/s/tginfoen/", 2);
+  const postsRu = await getLatestPosts("https://t.me/s/tginfo/", 2);
   
-  // Fetch blog post
-  const blogPost = await getLatestBlogPost();
+  // Fetch blog posts (2 latest)
+  const blogPosts = await getLatestBlogPosts(2);
   
   // Generate text content for Telegram posts
-  const tginfoText = postEn && postRu
-    ? `We post cool Telegram updates in [@tginfoen](https://t.me/tginfoen), like [${postEn.title}](${postEn.url}). Also in Russian at [@tginfo](https://t.me/tginfo) — [${postRu.title}](${postRu.url})!`
-    : `Follow our Telegram channels: [@tginfoen](https://t.me/tginfoen) and [@tginfo](https://t.me/tginfo)`;
+  let tginfoText = "";
   
-  // Generate blog post line
-  const blogText = blogPost
-    ? `[${blogPost.title}](${blogPost.url})`
-    : `[azer.one](https://azer.one)`;
-  
-  // Read and update template
-  fs.readFile("./assets/template.md", 'utf8', (err, data) => {
-    if (err) {
-      console.error("Error reading template:", err);
-      return;
-    }
+  if (postsEn.length >= 2 && postsRu.length >= 2) {
+    const [en1, en2] = postsEn;
+    const [ru1, ru2] = postsRu;
     
-    const result = data
+    tginfoText = `we write about [${en1.title}](${en1.url}) or [${en2.title}](${en2.url}). (in Russian too! [${ru1.title}](${ru1.url}) and [${ru2.title}](${ru2.url}))`;
+  } else {
+    tginfoText = `follow our Telegram channels: [@tginfoen](https://t.me/tginfoen) and [@tginfo](https://t.me/tginfo)`;
+  }
+  
+  // Generate blog posts text
+  let blogText = "";
+  
+  if (blogPosts.length >= 2) {
+    const [blog1, blog2] = blogPosts;
+    blogText = `like [${blog1.title}](${blog1.url}) or [${blog2.title}](${blog2.url})`;
+  } else if (blogPosts.length === 1) {
+    blogText = `like [${blogPosts[0].title}](${blogPosts[0].url})`;
+  } else {
+    blogText = "";
+  }
+  
+  try {
+    // Read template using Bun.file
+    const templateFile = Bun.file("./assets/template.md");
+    const template = await templateFile.text();
+    
+    // Replace placeholders
+    const result = template
       .replace("<$tginfo$>", tginfoText)
-      .replace("<$blog_post$>", blogText)
+      .replace("<$blog_posts$>", blogText)
       .replace("<$time$>", `${nowUTC()}`);
     
-    fs.writeFile("README.md", result, 'utf8', (err) => {
-      if (err) {
-        console.error("Error writing README:", err);
-        return;
-      }
-      console.log("✅ README.md updated successfully!");
-    });
-  });
+    // Write README using Bun.write
+    await Bun.write("README.md", result);
+    
+    console.log("✅ README.md updated successfully!");
+  } catch (error) {
+    console.error("Error:", error);
+  }
 })();
+
+
+
 
