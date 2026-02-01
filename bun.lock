@@ -5,11 +5,11 @@
     "": {
       "name": "sadykhzadeh",
       "dependencies": {
-        "cheerio": "^1.0.0-rc.10",
+        "cheerio": "^1.2.0",
       },
       "devDependencies": {
         "@types/bun": "latest",
-        "typescript": "^5.0.0",
+        "typescript": "^5.9.3",
       },
     },
   },
