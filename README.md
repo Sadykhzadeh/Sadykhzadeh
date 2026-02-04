@@ -9,22 +9,13 @@ got my BSc in Information Security at [BHOS](https://bhos.edu.az) and MSc in Dig
 prefer to code a lot [![wakatime](https://wakatime.com/badge/user/f80ae27a-c328-426f-a381-bc84136e2dd6.svg)](https://wakatime.com/Azer). that's my last week stats for example:
 
 <!--START_SECTION:waka-->
-
-```txt
-Markdown     3 hrs 15 mins   ████████████░░░░░░░░░░░░░   47.72 %
-TypeScript   2 hrs 9 mins    ████████░░░░░░░░░░░░░░░░░   31.47 %
-JSON         24 mins         █▒░░░░░░░░░░░░░░░░░░░░░░░   05.88 %
-YAML         18 mins         █░░░░░░░░░░░░░░░░░░░░░░░░   04.62 %
-Bash         16 mins         █░░░░░░░░░░░░░░░░░░░░░░░░   04.13 %
-```
-
 <!--END_SECTION:waka-->
 
 occasionally writing something on my [blog](https://azer.one/posts), like [😨 Что случилось с Faker.js? Темная сторона Open Source  История о том, как разработчик популярной JavaScript-библиотеки Faker.js удалил свой код в знак протеста против эксплуатации Open Source труда крупными корпорациями.](https://azer.one/posts/old-posts/faker-js) or [Задача о максимальном произведении трех чисел массива  Разбор алгоритмической задачи из собеседования в Apple - поиск максимального произведения трех чисел в массиве с оптимальной сложностью O(n).](https://azer.one/posts/old-posts/max-product-of-3-integers) check it out :)
 
-Oh, and I am also part of awesome community [@tginfo](https://t.me/tginfo) / [@tginfoen](https://t.me/tginfoen) where we write about [Passkey Notifications](https://t.me/tginfoen/2165) or [Premium Subscription Is Now Sufficient for Sending Custom Emojis in Bots](https://t.me/tginfoen/2164). (in Russian too! [Генерация контента и отложенный постинг для ваших каналов](https://t.me/tginfo/4375) and [Крафтинг подарков в активной стадии тестирования](https://t.me/tginfo/4374))
+Oh, and I am also part of awesome community [@tginfo](https://t.me/tginfo) / [@tginfoen](https://t.me/tginfoen) where we write about [Passkey Notifications](https://t.me/tginfoen/2165) or [Premium Subscription Is Now Sufficient for Sending Custom Emojis in Bots](https://t.me/tginfoen/2164). (in Russian too! [Крафтинг подарков в активной стадии тестирования](https://t.me/tginfo/4374) and [Для отправки кастомных эмодзи в ботах теперь достаточно Премиум-подписки](https://t.me/tginfo/4373))
 
-<sub>this readme auto-updates every 6 hours · last: 2026-02-04 12:43:22 (UTC time)</sub>
+<sub>this readme auto-updates every 6 hours · last: 2026-02-04 18:39:21 (UTC time)</sub>
 
 [![profile views](https://komarev.com/ghpvc/?username=sadykhzadeh&label=views&color=2081c1&style=flat-square)](https://github.com/Sadykhzadeh) 
 
