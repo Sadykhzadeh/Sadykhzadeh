@@ -9,22 +9,13 @@ got my BSc in Information Security at [BHOS](https://bhos.edu.az) and MSc in Dig
 prefer to code a lot [![wakatime](https://wakatime.com/badge/user/f80ae27a-c328-426f-a381-bc84136e2dd6.svg)](https://wakatime.com/Azer). that's my last week stats for example:
 
 <!--START_SECTION:waka-->
-
-```txt
-TypeScript     6 hrs           ███████████████░░░░░░░░░░   60.41 %
-JSON           1 hr 9 mins     ███░░░░░░░░░░░░░░░░░░░░░░   11.67 %
-YAML           48 mins         ██░░░░░░░░░░░░░░░░░░░░░░░   08.19 %
-Markdown       35 mins         █▒░░░░░░░░░░░░░░░░░░░░░░░   05.91 %
-Git Config     34 mins         █▒░░░░░░░░░░░░░░░░░░░░░░░   05.75 %
-```
-
 <!--END_SECTION:waka-->
 
 occasionally writing something on my [blog](https://azer.one/posts), like [😨 Что случилось с Faker.js? Темная сторона Open Source  История о том, как разработчик популярной JavaScript-библиотеки Faker.js удалил свой код в знак протеста против эксплуатации Open Source труда крупными корпорациями.](https://azer.one/posts/old-posts/faker-js) or [Задача о максимальном произведении трех чисел массива  Разбор алгоритмической задачи из собеседования в Apple - поиск максимального произведения трех чисел в массиве с оптимальной сложностью O(n).](https://azer.one/posts/old-posts/max-product-of-3-integers) check it out :)
 
 Oh, and I am also part of awesome community [@tginfo](https://t.me/tginfo) / [@tginfoen](https://t.me/tginfoen) where we write about [Posting Stories Becomes Available to All Users](https://t.me/tginfoen/2166) or [Passkey Notifications](https://t.me/tginfoen/2165). (in Russian too! [Публикация историй становится доступна всем пользователям  Сегодня вечером Telegram включил возможность публиковать истории без Premium-подписки всем пользователям — в том числе с российскими, украинскими и иранскими номерами телефонов.  При этом часть читателей…](https://t.me/tginfo/4378) and [Telegram для Android и iOS обновились до версии 12.4](https://t.me/tginfo/4377))
 
-<sub>this readme auto-updates every 6 hours · last: 2026-02-09 18:49:39 (UTC time)</sub>
+<sub>this readme auto-updates every 6 hours · last: 2026-02-10 01:52:29 (UTC time)</sub>
 
 [![profile views](https://komarev.com/ghpvc/?username=sadykhzadeh&label=views&color=2081c1&style=flat-square)](https://github.com/Sadykhzadeh) 
 
