@@ -9,22 +9,13 @@ got my BSc in Information Security at [BHOS](https://bhos.edu.az) and MSc in Dig
 prefer to code a lot [![wakatime](https://wakatime.com/badge/user/f80ae27a-c328-426f-a381-bc84136e2dd6.svg)](https://wakatime.com/Azer). that's my last week stats for example:
 
 <!--START_SECTION:waka-->
-
-```txt
-TypeScript     4 hrs 1 min     ██████████████▒░░░░░░░░░░   57.47 %
-Bash           1 hr 8 mins     ████░░░░░░░░░░░░░░░░░░░░░   16.31 %
-JSON           43 mins         ██▓░░░░░░░░░░░░░░░░░░░░░░   10.29 %
-Docker         31 mins         ██░░░░░░░░░░░░░░░░░░░░░░░   07.43 %
-Git Config     12 mins         ▓░░░░░░░░░░░░░░░░░░░░░░░░   02.91 %
-```
-
 <!--END_SECTION:waka-->
 
 occasionally writing something on my [blog](https://azer.one/posts), like [😨 Что случилось с Faker.js? Темная сторона Open Source  История о том, как разработчик популярной JavaScript-библиотеки Faker.js удалил свой код в знак протеста против эксплуатации Open Source труда крупными корпорациями.](https://azer.one/posts/old-posts/faker-js) or [Задача о максимальном произведении трех чисел массива  Разбор алгоритмической задачи из собеседования в Apple - поиск максимального произведения трех чисел в массиве с оптимальной сложностью O(n).](https://azer.one/posts/old-posts/max-product-of-3-integers) check it out :)
 
 Oh, and I am also part of awesome community [@tginfo](https://t.me/tginfo) / [@tginfoen](https://t.me/tginfoen) where we write about [Lifetime Limit on Posting Stories Without Premium](https://t.me/tginfoen/2167) or [Posting Stories Becomes Available to All Users](https://t.me/tginfoen/2166). (in Russian too! [Пожизненный лимит на публикацию историй без Premium](https://t.me/tginfo/4381) and [Роскомнадзор подтвердил введение ограничений против Telegram](https://t.me/tginfo/4380))
 
-<sub>this readme auto-updates every 6 hours · last: 2026-02-14 06:36:54 (UTC time)</sub>
+<sub>this readme auto-updates every 6 hours · last: 2026-02-14 12:33:03 (UTC time)</sub>
 
 [![profile views](https://komarev.com/ghpvc/?username=sadykhzadeh&label=views&color=2081c1&style=flat-square)](https://github.com/Sadykhzadeh) 
 
