@@ -9,22 +9,13 @@ got my BSc in Information Security at [BHOS](https://bhos.edu.az) and MSc in Dig
 prefer to code a lot [![wakatime](https://wakatime.com/badge/user/f80ae27a-c328-426f-a381-bc84136e2dd6.svg)](https://wakatime.com/Azer). that's my last week stats for example:
 
 <!--START_SECTION:waka-->
-
-```txt
-Other          6 hrs 23 mins         █████████████████████▒░░░   85.15 %
-TypeScript     50 mins               ██▓░░░░░░░░░░░░░░░░░░░░░░   11.23 %
-shell script   6 mins                ▒░░░░░░░░░░░░░░░░░░░░░░░░   01.53 %
-Markdown       5 mins                ▒░░░░░░░░░░░░░░░░░░░░░░░░   01.14 %
-YAML           1 min                 ░░░░░░░░░░░░░░░░░░░░░░░░░   00.44 %
-```
-
 <!--END_SECTION:waka-->
 
 occasionally writing something on my [blog](https://azer.one/posts), like [😨 Что случилось с Faker.js? Темная сторона Open Source  История о том, как разработчик популярной JavaScript-библиотеки Faker.js удалил свой код в знак протеста против эксплуатации Open Source труда крупными корпорациями.](https://azer.one/posts/old-posts/faker-js) or [Задача о максимальном произведении трех чисел массива  Разбор алгоритмической задачи из собеседования в Apple - поиск максимального произведения трех чисел в массиве с оптимальной сложностью O(n).](https://azer.one/posts/old-posts/max-product-of-3-integers) check it out :)
 
 Oh, and I am also part of awesome community [@tginfo](https://t.me/tginfo) / [@tginfoen](https://t.me/tginfoen) where we write about [Telegram Allowed Bots to Chat with Each Other](https://t.me/tginfoen/2176) or [Telegram Might Get Tools for Fighting Poll Manipulation](https://t.me/tginfoen/2175). (in Russian too! [Опасный неофициальный клиент «Telega» удалён из App Store](https://t.me/tginfo/4405) and [В Telegram могут появиться инструменты для борьбы с накруткой в опросах](https://t.me/tginfo/4404))
 
-<sub>this readme auto-updates every 6 hours · last: 2026-04-09 18:54:53 (UTC time)</sub>
+<sub>this readme auto-updates every 6 hours · last: 2026-04-10 01:55:02 (UTC time)</sub>
 
 [![profile views](https://komarev.com/ghpvc/?username=sadykhzadeh&label=views&color=2081c1&style=flat-square)](https://github.com/Sadykhzadeh) 
 
