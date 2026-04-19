@@ -9,22 +9,13 @@ got my BSc in Information Security at [BHOS](https://bhos.edu.az) and MSc in Dig
 prefer to code a lot [![wakatime](https://wakatime.com/badge/user/f80ae27a-c328-426f-a381-bc84136e2dd6.svg)](https://wakatime.com/Azer). that's my last week stats for example:
 
 <!--START_SECTION:waka-->
-
-```txt
-YAML         1 hr 35 mins          ██████████▓░░░░░░░░░░░░░░   42.76 %
-Markdown     46 mins               █████▒░░░░░░░░░░░░░░░░░░░   20.83 %
-Other        30 mins               ███▒░░░░░░░░░░░░░░░░░░░░░   13.68 %
-TypeScript   17 mins               ██░░░░░░░░░░░░░░░░░░░░░░░   07.65 %
-JSON         13 mins               █▓░░░░░░░░░░░░░░░░░░░░░░░   06.10 %
-```
-
 <!--END_SECTION:waka-->
 
 occasionally writing something on my [blog](https://azer.one/posts), like [😨 Что случилось с Faker.js? Темная сторона Open Source  История о том, как разработчик популярной JavaScript-библиотеки Faker.js удалил свой код в знак протеста против эксплуатации Open Source труда крупными корпорациями.](https://azer.one/posts/old-posts/faker-js) or [Задача о максимальном произведении трех чисел массива  Разбор алгоритмической задачи из собеседования в Apple - поиск максимального произведения трех чисел в массиве с оптимальной сложностью O(n).](https://azer.one/posts/old-posts/max-product-of-3-integers) check it out :)
 
-Oh, and I am also part of awesome community [@tginfo](https://t.me/tginfo) / [@tginfoen](https://t.me/tginfoen) where we write about [Telegram Plans to Fight Spam Reactions](https://t.me/tginfoen/2177) or [Telegram Allowed Bots to Chat with Each Other](https://t.me/tginfoen/2176). (in Russian too! [Новые ограничения для участия в опросах](https://t.me/tginfo/4408) and [Telegram продолжает бороться с блокировками в РФ](https://t.me/tginfo/4407))
+Oh, and I am also part of awesome community [@tginfo](https://t.me/tginfo) / [@tginfoen](https://t.me/tginfoen) where we write about [New Limits on Poll Participation](https://t.me/tginfoen/2178) or [Telegram Plans to Fight Spam Reactions](https://t.me/tginfoen/2177). (in Russian too! [Новые ограничения для участия в опросах](https://t.me/tginfo/4408) and [Telegram продолжает бороться с блокировками в РФ](https://t.me/tginfo/4407))
 
-<sub>this readme auto-updates every 6 hours · last: 2026-04-19 12:44:45 (UTC time)</sub>
+<sub>this readme auto-updates every 6 hours · last: 2026-04-19 18:38:36 (UTC time)</sub>
 
 [![profile views](https://komarev.com/ghpvc/?username=sadykhzadeh&label=views&color=2081c1&style=flat-square)](https://github.com/Sadykhzadeh) 
 
