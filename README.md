@@ -15,7 +15,7 @@ occasionally writing something on my [blog](https://azer.one/posts), like [😨 
 
 Oh, and I am also part of awesome community [@tginfo](https://t.me/tginfo) / [@tginfoen](https://t.me/tginfoen) where we write about [Passkeys in Third-Party Telegram Clients](https://t.me/tginfoen/2180) or [British Regulator Ofcom Launches Investigation into Telegram](https://t.me/tginfoen/2179). (in Russian too! [Telegram для Android и iOS обновились до версии 12.7](https://t.me/tginfo/4412) and [Telegram открывает бизнес-ботов всем пользователям](https://t.me/tginfo/4411))
 
-<sub>this readme auto-updates every 6 hours · last: 2026-05-09 13:01:12 (UTC time)</sub>
+<sub>this readme auto-updates every 6 hours · last: 2026-05-09 18:50:51 (UTC time)</sub>
 
 [![profile views](https://komarev.com/ghpvc/?username=sadykhzadeh&label=views&color=2081c1&style=flat-square)](https://github.com/Sadykhzadeh) 
 
