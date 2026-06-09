@@ -9,6 +9,15 @@ got my BSc in Information Security at [BHOS](https://bhos.edu.az) and MSc in Dig
 prefer to code a lot [![wakatime](https://wakatime.com/badge/user/f80ae27a-c328-426f-a381-bc84136e2dd6.svg)](https://wakatime.com/Azer). that's my last week stats for example:
 
 <!--START_SECTION:waka-->
+
+```txt
+TypeScript   5 hrs 54 mins         █████████████░░░░░░░░░░░░   52.38 %
+Markdown     2 hrs 26 mins         █████▒░░░░░░░░░░░░░░░░░░░   21.70 %
+Python       1 hr 11 mins          ██▓░░░░░░░░░░░░░░░░░░░░░░   10.52 %
+YAML         26 mins               █░░░░░░░░░░░░░░░░░░░░░░░░   03.89 %
+JSON         25 mins               █░░░░░░░░░░░░░░░░░░░░░░░░   03.77 %
+```
+
 <!--END_SECTION:waka-->
 
 occasionally writing something on my [blog](https://azer.one/posts), like [😨 Что случилось с Faker.js? Темная сторона Open Source  История о том, как разработчик популярной JavaScript-библиотеки Faker.js удалил свой код в знак протеста против эксплуатации Open Source труда крупными корпорациями.](https://azer.one/posts/old-posts/faker-js) or [Задача о максимальном произведении трех чисел массива  Разбор алгоритмической задачи из собеседования в Apple - поиск максимального произведения трех чисел в массиве с оптимальной сложностью O(n).](https://azer.one/posts/old-posts/max-product-of-3-integers) check it out :)
