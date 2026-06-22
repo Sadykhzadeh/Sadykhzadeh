@@ -15,7 +15,7 @@ occasionally writing something on my [blog](https://azer.one/posts), like [😨 
 
 Oh, and I am also part of awesome community [@tginfo](https://t.me/tginfo) / [@tginfoen](https://t.me/tginfoen) where we write about [Telegram Is Banned in India, Deleted from App Stores, Suffered a Global Outage](https://t.me/tginfoen/2184) or [Rich Text Formatting is Coming To Users Too](https://t.me/tginfoen/2183). (in Russian too! [Блокировка Telegram в Индии, удаление Telegram из индийских магазинов и сбой по всему миру](https://t.me/tginfo/4417) and [Российский бизнес продолжает наращивать рекламу в Telegram](https://t.me/tginfo/4416))
 
-<sub>this readme auto-updates every 6 hours · last: 2026-06-22 11:40:07 (UTC time)</sub>
+<sub>this readme auto-updates every 6 hours · last: 2026-06-22 16:42:28 (UTC time)</sub>
 
 [![profile views](https://komarev.com/ghpvc/?username=sadykhzadeh&label=views&color=2081c1&style=flat-square)](https://github.com/Sadykhzadeh) 
 
