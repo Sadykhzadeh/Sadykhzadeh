@@ -9,22 +9,13 @@ got my BSc in Information Security at [BHOS](https://bhos.edu.az) and MSc in Dig
 prefer to code a lot [![wakatime](https://wakatime.com/badge/user/f80ae27a-c328-426f-a381-bc84136e2dd6.svg)](https://wakatime.com/Azer). that's my last week stats for example:
 
 <!--START_SECTION:waka-->
-
-```txt
-TypeScript   1 hr 17 mins          ████████░░░░░░░░░░░░░░░░░   32.05 %
-YAML         1 hr 8 mins           ███████░░░░░░░░░░░░░░░░░░   28.29 %
-Python       43 mins               ████▒░░░░░░░░░░░░░░░░░░░░   17.95 %
-Markdown     26 mins               ██▓░░░░░░░░░░░░░░░░░░░░░░   10.93 %
-JSON         9 mins                █░░░░░░░░░░░░░░░░░░░░░░░░   03.76 %
-```
-
 <!--END_SECTION:waka-->
 
 occasionally writing something on my [blog](https://azer.one/posts), like [😨 Что случилось с Faker.js? Темная сторона Open Source  История о том, как разработчик популярной JavaScript-библиотеки Faker.js удалил свой код в знак протеста против эксплуатации Open Source труда крупными корпорациями.](https://azer.one/posts/old-posts/faker-js) or [Задача о максимальном произведении трех чисел массива  Разбор алгоритмической задачи из собеседования в Apple - поиск максимального произведения трех чисел в массиве с оптимальной сложностью O(n).](https://azer.one/posts/old-posts/max-product-of-3-integers) check it out :)
 
 Oh, and I am also part of awesome community [@tginfo](https://t.me/tginfo) / [@tginfoen](https://t.me/tginfoen) where we write about [⭐ Advanced Text Editor Is Already in Beta](https://t.me/tginfoen/2187) or [Communities Are Now Being Tested in Telegram](https://t.me/tginfoen/2186). (in Russian too! [⭐ Сообщения в виде статьи уже в Beta-версии Telegram](https://t.me/tginfo/4421) and [Сообщества уже тестируются в Telegram](https://t.me/tginfo/4420))
 
-<sub>this readme auto-updates every 6 hours · last: 2026-07-12 02:03:10 (UTC time)</sub>
+<sub>this readme auto-updates every 6 hours · last: 2026-07-12 08:04:59 (UTC time)</sub>
 
 [![profile views](https://komarev.com/ghpvc/?username=sadykhzadeh&label=views&color=2081c1&style=flat-square)](https://github.com/Sadykhzadeh) 
 
