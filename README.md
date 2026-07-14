@@ -9,22 +9,13 @@ got my BSc in Information Security at [BHOS](https://bhos.edu.az) and MSc in Dig
 prefer to code a lot [![wakatime](https://wakatime.com/badge/user/f80ae27a-c328-426f-a381-bc84136e2dd6.svg)](https://wakatime.com/Azer). that's my last week stats for example:
 
 <!--START_SECTION:waka-->
-
-```txt
-Markdown     1 hr 56 mins          ███████░░░░░░░░░░░░░░░░░░   28.14 %
-YAML         1 hr 24 mins          █████░░░░░░░░░░░░░░░░░░░░   20.25 %
-Bash         1 hr 23 mins          █████░░░░░░░░░░░░░░░░░░░░   20.17 %
-TypeScript   59 mins               ███▓░░░░░░░░░░░░░░░░░░░░░   14.22 %
-Python       52 mins               ███░░░░░░░░░░░░░░░░░░░░░░   12.54 %
-```
-
 <!--END_SECTION:waka-->
 
 occasionally writing something on my [blog](https://azer.one/posts), like [😨 Что случилось с Faker.js? Темная сторона Open Source  История о том, как разработчик популярной JavaScript-библиотеки Faker.js удалил свой код в знак протеста против эксплуатации Open Source труда крупными корпорациями.](https://azer.one/posts/old-posts/faker-js) or [Задача о максимальном произведении трех чисел массива  Разбор алгоритмической задачи из собеседования в Apple - поиск максимального произведения трех чисел в массиве с оптимальной сложностью O(n).](https://azer.one/posts/old-posts/max-product-of-3-integers) check it out :)
 
-Oh, and I am also part of awesome community [@tginfo](https://t.me/tginfo) / [@tginfoen](https://t.me/tginfoen) where we write about [The t.me Domain Has Been Restored by the .me Registry](https://t.me/tginfoen/2190) or [Telegram Is Still Working on Restoring the t.me Domain](https://t.me/tginfoen/2189). (in Russian too! [Работа домена t.me была восстановлена реестром .me](https://t.me/tginfo/4426) and [Telegram всё ещё работает над восстановлением домена t.me](https://t.me/tginfo/4425))
+Oh, and I am also part of awesome community [@tginfo](https://t.me/tginfo) / [@tginfoen](https://t.me/tginfoen) where we write about [The .me registry commented on the suspension of the t.me domain](https://t.me/tginfoen/2193) or [Fullscreen Rich Text Editor, Communities, New GIF Search, and Ephemeral Messages](https://t.me/tginfoen/2192). (in Russian too! [Реестр .me прокомментировал блокировку домена t.me](https://t.me/tginfo/4429) and [Telegram для Android и iOS обновились до версии 12.9, а Telegram Desktop обновился до версии 7.0](https://t.me/tginfo/4428))
 
-<sub>this readme auto-updates every 6 hours · last: 2026-07-14 13:16:44 (UTC time)</sub>
+<sub>this readme auto-updates every 6 hours · last: 2026-07-14 19:07:38 (UTC time)</sub>
 
 [![profile views](https://komarev.com/ghpvc/?username=sadykhzadeh&label=views&color=2081c1&style=flat-square)](https://github.com/Sadykhzadeh) 
 
