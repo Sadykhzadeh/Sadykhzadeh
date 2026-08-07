@@ -15,7 +15,7 @@ occasionally writing something on my [blog](https://azer.one/posts), like [😨 
 
 Oh, and I am also part of awesome community [@tginfo](https://t.me/tginfo) / [@tginfoen](https://t.me/tginfoen) where we write about [The Australian Internet Safety Regulator Sues Telegram](https://t.me/tginfoen/2194) or [The .me registry commented on the suspension of the t.me domain](https://t.me/tginfoen/2193). (in Russian too! [Австралийский регулятор по интернет-безопасности обратился в суд с иском против Telegram](https://t.me/tginfo/4430) and [Реестр .me прокомментировал блокировку домена t.me](https://t.me/tginfo/4429))
 
-<sub>this readme auto-updates every 6 hours · last: 2026-08-06 23:52:21 (UTC time)</sub>
+<sub>this readme auto-updates every 6 hours · last: 2026-08-07 02:17:00 (UTC time)</sub>
 
 [![profile views](https://komarev.com/ghpvc/?username=sadykhzadeh&label=views&color=2081c1&style=flat-square)](https://github.com/Sadykhzadeh) 
 
