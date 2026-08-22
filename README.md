@@ -9,22 +9,13 @@ got my BSc in Information Security at [BHOS](https://bhos.edu.az) and MSc in Dig
 prefer to code a lot [![wakatime](https://wakatime.com/badge/user/f80ae27a-c328-426f-a381-bc84136e2dd6.svg)](https://wakatime.com/Azer). that's my last week stats for example:
 
 <!--START_SECTION:waka-->
-
-```txt
-Other        8 hrs 16 mins         ██████████▓░░░░░░░░░░░░░░   42.25 %
-TypeScript   4 hrs 46 mins         ██████░░░░░░░░░░░░░░░░░░░   24.36 %
-Markdown     2 hrs 40 mins         ███▒░░░░░░░░░░░░░░░░░░░░░   13.63 %
-Bash         1 hr 21 mins          █▓░░░░░░░░░░░░░░░░░░░░░░░   06.91 %
-Python       1 hr 12 mins          █▓░░░░░░░░░░░░░░░░░░░░░░░   06.17 %
-```
-
 <!--END_SECTION:waka-->
 
 occasionally writing something on my [blog](https://azer.one/posts), like [😨 Что случилось с Faker.js? Темная сторона Open Source  История о том, как разработчик популярной JavaScript-библиотеки Faker.js удалил свой код в знак протеста против эксплуатации Open Source труда крупными корпорациями.](https://azer.one/posts/old-posts/faker-js) or [Задача о максимальном произведении трех чисел массива  Разбор алгоритмической задачи из собеседования в Apple - поиск максимального произведения трех чисел в массиве с оптимальной сложностью O(n).](https://azer.one/posts/old-posts/max-product-of-3-integers) check it out :)
 
-Oh, and I am also part of awesome community [@tginfo](https://t.me/tginfo) / [@tginfoen](https://t.me/tginfoen) where we write about [Telegram Is Working on Experimental WEB-Proxy](https://t.me/tginfoen/2195) or [The Australian Internet Safety Regulator Sues Telegram](https://t.me/tginfoen/2194). (in Russian too! [Telegram работает над экспериментальным WEB-прокси](https://t.me/tginfo/4432) and [Австралийский регулятор по интернет-безопасности обратился в суд с иском против Telegram](https://t.me/tginfo/4430))
+Oh, and I am also part of awesome community [@tginfo](https://t.me/tginfo) / [@tginfoen](https://t.me/tginfoen) where we write about [Telegram Desktop updated to version 7.1.1](https://t.me/tginfoen/2196) or [Telegram Is Working on Experimental WEB-Proxy](https://t.me/tginfoen/2195). (in Russian too! [Telegram Desktop обновлён до версии 7.1.1](https://t.me/tginfo/4433) and [Telegram работает над экспериментальным WEB-прокси](https://t.me/tginfo/4432))
 
-<sub>this readme auto-updates every 6 hours · last: 2026-08-22 12:23:30 (UTC time)</sub>
+<sub>this readme auto-updates every 6 hours · last: 2026-08-22 18:18:26 (UTC time)</sub>
 
 [![profile views](https://komarev.com/ghpvc/?username=sadykhzadeh&label=views&color=2081c1&style=flat-square)](https://github.com/Sadykhzadeh) 
 
