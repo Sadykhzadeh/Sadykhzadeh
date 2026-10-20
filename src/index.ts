@@ -6,12 +6,12 @@ import { mdLink, fill } from './render.js';
 (async () => {
   console.log("Fetching latest posts...");
   
-  // Fetch Telegram posts (2 latest from each)
-  const postsEn = await getLatestPosts("https://t.me/s/tginfoen/", 2);
-  const postsRu = await getLatestPosts("https://t.me/s/tginfo/", 2);
-  
-  // Fetch blog posts (2 latest)
-  const blogPosts = await getLatestBlogPosts(2);
+  // Telegram posts (2 latest from each) and blog posts (2 latest), fetched in parallel
+  const [postsEn, postsRu, blogPosts] = await Promise.all([
+    getLatestPosts("https://t.me/s/tginfoen/", 2),
+    getLatestPosts("https://t.me/s/tginfo/", 2),
+    getLatestBlogPosts(2),
+  ]);
   
   // Generate text content for Telegram posts
   let tginfoText = "";

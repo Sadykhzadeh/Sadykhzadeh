@@ -1,4 +1,5 @@
 import * as cheerio from 'cheerio';
+import { fetchHtml } from './fetch-html.js';
 
 type Post = { title: string; url: string };
 
@@ -23,8 +24,7 @@ export const parseBlogPosts = (html: string, count: number): Post[] => {
 
 export const getLatestBlogPosts = async (count: number = 2): Promise<Post[]> => {
   try {
-    const response = await fetch("https://azer.one");
-    return parseBlogPosts(await response.text(), count);
+    return parseBlogPosts(await fetchHtml("https://azer.one"), count);
   } catch (error) {
     console.error('Error fetching blog posts:', error);
     return [];
