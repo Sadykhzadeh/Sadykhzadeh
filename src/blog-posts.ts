@@ -1,31 +1,32 @@
 import * as cheerio from 'cheerio';
 
-export const getLatestBlogPosts = async (count: number = 2): Promise<Array<{ title: string; url: string }>> => {
+type Post = { title: string; url: string };
+
+export const parseBlogPosts = (html: string, count: number): Post[] => {
+  const $ = cheerio.load(html);
+
+  // Find blog post links in the format /posts/...
+  const postLinks = $('a[href^="/posts/"]').toArray();
+
+  // Get the first N posts (latest)
+  return postLinks.slice(0, count).map(post => {
+    const href = $(post).attr('href');
+    // the link also wraps a description paragraph, so take the heading only
+    const title = ($(post).children("div").first().text() || $(post).text()).replace(/\s+/g, " ").trim();
+
+    return {
+      title: title || "latest post",
+      url: `https://azer.one${href}`
+    };
+  });
+}
+
+export const getLatestBlogPosts = async (count: number = 2): Promise<Post[]> => {
   try {
     const response = await fetch("https://azer.one");
-    const html = await response.text();
-    const $ = cheerio.load(html);
-    
-    // Find blog post links in the format /posts/...
-    const postLinks = $('a[href^="/posts/"]').toArray();
-    
-    if (postLinks.length === 0) return [];
-    
-    // Get the first N posts (latest)
-    const latestPosts = postLinks.slice(0, count);
-    
-    return latestPosts.map(post => {
-      const href = $(post).attr('href');
-      const title = $(post).text().trim();
-      
-      return {
-        title: title || "latest post",
-        url: `https://azer.one${href}`
-      };
-    });
+    return parseBlogPosts(await response.text(), count);
   } catch (error) {
     console.error('Error fetching blog posts:', error);
     return [];
   }
 }
-
