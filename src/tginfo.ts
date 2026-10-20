@@ -1,9 +1,9 @@
 import * as cheerio from 'cheerio';
+import { fetchHtml } from './fetch-html.js';
 
 export const getLatestPosts = async (url: string, count: number = 2): Promise<Array<{ title: string; url: string }>> => {
   try {
-    const response = await fetch(url);
-    const html = await response.text();
+    const html = await fetchHtml(url);
     const $ = cheerio.load(html);
     
     const mainClass = "div.tgme_widget_message_bubble";
