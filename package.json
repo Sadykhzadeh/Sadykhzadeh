@@ -4,7 +4,8 @@
   "main": "dist/index.js",
   "scripts": {
     "build": "bun build src/index.ts --outdir dist --target bun",
-    "start": "bun dist/index.js"
+    "start": "bun dist/index.js",
+    "test": "bun test"
   },
   "repository": {
     "type": "git",
