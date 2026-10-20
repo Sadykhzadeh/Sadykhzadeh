@@ -25,5 +25,8 @@
   "dependencies": {
     "cheerio": "^1.2.0"
   },
+  "overrides": {
+    "undici": "^7.24.0"
+  },
   "type": "module"
 }
