@@ -1,6 +1,7 @@
 import { nowUTC } from './nowUTC.js';
 import { getLatestPosts } from './tginfo.js';
 import { getLatestBlogPosts } from './blog-posts.js';
+import { mdLink, fill } from './render.js';
 
 (async () => {
   console.log("Fetching latest posts...");
@@ -19,7 +20,7 @@ import { getLatestBlogPosts } from './blog-posts.js';
     const [en1, en2] = postsEn;
     const [ru1, ru2] = postsRu;
     
-    tginfoText = `we write about [${en1.title}](${en1.url}) or [${en2.title}](${en2.url}). (in Russian too! [${ru1.title}](${ru1.url}) and [${ru2.title}](${ru2.url}))`;
+    tginfoText = `we write about ${mdLink(en1.title, en1.url)} or ${mdLink(en2.title, en2.url)}. (in Russian too! ${mdLink(ru1.title, ru1.url)} and ${mdLink(ru2.title, ru2.url)})`;
   } else {
     tginfoText = `follow our Telegram channels: [@tginfoen](https://t.me/tginfoen) and [@tginfo](https://t.me/tginfo)`;
   }
@@ -29,9 +30,9 @@ import { getLatestBlogPosts } from './blog-posts.js';
   
   if (blogPosts.length >= 2) {
     const [blog1, blog2] = blogPosts;
-    blogText = `like [${blog1.title}](${blog1.url}) or [${blog2.title}](${blog2.url})`;
+    blogText = `like ${mdLink(blog1.title, blog1.url)} or ${mdLink(blog2.title, blog2.url)}`;
   } else if (blogPosts.length === 1) {
-    blogText = `like [${blogPosts[0].title}](${blogPosts[0].url})`;
+    blogText = `like ${mdLink(blogPosts[0].title, blogPosts[0].url)}`;
   } else {
     blogText = "";
   }
@@ -42,10 +43,11 @@ import { getLatestBlogPosts } from './blog-posts.js';
     const template = await templateFile.text();
     
     // Replace placeholders
-    const result = template
-      .replace("<$tginfo$>", tginfoText)
-      .replace("<$blog_posts$>", blogText)
-      .replace("<$time$>", `${nowUTC()}`);
+    const result = fill(template, {
+      tginfo: tginfoText,
+      blog_posts: blogText,
+      time: nowUTC(),
+    });
     
     // Write README using Bun.write
     await Bun.write("README.md", result);
