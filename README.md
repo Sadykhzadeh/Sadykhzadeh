@@ -9,6 +9,15 @@ got my BSc in Information Security at [BHOS](https://bhos.edu.az) and MSc in Dig
 prefer to code a lot [![wakatime](https://wakatime.com/badge/user/f80ae27a-c328-426f-a381-bc84136e2dd6.svg)](https://wakatime.com/Azer). that's my last week stats for example:
 
 <!--START_SECTION:waka-->
+
+```txt
+Markdown     22 hrs 33 mins        ██████████████░░░░░░░░░░░   56.66 %
+TypeScript   5 hrs 54 mins         ███▓░░░░░░░░░░░░░░░░░░░░░   14.83 %
+Other        2 hrs 47 mins         █▓░░░░░░░░░░░░░░░░░░░░░░░   07.00 %
+Python       2 hrs 4 mins          █▒░░░░░░░░░░░░░░░░░░░░░░░   05.20 %
+JavaScript   1 hr 24 mins          █░░░░░░░░░░░░░░░░░░░░░░░░   03.52 %
+```
+
 <!--END_SECTION:waka-->
 
 occasionally writing something on my [blog](https://azer.one/posts), like [😨 Что случилось с Faker.js? Темная сторона Open Source](https://azer.one/posts/old-posts/faker-js) or [Задача о максимальном произведении трех чисел массива](https://azer.one/posts/old-posts/max-product-of-3-integers) check it out :)
