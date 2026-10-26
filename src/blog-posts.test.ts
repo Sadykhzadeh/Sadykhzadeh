@@ -18,3 +18,16 @@ test('respects count and ignores non-post links', () => {
   expect(parseBlogPosts(html, 1)).toHaveLength(1);
   expect(parseBlogPosts(html, 5)).toHaveLength(2);
 });
+
+test('entities are decoded and very long titles are cut', () => {
+  const long = 'word '.repeat(60);
+  const page = `<a href="/posts/a"><div>Vec&lt;T&gt; &amp; you</div></a><a href="/posts/b"><div>${long}</div></a>`;
+  const [entities, clipped] = parseBlogPosts(page, 2);
+  expect(entities.title).toBe('Vec<T> & you');
+  expect(clipped.title.length).toBeLessThanOrEqual(120);
+  expect(clipped.title.endsWith('…')).toBe(true);
+});
+
+test('a page without post links yields no posts', () => {
+  expect(parseBlogPosts('<html><body>changed layout</body></html>', 2)).toEqual([]);
+});
