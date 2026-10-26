@@ -1,7 +1,7 @@
 import { nowUTC } from './nowUTC.js';
 import { getLatestPosts } from './tginfo.js';
 import { getLatestBlogPosts } from './blog-posts.js';
-import { mdLink, fill } from './render.js';
+import { mdLink, fill, keepSection } from './render.js';
 
 (async () => {
   console.log("Fetching latest posts...");
@@ -40,7 +40,7 @@ import { mdLink, fill } from './render.js';
   try {
     // Read template using Bun.file
     const templateFile = Bun.file("./assets/template.md");
-    const template = await templateFile.text();
+    const template = keepSection(await templateFile.text(), await Bun.file("README.md").text(), "waka");
     
     // Replace placeholders
     const result = fill(template, {
