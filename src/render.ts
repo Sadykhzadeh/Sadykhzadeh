@@ -1,5 +1,14 @@
-// Escape brackets so a title can't terminate the link text early
-export const mdLink = (title: string, url: string) => `[${title.replace(/[[\]]/g, "\\$&")}](${url})`;
+// Escape everything markdown or inline HTML could act on, so a title is always shown literally
+export const mdLink = (title: string, url: string) => `[${title.replace(/[\\[\]*_`|<>&]/g, "\\$&")}](${url})`;
+
+// Keep one-line titles readable: cut long ones on a word boundary
+export const clip = (title: string, max = 120) => {
+  const chars = Array.from(title);
+  if (chars.length <= max) return title;
+  const cut = chars.slice(0, max - 1).join("");
+  const space = cut.lastIndexOf(" ");
+  return `${space > 0 ? cut.slice(0, space) : cut}…`;
+};
 
 // Function replacers: a plain string would expand $&, $' and friends found in titles
 export const fill = (template: string, values: Record<string, string>) =>

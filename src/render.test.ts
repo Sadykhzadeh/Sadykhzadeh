@@ -20,3 +20,9 @@ test('keepSection leaves the template alone without a previous section', () => {
   expect(keepSection(section('\n'), 'no markers here', 'waka')).toBe(section('\n'));
   expect(keepSection('no markers', section('x'), 'waka')).toBe('no markers');
 });
+
+test('markdown and html metacharacters in a title stay literal', () => {
+  expect(mdLink('a|b *c* _d_ `e` <T> & f\\g', 'https://x/y')).toBe(
+    '[a\\|b \\*c\\* \\_d\\_ \\`e\\` \\<T\\> \\& f\\\\g](https://x/y)',
+  );
+});

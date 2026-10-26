@@ -1,5 +1,6 @@
 import * as cheerio from 'cheerio';
 import { fetchHtml } from './fetch-html.js';
+import { clip } from './render.js';
 
 type Post = { title: string; url: string };
 
@@ -13,7 +14,7 @@ export const parseBlogPosts = (html: string, count: number): Post[] => {
   return postLinks.slice(0, count).map(post => {
     const href = $(post).attr('href');
     // the link also wraps a description paragraph, so take the heading only
-    const title = ($(post).children("div").first().text() || $(post).text()).replace(/\s+/g, " ").trim();
+    const title = clip(($(post).children("div").first().text() || $(post).text()).replace(/\s+/g, " ").trim());
 
     return {
       title: title || "latest post",
