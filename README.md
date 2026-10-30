@@ -24,7 +24,7 @@ occasionally writing something on my [blog](https://azer.one/posts), like [😨 
 
 Oh, and I am also part of awesome community [@tginfo](https://t.me/tginfo) / [@tginfoen](https://t.me/tginfoen) where we write about [Researcher Bypassed Telegram’s Server-Side Sticker Verification for a Zero-Click iOS Hack — Meanwhile, the Messenger…](https://t.me/tginfoen/2209) or [Interactive HTML Messages Are Now Working in the Android App](https://t.me/tginfoen/2208). (in Russian too! [Исследователь обошёл серверную проверку стикеров в Telegram для zero-click взлома iOS — тем временем мессенджер…](https://t.me/tginfo/4446) and [Интерактивные HTML-сообщения заработали в Android-приложении](https://t.me/tginfo/4445))
 
-<sub>this readme auto-updates every 6 hours · last: 2026-10-30 20:17:48 (UTC time)</sub>
+<sub>this readme auto-updates every 6 hours · last: 2026-10-30 21:50:57 (UTC time)</sub>
 
 [![profile views](https://komarev.com/ghpvc/?username=sadykhzadeh&label=views&color=2081c1&style=flat-square)](https://github.com/Sadykhzadeh) 
 
