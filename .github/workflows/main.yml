@@ -20,7 +20,11 @@ jobs:
     runs-on: ubuntu-latest
     timeout-minutes: 10
     steps:
+      # Start from the branch tip, not the commit that triggered the run: an earlier run in the
+      # queue may already have pushed a README commit on top of it
       - uses: actions/checkout@v7
+        with:
+          ref: master
 
       - name: Setup Bun
         uses: oven-sh/setup-bun@v2
@@ -46,7 +50,13 @@ jobs:
           git add README.md
           git diff --cached --quiet && exit 0
           git commit -m "Update README posts and timestamp"
-          git push
+          # The mirror from got.az or another run can land between checkout and push;
+          # replay this commit on top and keep our freshly generated README
+          for attempt in 1 2 3; do
+            git pull --rebase -X theirs origin master && git push && exit 0
+            sleep 5
+          done
+          exit 1
 
       - name: Update WakaTime stats
         uses: athul/waka-readme@v0.3.1
