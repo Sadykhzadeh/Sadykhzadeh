@@ -2,7 +2,7 @@
 
 ### hey, it's Azer 👋
 
-I'm an **application security & DevSecOps engineer** who writes his own tools. by day I work on how a bank builds and ships software securely; the rest of the time I build things in Rust, Go and TypeScript. more about me at [azer.one](https://azer.one).
+I'm an **Application Security & DevSecOps Engineer** who writes his own tools. by day I work on how a bank builds and ships software securely; the rest of the time I build things in Rust, Go and TypeScript. more about me at [azer.one](https://azer.one).
 
 **things I've built**
 
