@@ -7,8 +7,15 @@ type Post = { title: string; url: string };
 export const parseBlogPosts = (html: string, count: number): Post[] => {
   const $ = cheerio.load(html);
 
-  // Find blog post links in the format /posts/...
-  const postLinks = $('a[href^="/posts/"]').toArray();
+  // Find blog post links in the format /posts/..., skipping the index (the navigation links to it)
+  // and repeats of a post that the page links more than once
+  const seen = new Set<string>();
+  const postLinks = $('a[href^="/posts/"]').toArray().filter(post => {
+    const path = ($(post).attr('href') ?? '').replace(/\/+$/, '');
+    if (path === '/posts' || seen.has(path)) return false;
+    seen.add(path);
+    return true;
+  });
 
   // Get the first N posts (latest)
   return postLinks.slice(0, count).map(post => {
