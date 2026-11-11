@@ -34,7 +34,8 @@ import { mdLink, fill, keepSection } from './render.js';
   } else if (blogPosts.length === 1) {
     blogText = `like ${mdLink(blogPosts[0].title, blogPosts[0].url)}`;
   } else {
-    blogText = "";
+    // the template puts a comma before this piece, so the sentence still reads "my blog, and check it out"
+    blogText = "and";
   }
   
   try {
