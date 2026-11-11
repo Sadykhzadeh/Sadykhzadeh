@@ -22,7 +22,7 @@ import { mdLink, fill, keepSection } from './render.js';
     
     tginfoText = `we write about ${mdLink(en1.title, en1.url)} or ${mdLink(en2.title, en2.url)}. (in Russian too! ${mdLink(ru1.title, ru1.url)} and ${mdLink(ru2.title, ru2.url)})`;
   } else {
-    tginfoText = `follow our Telegram channels: [@tginfoen](https://t.me/tginfoen) and [@tginfo](https://t.me/tginfo)`;
+    tginfoText = `you can follow our Telegram channels: [@tginfoen](https://t.me/tginfoen) and [@tginfo](https://t.me/tginfo)`;
   }
   
   // Generate blog posts text
@@ -34,7 +34,8 @@ import { mdLink, fill, keepSection } from './render.js';
   } else if (blogPosts.length === 1) {
     blogText = `like ${mdLink(blogPosts[0].title, blogPosts[0].url)}`;
   } else {
-    blogText = "";
+    // the template puts a comma before this piece, so the sentence still reads "my blog, and check it out"
+    blogText = "and";
   }
   
   try {

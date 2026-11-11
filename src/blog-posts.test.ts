@@ -28,6 +28,18 @@ test('entities are decoded and very long titles are cut', () => {
   expect(clipped.title.endsWith('…')).toBe(true);
 });
 
+test('the posts index and repeated links to one post are not listed', () => {
+  const page = `<nav><a href="/posts/">posts</a></nav>
+<a href="/posts/old-posts/faker-js"><div class="title">Faker.js story</div><p>desc</p></a>
+<a href="/posts/">posts</a>
+<a href="/posts/old-posts/faker-js/"><div class="title">Faker.js story again</div></a>
+<a href="/posts/old-posts/gcd"><div class="title">GCD</div></a>`;
+  expect(parseBlogPosts(page, 5)).toEqual([
+    { title: 'Faker.js story', url: 'https://azer.one/posts/old-posts/faker-js' },
+    { title: 'GCD', url: 'https://azer.one/posts/old-posts/gcd' },
+  ]);
+});
+
 test('a page without post links yields no posts', () => {
   expect(parseBlogPosts('<html><body>changed layout</body></html>', 2)).toEqual([]);
 });
