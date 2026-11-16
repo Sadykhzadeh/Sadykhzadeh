@@ -1,5 +1,5 @@
 // Escape everything markdown or inline HTML could act on, so a title is always shown literally
-export const mdLink = (title: string, url: string) => `[${title.replace(/[\\[\]*_`|<>&]/g, "\\$&")}](${url})`;
+export const mdLink = (title: string, url: string) => `[${title.replace(/[\\[\]*_`|<>&~]/g, "\\$&")}](${url})`;
 
 // Keep one-line titles readable: cut long ones on a word boundary
 export const clip = (title: string, max = 120) => {

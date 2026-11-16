@@ -21,6 +21,10 @@ test('keepSection leaves the template alone without a previous section', () => {
   expect(keepSection('no markers', section('x'), 'waka')).toBe('no markers');
 });
 
+test('tildes in a title do not turn the link text into strikethrough', () => {
+  expect(mdLink('~~old~~ news', 'https://x/y')).toBe('[\\~\\~old\\~\\~ news](https://x/y)');
+});
+
 test('markdown and html metacharacters in a title stay literal', () => {
   expect(mdLink('a|b *c* _d_ `e` <T> & f\\g', 'https://x/y')).toBe(
     '[a\\|b \\*c\\* \\_d\\_ \\`e\\` \\<T\\> \\& f\\\\g](https://x/y)',
