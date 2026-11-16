@@ -1,5 +1,9 @@
+// A space, parenthesis, angle bracket or control character would end the link destination early
+const destination = (url: string) =>
+  url.replace(/[ ()<>\x00-\x1f\x7f]/g, char => `%${char.charCodeAt(0).toString(16).toUpperCase().padStart(2, "0")}`);
+
 // Escape everything markdown or inline HTML could act on, so a title is always shown literally
-export const mdLink = (title: string, url: string) => `[${title.replace(/[\\[\]*_`|<>&~]/g, "\\$&")}](${url})`;
+export const mdLink = (title: string, url: string) => `[${title.replace(/[\\[\]*_`|<>&~]/g, "\\$&")}](${destination(url)})`;
 
 // Keep one-line titles readable: cut long ones on a word boundary
 export const clip = (title: string, max = 120) => {

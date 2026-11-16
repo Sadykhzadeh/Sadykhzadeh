@@ -30,3 +30,19 @@ test('markdown and html metacharacters in a title stay literal', () => {
     '[a\\|b \\*c\\* \\_d\\_ \\`e\\` \\<T\\> \\& f\\\\g](https://x/y)',
   );
 });
+
+test('a url with parentheses, spaces or angle brackets stays one link destination', () => {
+  expect(mdLink('Parens', 'https://azer.one/posts/a(b)c')).toBe('[Parens](https://azer.one/posts/a%28b%29c)');
+  expect(mdLink('Spaces', 'https://x/a b<c>')).toBe('[Spaces](https://x/a%20b%3Cc%3E)');
+  expect(mdLink('Control', 'https://x/a\tb\n')).toBe('[Control](https://x/a%09b%0A)');
+});
+
+test('an already encoded url is not encoded twice', () => {
+  expect(mdLink('Done', 'https://x/a%28b%29%20c')).toBe('[Done](https://x/a%28b%29%20c)');
+});
+
+test('query string and fragment are kept as they are', () => {
+  expect(mdLink('Query', 'https://x/p?q=a+b&r=1%202#top-(1)')).toBe(
+    '[Query](https://x/p?q=a+b&r=1%202#top-%281%29)',
+  );
+});
