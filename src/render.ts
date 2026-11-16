@@ -14,9 +14,13 @@ export const clip = (title: string, max = 120) => {
   return `${space > 0 ? cut.slice(0, space) : cut}…`;
 };
 
-// Function replacers: a plain string would expand $&, $' and friends found in titles
+// Function replacers: a plain string would expand $&, $' and friends found in titles.
+// A placeholder with no value is a template typo, so it fails the run instead of reaching the README.
 export const fill = (template: string, values: Record<string, string>) =>
-  template.replace(/<\$(\w+)\$>/g, (match, key: string) => values[key] ?? match);
+  template.replace(/<\$(\w+)\$>/g, (match, key: string) => {
+    if (!Object.prototype.hasOwnProperty.call(values, key)) throw new Error(`template placeholder ${match} has no value`);
+    return values[key];
+  });
 
 // The stats block is written by a separate step after the README is generated, so carry the
 // previous one over instead of publishing an empty block until that step catches up (or fails)

@@ -46,3 +46,7 @@ test('query string and fragment are kept as they are', () => {
     '[Query](https://x/p?q=a+b&r=1%202#top-%281%29)',
   );
 });
+
+test('a placeholder without a value stops the run instead of reaching the README', () => {
+  expect(() => fill('a <$tginfo$> b <$tgfo$>', { tginfo: 'x' })).toThrow('<$tgfo$>');
+});

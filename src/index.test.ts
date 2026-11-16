@@ -57,3 +57,9 @@ test('a run without telegram posts falls back to the channel links', async () =>
     'you can follow our Telegram channels: [@tginfoen](https://t.me/tginfoen) and [@tginfo](https://t.me/tginfo)',
   );
 });
+
+test('a template placeholder without data fails the run and keeps the old README', async () => {
+  const root = project('<$tgfo$>', 'old readme');
+  expect(await main(root, sources)).toBe(1);
+  expect(readFileSync(join(root, 'README.md'), 'utf8')).toBe('old readme');
+});
