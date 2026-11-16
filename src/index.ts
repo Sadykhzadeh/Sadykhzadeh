@@ -56,6 +56,8 @@ import { mdLink, fill, keepSection } from './render.js';
     console.log("✅ README.md updated successfully!");
   } catch (error) {
     console.error("Error:", error);
+    // a silent exit 0 would let the workflow report success over a stale README
+    process.exitCode = 1;
   }
 })();
 
