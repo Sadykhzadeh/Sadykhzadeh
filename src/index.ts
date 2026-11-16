@@ -1,66 +1,80 @@
+import { join } from 'node:path';
 import { nowUTC } from './nowUTC.js';
 import { getLatestPosts } from './tginfo.js';
 import { getLatestBlogPosts } from './blog-posts.js';
 import { mdLink, fill, keepSection } from './render.js';
 
-(async () => {
-  console.log("Fetching latest posts...");
-  
-  // Telegram posts (2 latest from each) and blog posts (2 latest), fetched in parallel
-  const [postsEn, postsRu, blogPosts] = await Promise.all([
-    getLatestPosts("https://t.me/s/tginfoen/", 2),
-    getLatestPosts("https://t.me/s/tginfo/", 2),
-    getLatestBlogPosts(2),
-  ]);
-  
-  // Generate text content for Telegram posts
-  let tginfoText = "";
-  
-  if (postsEn.length >= 2 && postsRu.length >= 2) {
-    const [en1, en2] = postsEn;
-    const [ru1, ru2] = postsRu;
-    
-    tginfoText = `we write about ${mdLink(en1.title, en1.url)} or ${mdLink(en2.title, en2.url)}. (in Russian too! ${mdLink(ru1.title, ru1.url)} and ${mdLink(ru2.title, ru2.url)})`;
-  } else {
-    tginfoText = `you can follow our Telegram channels: [@tginfoen](https://t.me/tginfoen) and [@tginfo](https://t.me/tginfo)`;
-  }
-  
-  // Generate blog posts text
-  let blogText = "";
-  
-  if (blogPosts.length >= 2) {
-    const [blog1, blog2] = blogPosts;
-    blogText = `like ${mdLink(blog1.title, blog1.url)} or ${mdLink(blog2.title, blog2.url)}`;
-  } else if (blogPosts.length === 1) {
-    blogText = `like ${mdLink(blogPosts[0].title, blogPosts[0].url)}`;
-  } else {
-    // the template puts a comma before this piece, so the sentence still reads "my blog, and check it out"
-    blogText = "and";
-  }
-  
+type Post = { title: string; url: string };
+
+// Where the posts come from; tests pass stubs so no request leaves the process
+type Sources = {
+  telegram: (url: string, count: number) => Promise<Post[]>;
+  blog: (count: number) => Promise<Post[]>;
+};
+
+const liveSources: Sources = { telegram: getLatestPosts, blog: getLatestBlogPosts };
+
+export const main = async (root: string, sources: Sources = liveSources): Promise<number> => {
   try {
+    console.log("Fetching latest posts...");
+
+    // Telegram posts (2 latest from each) and blog posts (2 latest), fetched in parallel
+    const [postsEn, postsRu, blogPosts] = await Promise.all([
+      sources.telegram("https://t.me/s/tginfoen/", 2),
+      sources.telegram("https://t.me/s/tginfo/", 2),
+      sources.blog(2),
+    ]);
+
+    // Generate text content for Telegram posts
+    let tginfoText = "";
+
+    if (postsEn.length >= 2 && postsRu.length >= 2) {
+      const [en1, en2] = postsEn;
+      const [ru1, ru2] = postsRu;
+
+      tginfoText = `we write about ${mdLink(en1.title, en1.url)} or ${mdLink(en2.title, en2.url)}. (in Russian too! ${mdLink(ru1.title, ru1.url)} and ${mdLink(ru2.title, ru2.url)})`;
+    } else {
+      tginfoText = `you can follow our Telegram channels: [@tginfoen](https://t.me/tginfoen) and [@tginfo](https://t.me/tginfo)`;
+    }
+
+    // Generate blog posts text
+    let blogText = "";
+
+    if (blogPosts.length >= 2) {
+      const [blog1, blog2] = blogPosts;
+      blogText = `like ${mdLink(blog1.title, blog1.url)} or ${mdLink(blog2.title, blog2.url)}`;
+    } else if (blogPosts.length === 1) {
+      blogText = `like ${mdLink(blogPosts[0].title, blogPosts[0].url)}`;
+    } else {
+      // the template puts a comma before this piece, so the sentence still reads "my blog, and check it out"
+      blogText = "and";
+    }
+
     // Read template using Bun.file
-    const templateFile = Bun.file("./assets/template.md");
-    const template = keepSection(await templateFile.text(), await Bun.file("README.md").text(), "waka");
-    
+    const templateFile = Bun.file(join(root, "assets", "template.md"));
+    const template = keepSection(await templateFile.text(), await Bun.file(join(root, "README.md")).text(), "waka");
+
     // Replace placeholders
     const result = fill(template, {
       tginfo: tginfoText,
       blog_posts: blogText,
       time: nowUTC(),
     });
-    
+
     // Write README using Bun.write
-    await Bun.write("README.md", result);
-    
+    await Bun.write(join(root, "README.md"), result);
+
     console.log("✅ README.md updated successfully!");
+    return 0;
   } catch (error) {
     console.error("Error:", error);
     // a silent exit 0 would let the workflow report success over a stale README
-    process.exitCode = 1;
+    return 1;
   }
-})();
+};
 
-
-
-
+if (import.meta.main) {
+  main(".").then(code => {
+    process.exitCode = code;
+  });
+}
