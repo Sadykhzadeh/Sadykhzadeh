@@ -18,6 +18,11 @@ test('title is the first line, with entities decoded and tags dropped', () => {
   expect(post.title).toBe('Q&A on <T> generics');
 });
 
+test('a post that starts with a blank line takes its first non-empty line as the title', () => {
+  const [post] = parseTelegramPosts(message(1, '<br/>second line<br/>third'), 1);
+  expect(post.title).toBe('second line');
+});
+
 test('emoji stay in the title', () => {
   const [post] = parseTelegramPosts(message(1, '<i class="emoji" style="background-image:url(//x/y.png)"><b>🎁</b></i> Gift sale'), 1);
   expect(post.title).toBe('🎁 Gift sale');

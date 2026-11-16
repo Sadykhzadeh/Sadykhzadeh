@@ -12,7 +12,8 @@ export const parseTelegramPosts = (html: string, count: number): Post[] => {
     // A reply also carries a text div (the quoted message), the post's own text comes after it
     const text = $(message).find("div.tgme_widget_message_text").last();
     text.find("br").replaceWith("\n");
-    const title = clip(text.text().split("\n")[0].replace(/\s+/g, " ").trim());
+    const firstLine = text.text().split("\n").find(line => line.trim() !== "") ?? "";
+    const title = clip(firstLine.replace(/\s+/g, " ").trim());
 
     return {
       title: title || "post",
