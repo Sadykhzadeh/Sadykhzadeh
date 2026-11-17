@@ -50,3 +50,7 @@ test('query string and fragment are kept as they are', () => {
 test('a placeholder without a value stops the run instead of reaching the README', () => {
   expect(() => fill('a <$tginfo$> b <$tgfo$>', { tginfo: 'x' })).toThrow('<$tgfo$>');
 });
+
+test('a placeholder name with a hyphen is still checked against the values', () => {
+  expect(() => fill('a <$blog-posts$> b', { blog_posts: 'x' })).toThrow('<$blog-posts$>');
+});

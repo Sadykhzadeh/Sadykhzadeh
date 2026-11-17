@@ -17,7 +17,7 @@ export const clip = (title: string, max = 120) => {
 // Function replacers: a plain string would expand $&, $' and friends found in titles.
 // A placeholder with no value is a template typo, so it fails the run instead of reaching the README.
 export const fill = (template: string, values: Record<string, string>) =>
-  template.replace(/<\$(\w+)\$>/g, (match, key: string) => {
+  template.replace(/<\$([^<>$\s]+)\$>/g, (match, key: string) => {
     if (!Object.prototype.hasOwnProperty.call(values, key)) throw new Error(`template placeholder ${match} has no value`);
     return values[key];
   });
