@@ -43,3 +43,14 @@ test('the posts index and repeated links to one post are not listed', () => {
 test('a page without post links yields no posts', () => {
   expect(parseBlogPosts('<html><body>changed layout</body></html>', 2)).toEqual([]);
 });
+
+test('a link with a query string or fragment is the same post', () => {
+  const page = `<a href="/posts/old-posts/faker-js#comments"><div>Faker.js story</div></a>
+<a href="/posts/old-posts/faker-js?ref=nav"><div>Faker.js story</div></a>
+<a href="/posts/old-posts/faker-js/"><div>Faker.js story</div></a>
+<a href="/posts/old-posts/gcd?ref=home"><div>GCD</div></a>`;
+  expect(parseBlogPosts(page, 5)).toEqual([
+    { title: 'Faker.js story', url: 'https://azer.one/posts/old-posts/faker-js' },
+    { title: 'GCD', url: 'https://azer.one/posts/old-posts/gcd' },
+  ]);
+});

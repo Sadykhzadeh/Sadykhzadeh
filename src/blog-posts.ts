@@ -4,6 +4,9 @@ import { clip } from './render.js';
 
 type Post = { title: string; url: string };
 
+// A query string or fragment on a link points at the same post, so it is dropped
+const postPath = (href: string) => href.split(/[?#]/)[0].replace(/\/+$/, '');
+
 export const parseBlogPosts = (html: string, count: number): Post[] => {
   const $ = cheerio.load(html);
 
@@ -11,7 +14,7 @@ export const parseBlogPosts = (html: string, count: number): Post[] => {
   // and repeats of a post that the page links more than once
   const seen = new Set<string>();
   const postLinks = $('a[href^="/posts/"]').toArray().filter(post => {
-    const path = ($(post).attr('href') ?? '').replace(/\/+$/, '');
+    const path = postPath($(post).attr('href') ?? '');
     if (path === '/posts' || seen.has(path)) return false;
     seen.add(path);
     return true;
@@ -25,7 +28,7 @@ export const parseBlogPosts = (html: string, count: number): Post[] => {
 
     return {
       title: title || "latest post",
-      url: `https://azer.one${href}`
+      url: `https://azer.one${postPath(href ?? '')}`
     };
   });
 }
