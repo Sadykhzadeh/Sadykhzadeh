@@ -7,19 +7,20 @@ type Post = { title: string; url: string };
 export const parseTelegramPosts = (html: string, count: number): Post[] => {
   const $ = cheerio.load(html);
 
-  // The newest messages are last on the page; return them newest first
-  return $("div.tgme_widget_message").toArray().slice(-count).reverse().map(message => {
+  // The newest messages are last on the page; walk them newest first and keep the ones with text,
+  // so a photo-only post is not linked under a generic title
+  return $("div.tgme_widget_message").toArray().reverse().flatMap(message => {
     // A reply also carries a text div (the quoted message), the post's own text comes after it
     const text = $(message).find("div.tgme_widget_message_text").last();
     text.find("br").replaceWith("\n");
     const firstLine = text.text().split("\n").find(line => line.trim() !== "") ?? "";
     const title = clip(firstLine.replace(/\s+/g, " ").trim());
 
-    return {
-      title: title || "post",
+    return title ? [{
+      title,
       url: `https://t.me/${$(message).attr("data-post")}`
-    };
-  });
+    }] : [];
+  }).slice(0, count);
 }
 
 export const getLatestPosts = async (url: string, count: number = 2): Promise<Post[]> => {

@@ -34,9 +34,18 @@ test('the quoted text of a reply does not become the title', () => {
   expect(post.title).toBe('actual post');
 });
 
-test('a post without text falls back to a generic title', () => {
-  const html = `<div class="tgme_widget_message" data-post="chan/7"><div class="tgme_widget_message_bubble"></div></div>`;
-  expect(parseTelegramPosts(html, 1)).toEqual([{ title: 'post', url: 'https://t.me/chan/7' }]);
+test('a post without text is skipped in favour of the newest post with text', () => {
+  const photo = `<div class="tgme_widget_message" data-post="chan/7"><div class="tgme_widget_message_bubble"></div></div>`;
+  expect(parseTelegramPosts(message(5, 'text post') + photo, 2)).toEqual([
+    { title: 'text post', url: 'https://t.me/chan/5' },
+  ]);
+  expect(parseTelegramPosts(photo, 2)).toEqual([]);
+});
+
+test('count limits the posts and zero returns none', () => {
+  const html = [1, 2].map(id => message(id, `post ${id}`)).join('');
+  expect(parseTelegramPosts(html, 0)).toEqual([]);
+  expect(parseTelegramPosts(html, 1)).toEqual([{ title: 'post 2', url: 'https://t.me/chan/2' }]);
 });
 
 test('very long titles are cut on a word boundary', () => {
