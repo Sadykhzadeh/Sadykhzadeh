@@ -80,3 +80,17 @@ test('a dry run prints the new README to stdout and leaves the file alone', asyn
   expect(printed.join('')).toBe('blog like [Faker.js story](https://azer.one/posts/faker-js)');
   expect(readFileSync(join(root, 'README.md'), 'utf8')).toBe('old readme');
 });
+
+test('titles with table, html and link syntax stay literal in the README', async () => {
+  const template = '<$tginfo$>\n<$blog_posts$>';
+  const root = project(template, '');
+  const telegram = async (url: string) => url.includes('tginfoen')
+    ? [{ title: 'a|b `c` <d>', url: 'https://t.me/tginfoen/2' }, { title: 'x] y', url: 'https://t.me/tginfoen/1' }]
+    : [{ title: 'ru | <i>', url: 'https://t.me/tginfo/2' }, { title: 'ru ]', url: 'https://t.me/tginfo/1' }];
+  const blog = async () => [{ title: 'Fish & `chips`', url: 'https://azer.one/posts/fish' }, { title: '[x]', url: 'https://azer.one/posts/x' }];
+  expect(await main(root, { telegram, blog })).toBe(0);
+  expect(readFileSync(join(root, 'README.md'), 'utf8')).toBe(
+    'we write about [a\\|b \\`c\\` \\<d\\>](https://t.me/tginfoen/2) or [x\\] y](https://t.me/tginfoen/1). (in Russian too! [ru \\| \\<i\\>](https://t.me/tginfo/2) and [ru \\]](https://t.me/tginfo/1))\n'
+    + 'like [Fish \\& \\`chips\\`](https://azer.one/posts/fish) or [\\[x\\]](https://azer.one/posts/x)',
+  );
+});
