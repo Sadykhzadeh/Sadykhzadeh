@@ -1,4 +1,4 @@
-import { expect, test } from 'bun:test';
+import { expect, spyOn, test } from 'bun:test';
 import { mkdtempSync, mkdirSync, readFileSync, writeFileSync } from 'node:fs';
 import { tmpdir } from 'node:os';
 import { join } from 'node:path';
@@ -61,5 +61,22 @@ test('a run without telegram posts falls back to the channel links', async () =>
 test('a template placeholder without data fails the run and keeps the old README', async () => {
   const root = project('<$tgfo$>', 'old readme');
   expect(await main(root, sources)).toBe(1);
+  expect(readFileSync(join(root, 'README.md'), 'utf8')).toBe('old readme');
+});
+
+test('a dry run prints the new README to stdout and leaves the file alone', async () => {
+  const template = 'blog <$blog_posts$>';
+  const root = project(template, 'old readme');
+  const printed: string[] = [];
+  const write = spyOn(process.stdout, 'write').mockImplementation((chunk: string | Uint8Array) => {
+    printed.push(String(chunk));
+    return true;
+  });
+  try {
+    expect(await main(root, sources, true)).toBe(0);
+  } finally {
+    write.mockRestore();
+  }
+  expect(printed.join('')).toBe('blog like [Faker.js story](https://azer.one/posts/faker-js)');
   expect(readFileSync(join(root, 'README.md'), 'utf8')).toBe('old readme');
 });

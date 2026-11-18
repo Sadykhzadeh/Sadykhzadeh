@@ -14,9 +14,11 @@ type Sources = {
 
 const liveSources: Sources = { telegram: getLatestPosts, blog: getLatestBlogPosts };
 
-export const main = async (root: string, sources: Sources = liveSources): Promise<number> => {
+// With dryRun the README goes to stdout and the file is left alone, and progress lines go to stderr
+export const main = async (root: string, sources: Sources = liveSources, dryRun = false): Promise<number> => {
+  const log = dryRun ? console.error : console.log;
   try {
-    console.log("Fetching latest posts...");
+    log("Fetching latest posts...");
 
     // Telegram posts (2 latest from each) and blog posts (2 latest), fetched in parallel
     const [postsEn, postsRu, blogPosts] = await Promise.all([
@@ -61,10 +63,13 @@ export const main = async (root: string, sources: Sources = liveSources): Promis
       time: nowUTC(),
     });
 
-    // Write README using Bun.write
-    await Bun.write(join(root, "README.md"), result);
-
-    console.log("✅ README.md updated successfully!");
+    if (dryRun) {
+      process.stdout.write(result);
+    } else {
+      // Write README using Bun.write
+      await Bun.write(join(root, "README.md"), result);
+      log("✅ README.md updated successfully!");
+    }
     return 0;
   } catch (error) {
     console.error("Error:", error);
@@ -74,7 +79,7 @@ export const main = async (root: string, sources: Sources = liveSources): Promis
 };
 
 if (import.meta.main) {
-  main(".").then(code => {
+  main(".", liveSources, process.argv.includes("--dry-run")).then(code => {
     process.exitCode = code;
   });
 }
