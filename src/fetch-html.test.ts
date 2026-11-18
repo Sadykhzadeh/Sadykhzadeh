@@ -34,3 +34,13 @@ test('an HTTP error status counts as a failed attempt', async () => {
   await expect(fetchHtml('https://example.test/')).rejects.toThrow('HTTP 429');
   expect(calls()).toBe(2);
 });
+
+test('every request identifies the generator', async () => {
+  let sent: Headers | undefined;
+  globalThis.fetch = (async (_url: string, init: RequestInit) => {
+    sent = new Headers(init.headers);
+    return new Response('<p>ok</p>');
+  }) as unknown as typeof fetch;
+  await fetchHtml('https://example.test/');
+  expect(sent?.get('User-Agent')).toMatch(/github\.com\/Sadykhzadeh\/Sadykhzadeh/);
+});
