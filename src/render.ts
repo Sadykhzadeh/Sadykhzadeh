@@ -1,6 +1,6 @@
-// A space, parenthesis, angle bracket or control character would end the link destination early
+// A space, parenthesis, angle bracket, backslash or control character would end or change the link destination
 const destination = (url: string) =>
-  url.replace(/[ ()<>\x00-\x1f\x7f]/g, char => `%${char.charCodeAt(0).toString(16).toUpperCase().padStart(2, "0")}`);
+  url.replace(/[ ()<>\\\x00-\x1f\x7f]/g, char => `%${char.charCodeAt(0).toString(16).toUpperCase().padStart(2, "0")}`);
 
 // Escape everything markdown or inline HTML could act on, so a title is always shown literally
 export const mdLink = (title: string, url: string) => `[${title.replace(/[\\[\]*_`|<>&~]/g, "\\$&")}](${destination(url)})`;

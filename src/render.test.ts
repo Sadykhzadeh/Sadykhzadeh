@@ -54,3 +54,7 @@ test('a placeholder without a value stops the run instead of reaching the README
 test('a placeholder name with a hyphen is still checked against the values', () => {
   expect(() => fill('a <$blog-posts$> b', { blog_posts: 'x' })).toThrow('<$blog-posts$>');
 });
+
+test('a backslash in a url cannot escape the closing parenthesis of the link', () => {
+  expect(mdLink('Trailing', 'https://azer.one/posts/a\\')).toBe('[Trailing](https://azer.one/posts/a%5C)');
+});
