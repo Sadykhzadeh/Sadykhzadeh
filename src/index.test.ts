@@ -107,3 +107,17 @@ test('the script writes the README from any working directory', async () => {
   expect(out).toContain('<div align="left">');
   expect(out).not.toContain('<$');
 });
+
+test('an unknown argument exits non-zero without touching the README', async () => {
+  const before = readFileSync(join(projectRoot, 'README.md'), 'utf8');
+  const proc = Bun.spawn([process.execPath, join(projectRoot, 'src', 'index.ts'), '--dryrun'], {
+    cwd: mkdtempSync(join(tmpdir(), 'readme-arg-')),
+    env: { ...process.env, HTTP_PROXY: 'http://127.0.0.1:9', HTTPS_PROXY: 'http://127.0.0.1:9' },
+    stdout: 'pipe',
+    stderr: 'pipe',
+  });
+  const [out, code] = await Promise.all([new Response(proc.stdout).text(), proc.exited]);
+  expect(code).toBe(2);
+  expect(out).toBe('');
+  expect(readFileSync(join(projectRoot, 'README.md'), 'utf8')).toBe(before);
+});

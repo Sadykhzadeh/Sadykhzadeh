@@ -82,7 +82,15 @@ export const main = async (root: string, sources: Sources = liveSources, dryRun 
 };
 
 if (import.meta.main) {
-  main(projectRoot, liveSources, process.argv.includes("--dry-run")).then(code => {
-    process.exitCode = code;
-  });
+  // A misspelled flag must not fall through to a run that rewrites the README
+  const args = process.argv.slice(2);
+  const unknown = args.find(arg => arg !== "--dry-run");
+  if (unknown) {
+    console.error(`Unknown argument ${unknown}, the only option is --dry-run`);
+    process.exitCode = 2;
+  } else {
+    main(projectRoot, liveSources, args.includes("--dry-run")).then(code => {
+      process.exitCode = code;
+    });
+  }
 }
