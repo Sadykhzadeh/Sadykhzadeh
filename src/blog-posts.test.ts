@@ -54,3 +54,8 @@ test('a link with a query string or fragment is the same post', () => {
     { title: 'GCD', url: 'https://azer.one/posts/old-posts/gcd' },
   ]);
 });
+
+test('a heading that is not a div is taken alone, without the description', () => {
+  const page = `<a href="/posts/old-posts/gcd"><h2>GCD</h2><p>Long description</p></a>`;
+  expect(parseBlogPosts(page, 1)).toEqual([{ title: 'GCD', url: 'https://azer.one/posts/old-posts/gcd' }]);
+});
