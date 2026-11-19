@@ -5,6 +5,9 @@ const destination = (url: string) =>
 // Escape everything markdown or inline HTML could act on, so a title is always shown literally
 export const mdLink = (title: string, url: string) => `[${title.replace(/[\\[\]*_`|<>&~]/g, "\\$&")}](${destination(url)})`;
 
+// Zero-width characters are invisible, so a line or heading that holds only them has no text
+export const hasText = (text: string) => text.replace(/[\u200b-\u200d\u2060\ufeff]/g, "").trim() !== "";
+
 // Keep one-line titles readable: cut long ones on a word boundary
 export const clip = (title: string, max = 120) => {
   const chars = Array.from(new Intl.Segmenter().segment(title), ({ segment }) => segment);

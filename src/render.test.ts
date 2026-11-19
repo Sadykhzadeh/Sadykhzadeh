@@ -1,5 +1,5 @@
 import { expect, test } from 'bun:test';
-import { mdLink, fill, keepSection, clip } from './render';
+import { mdLink, fill, keepSection, clip, hasText } from './render';
 
 test('brackets in a title do not break the link', () => {
   expect(mdLink('[Update] v2', 'https://t.me/x/1')).toBe('[\\[Update\\] v2](https://t.me/x/1)');
@@ -67,4 +67,9 @@ test('a long title is cut between emoji, not inside a flag or a joined sequence'
 test('a title of exactly the limit is kept whole', () => {
   expect(clip('b'.repeat(120))).toBe('b'.repeat(120));
   expect(clip('b'.repeat(121))).toBe('b'.repeat(119) + '…');
+});
+
+test('hasText is false for a string of only zero-width characters', () => {
+  expect(hasText('​‌ ﻿')).toBe(false);
+  expect(hasText('​ x')).toBe(true);
 });

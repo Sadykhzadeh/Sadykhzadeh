@@ -1,6 +1,6 @@
 import * as cheerio from 'cheerio';
 import { fetchHtml } from './fetch-html.js';
-import { clip } from './render.js';
+import { clip, hasText } from './render.js';
 
 type Post = { title: string; url: string };
 
@@ -16,7 +16,7 @@ export const parseTelegramPosts = (html: string, count: number): Post[] => {
     // Zero-width characters are invisible, so a line that holds only them does not count as text.
     // The title keeps them, since joined emoji and Persian words depend on them
     const lines = text.text().split("\n").map(line => line.replace(/\s+/g, " ").trim());
-    const title = clip(lines.find(line => line.replace(/[\u200b-\u200d\u2060\ufeff]/g, "") !== "") ?? "");
+    const title = clip(lines.find(hasText) ?? "");
 
     return title ? [{
       title,

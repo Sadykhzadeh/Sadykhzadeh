@@ -92,3 +92,10 @@ test('a line break in a heading separates the words of the title', () => {
     { title: 'Greatest common divisor', url: 'https://azer.one/posts/old-posts/gcd' },
   ]);
 });
+
+test('a heading that holds only zero-width characters is not the title', () => {
+  const spacer = `<a href="/posts/old-posts/gcd"><div>​</div><div class="title">GCD</div><p>desc</p></a>`;
+  expect(parseBlogPosts(spacer, 1)).toEqual([{ title: 'GCD', url: 'https://azer.one/posts/old-posts/gcd' }]);
+  const empty = `<a href="/posts/old-posts/gcd"><div class="title">​‌</div></a>`;
+  expect(parseBlogPosts(empty, 1)).toEqual([{ title: 'latest post', url: 'https://azer.one/posts/old-posts/gcd' }]);
+});
