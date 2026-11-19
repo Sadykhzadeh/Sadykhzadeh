@@ -10,19 +10,13 @@ const postPath = (href: string) => href.split(/[?#]/)[0].replace(/\/+$/, '');
 export const parseBlogPosts = (html: string, count: number): Post[] => {
   const $ = cheerio.load(html);
 
-  // Find blog post links in the format /posts/..., skipping the index (the navigation links to it)
-  // and repeats of a post that the page links more than once
-  const seen = new Set<string>();
-  const postLinks = $('a[href^="/posts/"]').toArray().filter(post => {
+  // Find blog post links in the format /posts/..., skipping the index (the navigation links to it).
+  // A post can be linked more than once, for example by a cover image and by its title, so each
+  // path keeps the first link whose text is not empty
+  const titles = new Map<string, string>();
+  for (const post of $('a[href^="/posts/"]').toArray()) {
     const path = postPath($(post).attr('href') ?? '');
-    if (path === '/posts' || seen.has(path)) return false;
-    seen.add(path);
-    return true;
-  });
-
-  // Get the first N posts (latest)
-  return postLinks.slice(0, count).map(post => {
-    const href = $(post).attr('href');
+    if (path === '/posts') continue;
     // a line break inside a heading would otherwise join the words on either side of it
     $(post).find('br').replaceWith(' ');
     // the link also wraps a description paragraph, so take the heading only: the first block with text
@@ -31,11 +25,15 @@ export const parseBlogPosts = (html: string, count: number): Post[] => {
     const heading = $(post).children().not("p").filter((_, el) => hasText($(el).text())).first();
     const title = clip((heading.length ? heading.text() : $(post).clone().children("p").remove().end().text()).replace(/\s+/g, " ").trim());
 
-    return {
-      title: hasText(title) ? title : "latest post",
-      url: `https://azer.one${postPath(href ?? '')}`
-    };
-  });
+    const known = titles.get(path);
+    if (known === undefined || !hasText(known)) titles.set(path, title);
+  }
+
+  // Get the first N posts (latest)
+  return [...titles].slice(0, count).map(([path, title]) => ({
+    title: hasText(title) ? title : "latest post",
+    url: `https://azer.one${path}`
+  }));
 }
 
 export const getLatestBlogPosts = async (count: number = 2): Promise<Post[]> => {
