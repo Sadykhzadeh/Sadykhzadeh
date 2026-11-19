@@ -2,7 +2,7 @@ import { expect, spyOn, test } from 'bun:test';
 import { mkdtempSync, mkdirSync, readFileSync, writeFileSync } from 'node:fs';
 import { tmpdir } from 'node:os';
 import { join } from 'node:path';
-import { main } from './index';
+import { main, projectRoot } from './index';
 
 const posts = [
   { title: 'first', url: 'https://t.me/chan/1' },
@@ -93,4 +93,17 @@ test('titles with table, html and link syntax stay literal in the README', async
     'we write about [a\\|b \\`c\\` \\<d\\>](https://t.me/tginfoen/2) or [x\\] y](https://t.me/tginfoen/1). (in Russian too! [ru \\| \\<i\\>](https://t.me/tginfo/2) and [ru \\]](https://t.me/tginfo/1))\n'
     + 'like [Fish \\& \\`chips\\`](https://azer.one/posts/fish) or [\\[x\\]](https://azer.one/posts/x)',
   );
+});
+
+test('the script writes the README from any working directory', async () => {
+  const proc = Bun.spawn([process.execPath, join(projectRoot, 'src', 'index.ts'), '--dry-run'], {
+    cwd: mkdtempSync(join(tmpdir(), 'readme-cwd-')),
+    env: { ...process.env, HTTP_PROXY: 'http://127.0.0.1:9', HTTPS_PROXY: 'http://127.0.0.1:9' },
+    stdout: 'pipe',
+    stderr: 'pipe',
+  });
+  const [out, code] = await Promise.all([new Response(proc.stdout).text(), proc.exited]);
+  expect(code).toBe(0);
+  expect(out).toContain('<div align="left">');
+  expect(out).not.toContain('<$');
 });

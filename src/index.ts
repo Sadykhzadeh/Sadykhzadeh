@@ -14,6 +14,9 @@ type Sources = {
 
 const liveSources: Sources = { telegram: getLatestPosts, blog: getLatestBlogPosts };
 
+// The template and README live at the project root, one level above this file, so the run does not depend on the working directory
+export const projectRoot = join(import.meta.dir, "..");
+
 // With dryRun the README goes to stdout and the file is left alone, and progress lines go to stderr
 export const main = async (root: string, sources: Sources = liveSources, dryRun = false): Promise<number> => {
   const log = dryRun ? console.error : console.log;
@@ -79,7 +82,7 @@ export const main = async (root: string, sources: Sources = liveSources, dryRun 
 };
 
 if (import.meta.main) {
-  main(".", liveSources, process.argv.includes("--dry-run")).then(code => {
+  main(projectRoot, liveSources, process.argv.includes("--dry-run")).then(code => {
     process.exitCode = code;
   });
 }
