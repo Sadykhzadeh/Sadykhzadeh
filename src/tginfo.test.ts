@@ -1,5 +1,10 @@
-import { expect, test } from 'bun:test';
-import { parseTelegramPosts } from './tginfo';
+import { afterEach, expect, spyOn, test } from 'bun:test';
+import { getLatestPosts, parseTelegramPosts } from './tginfo';
+
+const realFetch = globalThis.fetch;
+afterEach(() => {
+  globalThis.fetch = realFetch;
+});
 
 const message = (id: number, text: string, extra = '') =>
   `<div class="tgme_widget_message_wrap"><div class="tgme_widget_message" data-post="chan/${id}">` +
@@ -81,4 +86,26 @@ test('joiners inside a title are kept, so emoji sequences and Persian words stay
   expect(parseTelegramPosts(message(2, 'می‌خواهم'), 1)).toEqual([
     { title: 'می‌خواهم', url: 'https://t.me/chan/2' },
   ]);
+});
+
+test('a page that yields no messages returns nothing and is reported', async () => {
+  globalThis.fetch = (async () => new Response('<html>changed layout</html>')) as unknown as typeof fetch;
+  const errors = spyOn(console, 'error').mockImplementation(() => {});
+  try {
+    expect(await getLatestPosts('https://t.me/s/chan/', 2)).toEqual([]);
+    expect(errors).toHaveBeenCalledWith('No posts found at https://t.me/s/chan/');
+  } finally {
+    errors.mockRestore();
+  }
+});
+
+test('a page that cannot be fetched returns nothing and is reported', async () => {
+  globalThis.fetch = (async () => new Response('gone', { status: 404 })) as unknown as typeof fetch;
+  const errors = spyOn(console, 'error').mockImplementation(() => {});
+  try {
+    expect(await getLatestPosts('https://t.me/s/chan/', 2)).toEqual([]);
+    expect(errors).toHaveBeenCalled();
+  } finally {
+    errors.mockRestore();
+  }
 });

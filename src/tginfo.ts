@@ -27,7 +27,10 @@ export const parseTelegramPosts = (html: string, count: number): Post[] => {
 
 export const getLatestPosts = async (url: string, count: number = 2): Promise<Post[]> => {
   try {
-    return parseTelegramPosts(await fetchHtml(url), count);
+    const posts = parseTelegramPosts(await fetchHtml(url), count);
+    // An empty result usually means the page layout changed, and the README then shows the fallback text
+    if (posts.length === 0) console.error(`No posts found at ${url}`);
+    return posts;
   } catch (error) {
     console.error(`Error fetching from ${url}:`, error);
     return [];

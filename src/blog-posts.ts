@@ -38,7 +38,10 @@ export const parseBlogPosts = (html: string, count: number): Post[] => {
 
 export const getLatestBlogPosts = async (count: number = 2): Promise<Post[]> => {
   try {
-    return parseBlogPosts(await fetchHtml("https://azer.one"), count);
+    const posts = parseBlogPosts(await fetchHtml("https://azer.one"), count);
+    // An empty result usually means the page layout changed, and the README then shows the fallback text
+    if (posts.length === 0) console.error("No posts found at https://azer.one");
+    return posts;
   } catch (error) {
     console.error('Error fetching blog posts:', error);
     return [];

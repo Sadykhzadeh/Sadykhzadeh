@@ -1,5 +1,10 @@
-import { expect, test } from 'bun:test';
-import { parseBlogPosts } from './blog-posts';
+import { afterEach, expect, spyOn, test } from 'bun:test';
+import { getLatestBlogPosts, parseBlogPosts } from './blog-posts';
+
+const realFetch = globalThis.fetch;
+afterEach(() => {
+  globalThis.fetch = realFetch;
+});
 
 const html = `
 <div><a href="/posts/old-posts/faker-js" class="block">
@@ -68,4 +73,15 @@ test('a cover image before the heading does not pull the description into the ti
 test('a post with no heading text gets the fallback title, not its description', () => {
   const page = `<a href="/posts/old-posts/gcd"><div class="cover"></div><p>Long description</p></a>`;
   expect(parseBlogPosts(page, 1)).toEqual([{ title: 'latest post', url: 'https://azer.one/posts/old-posts/gcd' }]);
+});
+
+test('a home page with no post links returns nothing and is reported', async () => {
+  globalThis.fetch = (async () => new Response('<html>changed layout</html>')) as unknown as typeof fetch;
+  const errors = spyOn(console, 'error').mockImplementation(() => {});
+  try {
+    expect(await getLatestBlogPosts(2)).toEqual([]);
+    expect(errors).toHaveBeenCalledWith('No posts found at https://azer.one');
+  } finally {
+    errors.mockRestore();
+  }
 });
