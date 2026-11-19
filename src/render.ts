@@ -7,7 +7,7 @@ export const mdLink = (title: string, url: string) => `[${title.replace(/[\\[\]*
 
 // Keep one-line titles readable: cut long ones on a word boundary
 export const clip = (title: string, max = 120) => {
-  const chars = Array.from(title);
+  const chars = Array.from(new Intl.Segmenter().segment(title), ({ segment }) => segment);
   if (chars.length <= max) return title;
   const cut = chars.slice(0, max - 1).join("");
   const space = cut.lastIndexOf(" ");

@@ -1,5 +1,5 @@
 import { expect, test } from 'bun:test';
-import { mdLink, fill, keepSection } from './render';
+import { mdLink, fill, keepSection, clip } from './render';
 
 test('brackets in a title do not break the link', () => {
   expect(mdLink('[Update] v2', 'https://t.me/x/1')).toBe('[\\[Update\\] v2](https://t.me/x/1)');
@@ -57,4 +57,14 @@ test('a placeholder name with a hyphen is still checked against the values', () 
 
 test('a backslash in a url cannot escape the closing parenthesis of the link', () => {
   expect(mdLink('Trailing', 'https://azer.one/posts/a\\')).toBe('[Trailing](https://azer.one/posts/a%5C)');
+});
+
+test('a long title is cut between emoji, not inside a flag or a joined sequence', () => {
+  expect(clip('a'.repeat(118) + '🇦🇿xyz')).toBe('a'.repeat(118) + '🇦🇿…');
+  expect(clip('a'.repeat(117) + '👨‍👩‍👧 tail tail')).toBe('a'.repeat(117) + '👨‍👩‍👧…');
+});
+
+test('a title of exactly the limit is kept whole', () => {
+  expect(clip('b'.repeat(120))).toBe('b'.repeat(120));
+  expect(clip('b'.repeat(121))).toBe('b'.repeat(119) + '…');
 });
