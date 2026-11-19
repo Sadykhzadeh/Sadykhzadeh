@@ -23,6 +23,8 @@ export const parseBlogPosts = (html: string, count: number): Post[] => {
   // Get the first N posts (latest)
   return postLinks.slice(0, count).map(post => {
     const href = $(post).attr('href');
+    // a line break inside a heading would otherwise join the words on either side of it
+    $(post).find('br').replaceWith(' ');
     // the link also wraps a description paragraph, so take the heading only: the first block with text
     // that is not a paragraph (a cover image or spacer before it has none), or, when there is no such
     // block, the link's text with its paragraphs removed

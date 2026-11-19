@@ -85,3 +85,10 @@ test('a home page with no post links returns nothing and is reported', async () 
     errors.mockRestore();
   }
 });
+
+test('a line break in a heading separates the words of the title', () => {
+  const page = `<a href="/posts/old-posts/gcd"><div class="title">Greatest<br>common divisor</div><p>desc</p></a>`;
+  expect(parseBlogPosts(page, 1)).toEqual([
+    { title: 'Greatest common divisor', url: 'https://azer.one/posts/old-posts/gcd' },
+  ]);
+});
