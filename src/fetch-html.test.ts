@@ -66,3 +66,26 @@ test('every request identifies the generator', async () => {
   await fetchHtml('https://example.test/');
   expect(sent?.get('User-Agent')).toMatch(/github\.com\/Sadykhzadeh\/Sadykhzadeh/);
 });
+
+test('a body over the size limit is refused and the rest of it is not read', async () => {
+  let pulled = 0;
+  const body = new ReadableStream({
+    pull(controller) {
+      if (pulled++ < 100) controller.enqueue(new Uint8Array(1024 * 1024));
+      else controller.close();
+    },
+  });
+  stub(new Response(body));
+  await expect(fetchHtml('https://example.test/', 1, 0)).rejects.toThrow('larger than');
+  expect(pulled).toBeLessThan(10);
+});
+
+test('an oversized body is not fetched again', async () => {
+  let calls = 0;
+  globalThis.fetch = (async () => {
+    calls++;
+    return new Response(new Uint8Array(6 * 1024 * 1024));
+  }) as unknown as typeof fetch;
+  await expect(fetchHtml('https://example.test/', 2, 0)).rejects.toThrow('larger than');
+  expect(calls).toBe(1);
+});
