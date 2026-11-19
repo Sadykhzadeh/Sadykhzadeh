@@ -19,20 +19,30 @@ const stub = (...responses: Array<Response | Error>) => {
 
 test('a failed request is retried once and the second answer is used', async () => {
   const calls = stub(new Error('reset'), new Response('<p>ok</p>'));
-  expect(await fetchHtml('https://example.test/')).toBe('<p>ok</p>');
+  expect(await fetchHtml('https://example.test/', 2, 0)).toBe('<p>ok</p>');
   expect(calls()).toBe(2);
 });
 
 test('the error is thrown once every attempt has failed', async () => {
   const calls = stub(new Error('reset'));
-  await expect(fetchHtml('https://example.test/')).rejects.toThrow('reset');
+  await expect(fetchHtml('https://example.test/', 2, 0)).rejects.toThrow('reset');
   expect(calls()).toBe(2);
 });
 
 test('an HTTP error status counts as a failed attempt', async () => {
   const calls = stub(new Response('slow down', { status: 429 }));
-  await expect(fetchHtml('https://example.test/')).rejects.toThrow('HTTP 429');
+  await expect(fetchHtml('https://example.test/', 2, 0)).rejects.toThrow('HTTP 429');
   expect(calls()).toBe(2);
+});
+
+test('the retry waits before the second request is sent', async () => {
+  const sentAt: number[] = [];
+  globalThis.fetch = (async () => {
+    sentAt.push(Date.now());
+    return sentAt.length === 1 ? new Response('slow down', { status: 429 }) : new Response('<p>ok</p>');
+  }) as unknown as typeof fetch;
+  expect(await fetchHtml('https://example.test/', 2, 100)).toBe('<p>ok</p>');
+  expect(sentAt[1] - sentAt[0]).toBeGreaterThanOrEqual(90);
 });
 
 test('a client error other than 408 or 429 is not retried', async () => {
@@ -43,7 +53,7 @@ test('a client error other than 408 or 429 is not retried', async () => {
 
 test('a server error is retried', async () => {
   const calls = stub(new Response('oops', { status: 503 }), new Response('<p>ok</p>'));
-  expect(await fetchHtml('https://example.test/')).toBe('<p>ok</p>');
+  expect(await fetchHtml('https://example.test/', 2, 0)).toBe('<p>ok</p>');
   expect(calls()).toBe(2);
 });
 
