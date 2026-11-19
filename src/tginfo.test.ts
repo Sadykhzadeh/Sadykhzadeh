@@ -109,3 +109,15 @@ test('a page that cannot be fetched returns nothing and is reported', async () =
     errors.mockRestore();
   }
 });
+
+test('the page is fetched from the given url and its newest posts are returned', async () => {
+  let requested = '';
+  globalThis.fetch = (async (url: string) => {
+    requested = url;
+    return new Response([1, 2, 3].map(id => message(id, `post ${id}`)).join(''));
+  }) as unknown as typeof fetch;
+  expect(await getLatestPosts('https://t.me/s/chan/', 1)).toEqual([
+    { title: 'post 3', url: 'https://t.me/chan/3' },
+  ]);
+  expect(requested).toBe('https://t.me/s/chan/');
+});

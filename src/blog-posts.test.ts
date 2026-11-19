@@ -105,3 +105,15 @@ test('a cover image linking to a post does not hide its title link', () => {
     + `<a href="/posts/old-posts/gcd"><div class="title">GCD</div><p>desc</p></a></div>`;
   expect(parseBlogPosts(page, 2)).toEqual([{ title: 'GCD', url: 'https://azer.one/posts/old-posts/gcd' }]);
 });
+
+test('the home page is fetched and its newest posts are returned', async () => {
+  let requested = '';
+  globalThis.fetch = (async (url: string) => {
+    requested = url;
+    return new Response(html);
+  }) as unknown as typeof fetch;
+  expect(await getLatestBlogPosts(1)).toEqual([
+    { title: 'Faker.js story', url: 'https://azer.one/posts/old-posts/faker-js' },
+  ]);
+  expect(requested).toBe('https://azer.one');
+});
