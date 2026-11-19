@@ -121,3 +121,17 @@ test('an unknown argument exits non-zero without touching the README', async () 
   expect(out).toBe('');
   expect(readFileSync(join(projectRoot, 'README.md'), 'utf8')).toBe(before);
 });
+
+test('a run without blog posts reads as "and check it out" in the blog sentence', async () => {
+  const root = project('my blog, <$blog_posts$> check it out', '');
+  expect(await main(root, { ...sources, blog: async () => [] })).toBe(0);
+  expect(readFileSync(join(root, 'README.md'), 'utf8')).toBe('my blog, and check it out');
+});
+
+test('a single telegram post is not enough for the post sentence, so the channel links are used', async () => {
+  const root = project('<$tginfo$>', '');
+  expect(await main(root, { ...sources, telegram: async () => [posts[0]] })).toBe(0);
+  expect(readFileSync(join(root, 'README.md'), 'utf8')).toBe(
+    'you can follow our Telegram channels: [@tginfoen](https://t.me/tginfoen) and [@tginfo](https://t.me/tginfo)',
+  );
+});
