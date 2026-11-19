@@ -59,3 +59,13 @@ test('a heading that is not a div is taken alone, without the description', () =
   const page = `<a href="/posts/old-posts/gcd"><h2>GCD</h2><p>Long description</p></a>`;
   expect(parseBlogPosts(page, 1)).toEqual([{ title: 'GCD', url: 'https://azer.one/posts/old-posts/gcd' }]);
 });
+
+test('a cover image before the heading does not pull the description into the title', () => {
+  const page = `<a href="/posts/old-posts/gcd"><img src="/cover.webp" alt=""><div class="title">GCD</div><p>Long description</p></a>`;
+  expect(parseBlogPosts(page, 1)).toEqual([{ title: 'GCD', url: 'https://azer.one/posts/old-posts/gcd' }]);
+});
+
+test('a post with no heading text gets the fallback title, not its description', () => {
+  const page = `<a href="/posts/old-posts/gcd"><div class="cover"></div><p>Long description</p></a>`;
+  expect(parseBlogPosts(page, 1)).toEqual([{ title: 'latest post', url: 'https://azer.one/posts/old-posts/gcd' }]);
+});
