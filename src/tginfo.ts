@@ -13,8 +13,10 @@ export const parseTelegramPosts = (html: string, count: number): Post[] => {
     // A reply also carries a text div for the quoted message, which is not the post's own text
     const text = $(message).find("div.tgme_widget_message_text").not(".tgme_widget_message_reply div").last();
     text.find("br").replaceWith("\n");
-    const firstLine = text.text().split("\n").find(line => line.trim() !== "") ?? "";
-    const title = clip(firstLine.replace(/\s+/g, " ").trim());
+    // Zero-width characters are invisible, so a line that holds only them does not count as text.
+    // The title keeps them, since joined emoji and Persian words depend on them
+    const lines = text.text().split("\n").map(line => line.replace(/\s+/g, " ").trim());
+    const title = clip(lines.find(line => line.replace(/[\u200b-\u200d\u2060\ufeff]/g, "") !== "") ?? "");
 
     return title ? [{
       title,

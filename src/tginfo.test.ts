@@ -66,3 +66,19 @@ test('very long titles are cut on a word boundary', () => {
 test('a page without messages yields no posts', () => {
   expect(parseTelegramPosts('<html><body>changed layout</body></html>', 2)).toEqual([]);
 });
+
+test('zero-width characters are not a title, and the next line with text is', () => {
+  expect(parseTelegramPosts(message(1, '​‌<br/>real title'), 1)).toEqual([
+    { title: 'real title', url: 'https://t.me/chan/1' },
+  ]);
+  expect(parseTelegramPosts(message(2, '⁠﻿'), 1)).toEqual([]);
+});
+
+test('joiners inside a title are kept, so emoji sequences and Persian words stay intact', () => {
+  expect(parseTelegramPosts(message(1, 'family 👨‍👩 day'), 1)).toEqual([
+    { title: 'family 👨‍👩 day', url: 'https://t.me/chan/1' },
+  ]);
+  expect(parseTelegramPosts(message(2, 'می‌خواهم'), 1)).toEqual([
+    { title: 'می‌خواهم', url: 'https://t.me/chan/2' },
+  ]);
+});
