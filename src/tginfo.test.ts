@@ -34,6 +34,14 @@ test('the quoted text of a reply does not become the title', () => {
   expect(post.title).toBe('actual post');
 });
 
+test('a reply without text of its own is skipped instead of titled with the quoted message', () => {
+  const reply = '<a class="tgme_widget_message_reply"><div class="tgme_widget_message_text js-message_reply_text">quoted</div></a>';
+  const sticker = `<div class="tgme_widget_message" data-post="chan/8"><div class="tgme_widget_message_bubble">${reply}</div></div>`;
+  expect(parseTelegramPosts(message(5, 'text post') + sticker, 2)).toEqual([
+    { title: 'text post', url: 'https://t.me/chan/5' },
+  ]);
+});
+
 test('a post without text is skipped in favour of the newest post with text', () => {
   const photo = `<div class="tgme_widget_message" data-post="chan/7"><div class="tgme_widget_message_bubble"></div></div>`;
   expect(parseTelegramPosts(message(5, 'text post') + photo, 2)).toEqual([

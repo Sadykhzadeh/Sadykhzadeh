@@ -10,8 +10,8 @@ export const parseTelegramPosts = (html: string, count: number): Post[] => {
   // The newest messages are last on the page; walk them newest first and keep the ones with text,
   // so a photo-only post is not linked under a generic title
   return $("div.tgme_widget_message").toArray().reverse().flatMap(message => {
-    // A reply also carries a text div (the quoted message), the post's own text comes after it
-    const text = $(message).find("div.tgme_widget_message_text").last();
+    // A reply also carries a text div for the quoted message, which is not the post's own text
+    const text = $(message).find("div.tgme_widget_message_text").not(".tgme_widget_message_reply div").last();
     text.find("br").replaceWith("\n");
     const firstLine = text.text().split("\n").find(line => line.trim() !== "") ?? "";
     const title = clip(firstLine.replace(/\s+/g, " ").trim());
