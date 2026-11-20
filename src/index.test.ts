@@ -30,6 +30,50 @@ test('a run that cannot read its template exits non-zero and leaves the README a
   expect(readFileSync(join(root, 'README.md'), 'utf8')).toBe('old readme');
 });
 
+test('a failed run reports its error as one line', async () => {
+  const root = project(null, 'old readme');
+  const error = spyOn(console, 'error').mockImplementation(() => {});
+  try {
+    expect(await main(root, sources)).toBe(1);
+    expect(error.mock.calls).toHaveLength(1);
+    expect(error.mock.calls[0]).toHaveLength(1);
+    expect(String(error.mock.calls[0][0])).toMatch(/^Error: ENOENT: .*assets[/\\]template\.md/);
+  } finally {
+    error.mockRestore();
+  }
+});
+
+test('a template problem reports one line whatever its cause', async () => {
+  const cases = [
+    { template: '  \n', message: 'Error: assets/template.md is empty' },
+    { template: '<$tgfo$>', message: 'Error: template placeholder <$tgfo$> has no value' },
+  ];
+  for (const { template, message } of cases) {
+    const root = project(template, 'old readme');
+    const error = spyOn(console, 'error').mockImplementation(() => {});
+    try {
+      expect(await main(root, sources)).toBe(1);
+      expect(error.mock.calls).toEqual([[message]]);
+    } finally {
+      error.mockRestore();
+    }
+  }
+});
+
+test('an unexpected error is logged with its stack', async () => {
+  const root = project('<$tginfo$>', 'old readme');
+  const failure = new TypeError('source broke');
+  const error = spyOn(console, 'error').mockImplementation(() => {});
+  try {
+    expect(await main(root, { ...sources, telegram: async () => { throw failure; } })).toBe(1);
+    expect(error.mock.calls).toHaveLength(1);
+    expect(error.mock.calls[0][0]).toBe('Error:');
+    expect(error.mock.calls[0][1]).toBe(failure);
+  } finally {
+    error.mockRestore();
+  }
+});
+
 test('a run fills the template and keeps the stats block from the previous README', async () => {
   const template = [
     'intro',

@@ -2,7 +2,7 @@ import { join } from 'node:path';
 import { nowUTC } from './nowUTC.js';
 import { getLatestPosts } from './tginfo.js';
 import { getLatestBlogPosts } from './blog-posts.js';
-import { mdLink, fill, keepSection } from './render.js';
+import { mdLink, fill, keepSection, TemplateError } from './render.js';
 
 type Post = { title: string; url: string };
 
@@ -59,7 +59,7 @@ export const main = async (root: string, sources: Sources = liveSources, dryRun 
     const templateFile = Bun.file(join(root, "assets", "template.md"));
     const templateText = await templateFile.text();
     // An empty template would publish an empty profile, so it stops the run like any other bad input
-    if (templateText.trim() === "") throw new Error("assets/template.md is empty");
+    if (templateText.trim() === "") throw new TemplateError("assets/template.md is empty");
     const template = keepSection(templateText, await Bun.file(join(root, "README.md")).text(), "waka");
 
     // Replace placeholders
@@ -78,7 +78,12 @@ export const main = async (root: string, sources: Sources = liveSources, dryRun 
     }
     return 0;
   } catch (error) {
-    console.error("Error:", error);
+    // A missing file or a template problem is expected input, so it gets one line; anything else keeps its stack
+    if (error instanceof Error && (error instanceof TemplateError || ("code" in error && error.code === "ENOENT"))) {
+      console.error(`Error: ${error.message}`);
+    } else {
+      console.error("Error:", error);
+    }
     // a silent exit 0 would let the workflow report success over a stale README
     return 1;
   }

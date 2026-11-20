@@ -18,11 +18,14 @@ export const clip = (title: string, max = 120) => {
   return `${space > 0 ? cut.slice(0, space) : cut}…`;
 };
 
+// A problem with the template itself, reported on one line instead of with a stack
+export class TemplateError extends Error {}
+
 // Function replacers: a plain string would expand $&, $' and friends found in titles.
 // A placeholder with no value is a template typo, so it fails the run instead of reaching the README.
 export const fill = (template: string, values: Record<string, string>) =>
   template.replace(/<\$([^<>$\s]+)\$>/g, (match, key: string) => {
-    if (!Object.prototype.hasOwnProperty.call(values, key)) throw new Error(`template placeholder ${match} has no value`);
+    if (!Object.prototype.hasOwnProperty.call(values, key)) throw new TemplateError(`template placeholder ${match} has no value`);
     return values[key];
   });
 
