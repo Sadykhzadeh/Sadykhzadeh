@@ -55,6 +55,13 @@ test('a post without text is skipped in favour of the newest post with text', ()
   expect(parseTelegramPosts(photo, 2)).toEqual([]);
 });
 
+test('a message without a post id is skipped, since its link would point nowhere', () => {
+  const noId = '<div class="tgme_widget_message"><div class="tgme_widget_message_text">no id here</div></div>';
+  expect(parseTelegramPosts(message(5, 'text post') + noId, 2)).toEqual([
+    { title: 'text post', url: 'https://t.me/chan/5' },
+  ]);
+});
+
 test('count limits the posts and zero returns none', () => {
   const html = [1, 2].map(id => message(id, `post ${id}`)).join('');
   expect(parseTelegramPosts(html, 0)).toEqual([]);

@@ -17,10 +17,11 @@ export const parseTelegramPosts = (html: string, count: number): Post[] => {
     // The title keeps them, since joined emoji and Persian words depend on them
     const lines = text.text().split("\n").map(line => line.replace(/\s+/g, " ").trim());
     const title = clip(lines.find(hasText) ?? "");
+    const post = $(message).attr("data-post");
 
-    return title ? [{
+    return title && post ? [{
       title,
-      url: `https://t.me/${$(message).attr("data-post")}`
+      url: `https://t.me/${post}`
     }] : [];
   }).slice(0, count);
 }
