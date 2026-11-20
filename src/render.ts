@@ -5,8 +5,9 @@ const destination = (url: string) =>
 // Escape everything markdown or inline HTML could act on, so a title is always shown literally
 export const mdLink = (title: string, url: string) => `[${title.replace(/[\\[\]*_`|<>&~]/g, "\\$&")}](${destination(url)})`;
 
-// Zero-width characters are invisible, so a line or heading that holds only them has no text
-export const hasText = (text: string) => text.replace(/[\u200b-\u200d\u2060\ufeff]/g, "").trim() !== "";
+// Invisible characters (zero-width, direction marks, soft hyphen, variation selector, and the braille and Hangul
+// blanks that some channels post as spacers) are not text, so a line or heading that holds only them is skipped
+export const hasText = (text: string) => text.replace(/[\u00ad\u115f\u1160\u200b-\u200f\u2060\u2800\u3164\ufe0f\ufeff\uffa0]/g, "").trim() !== "";
 
 // Keep one-line titles readable: cut long ones on a word boundary
 export const clip = (title: string, max = 120) => {

@@ -73,3 +73,11 @@ test('hasText is false for a string of only zero-width characters', () => {
   expect(hasText('​‌ ﻿')).toBe(false);
   expect(hasText('​ x')).toBe(true);
 });
+
+test('hasText is false for blank spacers that render as nothing', () => {
+  expect(hasText('⠀')).toBe(false);
+  expect(hasText('ㅤ ﾠ')).toBe(false);
+  expect(hasText('‎‏')).toBe(false);
+  expect(hasText('­️')).toBe(false);
+  expect(hasText('⠀ x')).toBe(true);
+});

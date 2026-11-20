@@ -111,6 +111,11 @@ test('a heading that holds only zero-width characters is not the title', () => {
   expect(parseBlogPosts(empty, 1)).toEqual([{ title: 'latest post', url: 'https://azer.one/posts/old-posts/gcd' }]);
 });
 
+test('a heading that holds only a braille blank is not the title', () => {
+  const spacer = `<a href="/posts/old-posts/gcd"><div>⠀</div><div class="title">GCD</div><p>desc</p></a>`;
+  expect(parseBlogPosts(spacer, 1)).toEqual([{ title: 'GCD', url: 'https://azer.one/posts/old-posts/gcd' }]);
+});
+
 test('a cover image linking to a post does not hide its title link', () => {
   const page = `<div class="card"><a href="/posts/old-posts/gcd/"><img src="/gcd.webp" alt=""></a>`
     + `<a href="/posts/old-posts/gcd"><div class="title">GCD</div><p>desc</p></a></div>`;
