@@ -64,6 +64,11 @@ test('a long title is cut between emoji, not inside a flag or a joined sequence'
   expect(clip('a'.repeat(117) + '👨‍👩‍👧 tail tail')).toBe('a'.repeat(117) + '👨‍👩‍👧…');
 });
 
+test('a long title is cut at a space only when that keeps most of it', () => {
+  expect(clip('Read ' + 'x'.repeat(200))).toBe('Read ' + 'x'.repeat(114) + '…');
+  expect(clip('y'.repeat(70) + ' ' + 'z'.repeat(100))).toBe('y'.repeat(70) + '…');
+});
+
 test('a title of exactly the limit is kept whole', () => {
   expect(clip('b'.repeat(120))).toBe('b'.repeat(120));
   expect(clip('b'.repeat(121))).toBe('b'.repeat(119) + '…');

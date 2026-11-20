@@ -9,13 +9,14 @@ export const mdLink = (title: string, url: string) => `[${title.replace(/[\\[\]*
 // blanks that some channels post as spacers) are not text, so a line or heading that holds only them is skipped
 export const hasText = (text: string) => text.replace(/[\u00ad\u115f\u1160\u200b-\u200f\u2060\u2800\u3164\ufe0f\ufeff\uffa0]/g, "").trim() !== "";
 
-// Keep one-line titles readable: cut long ones on a word boundary
+// Keep one-line titles readable: cut long ones on a word boundary, unless the last space is in the first half,
+// which would leave a stub such as "Read…" in front of a long link
 export const clip = (title: string, max = 120) => {
   const chars = Array.from(new Intl.Segmenter().segment(title), ({ segment }) => segment);
   if (chars.length <= max) return title;
   const cut = chars.slice(0, max - 1).join("");
   const space = cut.lastIndexOf(" ");
-  return `${space > 0 ? cut.slice(0, space) : cut}…`;
+  return `${space > max / 2 ? cut.slice(0, space) : cut}…`;
 };
 
 // A problem with the template itself, reported on one line instead of with a stack
