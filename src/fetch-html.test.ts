@@ -89,3 +89,16 @@ test('an oversized body is not fetched again', async () => {
   await expect(fetchHtml('https://example.test/', 2, 0)).rejects.toThrow('larger than');
   expect(calls).toBe(1);
 });
+
+test('a Cyrillic title split across two chunks of the body is decoded whole', async () => {
+  const bytes = new TextEncoder().encode('<p>Привет</p>');
+  const body = new ReadableStream({
+    start(controller) {
+      controller.enqueue(bytes.slice(0, 4));
+      controller.enqueue(bytes.slice(4));
+      controller.close();
+    },
+  });
+  stub(new Response(body));
+  expect(await fetchHtml('https://example.test/', 1, 0)).toBe('<p>Привет</p>');
+});
