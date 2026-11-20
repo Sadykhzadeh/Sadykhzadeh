@@ -131,6 +131,27 @@ test('a dry run prints the new README to stdout and leaves the file alone', asyn
   expect(readFileSync(join(root, 'README.md'), 'utf8')).toBe('old readme');
 });
 
+test('a dry run sends the progress line to stderr and only the README to stdout', async () => {
+  const root = project('blog <$blog_posts$>', 'old readme');
+  const printed: string[] = [];
+  const logged: string[] = [];
+  const write = spyOn(process.stdout, 'write').mockImplementation((chunk: string | Uint8Array) => {
+    printed.push(String(chunk));
+    return true;
+  });
+  const error = spyOn(console, 'error').mockImplementation((...args: unknown[]) => {
+    logged.push(args.map(String).join(' '));
+  });
+  try {
+    expect(await main(root, sources, true)).toBe(0);
+  } finally {
+    write.mockRestore();
+    error.mockRestore();
+  }
+  expect(printed.join('')).toBe('blog like [Faker.js story](https://azer.one/posts/faker-js)');
+  expect(logged).toEqual(['Fetching latest posts...']);
+});
+
 test('titles with table, html and link syntax stay literal in the README', async () => {
   const template = '<$tginfo$>\n<$blog_posts$>';
   const root = project(template, '');
