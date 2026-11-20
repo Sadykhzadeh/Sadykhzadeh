@@ -75,6 +75,17 @@ test('a post with no heading text gets the fallback title, not its description',
   expect(parseBlogPosts(page, 1)).toEqual([{ title: 'latest post', url: 'https://azer.one/posts/old-posts/gcd' }]);
 });
 
+test('a home page that cannot be fetched returns nothing and is reported in one line', async () => {
+  globalThis.fetch = (async () => new Response('gone', { status: 404 })) as unknown as typeof fetch;
+  const errors = spyOn(console, 'error').mockImplementation(() => {});
+  try {
+    expect(await getLatestBlogPosts(2)).toEqual([]);
+    expect(errors).toHaveBeenCalledWith('Error fetching blog posts: HTTP 404');
+  } finally {
+    errors.mockRestore();
+  }
+});
+
 test('a home page with no post links returns nothing and is reported', async () => {
   globalThis.fetch = (async () => new Response('<html>changed layout</html>')) as unknown as typeof fetch;
   const errors = spyOn(console, 'error').mockImplementation(() => {});

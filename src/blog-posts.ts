@@ -43,7 +43,7 @@ export const getLatestBlogPosts = async (count: number = 2): Promise<Post[]> => 
     if (posts.length === 0) console.error("No posts found at https://azer.one");
     return posts;
   } catch (error) {
-    console.error('Error fetching blog posts:', error);
+    console.error(`Error fetching blog posts: ${error instanceof Error ? error.message : error}`);
     return [];
   }
 }

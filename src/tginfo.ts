@@ -33,7 +33,7 @@ export const getLatestPosts = async (url: string, count: number = 2): Promise<Po
     if (posts.length === 0) console.error(`No posts found at ${url}`);
     return posts;
   } catch (error) {
-    console.error(`Error fetching from ${url}:`, error);
+    console.error(`Error fetching from ${url}: ${error instanceof Error ? error.message : error}`);
     return [];
   }
 }

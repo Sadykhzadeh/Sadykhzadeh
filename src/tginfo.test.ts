@@ -111,7 +111,7 @@ test('a page that cannot be fetched returns nothing and is reported', async () =
   const errors = spyOn(console, 'error').mockImplementation(() => {});
   try {
     expect(await getLatestPosts('https://t.me/s/chan/', 2)).toEqual([]);
-    expect(errors).toHaveBeenCalled();
+    expect(errors).toHaveBeenCalledWith('Error fetching from https://t.me/s/chan/: HTTP 404');
   } finally {
     errors.mockRestore();
   }
