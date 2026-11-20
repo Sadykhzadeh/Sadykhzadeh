@@ -57,7 +57,10 @@ export const main = async (root: string, sources: Sources = liveSources, dryRun 
 
     // Read template using Bun.file
     const templateFile = Bun.file(join(root, "assets", "template.md"));
-    const template = keepSection(await templateFile.text(), await Bun.file(join(root, "README.md")).text(), "waka");
+    const templateText = await templateFile.text();
+    // An empty template would publish an empty profile, so it stops the run like any other bad input
+    if (templateText.trim() === "") throw new Error("assets/template.md is empty");
+    const template = keepSection(templateText, await Bun.file(join(root, "README.md")).text(), "waka");
 
     // Replace placeholders
     const result = fill(template, {

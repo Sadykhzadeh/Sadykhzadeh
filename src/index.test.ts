@@ -58,6 +58,12 @@ test('a run without telegram posts falls back to the channel links', async () =>
   );
 });
 
+test('an empty template fails the run and keeps the old README', async () => {
+  const root = project('  \n', 'old readme');
+  expect(await main(root, sources)).toBe(1);
+  expect(readFileSync(join(root, 'README.md'), 'utf8')).toBe('old readme');
+});
+
 test('a template placeholder without data fails the run and keeps the old README', async () => {
   const root = project('<$tgfo$>', 'old readme');
   expect(await main(root, sources)).toBe(1);
