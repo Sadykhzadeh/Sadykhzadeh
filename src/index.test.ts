@@ -152,6 +152,15 @@ test('a dry run sends the progress line to stderr and only the README to stdout'
   expect(logged).toEqual(['Fetching latest posts...']);
 });
 
+test('a Russian channel with a single post falls back to the channel links even when the English one has two', async () => {
+  const root = project('<$tginfo$>', '');
+  const telegram = async (url: string) => (url.includes('tginfoen') ? posts : [posts[0]]);
+  expect(await main(root, { ...sources, telegram })).toBe(0);
+  expect(readFileSync(join(root, 'README.md'), 'utf8')).toBe(
+    'you can follow our Telegram channels: [@tginfoen](https://t.me/tginfoen) and [@tginfo](https://t.me/tginfo)',
+  );
+});
+
 test('titles with table, html and link syntax stay literal in the README', async () => {
   const template = '<$tginfo$>\n<$blog_posts$>';
   const root = project(template, '');
