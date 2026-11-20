@@ -85,7 +85,9 @@ if (import.meta.main) {
   // A misspelled flag must not fall through to a run that rewrites the README
   const args = process.argv.slice(2);
   const unknown = args.find(arg => arg !== "--dry-run");
-  if (unknown) {
+  if (args.includes("--help") || args.includes("-h")) {
+    console.log("Usage: bun src/index.ts [--dry-run]\n\n  --dry-run  print the README to stdout and leave the file alone");
+  } else if (unknown) {
     console.error(`Unknown argument ${unknown}, the only option is --dry-run`);
     process.exitCode = 2;
   } else {

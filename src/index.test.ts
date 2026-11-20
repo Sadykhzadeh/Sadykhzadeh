@@ -122,6 +122,19 @@ test('an unknown argument exits non-zero without touching the README', async () 
   expect(readFileSync(join(projectRoot, 'README.md'), 'utf8')).toBe(before);
 });
 
+test('--help prints the usage and exits 0 without touching the README', async () => {
+  const before = readFileSync(join(projectRoot, 'README.md'), 'utf8');
+  const proc = Bun.spawn([process.execPath, join(projectRoot, 'src', 'index.ts'), '--help'], {
+    cwd: mkdtempSync(join(tmpdir(), 'readme-help-')),
+    stdout: 'pipe',
+    stderr: 'pipe',
+  });
+  const [out, code] = await Promise.all([new Response(proc.stdout).text(), proc.exited]);
+  expect(code).toBe(0);
+  expect(out).toContain('Usage: bun src/index.ts [--dry-run]');
+  expect(readFileSync(join(projectRoot, 'README.md'), 'utf8')).toBe(before);
+});
+
 test('a run without blog posts reads as "and check it out" in the blog sentence', async () => {
   const root = project('my blog, <$blog_posts$> check it out', '');
   expect(await main(root, { ...sources, blog: async () => [] })).toBe(0);
