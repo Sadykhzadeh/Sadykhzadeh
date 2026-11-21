@@ -35,7 +35,7 @@ occasionally writing something on my [blog](https://azer.one/posts), like [😨 
 
 Oh, and I am also part of awesome community [@tginfo](https://t.me/tginfo) / [@tginfoen](https://t.me/tginfoen) where we write about [Telegram Tightens Control over Payments in Bots and Mini Apps](https://t.me/tginfoen/2214) or [HTML Widgets May Be Used in Attacks](https://t.me/tginfoen/2213). (in Russian too! [В Telegram для macOS появились скрытые чаты](https://t.me/tginfo/4459) and [Telegram готовит проверку SIM-карт для пользователей из Индии](https://t.me/tginfo/4458))
 
-<sub>this readme auto-updates every 6 hours · last: 2026-11-21 10:19:51 (UTC time)</sub>
+<sub>this readme auto-updates every 6 hours · last: 2026-11-21 13:58:55 (UTC time)</sub>
 
 [![profile views](https://komarev.com/ghpvc/?username=sadykhzadeh&label=views&color=2081c1&style=flat-square)](https://github.com/Sadykhzadeh) 
 
