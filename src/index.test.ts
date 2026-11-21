@@ -202,6 +202,21 @@ test('an unknown argument exits non-zero without touching the README', async () 
   expect(readFileSync(join(projectRoot, 'README.md'), 'utf8')).toBe(before);
 });
 
+test('an empty argument is an unknown argument and does not start a run', async () => {
+  const before = readFileSync(join(projectRoot, 'README.md'), 'utf8');
+  const proc = Bun.spawn([process.execPath, join(projectRoot, 'src', 'index.ts'), ''], {
+    cwd: mkdtempSync(join(tmpdir(), 'readme-empty-arg-')),
+    env: { ...process.env, HTTP_PROXY: 'http://127.0.0.1:9', HTTPS_PROXY: 'http://127.0.0.1:9' },
+    stdout: 'pipe',
+    stderr: 'pipe',
+  });
+  const [out, err, code] = await Promise.all([new Response(proc.stdout).text(), new Response(proc.stderr).text(), proc.exited]);
+  expect(code).toBe(2);
+  expect(out).toBe('');
+  expect(err).toContain('Unknown argument "", the only option is --dry-run');
+  expect(readFileSync(join(projectRoot, 'README.md'), 'utf8')).toBe(before);
+});
+
 test('--help prints the usage and exits 0 without touching the README', async () => {
   const before = readFileSync(join(projectRoot, 'README.md'), 'utf8');
   const proc = Bun.spawn([process.execPath, join(projectRoot, 'src', 'index.ts'), '--help'], {
