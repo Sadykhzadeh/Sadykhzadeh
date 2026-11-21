@@ -78,8 +78,8 @@ export const main = async (root: string, sources: Sources = liveSources, dryRun 
     }
     return 0;
   } catch (error) {
-    // A missing file or a template problem is expected input, so it gets one line; anything else keeps its stack
-    if (error instanceof Error && (error instanceof TemplateError || ("code" in error && error.code === "ENOENT"))) {
+    // A missing or unwritable file and a template problem are expected input, so they get one line; anything else keeps its stack
+    if (error instanceof Error && (error instanceof TemplateError || "syscall" in error)) {
       console.error(`Error: ${error.message}`);
     } else {
       console.error("Error:", error);

@@ -1,5 +1,5 @@
 import { expect, spyOn, test } from 'bun:test';
-import { mkdtempSync, mkdirSync, readFileSync, writeFileSync } from 'node:fs';
+import { chmodSync, mkdtempSync, mkdirSync, readFileSync, writeFileSync } from 'node:fs';
 import { tmpdir } from 'node:os';
 import { join } from 'node:path';
 import { main, projectRoot } from './index';
@@ -41,6 +41,21 @@ test('a failed run reports its error as one line', async () => {
   } finally {
     error.mockRestore();
   }
+});
+
+test.skipIf(process.getuid?.() === 0)('a README that cannot be written reports one line and fails the run', async () => {
+  const root = project('blog <$blog_posts$>', 'old readme');
+  chmodSync(join(root, 'README.md'), 0o444);
+  const error = spyOn(console, 'error').mockImplementation(() => {});
+  try {
+    expect(await main(root, sources)).toBe(1);
+    expect(error.mock.calls).toHaveLength(1);
+    expect(error.mock.calls[0]).toHaveLength(1);
+    expect(String(error.mock.calls[0][0])).toMatch(/^Error: EACCES: .*README\.md/);
+  } finally {
+    error.mockRestore();
+  }
+  expect(readFileSync(join(root, 'README.md'), 'utf8')).toBe('old readme');
 });
 
 test('a template problem reports one line whatever its cause', async () => {
