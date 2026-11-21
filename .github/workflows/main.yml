@@ -29,7 +29,8 @@ jobs:
       - name: Setup Bun
         uses: oven-sh/setup-bun@0c5077e51419868618aeaa5fe8019c62421857d6 # v2.2.0
         with:
-          bun-version: latest
+          # The job pushes with contents: write, so the runtime it runs must not move between runs
+          bun-version: 1.4.4
 
       - name: Install dependencies
         run: bun install --frozen-lockfile
