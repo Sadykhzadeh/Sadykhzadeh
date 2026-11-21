@@ -10,11 +10,18 @@ export const mdLink = (title: string, url: string) => `[${title.replace(/[\\[\]*
 export const hasText = (text: string) => text.replace(/[\u00ad\u115f\u1160\u200b-\u200f\u2060\u2800\u3164\ufe0f\ufeff\uffa0]/g, "").trim() !== "";
 
 // Keep one-line titles readable: cut long ones on a word boundary, unless the last space is in the first half,
-// which would leave a stub such as "Read…" in front of a long link
+// which would leave a stub such as "Read…" in front of a long link.
+// Graphemes are only read up to the limit, so a title of several megabytes is not held as one array
 export const clip = (title: string, max = 120) => {
-  const chars = Array.from(new Intl.Segmenter().segment(title), ({ segment }) => segment);
-  if (chars.length <= max) return title;
-  const cut = chars.slice(0, max - 1).join("");
+  const segments: string[] = [];
+  let count = 0;
+  for (const { segment } of new Intl.Segmenter().segment(title)) {
+    if (count < max) segments.push(segment);
+    count++;
+    if (count > max) break;
+  }
+  if (count <= max) return title;
+  const cut = segments.slice(0, max - 1).join("");
   const space = cut.lastIndexOf(" ");
   return `${space > max / 2 ? cut.slice(0, space) : cut}…`;
 };

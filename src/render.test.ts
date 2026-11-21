@@ -74,6 +74,11 @@ test('a title of exactly the limit is kept whole', () => {
   expect(clip('b'.repeat(121))).toBe('b'.repeat(119) + '…');
 });
 
+test('a title far over the limit is cut once to the limit, not scanned in full', () => {
+  expect(clip('x'.repeat(200_000))).toBe('x'.repeat(119) + '…');
+  expect(clip('word '.repeat(50_000)).length).toBeLessThanOrEqual(120);
+});
+
 test('hasText is false for a string of only zero-width characters', () => {
   expect(hasText('​‌ ﻿')).toBe(false);
   expect(hasText('​ x')).toBe(true);
