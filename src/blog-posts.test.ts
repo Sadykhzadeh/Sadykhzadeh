@@ -133,3 +133,14 @@ test('the home page is fetched and its newest posts are returned', async () => {
   ]);
   expect(requested).toBe('https://azer.one');
 });
+
+test('an encoded link and one with the characters spelled out are the same post', () => {
+  const page = `<a href="/posts/%D0%A2%D0%B5%D1%81%D1%82"><div>Тест</div></a>
+<a href="/posts/Тест"><div>Тест</div></a>
+<a href="/posts/a b"><div>a b</div></a>
+<a href="/posts/a%20b"><div>a b</div></a>`;
+  expect(parseBlogPosts(page, 5)).toEqual([
+    { title: 'Тест', url: 'https://azer.one/posts/%D0%A2%D0%B5%D1%81%D1%82' },
+    { title: 'a b', url: 'https://azer.one/posts/a%20b' },
+  ]);
+});
