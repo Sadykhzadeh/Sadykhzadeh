@@ -112,6 +112,14 @@ test('hasText is false for blank spacers that render as nothing', () => {
   expect(hasText('⠀ x')).toBe(true);
 });
 
+test('hasText is false for bidi controls and invisible operators on their own', () => {
+  expect(hasText('\u202a\u202c')).toBe(false);
+  expect(hasText('\u2066\u2069')).toBe(false);
+  expect(hasText('\u2061\u2062\u2063\u2064')).toBe(false);
+  expect(hasText('\u202e x')).toBe(true);
+  expect(hasText('\u2062 x')).toBe(true);
+});
+
 test('hasText is false for Hangul fillers on their own', () => {
   expect(hasText('ᅟ')).toBe(false);
   expect(hasText('ᅠᅠ')).toBe(false);

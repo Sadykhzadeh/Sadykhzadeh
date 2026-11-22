@@ -5,9 +5,10 @@ const destination = (url: string) =>
 // Escape everything markdown or inline HTML could act on, so a title is always shown literally
 export const mdLink = (title: string, url: string) => `[${title.replace(/[\\[\]*_`|<>&~]/g, "\\$&")}](${destination(url)})`;
 
-// Invisible characters (zero-width, direction marks, soft hyphen, variation selector, and the braille and Hangul
-// blanks that some channels post as spacers) are not text, so a line or heading that holds only them is skipped
-export const hasText = (text: string) => text.replace(/[\u00ad\u115f\u1160\u200b-\u200f\u2060\u2800\u3164\ufe0f\ufeff\uffa0]/g, "").trim() !== "";
+// Invisible characters (zero-width, direction marks and embeddings, invisible operators, soft hyphen, variation
+// selector, and the braille and Hangul blanks that some channels post as spacers) are not text, so a line or
+// heading that holds only them is skipped
+export const hasText = (text: string) => text.replace(/[\u00ad\u115f\u1160\u200b-\u200f\u202a-\u202e\u2060-\u2064\u2066-\u2069\u2800\u3164\ufe0f\ufeff\uffa0]/g, "").trim() !== "";
 
 // Keep one-line titles readable: cut long ones on a word boundary, unless the last space is in the first half,
 // which would leave a stub such as "Read…" in front of a long link.

@@ -91,6 +91,13 @@ test('zero-width characters are not a title, and the next line with text is', ()
   expect(parseTelegramPosts(message(2, '⁠﻿'), 1)).toEqual([]);
 });
 
+test('bidi controls and invisible operators are not a title, and the next line with text is', () => {
+  expect(parseTelegramPosts(message(1, '\u202a\u2066<br/>real title'), 1)).toEqual([
+    { title: 'real title', url: 'https://t.me/chan/1' },
+  ]);
+  expect(parseTelegramPosts(message(2, '\u202c\u2069\u2062\u2064'), 1)).toEqual([]);
+});
+
 test('a braille or Hangul blank line is not a title either', () => {
   expect(parseTelegramPosts(message(1, '⠀<br/>real title'), 1)).toEqual([
     { title: 'real title', url: 'https://t.me/chan/1' },
