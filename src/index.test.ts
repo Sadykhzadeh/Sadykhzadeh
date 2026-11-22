@@ -268,6 +268,18 @@ test('-h prints the usage and exits 0 without touching the README', async () => 
   expect(readFileSync(join(projectRoot, 'README.md'), 'utf8')).toBe(before);
 });
 
+test('a dry run whose reader closes the pipe early ends without an error', async () => {
+  const proc = Bun.spawn(['bash', '-c', `set -o pipefail; "$0" "$1" --dry-run | head -n0`, process.execPath, join(projectRoot, 'src', 'index.ts')], {
+    cwd: mkdtempSync(join(tmpdir(), 'readme-pipe-')),
+    env: { ...process.env, HTTP_PROXY: 'http://127.0.0.1:9', HTTPS_PROXY: 'http://127.0.0.1:9' },
+    stdout: 'pipe',
+    stderr: 'pipe',
+  });
+  const [err, code] = await Promise.all([new Response(proc.stderr).text(), proc.exited]);
+  expect(err).not.toContain('EPIPE');
+  expect(code).toBe(0);
+});
+
 test('a run without blog posts reads as "and check it out" in the blog sentence', async () => {
   const root = project('my blog, <$blog_posts$> check it out', '');
   expect(await main(root, { ...sources, blog: async () => [] })).toBe(0);

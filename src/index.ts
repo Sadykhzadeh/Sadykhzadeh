@@ -90,6 +90,10 @@ export const main = async (root: string, sources: Sources = liveSources, dryRun 
 };
 
 if (import.meta.main) {
+  // A reader such as head that closes the pipe early does not need the output, so the run finishes without an error
+  process.stdout.on("error", (error: NodeJS.ErrnoException) => {
+    if (error.code !== "EPIPE") throw error;
+  });
   // A misspelled flag must not fall through to a run that rewrites the README, and an empty argument is one too
   const args = process.argv.slice(2);
   const unknown = args.find(arg => arg !== "--dry-run");
