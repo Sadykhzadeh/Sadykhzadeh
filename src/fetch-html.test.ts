@@ -1,4 +1,4 @@
-import { afterEach, expect, test } from 'bun:test';
+import { afterEach, expect, spyOn, test } from 'bun:test';
 import { fetchHtml } from './fetch-html';
 
 const realFetch = globalThis.fetch;
@@ -45,6 +45,37 @@ test('the retry waits before the second request is sent', async () => {
   expect(sentAt[1] - sentAt[0]).toBeGreaterThanOrEqual(90);
 });
 
+test('without arguments a page request is retried once after a second', async () => {
+  const pauses: number[] = [];
+  const sleep = spyOn(Bun, 'sleep').mockImplementation(ms => {
+    pauses.push(Number(ms));
+    return Promise.resolve();
+  });
+  try {
+    const calls = stub(new Error('reset'), new Response('<p>ok</p>'));
+    expect(await fetchHtml('https://example.test/')).toBe('<p>ok</p>');
+    expect(calls()).toBe(2);
+    expect(pauses).toEqual([1000]);
+
+    const failing = stub(new Error('reset'));
+    await expect(fetchHtml('https://example.test/')).rejects.toThrow('reset');
+    expect(failing()).toBe(2);
+  } finally {
+    sleep.mockRestore();
+  }
+});
+
+test('a page request gets a 10 second deadline', async () => {
+  const timeout = spyOn(AbortSignal, 'timeout');
+  try {
+    stub(new Response('<p>ok</p>'));
+    await fetchHtml('https://example.test/');
+    expect(timeout).toHaveBeenCalledWith(10_000);
+  } finally {
+    timeout.mockRestore();
+  }
+});
+
 test('a client error other than 408 or 429 is not retried', async () => {
   const calls = stub(new Response('gone', { status: 404 }));
   await expect(fetchHtml('https://example.test/')).rejects.toThrow('HTTP 404');
@@ -53,6 +84,18 @@ test('a client error other than 408 or 429 is not retried', async () => {
 
 test('a server error is retried', async () => {
   const calls = stub(new Response('oops', { status: 503 }), new Response('<p>ok</p>'));
+  expect(await fetchHtml('https://example.test/', 2, 0)).toBe('<p>ok</p>');
+  expect(calls()).toBe(2);
+});
+
+test('a 500 response is retried like the other server errors', async () => {
+  const calls = stub(new Response('oops', { status: 500 }), new Response('<p>ok</p>'));
+  expect(await fetchHtml('https://example.test/', 2, 0)).toBe('<p>ok</p>');
+  expect(calls()).toBe(2);
+});
+
+test('a 408 response is retried, since the server asks for the request again', async () => {
+  const calls = stub(new Response('timeout', { status: 408 }), new Response('<p>ok</p>'));
   expect(await fetchHtml('https://example.test/', 2, 0)).toBe('<p>ok</p>');
   expect(calls()).toBe(2);
 });
@@ -78,6 +121,11 @@ test('a body over the size limit is refused and the rest of it is not read', asy
   stub(new Response(body));
   await expect(fetchHtml('https://example.test/', 1, 0)).rejects.toThrow('larger than');
   expect(pulled).toBeLessThan(10);
+});
+
+test('a body of exactly the size limit is read in full', async () => {
+  stub(new Response(new Uint8Array(5 * 1024 * 1024)));
+  expect((await fetchHtml('https://example.test/', 1, 0)).length).toBe(5 * 1024 * 1024);
 });
 
 test('an oversized body is not fetched again', async () => {
