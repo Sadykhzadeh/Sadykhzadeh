@@ -151,3 +151,11 @@ test('an encoded link and one with the characters spelled out are the same post'
     { title: 'a b', url: 'https://azer.one/posts/a%20b' },
   ]);
 });
+
+test('escapes that differ only in the case of their hex digits are the same post', () => {
+  const page = `<a href="/posts/%d0%a2%d0%b5"><div>one</div></a>
+<a href="/posts/%D0%A2%D0%B5"><div>two</div></a>`;
+  expect(parseBlogPosts(page, 5)).toEqual([
+    { title: 'one', url: 'https://azer.one/posts/%D0%A2%D0%B5' },
+  ]);
+});
