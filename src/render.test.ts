@@ -16,9 +16,19 @@ test('keepSection carries the previous section body into the template', () => {
   expect(keepSection(section('\n'), section('\nstats $&\n'), 'waka')).toBe(section('\nstats $&\n'));
 });
 
+test('keepSection carries a section that starts the previous README', () => {
+  expect(keepSection(section('\n'), '<!--START_SECTION:waka-->stats<!--END_SECTION:waka-->', 'waka')).toBe(section('stats'));
+});
+
 test('keepSection leaves the template alone without a previous section', () => {
   expect(keepSection(section('\n'), 'no markers here', 'waka')).toBe(section('\n'));
   expect(keepSection('no markers', section('x'), 'waka')).toBe('no markers');
+});
+
+test('keepSection leaves the template alone when the previous section has only one marker', () => {
+  expect(keepSection(section('\n'), 'x<!--START_SECTION:waka-->stats', 'waka')).toBe(section('\n'));
+  expect(keepSection(section('\n'), 'x<!--END_SECTION:waka-->stats', 'waka')).toBe(section('\n'));
+  expect(keepSection(section('\n'), 'x'.repeat(30) + '<!--END_SECTION:waka-->stats', 'waka')).toBe(section('\n'));
 });
 
 test('tildes in a title do not turn the link text into strikethrough', () => {
@@ -35,6 +45,7 @@ test('a url with parentheses, spaces or angle brackets stays one link destinatio
   expect(mdLink('Parens', 'https://azer.one/posts/a(b)c')).toBe('[Parens](https://azer.one/posts/a%28b%29c)');
   expect(mdLink('Spaces', 'https://x/a b<c>')).toBe('[Spaces](https://x/a%20b%3Cc%3E)');
   expect(mdLink('Control', 'https://x/a\tb\n')).toBe('[Control](https://x/a%09b%0A)');
+  expect(mdLink('Edges', 'https://x/a\x1fb\x7fc')).toBe('[Edges](https://x/a%1Fb%7Fc)');
 });
 
 test('an already encoded url is not encoded twice', () => {
@@ -55,6 +66,10 @@ test('a placeholder name with a hyphen is still checked against the values', () 
   expect(() => fill('a <$blog-posts$> b', { blog_posts: 'x' })).toThrow('<$blog-posts$>');
 });
 
+test('angle brackets around text with a space are not a placeholder', () => {
+  expect(fill('a <$blog posts$> b', {})).toBe('a <$blog posts$> b');
+});
+
 test('a backslash in a url cannot escape the closing parenthesis of the link', () => {
   expect(mdLink('Trailing', 'https://azer.one/posts/a\\')).toBe('[Trailing](https://azer.one/posts/a%5C)');
 });
@@ -67,6 +82,11 @@ test('a long title is cut between emoji, not inside a flag or a joined sequence'
 test('a long title is cut at a space only when that keeps most of it', () => {
   expect(clip('Read ' + 'x'.repeat(200))).toBe('Read ' + 'x'.repeat(114) + '…');
   expect(clip('y'.repeat(70) + ' ' + 'z'.repeat(100))).toBe('y'.repeat(70) + '…');
+});
+
+test('a space at or before the halfway point does not end a long title', () => {
+  expect(clip('y'.repeat(50) + ' ' + 'z'.repeat(100))).toBe('y'.repeat(50) + ' ' + 'z'.repeat(68) + '…');
+  expect(clip('y'.repeat(60) + ' ' + 'z'.repeat(100))).toBe('y'.repeat(60) + ' ' + 'z'.repeat(58) + '…');
 });
 
 test('a title of exactly the limit is kept whole', () => {
@@ -90,4 +110,10 @@ test('hasText is false for blank spacers that render as nothing', () => {
   expect(hasText('‎‏')).toBe(false);
   expect(hasText('­️')).toBe(false);
   expect(hasText('⠀ x')).toBe(true);
+});
+
+test('hasText is false for Hangul fillers on their own', () => {
+  expect(hasText('ᅟ')).toBe(false);
+  expect(hasText('ᅠᅠ')).toBe(false);
+  expect(hasText('ᅠ x')).toBe(true);
 });
