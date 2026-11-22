@@ -94,7 +94,7 @@ if (import.meta.main) {
   const args = process.argv.slice(2);
   const unknown = args.find(arg => arg !== "--dry-run");
   if (args.includes("--help") || args.includes("-h")) {
-    console.log("Usage: bun src/index.ts [--dry-run]\n\n  --dry-run  print the README to stdout and leave the file alone");
+    console.log("Usage: bun src/index.ts [--dry-run]\n\n  without flags, README.md is rewritten in place\n  --dry-run  print the README to stdout and leave the file alone");
   } else if (unknown !== undefined) {
     console.error(`Unknown argument ${unknown === "" ? '""' : unknown}, the only option is --dry-run`);
     process.exitCode = 2;

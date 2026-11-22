@@ -242,6 +242,7 @@ test('--help prints the usage and exits 0 without touching the README', async ()
   const [out, code] = await Promise.all([new Response(proc.stdout).text(), proc.exited]);
   expect(code).toBe(0);
   expect(out).toContain('Usage: bun src/index.ts [--dry-run]');
+  expect(out).toContain('without flags, README.md is rewritten in place');
   expect(readFileSync(join(projectRoot, 'README.md'), 'utf8')).toBe(before);
 });
 
