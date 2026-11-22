@@ -89,6 +89,10 @@ test('a space at or before the halfway point does not end a long title', () => {
   expect(clip('y'.repeat(60) + ' ' + 'z'.repeat(100))).toBe('y'.repeat(60) + ' ' + 'z'.repeat(58) + '…');
 });
 
+test('the halfway point for a space counts characters as they look, not code units', () => {
+  expect(clip('😀'.repeat(45) + ' ' + 'z'.repeat(100))).toBe('😀'.repeat(45) + ' ' + 'z'.repeat(73) + '…');
+});
+
 test('a title of exactly the limit is kept whole', () => {
   expect(clip('b'.repeat(120))).toBe('b'.repeat(120));
   expect(clip('b'.repeat(121))).toBe('b'.repeat(119) + '…');

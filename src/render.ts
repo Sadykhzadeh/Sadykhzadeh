@@ -22,9 +22,9 @@ export const clip = (title: string, max = 120) => {
     if (count > max) break;
   }
   if (count <= max) return title;
-  const cut = segments.slice(0, max - 1).join("");
+  const cut = segments.slice(0, max - 1);
   const space = cut.lastIndexOf(" ");
-  return `${space > max / 2 ? cut.slice(0, space) : cut}…`;
+  return `${(space > max / 2 ? cut.slice(0, space) : cut).join("")}…`;
 };
 
 // A problem with the template itself, reported on one line instead of with a stack
