@@ -6,8 +6,9 @@ type Post = { title: string; url: string };
 
 // A query string or fragment on a link points at the same post, so it is dropped. The URL parser also writes
 // the path the same way whether a character is spelled out or percent-encoded, and the hex digits of an escape
-// are upper-cased, so all these spellings link to one entry
-const postPath = (href: string) => new URL(href, 'https://azer.one').pathname.replace(/\/+$/, '').replace(/%[0-9a-f]{2}/gi, escape => escape.toUpperCase());
+// are upper-cased, so all these spellings link to one entry. The lookbehind keeps a long run of slashes from
+// being matched again from each of its positions
+const postPath = (href: string) => new URL(href, 'https://azer.one').pathname.replace(/(?<!\/)\/+$/, '').replace(/%[0-9a-f]{2}/gi, escape => escape.toUpperCase());
 
 export const parseBlogPosts = (html: string, count: number): Post[] => {
   const $ = cheerio.load(html);

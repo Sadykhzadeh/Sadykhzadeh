@@ -159,3 +159,9 @@ test('escapes that differ only in the case of their hex digits are the same post
     { title: 'one', url: 'https://azer.one/posts/%D0%A2%D0%B5' },
   ]);
 });
+
+test('a long run of slashes inside a path is parsed without slowing down', () => {
+  const slashes = '/'.repeat(200_000);
+  const page = `<a href="/posts/a${slashes}b"><div>Long slashes</div></a>`;
+  expect(parseBlogPosts(page, 1)).toEqual([{ title: 'Long slashes', url: `https://azer.one/posts/a${slashes}b` }]);
+});
