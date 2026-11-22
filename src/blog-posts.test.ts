@@ -104,6 +104,13 @@ test('a line break in a heading separates the words of the title', () => {
   ]);
 });
 
+test('a heading that wraps onto several lines is one title with single spaces', () => {
+  const page = `<a href="/posts/old-posts/gcd"><div class="title">Greatest\n      common   divisor</div><p>desc</p></a>`;
+  expect(parseBlogPosts(page, 1)).toEqual([
+    { title: 'Greatest common divisor', url: 'https://azer.one/posts/old-posts/gcd' },
+  ]);
+});
+
 test('a heading that holds only zero-width characters is not the title', () => {
   const spacer = `<a href="/posts/old-posts/gcd"><div>​</div><div class="title">GCD</div><p>desc</p></a>`;
   expect(parseBlogPosts(spacer, 1)).toEqual([{ title: 'GCD', url: 'https://azer.one/posts/old-posts/gcd' }]);

@@ -23,6 +23,11 @@ test('title is the first line, with entities decoded and tags dropped', () => {
   expect(post.title).toBe('Q&A on <T> generics');
 });
 
+test('runs of whitespace in a title become one space and its ends are trimmed', () => {
+  const [post] = parseTelegramPosts(message(1, '   Big   gap\t here  <br/>next'), 1);
+  expect(post.title).toBe('Big gap here');
+});
+
 test('a post that starts with a blank line takes its first non-empty line as the title', () => {
   const [post] = parseTelegramPosts(message(1, '<br/>second line<br/>third'), 1);
   expect(post.title).toBe('second line');
