@@ -176,6 +176,15 @@ test('a Russian channel with a single post falls back to the channel links even 
   );
 });
 
+test('an English channel with a single post falls back to the channel links even when the Russian one has two', async () => {
+  const root = project('<$tginfo$>', '');
+  const telegram = async (url: string) => (url.includes('tginfo/') ? posts : [posts[0]]);
+  expect(await main(root, { ...sources, telegram })).toBe(0);
+  expect(readFileSync(join(root, 'README.md'), 'utf8')).toBe(
+    'you can follow our Telegram channels: [@tginfoen](https://t.me/tginfoen) and [@tginfo](https://t.me/tginfo)',
+  );
+});
+
 test('titles with table, html and link syntax stay literal in the README', async () => {
   const template = '<$tginfo$>\n<$blog_posts$>';
   const root = project(template, '');
@@ -246,6 +255,19 @@ test('--help prints the usage and exits 0 without touching the README', async ()
   expect(readFileSync(join(projectRoot, 'README.md'), 'utf8')).toBe(before);
 });
 
+test('-h prints the usage and exits 0 without touching the README', async () => {
+  const before = readFileSync(join(projectRoot, 'README.md'), 'utf8');
+  const proc = Bun.spawn([process.execPath, join(projectRoot, 'src', 'index.ts'), '-h'], {
+    cwd: mkdtempSync(join(tmpdir(), 'readme-help-')),
+    stdout: 'pipe',
+    stderr: 'pipe',
+  });
+  const [out, code] = await Promise.all([new Response(proc.stdout).text(), proc.exited]);
+  expect(code).toBe(0);
+  expect(out).toContain('Usage: bun src/index.ts [--dry-run]');
+  expect(readFileSync(join(projectRoot, 'README.md'), 'utf8')).toBe(before);
+});
+
 test('a run without blog posts reads as "and check it out" in the blog sentence', async () => {
   const root = project('my blog, <$blog_posts$> check it out', '');
   expect(await main(root, { ...sources, blog: async () => [] })).toBe(0);
@@ -258,4 +280,20 @@ test('a single telegram post is not enough for the post sentence, so the channel
   expect(readFileSync(join(root, 'README.md'), 'utf8')).toBe(
     'you can follow our Telegram channels: [@tginfoen](https://t.me/tginfoen) and [@tginfo](https://t.me/tginfo)',
   );
+});
+
+test('each source is asked for the two newest posts, the English channel first', async () => {
+  const requests: string[] = [];
+  const root = project('<$tginfo$> <$blog_posts$>', '');
+  await main(root, {
+    telegram: async (url: string, count: number) => {
+      requests.push(`${url} ${count}`);
+      return posts;
+    },
+    blog: async (count: number) => {
+      requests.push(`blog ${count}`);
+      return [];
+    },
+  });
+  expect(requests).toEqual(['https://t.me/s/tginfoen/ 2', 'https://t.me/s/tginfo/ 2', 'blog 2']);
 });
