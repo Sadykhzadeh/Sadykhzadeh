@@ -199,7 +199,7 @@ test('titles with table, html and link syntax stay literal in the README', async
   );
 });
 
-test('the script writes the README from any working directory', async () => {
+test('a dry run from another working directory prints the rendered README and exits 0', async () => {
   const proc = Bun.spawn([process.execPath, join(projectRoot, 'src', 'index.ts'), '--dry-run'], {
     cwd: mkdtempSync(join(tmpdir(), 'readme-cwd-')),
     env: { ...process.env, HTTP_PROXY: 'http://127.0.0.1:9', HTTPS_PROXY: 'http://127.0.0.1:9' },
