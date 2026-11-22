@@ -9,6 +9,8 @@ test('the timestamp is the UTC time, whatever the local zone', () => {
     ['2026-12-31T23:59:59.999Z', '2026-12-31 23:59:59 (UTC time)'],
     ['2027-01-01T00:00:00.000Z', '2027-01-01 00:00:00 (UTC time)'],
   ];
+  const zone = process.env.TZ;
+  process.env.TZ = 'Europe/Berlin';
   try {
     for (const [now, stamp] of cases) {
       setSystemTime(new Date(now));
@@ -16,5 +18,7 @@ test('the timestamp is the UTC time, whatever the local zone', () => {
     }
   } finally {
     setSystemTime();
+    if (zone === undefined) delete process.env.TZ;
+    else process.env.TZ = zone;
   }
 });
