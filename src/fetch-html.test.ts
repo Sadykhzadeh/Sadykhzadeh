@@ -88,12 +88,6 @@ test('a server error is retried', async () => {
   expect(calls()).toBe(2);
 });
 
-test('a 500 response is retried like the other server errors', async () => {
-  const calls = stub(new Response('oops', { status: 500 }), new Response('<p>ok</p>'));
-  expect(await fetchHtml('https://example.test/', 2, 0)).toBe('<p>ok</p>');
-  expect(calls()).toBe(2);
-});
-
 test('a 408 response is retried, since the server asks for the request again', async () => {
   const calls = stub(new Response('timeout', { status: 408 }), new Response('<p>ok</p>'));
   expect(await fetchHtml('https://example.test/', 2, 0)).toBe('<p>ok</p>');

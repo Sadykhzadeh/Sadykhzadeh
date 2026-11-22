@@ -241,9 +241,9 @@ test('an empty argument is an unknown argument and does not start a run', async 
   expect(readFileSync(join(projectRoot, 'README.md'), 'utf8')).toBe(before);
 });
 
-test('--help prints the usage and exits 0 without touching the README', async () => {
+test.each(['--help', '-h'])('%s prints the usage and exits 0 without touching the README', async flag => {
   const before = readFileSync(join(projectRoot, 'README.md'), 'utf8');
-  const proc = Bun.spawn([process.execPath, join(projectRoot, 'src', 'index.ts'), '--help'], {
+  const proc = Bun.spawn([process.execPath, join(projectRoot, 'src', 'index.ts'), flag], {
     cwd: mkdtempSync(join(tmpdir(), 'readme-help-')),
     stdout: 'pipe',
     stderr: 'pipe',
@@ -252,19 +252,6 @@ test('--help prints the usage and exits 0 without touching the README', async ()
   expect(code).toBe(0);
   expect(out).toContain('Usage: bun src/index.ts [--dry-run]');
   expect(out).toContain('without flags, README.md is rewritten in place');
-  expect(readFileSync(join(projectRoot, 'README.md'), 'utf8')).toBe(before);
-});
-
-test('-h prints the usage and exits 0 without touching the README', async () => {
-  const before = readFileSync(join(projectRoot, 'README.md'), 'utf8');
-  const proc = Bun.spawn([process.execPath, join(projectRoot, 'src', 'index.ts'), '-h'], {
-    cwd: mkdtempSync(join(tmpdir(), 'readme-help-')),
-    stdout: 'pipe',
-    stderr: 'pipe',
-  });
-  const [out, code] = await Promise.all([new Response(proc.stdout).text(), proc.exited]);
-  expect(code).toBe(0);
-  expect(out).toContain('Usage: bun src/index.ts [--dry-run]');
   expect(readFileSync(join(projectRoot, 'README.md'), 'utf8')).toBe(before);
 });
 
