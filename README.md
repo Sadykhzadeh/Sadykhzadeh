@@ -35,7 +35,7 @@ occasionally writing something on my [blog](https://azer.one/posts), like [😨 
 
 Oh, and I am also part of awesome community [@tginfo](https://t.me/tginfo) / [@tginfoen](https://t.me/tginfoen) where we write about [Bot API Updated to Version 10.5](https://t.me/tginfoen/2217) or [Telegram for Android and iOS Updated to Version 13.3](https://t.me/tginfoen/2216). (in Russian too! [Bot API обновился до версии 10.5](https://t.me/tginfo/4462) and [Telegram для Android и iOS обновились до версии 13.3](https://t.me/tginfo/4461))
 
-<sub>this readme auto-updates every 6 hours · last: 2026-11-28 07:30:29 (UTC time)</sub>
+<sub>this readme auto-updates every 6 hours · last: 2026-11-28 14:52:16 (UTC time)</sub>
 
 [![profile views](https://komarev.com/ghpvc/?username=sadykhzadeh&label=views&color=2081c1&style=flat-square)](https://github.com/Sadykhzadeh) 
 
