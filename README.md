@@ -22,11 +22,11 @@ prefer to code a lot [![wakatime](https://wakatime.com/badge/user/f80ae27a-c328-
 <!--START_SECTION:waka-->
 
 ```txt
-Markdown     19 hrs 35 mins  █████████████▓░░░░░░░░░░░   55.32 %
-TypeScript   6 hrs 44 mins   ████▓░░░░░░░░░░░░░░░░░░░░   19.03 %
-Other        2 hrs 16 mins   █▓░░░░░░░░░░░░░░░░░░░░░░░   06.43 %
-Python       1 hr 50 mins    █▒░░░░░░░░░░░░░░░░░░░░░░░   05.21 %
-JavaScript   1 hr 10 mins    █░░░░░░░░░░░░░░░░░░░░░░░░   03.34 %
+Other         8 hrs 10 mins   ███████▓░░░░░░░░░░░░░░░░░   30.04 %
+Markdown      5 hrs 36 mins   █████░░░░░░░░░░░░░░░░░░░░   20.57 %
+Python        4 hrs 52 mins   ████▒░░░░░░░░░░░░░░░░░░░░   17.92 %
+TypeScript    2 hrs 14 mins   ██░░░░░░░░░░░░░░░░░░░░░░░   08.20 %
+Bash          1 hr 14 mins    █░░░░░░░░░░░░░░░░░░░░░░░░   04.59 %
 ```
 
 <!--END_SECTION:waka-->
